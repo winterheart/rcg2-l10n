@@ -1,0 +1,410 @@
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
+"PO-Revision-Date: 2023-01-14 18:40+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#. Additional Production
+msgctxt "LBL_ADDITIONAL_PRODUCTION_TITLE"
+msgid "Additional Production"
+msgstr "Дополнительное производство"
+
+#. Additional Programming
+msgctxt "LBL_ADDITIONAL_PROGRAMMER_TITLE"
+msgid "Additional Programming"
+msgstr "Дополнительное программирование"
+
+#. Additional Design
+msgctxt "LBL_ADDTLDESIGN"
+msgid "Additional Design"
+msgstr "Дополнительный дизайн"
+
+#. Animators
+msgctxt "LBL_ANIMATOR_TITLE"
+msgid "Animators"
+msgstr "Аниматоры"
+
+#. Branch Manager
+msgctxt "LBL_ARCASIA_BRANCHMGR"
+msgid "Branch Manager"
+msgstr "Менеджер подразделения"
+
+#. Chinese Translation
+msgctxt "LBL_ARCASIA_CNZHLOC"
+msgid "Chinese Translation"
+msgstr "Перевод на китайский язык"
+
+#. Finance
+msgctxt "LBL_ARCASIA_FINANCE"
+msgid "Finance"
+msgstr "Финансы"
+
+#. Korean Translation
+msgctxt "LBL_ARCASIA_KORLOC"
+msgid "Korean Translation"
+msgstr "Перевод на корейский язык"
+
+#. Marketing Team
+msgctxt "LBL_ARCASIA_MARKETINGTEAM"
+msgid "Marketing Team"
+msgstr "Команда по маркетингу"
+
+#. Product Team
+msgctxt "LBL_ARCASIA_PRODTEAM"
+msgid "Product Team"
+msgstr "Продуктовая команда"
+
+#. PUBLISHING
+msgctxt "LBL_ARCPUB"
+msgid "PUBLISHING"
+msgstr "ИЗДАТЕЛЬСТВО"
+
+#. ARC SYSTEM WORKS 
+#. Asia Branch
+msgctxt "LBL_ARC_ASIA"
+msgid ""
+"ARC SYSTEM WORKS \n"
+"Asia Branch"
+msgstr ""
+"ARC SYSTEM WORKS\n"
+"филиал в Азии"
+
+#. Creative Team
+msgctxt "LBL_ARC_CREATIVE"
+msgid "Creative Team"
+msgstr "Творческая команда"
+
+#. Marketing Team
+msgctxt "LBL_ARC_MARKETING"
+msgid "Marketing Team"
+msgstr "Команда по маркетингу"
+
+#. ARC
+#. Quality Assurance Testers
+msgctxt "LBL_ARC_QA_TESTER_TITLE"
+msgid ""
+"ARC Quality Assurance \n"
+"Testers"
+msgstr ""
+"Тестеры контроля\n"
+"качества ARC"
+
+#. Art Dept Director
+msgctxt "LBL_ART_DEPT_DIRECTOR_TITLE"
+msgid "Art Dept Director"
+msgstr "Директор арт-отдела"
+
+#. Art Director
+msgctxt "LBL_ART_DIRECTOR_TITLE"
+msgid "Art Director"
+msgstr "Арт-директор"
+
+#. Associate Producer
+msgctxt "LBL_ASSOCIATE_PRODUCERS_TITLE"
+msgid "Associate Producer"
+msgstr "Ассоциированный продюсер"
+
+#. Director of Audiographer
+msgctxt "LBL_AUDIOGRAPHER_JP"
+msgid "Director of Audiographer"
+msgstr "Директор аудиографии"
+
+#. Engineer of Recording
+msgctxt "LBL_AUDIO_ENGINEER_JP"
+msgid "Engineer of Recording"
+msgstr "Инженер звукозаписи"
+
+#. Audio Engineers
+msgctxt "LBL_AUDIO_ENGINEER_TITLE"
+msgid "Audio Engineers"
+msgstr "Звукоинженеры"
+
+#. Audio Designers
+msgctxt "LBL_AUDIO_TITLE"
+msgid "Audio Designers"
+msgstr "Аудиодизайнеры"
+
+#. Console Programmer
+msgctxt "LBL_CONSOLE_PROGRAMMER_TITLE"
+msgid "Console Programmer"
+msgstr "Консольный программист"
+
+#. Creative Director
+msgctxt "LBL_CREATIVE_DIRECTOR_TITLE"
+msgid "Creative Director"
+msgstr "Креативный директор"
+
+#. Customer Support
+msgctxt "LBL_CUSTOMER_SUPPORT"
+msgid "Marketing Manager"
+msgstr "Менеджер маркетинга"
+
+#. DDM
+msgctxt "LBL_DDM"
+msgid "DDM"
+msgstr "DDM"
+
+#. Developed by
+msgctxt "LBL_DEVELOPED_BY_TITLE"
+msgid "Developed by"
+msgstr "Разработано"
+
+#. Director
+msgctxt "LBL_DIRECTOR_TITLE"
+msgid "Director"
+msgstr "Директор"
+
+#. Environment Artists
+msgctxt "LBL_ENV_ARTIST_TITLE"
+msgid "Environment Artists"
+msgstr "Художники по окружению"
+
+#. ENGLISH VOICEOVER
+msgctxt "LBL_EN_VO"
+msgid "ENGLISH VOICEOVER"
+msgstr "АНГЛИЙСКОЕ ОЗВУЧИВАНИЕ"
+
+#. Executive Producer
+msgctxt "LBL_EXECUTIVE_PRODUCER_TITLE"
+msgid "Executive Producer"
+msgstr "Исполнительный продюсер"
+
+#. JAPANESE VOICEOVER
+msgctxt "LBL_JP_VO"
+msgid "JAPANESE VOICEOVER"
+msgstr "ЯПОНСКОЕ ОЗВУЧИВАНИЕ"
+
+#. Lead Animator
+msgctxt "LBL_LEAD_ANIMATOR_TITLE"
+msgid "Lead Animator"
+msgstr "Ведущий аниматор"
+
+#. Lead Audio Designer
+msgctxt "LBL_LEAD_AUDIO_TITLE"
+msgid "Lead Audio Designer"
+msgstr "Ведущий аудиодизайнер"
+
+#. Illustrators
+msgctxt "LBL_LEAD_ILLUSTRATOR_TITLE"
+msgid "Illustrators"
+msgstr "Иллюстраторы"
+
+#. Lead Programmer
+msgctxt "LBL_LEAD_PROGRAMMER_TITLE"
+msgid "Lead Programmer"
+msgstr "Ведущий программист"
+
+#. Quality Assurance Lead
+msgctxt "LBL_LEAD_QA_TITLE"
+msgid "Quality Assurance Lead"
+msgstr "Лидер контроля качества"
+
+#. Level Designers
+msgctxt "LBL_LEVEL_DESIGNER_TITLE"
+msgid "Level Designers"
+msgstr "Дизайнеры уровней"
+
+#. Marketing Coordinator
+msgctxt "LBL_MARKETING_ASSISTANT"
+msgid "Marketing Coordinator"
+msgstr "Координатор маркетинга"
+
+#. Music
+msgctxt "LBL_MUSIC_TITLE"
+msgid "Music"
+msgstr "Музыка"
+
+#. Networking Programmer
+msgctxt "LBL_NETWORKING_PROGRAMMER_TITLE"
+msgid "Networking Programmer"
+msgstr "Программист сетевого кода"
+
+#. Operation Team
+msgctxt "LBL_OPS_TEAM"
+msgid "Operation Team"
+msgstr "Операционная команда"
+
+#. Playtesters
+msgctxt "LBL_PLAYTESTER_TITLE"
+msgid "Playtesters"
+msgstr "Тестеры"
+
+#. Production Coordinator
+msgctxt "LBL_PRODCOORD"
+msgid "Production Coordinator"
+msgstr "Координатор производства"
+
+#. Producer
+msgctxt "LBL_PRODUCERS_TITLE"
+msgid "Producer"
+msgstr "Продюсер"
+
+#. Programmers
+msgctxt "LBL_PROGRAMMER_TITLE"
+msgid "Programmers"
+msgstr "Программисты"
+
+#. Technical Director
+msgctxt "LBL_PROGRAMMING_MANAGER_TITLE"
+msgid "Technical Director"
+msgstr "Технический директор"
+
+#. Community Manager & PR
+msgctxt "LBL_PR_MANAGER_TITLE"
+msgid "Communications Officer"
+msgstr "Связь с общественностью"
+
+#. Published by Arc System 
+#. Works Co.,Ltd.
+msgctxt "LBL_PUBLISHED_BY_ARC"
+msgid ""
+"Published by Arc System \n"
+"Works Co.,Ltd."
+msgstr ""
+"Опубликовано ARC System\n"
+"Works Co., Ltd."
+
+#. Published by WayForward
+msgctxt "LBL_PUBLISHED_BY_WF"
+msgid "Published by WayForward"
+msgstr "Опубликовано WayForward"
+
+#. Director of Biz Dev and 
+#. Publishing
+msgctxt "LBL_PUBLISHING_HEAD_TITLE"
+msgid ""
+"Director of Biz Dev and \n"
+"Publishing"
+msgstr ""
+"Директор по бизнесу и\n"
+"издательству"
+
+#. Quality Assurance 
+#. Manager
+msgctxt "LBL_QA_MANAGER_TITLE"
+msgid ""
+"Quality Assurance \n"
+"Manager"
+msgstr ""
+"Менеджер по контролю\n"
+"качества"
+
+#. Quality Assurance Testers
+msgctxt "LBL_QA_TESTER_TITLE"
+msgid "Quality Assurance Testers"
+msgstr "Тестеры контроля качества"
+
+#. RCG1 Voice Actors 
+#. (Shopkeepers) - English
+msgctxt "LBL_RCG1_SHOP_VA"
+msgid ""
+"RCG1 Voice Actors \n"
+"(Shopkeepers) - English"
+msgstr ""
+"Актёры озвучивания RCG1\n"
+"(продавцы, английский)"
+
+#. SALES STAFF
+msgctxt "LBL_SALESSTAFF"
+msgid "SALES STAFF"
+msgstr "ПЕРСОНАЛ ПО ПРОДАЖАМ"
+
+#. Songs
+msgctxt "LBL_SONGS_TITLE"
+msgid "Songs"
+msgstr "Песни"
+
+#. WayForward Special 
+#. Thanks
+msgctxt "LBL_SPECIAL_THANKS_TITLE"
+msgid ""
+"WayForward Special \n"
+"Thanks"
+msgstr ""
+"Особая благодарность\n"
+"WayForward"
+
+#. Intro Animation 
+#. Storyboards
+msgctxt "LBL_STORYBOARD_ARTIST_TITLE"
+msgid ""
+"Intro Animation \n"
+"Storyboards"
+msgstr ""
+"Анимация вступительных\n"
+"роликов"
+
+#. Supervisor
+msgctxt "LBL_SUPERVISOR"
+msgid "Supervisor"
+msgstr "Супервизор"
+
+#. THANKS FOR PLAYING!!!
+msgctxt "LBL_THANKS_FOR_PLAYING_TITLE"
+msgid "THANKS FOR PLAYING!!!"
+msgstr "СПАСИБО ЗА ИГРУ!!!"
+
+#. Tyrannical Overlord
+msgctxt "LBL_TYRANNICAL_OVERLORD_TITLE"
+msgid "Tyrannical Overlord"
+msgstr "Тиран-повелитель"
+
+#. Lead UI Designer
+msgctxt "LBL_UI_DIRECTOR_TITLE"
+msgid "Lead UI Designer"
+msgstr "Ведущий дизайнер интерфейсов"
+
+#. UI Designers
+msgctxt "LBL_UI_MENU_ARTIST_TITLE"
+msgid "UI Designers"
+msgstr "Дизайнеры интерфейсов"
+
+#. Visual Effects Artists
+msgctxt "LBL_VFX_ARTIST_TITLE"
+msgid "Visual Effects Artists"
+msgstr "Художники по визуальным эффектам"
+
+#. Lead Visual Effects Artist
+msgctxt "LBL_VFX_DIRECTOR_TITLE"
+msgid "Lead Visual Effects Artist"
+msgstr "Ведущий художник по визуальным эффектам"
+
+#. Voice Actors - Japanese
+msgctxt "LBL_VOICE_ACTOR_JP"
+msgid "Voice Actors - Japanese"
+msgstr "Актёры озвучивания (японский)"
+
+#. Voice Actors - English
+msgctxt "LBL_VOICE_ACTOR_TITLE"
+msgid "Voice Actors - English"
+msgstr "Актёры озвучивания (английский)"
+
+#. VO Casting and Production
+msgctxt "LBL_VO_CASTING_JP"
+msgid "VO Casting and Production"
+msgstr "Кастинг и производство"
+
+#. VO Casting and Direction
+msgctxt "LBL_VO_CASTING_TITLE"
+msgid "VO Casting and Direction"
+msgstr "Кастинг и руководство озвучивания"
+
+#. VO Recording Facilities
+msgctxt "LBL_VO_FACILITIES"
+msgid "VO Recording Facilities"
+msgstr "Студия звукозаписи"
+
+#. Written by
+msgctxt "LBL_WRITER_TITLE"
+msgid "Written by"
+msgstr "Сюжет"

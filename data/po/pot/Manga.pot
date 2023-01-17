@@ -1,0 +1,958 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-01-17 02:43\n"
+"PO-Revision-Date: 2023-01-17 02:43\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. ラーーーーブ！！！
+msgctxt "Manga_01_01"
+msgid "...LOVE!!"
+msgstr ""
+
+#. 何か食いに行こうぜ！ オレ腹減って死にそう！
+msgctxt "Manga_01_02"
+msgid "Let's go get a burger! I'm starving!"
+msgstr ""
+
+#. ふたりとも、ずっとここにいたってこと？？
+msgctxt "Manga_01_03"
+msgid "So you guys were HERE the whole time??"
+msgstr ""
+
+#. まぁな。いつものことだろ。
+msgctxt "Manga_01_04"
+msgid "Yes. Even tough guys need me time."
+msgstr ""
+
+#. アホくさ。今日は飯おごってよね。
+msgctxt "Manga_01_05"
+msgid "Whatever. You're treating us to lunch now."
+msgstr ""
+
+#. はぁ！？ 何だよ急に…
+msgctxt "Manga_01_06"
+msgid "Hey! We didn't agree to that."
+msgstr ""
+
+#. ほら、乗れよ。
+msgctxt "Manga_01_07"
+msgid "Get in, dummy."
+msgstr ""
+
+#. 親父はカンカンだぜ、
+msgctxt "Manga_01_08"
+msgid "We been watching you, Sis."
+msgstr ""
+
+#. 姉貴。
+msgctxt "Manga_01_09"
+msgid "You really screwed up this time."
+msgstr ""
+
+#. マジでやってくれたな。
+msgctxt "Manga_01_10"
+msgid "C'mon, let's go see Pops."
+msgstr ""
+
+#. <size=40>三和会っつう帝国を築き上げた親父が刑務所でバカンスしてる間、よりによって自分の娘にその帝国を預けやがった。</size>
+msgctxt "Manga_01_11"
+msgid ""
+"<size=40>I mean, our beloved father the man who single-handedly built up the"
+" Sanwakai Empire from nothing, decides to put his daughter in charge of "
+"things while he does a short stretch in the local pen.</size>"
+msgstr ""
+
+#. 三和会っつう帝国を築き上げた親
+msgctxt "Manga_01_11a"
+msgid ""
+"I mean, our beloved Father, the man who single-handedly built up the "
+"Sanwakai Empire from NOTHING, "
+msgstr ""
+
+#. 父が刑務所でバカンスしてる間、
+msgctxt "Manga_01_11b"
+msgid ""
+"decides to put his DAUGHTER in charge of things while he does a short "
+"stretch in the local pen."
+msgstr ""
+
+#. よりによって自分の娘にその帝国を預けやがった。
+msgctxt "Manga_01_12"
+msgid "The very shortest of incarceration vacations."
+msgstr ""
+
+#. その結果がこれだ。
+msgctxt "Manga_01_13"
+msgid "And what does this daughter do?"
+msgstr ""
+
+#. 10代の小娘ふたりにコテンパンにされ、
+msgctxt "Manga_01_14"
+msgid "She gets her ASS handed to her by a pair of teenage girls."
+msgstr ""
+
+#. ついでに組織も壊滅だってよ。
+msgctxt "Manga_01_15"
+msgid ""
+"Oh, and also allows them to take down our entire syndicate in the process."
+msgstr ""
+
+#. 相手はJKのガキふたりだぞ？
+msgctxt "Manga_01_16"
+msgid "A PAIR of SCHOOLGIRLS."
+msgstr ""
+
+#. 恥さらしもいいとこだよなぁ、
+msgctxt "Manga_01_17"
+msgid "I gotta be honest, Sabby, I can't think of anything MORE embarrassing."
+msgstr ""
+
+#. サブコちゃんよぉ。
+msgctxt "Manga_01_18"
+msgid "I mean, you REALLY blew this one, ya know?"
+msgstr ""
+
+#. 親父は初めからオレに任せときゃよかったんだ。
+msgctxt "Manga_01_19"
+msgid "Obviously, Dad shoulda left ME in charge."
+msgstr ""
+
+#. これでやっとわかっただろうな。
+msgctxt "Manga_01_20"
+msgid "I'm sure he sees that now."
+msgstr ""
+
+#. 血の繋がりより大事なモンがあるってよぉ。
+msgctxt "Manga_01_21"
+msgid "Sure, you're his BLOOD and all, but sometimes blood don't run so deep."
+msgstr ""
+
+#. ま、そんな心配も今日で終わりだ。
+msgctxt "Manga_01_22"
+msgid "Course, I'm sure he'll fix that right now."
+msgstr ""
+
+#. ぶっちゃけ、オレはこんな日が来るのをマジでずっと楽しみにしてたんだぜ？
+msgctxt "Manga_01_23"
+msgid ""
+"I gotta be honest, I been waiting my whole LIFE for you to face-plant like "
+"this."
+msgstr ""
+
+#. 記念に自撮りしときてぇくらいだよ。
+msgctxt "Manga_01_24"
+msgid "I might even take a selfie to commemorate the moment."
+msgstr ""
+
+#. サブコを連れてきたぜ、親父！ 
+msgctxt "Manga_01_25"
+msgid "Here she is, Pop!"
+msgstr ""
+
+#. こいつよぉ、
+msgctxt "Manga_01_26"
+msgid "Found her in the trash. Literally,"
+msgstr ""
+
+#. 文字通りゴミみてぇに伸びてやがっ―
+msgctxt "Manga_01_27"
+msgid "I mean she was actually lying in a pile of --"
+msgstr ""
+
+#. 黙れ。
+msgctxt "Manga_01_28"
+msgid "QUIET."
+msgstr ""
+
+#. は、はい。
+msgctxt "Manga_01_29"
+msgid "Y-Yes, sir."
+msgstr ""
+
+#. すみません、父さん。
+msgctxt "Manga_01_30"
+msgid "You got it, Pops."
+msgstr ""
+
+#. お前にそんな風に呼ばれる筋合いはない。
+msgctxt "Manga_01_31"
+msgid "I hate it when you call me that."
+msgstr ""
+
+#. サブコ！
+msgctxt "Manga_01_32"
+msgid "Sabuko!"
+msgstr ""
+
+#. ...
+msgctxt "Manga_01_33"
+msgid "Daughter."
+msgstr ""
+
+#. コイツの言っていることは本当か？
+msgctxt "Manga_01_34"
+msgid "Is what your brother says true?"
+msgstr ""
+
+#. オレたち一族の… 
+msgctxt "Manga_01_35"
+msgid "Did you bring SHAME on our family?"
+msgstr ""
+
+#. 三和会の顔に泥を塗ったのか？
+msgctxt "Manga_01_36"
+msgid "On our organization?"
+msgstr ""
+
+#. 出来の悪いケンと違って、
+msgctxt "Manga_01_37"
+msgid "I thought you would be ready."
+msgstr ""
+
+#. お前には組を任せてもいい頃だと思っていたが…
+msgctxt "Manga_01_38"
+msgid "I thought you'd be more reliable then your screw-up brother, Ken."
+msgstr ""
+
+#. オレが間違っていた。
+msgctxt "Manga_01_39"
+msgid "I WAS WRONG."
+msgstr ""
+
+#. もういい、オレがやる。
+msgctxt "Manga_01_40"
+msgid "It's time to take matters back into my own hands."
+msgstr ""
+
+#. あっはっは、さっすが親父！ 
+msgctxt "Manga_01_41"
+msgid "OHOHOHO, man, that was epic!"
+msgstr ""
+
+#. お前をコケにするだろうとは思ってたが、ありゃひでえ！ あーはっは！
+msgctxt "Manga_01_42"
+msgid ""
+"I mean, I knew he was gona embarrass the CRAP outta you, but that was "
+"BAAAAD."
+msgstr ""
+
+#. あっいけね！ 自撮りすんの忘れてた！
+msgctxt "Manga_01_43"
+msgid "Oh crap! I forgot to take a selfie!"
+msgstr ""
+
+#. ううっ… 思ってたよりやるじゃねぇか…
+msgctxt "Manga_02_01"
+msgid "Ungh... you two aren't half bad."
+msgstr ""
+
+#. だから言ったでしょ。
+msgctxt "Manga_02_02"
+msgid "Well yeah, I mean we TOLD you."
+msgstr ""
+
+#. 耳になんか詰まってんじゃない？
+msgctxt "Manga_02_03"
+msgid "Maybe he's got wax in his ears."
+msgstr ""
+
+#. 確かにこいつ、なんとなく汚いしね。
+msgctxt "Manga_02_04"
+msgid "He DOES look a little grimey."
+msgstr ""
+
+#. こいつで耳間ブチ抜かれても同じことが言えるかな！？
+msgctxt "Manga_02_05"
+msgid "Allow me to put a BULLET between YOURS!"
+msgstr ""
+
+#. 今なんていったの？
+msgctxt "Manga_02_06"
+msgid "Between our what?"
+msgstr ""
+
+#. ん～、眉間？
+msgctxt "Manga_02_07"
+msgid "Eyes maybe?"
+msgstr ""
+
+#. 耳だよ、耳間！ 今「耳」の話してただろうが！
+msgctxt "Manga_02_08"
+msgid ""
+"Ears! Between your ears! You just said ears, so that's where I'm gonna shoot"
+" you now."
+msgstr ""
+
+#. 耳だよ、耳間！ 
+msgctxt "Manga_02_08a"
+msgid "Ears! Between your ears!"
+msgstr ""
+
+#. 今「耳」の話してただろうが！
+msgctxt "Manga_02_08b"
+msgid "You just said ears, so that's where I'm gonna shoot you now."
+msgstr ""
+
+#. 学校で耳くそ取ってもらえば？
+msgctxt "Manga_02_09"
+msgid "Maybe he DOES got wax in his ears."
+msgstr ""
+
+#. 耳間をブチ抜く？ そんな言葉知らないよ？
+msgctxt "Manga_02_10"
+msgid "A bullet between the ears? That's not a saying."
+msgstr ""
+
+#. ぐああっ！
+msgctxt "Manga_02_11"
+msgid "AHHH!"
+msgstr ""
+
+#. 仲間がいるなんて卑怯じゃねぇか！
+msgctxt "Manga_02_12"
+msgid "Apparently there's more of you than I expected. "
+msgstr ""
+
+#. くそっ、覚えてろよ！
+msgctxt "Manga_02_13"
+msgid "Whatever. Ken, OUT!"
+msgstr ""
+
+#. はぁー、ホントなんだったんだろ。
+msgctxt "Manga_02_14"
+msgid "Well that was confusing."
+msgstr ""
+
+#. ねー、あんなのが先生なんてマジ？
+msgctxt "Manga_02_15"
+msgid "Yeah, I'm not even so sure that guy IS a teacher, ya know?"
+msgstr ""
+
+#. なんて？
+msgctxt "Manga_02_16"
+msgid "What's it say?"
+msgstr ""
+
+#. ノース・ラヴィーン・レーンまで来いってさ。
+msgctxt "Manga_02_17"
+msgid "Guess we're headed back to North Ravine lane."
+msgstr ""
+
+#. リバーシティには数年前、ふたりの男と一緒に来たんだ… 
+msgctxt "Manga_03_01"
+msgid ""
+"I came to River City a few years ago with my... close friends, Billy and "
+"Jimmy Lee."
+msgstr ""
+
+#. リバーシティには数年前、ふたりの男と一緒に来たんだ… 名前はビリー・リーとジミー・リー。
+msgctxt "Manga_03_01a"
+msgid "I came to River City a few years ago with my... close friends,"
+msgstr ""
+
+#. 名前はビリー・リーとジミー・リー。
+msgctxt "Manga_03_01b"
+msgid "Billy and Jimmy Lee."
+msgstr ""
+
+#. 兄弟なの？
+msgctxt "Manga_03_02"
+msgid "Wait, which one were you \"close\" with?"
+msgstr ""
+
+#. 私でも見分けがつかないことがあるくらい、そっくりでね。
+msgctxt "Manga_03_03"
+msgid "We were all pretty close."
+msgstr ""
+
+#. へぇー！ イケてるぅ～。
+msgctxt "Manga_03_04"
+msgid "Whoa! That's hot."
+msgstr ""
+
+#. 確かにね。
+msgctxt "Manga_03_05"
+msgid "Totally."
+msgstr ""
+
+#. ふたりはバカみたいな冒険ばっかりしてた。古いお寺で忍者と戦ったり、地下施設でロボットと戦ったり…
+msgctxt "Manga_03_06"
+msgid ""
+"They'd get into all kinds of crazy adventures, but while they were fighting "
+"ninjas in ancient temples or robots in underground complexes..."
+msgstr ""
+
+#. ふたりはバカみたいな冒険ばっかりしてた。
+msgctxt "Manga_03_06a"
+msgid "They'd get into all kinds of crazy adventures, "
+msgstr ""
+
+#. 古いお寺で忍者と戦ったり、地下施設でロボットと戦ったり…
+msgctxt "Manga_03_06b"
+msgid ""
+"but while they were fighting ninjas in ancient temples or robots in "
+"underground complexes..."
+msgstr ""
+
+#. ロボットとは戦いたくないな。
+msgctxt "Manga_03_07"
+msgid "I hate robots."
+msgstr ""
+
+#. …でも私はいつも助けを待つだけだった。
+msgctxt "Manga_03_08"
+msgid "... I'd be left waiting for them to rescue me. "
+msgstr ""
+
+#. 待って、
+msgctxt "Manga_03_09"
+msgid "Waiting. "
+msgstr ""
+
+#. 待って、
+msgctxt "Manga_03_10"
+msgid "And waiting. "
+msgstr ""
+
+#. 待ち続けて…
+msgctxt "Manga_03_11"
+msgid "And waiting."
+msgstr ""
+
+#. 急に、腹パンされるのも、誘拐されるのも、助けを待つのも、もううんざりって思ってね。
+msgctxt "Manga_03_12"
+msgid ""
+"Until one adventure, I got sick of getting punched in the gut, sick of "
+"getting kidknapped, and sick of waiting around to be rescued."
+msgstr ""
+
+#. 急に、腹パンされるのも、誘拐されるのも、
+msgctxt "Manga_03_12a"
+msgid "Until one adventure, I got sick of getting punched in the gut,"
+msgstr ""
+
+#. 助けを待つのも、もううんざりって思ってね。
+msgctxt "Manga_03_12b"
+msgid "sick of getting kidknapped, and sick of waiting around to be rescued."
+msgstr ""
+
+#. 自分の身は自分で守ることにしたんだ。
+msgctxt "Manga_03_13"
+msgid "So I decided to rescue MYSELF."
+msgstr ""
+
+#. やるじゃん！
+msgctxt "Manga_03_14"
+msgid "Hell yeah!"
+msgstr ""
+
+#. かっこいー！
+msgctxt "Manga_03_15"
+msgid "You are so amazing, Marian."
+msgstr ""
+
+#. 助けるヤツもいなくなって、ふたりは冒険に飽きていった。それで武術を広めるためにリバーシティに道場を建てたんだ。
+msgctxt "Manga_03_16"
+msgid ""
+"Without a damsel in distress to rescue, the brothers got tired of going on "
+"adventures. They set up a pair of dojos here in River City."
+msgstr ""
+
+#. 助けるヤツもいなくなって、ふたりは冒険に飽きていった。
+msgctxt "Manga_03_16a"
+msgid ""
+"Without a damsel in distress to rescue, the brothers got tired of going on "
+"adventures."
+msgstr ""
+
+#. それで武術を広めるためにリバーシティに道場を建てたんだ。
+msgctxt "Manga_03_16b"
+msgid "They set up a pair of dojos here in River City."
+msgstr ""
+
+#. えっ、知ってるヤツらじゃん！
+msgctxt "Manga_03_17"
+msgid "Oh yeah, we've seen those guys!"
+msgstr ""
+
+#. でも私の冒険はまだ始まったばかりだった。
+msgctxt "Manga_03_18"
+msgid "But me? I was just getting started on my own adventures."
+msgstr ""
+
+#. でも
+msgctxt "Manga_03_18a"
+msgid "But me?"
+msgstr ""
+
+#. 私の冒険はまだ始まったばかりだった。
+msgctxt "Manga_03_18b"
+msgid "I was just getting started on my own adventures."
+msgstr ""
+
+#. かっこよすぎない…？
+msgctxt "Manga_03_19"
+msgid "Could she BE any cooler?"
+msgstr ""
+
+#. ほんとにね。
+msgctxt "Manga_03_20"
+msgid "Honestly, I doubt it."
+msgstr ""
+
+#. 最後に覚えてるのは、怪奇現象みたいな怪しい事件を追ってフラットアイアンズに行ったんだ。
+msgctxt "Manga_03_21"
+msgid ""
+"My last mission took me to a creepy section of Flatirons, chasing some "
+"supernatural crimes."
+msgstr ""
+
+#. 最後に覚えてるのは、
+msgctxt "Manga_03_21a"
+msgid "My last mission took me to a creepy section of Flatirons,"
+msgstr ""
+
+#. 怪奇現象みたいな怪しい事件を追ってフラットアイアンズに行ったんだ。
+msgctxt "Manga_03_21b"
+msgid "chasing some supernatural crimes."
+msgstr ""
+
+#. 怪談でも始まるわけ？
+msgctxt "Manga_03_22"
+msgid "Wuh oh, things getting spooky again."
+msgstr ""
+
+#. やだやだ聞きたくなーい！
+msgctxt "Manga_03_23"
+msgid "Ahhhh, I don't like it!"
+msgstr ""
+
+#. やっと黒幕を突き止められそうになったとき、急にめまいがしてそれから…
+msgctxt "Manga_03_24"
+msgid ""
+"But before I could find out who was behind things, I started feeling woozy. "
+"And then..."
+msgstr ""
+
+#. やっと黒幕を突き止められそうになったとき、
+msgctxt "Manga_03_24a"
+msgid ""
+"But before I could find out who was behind things, I started feeling woozy."
+msgstr ""
+
+#. 急にめまいがしてそれから…
+msgctxt "Manga_03_24b"
+msgid "And then..."
+msgstr ""
+
+#. 目の前が真っ暗になったんだ。
+msgctxt "Manga_03_25"
+msgid "Everything went black."
+msgstr ""
+
+#. ワタシは魔法使いとして生まれた。父さんはデキる手品師で、母さんは有能な占い師。ふたりは仕事を愛し、お互いを愛し合ってた。
+msgctxt "Manga_04_01"
+msgid ""
+"I was born into magic. Literally. My dad was a stage magician and Mom was a "
+"fortune teller. They loved their jobs, and they loved each other."
+msgstr ""
+
+#. ワタシは魔法使いとして生まれた。父さんはデキる手品師で、母さんは有能な占い師。
+msgctxt "Manga_04_01a"
+msgid ""
+"I was born into magic. Literally. My dad was a stage magician and Mom was a "
+"fortune teller."
+msgstr ""
+
+#. ふたりは仕事を愛し、お互いを愛し合ってた。
+msgctxt "Manga_04_01b"
+msgid "They loved their jobs, and they loved each other."
+msgstr ""
+
+#. きゃーっ、素敵～！
+msgctxt "Manga_04_02"
+msgid "Aww, that's sweet. I love a good love story."
+msgstr ""
+
+#. でもその愛もだんだん薄れていって、物足りなくなったふたりは特別な魔法を使ったんだ。で、その9ヶ月後、ワタシが生まれた。
+msgctxt "Manga_04_03"
+msgid ""
+"But over time, their love faded. They needed more in their lives. So they "
+"cast a special spell, and 9 moons later... I came along."
+msgstr ""
+
+#. でもその愛もだんだん薄れていって、物足りなくなったふたりは特別な魔法を使ったんだ。
+msgctxt "Manga_04_03a"
+msgid "But over time, their love faded. They needed more in their lives."
+msgstr ""
+
+#. で、その9ヶ月後、ワタシが生まれた。
+msgctxt "Manga_04_03b"
+msgid "So they cast a special spell, and 9 moons later... I came along."
+msgstr ""
+
+#. えっ？ どういうこと？
+msgctxt "Manga_04_04"
+msgid "How's that work?"
+msgstr ""
+
+#. 後で説明するから黙ってて。
+msgctxt "Manga_04_05"
+msgid "I'll, uh, explain it to you later."
+msgstr ""
+
+#. ワタシは幼い頃からふたりの知識を詰め込まれて育った。4歳で一人前の魔女になって、6歳になる頃には生き物はみんな思いのままだった。
+msgctxt "Manga_04_06"
+msgid ""
+"They taught me everything they knew at a young age. I was a powerful witch "
+"by age four, controlling creatures and minds by age six."
+msgstr ""
+
+#. ワタシは幼い頃からふたりの知識を詰め込まれて育った。
+msgctxt "Manga_04_06a"
+msgid "They taught me everything they knew at a young age."
+msgstr ""
+
+#. 4歳で一人前の魔女になって、6歳になる頃には生き物はみんな思いのままだった。
+msgctxt "Manga_04_06b"
+msgid ""
+"I was a powerful witch by age four, controlling creatures and minds by age "
+"six."
+msgstr ""
+
+#. ちょっと、それって黒魔術みたいなやつ？ まさかあんた、あのヤマダとつるんでないでしょうね？
+msgctxt "Manga_04_07"
+msgid ""
+"Wait, like Dark Arts stuff? You don't hang out with that Yamada guy, do you?"
+msgstr ""
+
+#. いや、あんなのは魔法でも何でもない。
+msgctxt "Manga_04_08"
+msgid "No way, he's a poser."
+msgstr ""
+
+#. え、そうなの？？
+msgctxt "Manga_04_09"
+msgid "Right??"
+msgstr ""
+
+#. え、そうなの？？
+msgctxt "Manga_04_10"
+msgid "Right??"
+msgstr ""
+
+#. でもある日、父さんのイリュージョンの度が過ぎて、ふたりそろってこの世から消えちゃったんだ。
+msgctxt "Manga_04_10a"
+msgid ""
+"But one day, Dad took one of his tricks too far, and it vanished them both "
+"from this realm."
+msgstr ""
+
+#. ...
+msgctxt "Manga_04_10b"
+msgid "Forever."
+msgstr ""
+
+#. ええ！？ そんなのってないよ…
+msgctxt "Manga_04_11"
+msgid "Plot twist! And so sad..."
+msgstr ""
+
+#. ええ！？ そんなのってないよ…
+msgctxt "Manga_04_12"
+msgid "Plot twist! And so sad..."
+msgstr ""
+
+#. 残されたワタシは地獄に落ちることもできないし、孤児院に入るのもごめんだった… 地獄は実在するよちなみに。
+msgctxt "Manga_04_12a"
+msgid ""
+"I was left to fend for myself, and there was no chance in Hell (which is "
+"very real, by the way) I'd be sent to an orphanage."
+msgstr ""
+
+#. だからフラットアイアンズでポーションをあげたり、魔法を代行したりする商売を始めたんだ。
+msgctxt "Manga_04_12b"
+msgid ""
+"So I set up shop here in Flatirons and started selling my potions, spells, "
+"whatever."
+msgstr ""
+
+#. 待って、地獄が実在するってとこ詳しく…
+msgctxt "Manga_04_13"
+msgid "Wait, can we go back to this 'Hell is real' thing?"
+msgstr ""
+
+#. 後にしてよ、今いいところなんだから！
+msgctxt "Manga_04_14"
+msgid "Don't distract her, the story's just getting good!"
+msgstr ""
+
+#. 数年前、ガリガリのヤクザのガキがにやつきながら店に来たんだ。
+msgctxt "Manga_04_15"
+msgid ""
+"A few years ago, this scrawny little yakuza weasel shows up at my shop."
+msgstr ""
+
+#. ケンか。
+msgctxt "Manga_04_16"
+msgid "Sounds like Ken."
+msgstr ""
+
+#. 自分の父親の自慢話をして、偉そうにしてた。
+msgctxt "Manga_04_17"
+msgid "Talking about how big a deal he is, how important his dad is."
+msgstr ""
+
+#. ケンだね。
+msgctxt "Manga_04_18"
+msgid "Definitely Ken."
+msgstr ""
+
+#. 全面的に資金提供するって言われたよ。それからは魔法を使うのにも調べ物をするのにも、あいつらを利用させてもらった。
+msgctxt "Manga_04_19"
+msgid ""
+"They put me on their payroll and covered my expenses, if I would just make "
+"myself available for any spells, readings, or incantations they ever needed."
+msgstr ""
+
+#. 全面的に資金提供するって言われたよ。それからは魔法を使うのにも調べ物をするのにも、
+msgctxt "Manga_04_19a"
+msgid ""
+"They put me on their payroll and covered my expenses, if I would just make "
+"myself"
+msgstr ""
+
+#. あいつらを利用させてもらった。
+msgctxt "Manga_04_19b"
+msgid "available for any spells, readings, or incantations they ever needed."
+msgstr ""
+
+#. カネのためなら何でもお構いなしって感じ。
+msgctxt "Manga_04_20"
+msgid "Anything for money, huh?"
+msgstr ""
+
+#. 女は上手く生き抜かないとね。
+msgctxt "Manga_04_21"
+msgid "Hey, a witch's gotta survive."
+msgstr ""
+
+#. マリアンをぎゃふんと言わせてやれって言われたのは、1週間前のことだ。あの女はフラットアイアンズを嗅ぎまわって仕事の邪魔だったから、引き受けた。
+msgctxt "Manga_04_22"
+msgid ""
+"A week ago, they asked me to vex your friend Marian. She was snooping around"
+" Flatirons, getting in my business, so I said sure."
+msgstr ""
+
+#. 記憶を消して、自由に操れるようにしたんだ。だれかさんに解かれちゃったみたいだけど。
+msgctxt "Manga_04_23"
+msgid ""
+"I wiped her mind, gave control of her to the yakuza, and that's the last I "
+"heard... until you two came around."
+msgstr ""
+
+#. うわっ、もうこんなことなってんの…
+msgctxt "Manga_05_01"
+msgid "Looks like Sabuko's already torn this place apart. Good for her."
+msgstr ""
+
+#. 殺しちゃダメだって、考え直そ！？
+msgctxt "Manga_05_02"
+msgid "Don't kill him, Sabuko!"
+msgstr ""
+
+#. 頼むよ姉貴！ 許してくれよぉ！
+msgctxt "Manga_05_03"
+msgid "Yeah, l-l-listen to them, Sis!"
+msgstr ""
+
+#. 別にお前を殺す気はない。
+msgctxt "Manga_05_04"
+msgid "I'm not going to kill you, little brother."
+msgstr ""
+
+#. よ、よかったぁ！
+msgctxt "Manga_05_05"
+msgid "Oh, thank God!"
+msgstr ""
+
+#. 家族に手出しはしない。血のつながりがなくたってな。
+msgctxt "Manga_05_06"
+msgid ""
+"Our family takes care of one another, even if we are not bound by blood."
+msgstr ""
+
+#. あ、ありがとう姉貴。このことは忘れねぇよ。
+msgctxt "Manga_05_07"
+msgid "I-I won't ever forget this, Sabuko..."
+msgstr ""
+
+#. 感動的なとこ悪いけど、もう逃がさないよ。
+msgctxt "Manga_05_08"
+msgid ""
+"Sorry to break up this cute family reunion, but no one's going anywhere!"
+msgstr ""
+
+#. どっちも倒したことあるし、いけるよね！
+msgctxt "Manga_05_09"
+msgid "Yeah! We beat you both up before, and we can do it again!"
+msgstr ""
+
+#. もうお前らにやられはしない… 
+msgctxt "Manga_05_10"
+msgid ""
+"I feel confident that I could best you both in battle with minimal effort. "
+msgstr ""
+
+#. が、念には念を入れておこう。
+msgctxt "Manga_05_11"
+msgid "However... why risk it?"
+msgstr ""
+
+#. 父さんの信用を取り戻せたのは、お前らのおかげだ。扱いやすくて好都合だったよ。
+msgctxt "Manga_05_12"
+msgid ""
+"Your impulsivity was the perfect catalyst for my plan. Thank you, teenagers."
+msgstr ""
+
+#. 最後に勝つのはオレたちだ！
+msgctxt "Manga_05_13"
+msgid "Sabu family rules!"
+msgstr ""
+
+#. 逃げてんじゃねーぞ！
+msgctxt "Manga_05_14"
+msgid "Don't let them get away!"
+msgstr ""
+
+#. 今回も楽しかったねー。
+msgctxt "Manga_06_01"
+msgid "Well THAT was an adventure."
+msgstr ""
+
+#. んね。
+msgctxt "Manga_06_02"
+msgid "Yup."
+msgstr ""
+
+#. いろいろ勉強になったかな。友達とか家族のこととか、自分の大切なものを守ることとか―
+msgctxt "Manga_06_03"
+msgid ""
+"I think we all learned something, though. About friends and family and "
+"standing up for what you -"
+msgstr ""
+
+#. いろいろ勉強になったかな。
+msgctxt "Manga_06_03a"
+msgid "I think we all learned something, though. "
+msgstr ""
+
+#. 友達とか家族のこととか、自分の大切なものを守ることとか―
+msgctxt "Manga_06_03b"
+msgid "About friends and family and standing up for what you --"
+msgstr ""
+
+#. おしゃべり終わり！ 次そっちの番だけど、やんの？ やんないの？
+msgctxt "Manga_06_04"
+msgid "Geez, enough yapping! Are you gonna take your turn or not??"
+msgstr ""
+
+#. やるやるー！
+msgctxt "Manga_06_05"
+msgid "Right, sorry."
+msgstr ""
+
+#. うわっ、ヤバっ！ あいつパンチして！
+msgctxt "Manga_06_06"
+msgid "Oooh, get him! Punch that vampire!"
+msgstr ""
+
+#. やっぱ2作目は前のよりずーっとおもしろいね！
+msgctxt "Manga_06_07"
+msgid "VP2 is SO much better than the first game."
+msgstr ""
+
+#. だれか来た。出てくる。
+msgctxt "Manga_06_08"
+msgid "Doorbell, I'll get it."
+msgstr ""
+
+#. はぁ？ 何であんたたちが？
+msgctxt "Manga_06_09"
+msgid "Huh?? What are YOU two doing here??"
+msgstr ""
+
+#. ワタシたちがあんたらの行動を見逃すと思った？
+msgctxt "Manga_06_10"
+msgid "Did you REALLY think we'd miss this adventure?"
+msgstr ""
+
+#. おもしろそうなことは譲ってもらうよぉー。ハセベとマミ、参戦っ！
+msgctxt "Manga_06_11"
+msgid "Yeah. Get up, losers. It's time for a REMATCH."
+msgstr ""
+
+#. えっと… もう終わったけど。
+msgctxt "Manga_06_12"
+msgid "But... we already finished."
+msgstr ""
+
+#. サブは倒したし、あいつのシマもめちゃくちゃにしてやったし。
+msgctxt "Manga_06_13"
+msgid "Yeah. Sabu's beaten up, his empire's in ruins... The End."
+msgstr ""
+
+#. マミのバカ！ここにまっすぐ来るべきだったって言ったでしょ！
+msgctxt "Manga_06_14"
+msgid "You IDIOT! I TOLD you we should've come straight here!"
+msgstr ""
+
+#. 途中でスムージー飲みたいって言ったのはハセベでしょ！
+msgctxt "Manga_06_15"
+msgid "It was YOUR idea to stop for SMOOTHIES on the way, Hasebe!"
+msgstr ""
+
+#. ワタシの血糖値が低いの知ってるでしょ！
+msgctxt "Manga_06_16"
+msgid "You KNOW I get low BLOOD SUGAR, Mami!"
+msgstr ""
+
+#. やったー、クリアした。
+msgctxt "Manga_06_17"
+msgid "Huh. Looks like we beat the game."
+msgstr ""
+
+#. これからどうしよっか？
+msgctxt "Manga_06_18"
+msgid "So what now?"
+msgstr ""
+
+#. うーーん、また最初からする？
+msgctxt "Manga_06_19"
+msgid "Youuuu... wanna play through again?"
+msgstr ""
+
+#. まってました！
+msgctxt "Manga_06_20"
+msgid "Haha, you're on!"
+msgstr ""
+
+#. 黙れ！ オレたちに盾突いたことを後悔しながら死ぬんだな。
+msgctxt "Manga_07_01"
+msgid ""
+"QUIET! You will show the great Sabu and his family some RESPECT before you "
+"die."
+msgstr ""
+
+#. ふきとべ！！！
+msgctxt "PortraitDialog103"
+msgid "GET WRECKED!"
+msgstr ""

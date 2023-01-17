@@ -1,0 +1,547 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-01-17 02:43\n"
+"PO-Revision-Date: 2023-01-17 02:43\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 計画停電
+msgctxt "CBA_057_Main"
+msgid "Rolling Blackouts"
+msgstr ""
+
+#. スキッドストリートの発電機
+msgctxt "CBA_057_Main_01"
+msgid "Generator Skid Street"
+msgstr ""
+
+#. コーヒーショップの発電機
+msgctxt "CBA_057_Main_02"
+msgid "Generator Coffee Shop"
+msgstr ""
+
+#. アパート10階の発電機
+msgctxt "CBA_057_Main_03"
+msgid "Generator Apartments Floor 10"
+msgstr ""
+
+#. ダウンタウンの発電機を3台修理する
+msgctxt "CBA_057_Main_Description"
+msgid "Fix 3 Generators in Downtown"
+msgstr ""
+
+#. ナンセンスな通貨
+msgctxt "CBB_083_Main"
+msgid "Token Nonsense"
+msgstr ""
+
+#. おもちゃ屋さん前
+msgctxt "CBB_083_Main_01"
+msgid "Toy District"
+msgstr ""
+
+#. 路地裏の地下
+msgctxt "CBB_083_Main_02"
+msgid "Basement"
+msgstr ""
+
+#. ヨコシン横丁前
+msgctxt "CBB_083_Main_03"
+msgid "Yokocho"
+msgstr ""
+
+#. ヤクザコインを15枚集めてゲーセンに入る
+msgctxt "CBB_083_Main_Description"
+msgid "Collect 15 Yakuza Tokens to enter the Arcade"
+msgstr ""
+
+#. オフィスの風水
+msgctxt "CCB_192_Minor"
+msgid "Office Feng Shui"
+msgstr ""
+
+#. プリンター
+msgctxt "CCB_192_Minor_01"
+msgid "Printer"
+msgstr ""
+
+#. ファイルキャビネット
+msgctxt "CCB_192_Minor_02"
+msgid "File Cabinet"
+msgstr ""
+
+#. コーヒーメーカー
+msgctxt "CCB_192_Minor_03"
+msgid "Coffee Maker"
+msgstr ""
+
+#. クロスタウン・キャッツ
+msgctxt "CatCafe_Collect_Crosstown"
+msgid "Crosstown Cats"
+msgstr ""
+
+#. ダウンタウン・キャッツ
+msgctxt "CatCafe_Collect_Downtown"
+msgid "Downtown Cats"
+msgstr ""
+
+#. フラットアイアンズ・キャット
+msgctxt "CatCafe_Collect_Flatirons"
+msgid "Flatirons Cats"
+msgstr ""
+
+#. オーシャンハイツ・キャッツ
+msgctxt "CatCafe_Collect_Ocean"
+msgid "Ocean Heights Cats"
+msgstr ""
+
+#. テクノス・キャッツ
+msgctxt "CatCafe_Collect_Technos"
+msgid "Technos Cats"
+msgstr ""
+
+#. 三和会・キャッツ
+msgctxt "CatCafe_Collect_Tower"
+msgid "Sanwakai Cats"
+msgstr ""
+
+#. アップタウン・キャッツ
+msgctxt "CatCafe_Collect_Uptown"
+msgid "Uptown Cats"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_001"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_002"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_003"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_004"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_005"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_006"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_007"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_008"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_009"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_010"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_011"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_012"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_013"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_014"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_015"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_016"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_017"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_018"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_019"
+msgid "Cat"
+msgstr ""
+
+#. 猫
+msgctxt "CatCafe_Quest_Collect_020"
+msgid "Cat"
+msgstr ""
+
+#. サーチ＆レスキュー
+msgctxt "CatCafe_Quest_Start"
+msgid "Search and Rescute"
+msgstr ""
+
+#. 愛すべき猫ちゃんの毛玉、モフモフ、何でもいいから全部かき集めよう。
+msgctxt "CatCafe_Quest_Start_Description"
+msgid "Collect all the lovable fur balls, balls of fur, whatever."
+msgstr ""
+
+#. 廃墟の列車庫 x2
+msgctxt "GhostCapturedx2"
+msgid "Train Yard x2"
+msgstr ""
+
+#. 無人の遊園地 x2
+msgctxt "GhostCapturedx4"
+msgid "Amusement Park x2"
+msgstr ""
+
+#. 壊れかけの観覧車 x2
+msgctxt "GhostCapturedx6"
+msgid "Ferris Wheel x2"
+msgstr ""
+
+#. 銀行強盗
+msgctxt "Journey_BankHeist"
+msgid "Bank Heist"
+msgstr ""
+
+#. ヤクザが金庫に札束を入れるのを阻止せよ。
+msgctxt "Journey_BankHeist_Description"
+msgid "Stop the yakuza from taking those green bills."
+msgstr ""
+
+#. オン・ザ・リバウンド
+msgctxt "Journey_Basketball"
+msgid "On the Rebound"
+msgstr ""
+
+#. ゴダイがヤクザを退治するのを手伝おう。
+msgctxt "Journey_Basketball_Description"
+msgid "Help Godai get rid of some yakuza ballers."
+msgstr ""
+
+#. ビーチクリープ
+msgctxt "Journey_BeachCreep"
+msgid "Beach Creep"
+msgstr ""
+
+#. 迷惑をかけているヤマダをビーチの砂に沈めよう。
+msgctxt "Journey_BeachCreep_Description"
+msgid "That punk Yamada's been creepin' all over the beach."
+msgstr ""
+
+#. ビーンボール・ブリッツ
+msgctxt "Journey_BeanBall"
+msgid "Beanball Blitz"
+msgstr ""
+
+#. 剛速球をぶち当てろ！
+msgctxt "Journey_BeanBall_Description"
+msgid "Get beaned!"
+msgstr ""
+
+#. 謎のノート
+msgctxt "Journey_Blueprints"
+msgid "An Enigmatic Note"
+msgstr ""
+
+#. ゴダイの設計図1
+msgctxt "Journey_Blueprints_01"
+msgid "Blueprint 1"
+msgstr ""
+
+#. ゴダイの設計図2
+msgctxt "Journey_Blueprints_02"
+msgid "Blueprint 2"
+msgstr ""
+
+#. ゴダイの設計図3
+msgctxt "Journey_Blueprints_03"
+msgid "Blueprint 3"
+msgstr ""
+
+#. ゴダイの設計図4
+msgctxt "Journey_Blueprints_04"
+msgid "Blueprint 4"
+msgstr ""
+
+#. ゴダイがなくした謎の設計図を探してあげよう。
+msgctxt "Journey_Blueprints_Description"
+msgid "Godai needs help finding his blueprints."
+msgstr ""
+
+#. バフビーチ
+msgctxt "Journey_Buff"
+msgid "Buff Beach"
+msgstr ""
+
+#. アーノルドのような筋肉を手に入れるんだ。
+msgctxt "Journey_Buff_Description"
+msgid "Gotta get buff like Arnold."
+msgstr ""
+
+#. ミステリー・ミスターK
+msgctxt "Journey_MysteriousMrK"
+msgid "The Mysterious Mr. K"
+msgstr ""
+
+#. 手がかり1
+msgctxt "Journey_MysteriousMrK_Clue1"
+msgid "Clue 1"
+msgstr ""
+
+#. 手がかり2
+msgctxt "Journey_MysteriousMrK_Clue2"
+msgid "Clue 2"
+msgstr ""
+
+#. 手がかり3
+msgctxt "Journey_MysteriousMrK_Clue3"
+msgid "Clue 3"
+msgstr ""
+
+#. 手がかり4
+msgctxt "Journey_MysteriousMrK_Clue4"
+msgid "Clue 4"
+msgstr ""
+
+#. ???
+msgctxt "Journey_MysteriousMrK_Description"
+msgid "???"
+msgstr ""
+
+#. クニコがワークスペースを京都風にアレンジするのを手伝ってあげましょう。
+msgctxt "Journey_OfficeFengShu_Description"
+msgid "Help Kuniko arrange the office to be a bit more zen or something..."
+msgstr ""
+
+#. オフィス風水
+msgctxt "Journey_OfficeFengShui"
+msgid "Office Feng Shui"
+msgstr ""
+
+#. ...
+msgctxt "Journey_ZombieBattle"
+msgid "..."
+msgstr ""
+
+#. ???
+msgctxt "Journey_ZombieBattle_Description"
+msgid "???"
+msgstr ""
+
+#. ツール・ド・クラッシュ
+msgctxt "Minigame_TourDeCrash"
+msgid "Tour De Crash"
+msgstr ""
+
+#. 最速の称号を得るため、フラットアイアンズ一周レースに挑戦しよう。
+msgctxt "Minigame_TourDeCrash_Description"
+msgid "Race Crash across the whole of Flatirons for bragging rights."
+msgstr ""
+
+#. ビーブーの大切な日
+msgctxt "Mission_BeeboosBigDay"
+msgid "Beeboo's Big Day"
+msgstr ""
+
+#. 新しい親友のビーブーを使って、通風孔を通れるようにしよう。
+msgctxt "Mission_BeeboosBigDay_Description"
+msgid "Use your new best friend Beeboo to make it through the air vents."
+msgstr ""
+
+#. 変装アラカルト
+msgctxt "Mission_Disguise"
+msgid "Disguises À La Carte"
+msgstr ""
+
+#. プリモのレストランに忍び込むために、超強力な変装をしよう。
+msgctxt "Mission_Disguise_Description"
+msgid "Find some super convincing disguises to sneak into Primo's Restaurant."
+msgstr ""
+
+#. ホールで火事だ!
+msgctxt "Mission_FireInHall"
+msgid "Fire in the Hall!"
+msgstr ""
+
+#. ボイラー室でサムビィが助けを求めているぞ。
+msgctxt "Mission_FireInHall_Description"
+msgid "Thumby needs help in the Boiler Room."
+msgstr ""
+
+#. ゴースト・ペッパー・ハント
+msgctxt "Mission_GhostPepper"
+msgid "Ghost Pepper Hunt"
+msgstr ""
+
+#. 廃線跡でゴーストペッパートラップを手に入れ、厄介なツルをやっつけよう。
+msgctxt "Mission_GhostPepper_Description"
+msgid ""
+"Grab your Ghost Pepper trap in the Abandoned Train Yard, and start rounding "
+"up those pesky pepper poultrygeists!"
+msgstr ""
+
+#. 友だちを救え
+msgctxt "Mission_Hostage"
+msgid "Save Your Friends!"
+msgstr ""
+
+#. サブコが友達を人質にとった。街中を探し回り、全員を救い出そう。
+msgctxt "Mission_Hostage_Description"
+msgid ""
+"Sabuko's taken your friends as hostages. Scour the city to find and rescue "
+"them all!"
+msgstr ""
+
+#. メインフレーム内部
+msgctxt "Mission_Mainframe"
+msgid "Inside the Mainframe"
+msgstr ""
+
+#. バイトの世界に飛び込んでみよう。
+msgctxt "Mission_Mainframe_Description"
+msgid "Shrink down and enter the wonderful world of bytes."
+msgstr ""
+
+#. 地元のバカ
+msgctxt "PrimoDelights_Guest_Subtitle"
+msgid "Local Idiot"
+msgstr ""
+
+#. セルフィー・フォー・ゴダイ
+msgctxt "Selfie_Finished"
+msgid "Selfies for Godai"
+msgstr ""
+
+#. リバーシティのあちこちで、ゴダイの自撮り写真を撮る。
+msgctxt "Selfie_Finished_Description"
+msgid "Take selfies for Godai across River City."
+msgstr ""
+
+#. クロスタウン
+msgctxt "Selfie_Location01"
+msgid "Crosstown"
+msgstr ""
+
+#. アップタウン
+msgctxt "Selfie_Location02"
+msgid "Uptown"
+msgstr ""
+
+#. ダウンタウン
+msgctxt "Selfie_Location03"
+msgid "Downtown"
+msgstr ""
+
+#. オーシャンハイツ
+msgctxt "Selfie_Location04"
+msgid "Ocean Heights"
+msgstr ""
+
+#. テクノス
+msgctxt "Selfie_Location05"
+msgid "Technos"
+msgstr ""
+
+#. リバーシティ高校
+msgctxt "Selfie_Location06"
+msgid "River City High"
+msgstr ""
+
+#. フラットアイアンズ
+msgctxt "Selfie_Location07"
+msgid "Flatirons"
+msgstr ""
+
+#. 不幸な状況
+msgctxt "SkeletonMarket_Quest_155_Minor"
+msgid "An Unfortunate Situation"
+msgstr ""
+
+#. スナップはタロットカードを全部なくしてしまいました。リバーシティを捜索すると22枚全部が見つかります。
+msgctxt "SkeletonMarket_Quest_155_Minor_Description"
+msgid "Snap lost all his Tarot Cards. Search River City to find all 22."
+msgstr ""
+
+#. クロスタウン
+msgctxt "TarotCards_Crosstown"
+msgid "Crosstown"
+msgstr ""
+
+#. ダウンタウン
+msgctxt "TarotCards_Downtown"
+msgid "Downtown"
+msgstr ""
+
+#. フラットアイアンズ
+msgctxt "TarotCards_Flatirons"
+msgid "Flatirons"
+msgstr ""
+
+#. オーシャンハイツ
+msgctxt "TarotCards_OceanHeights"
+msgid "Ocean Heights"
+msgstr ""
+
+#. 三和会タワー
+msgctxt "TarotCards_Sanwakai"
+msgid "Sanwakai Tower"
+msgstr ""
+
+#. リバーシティ高校
+msgctxt "TarotCards_School"
+msgid "River City High"
+msgstr ""
+
+#. テクノス
+msgctxt "TarotCards_Technos"
+msgid "Technos"
+msgstr ""
+
+#. アップタウン
+msgctxt "TarotCards_Uptown"
+msgid "Uptown"
+msgstr ""

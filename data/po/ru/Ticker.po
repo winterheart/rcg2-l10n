@@ -1,0 +1,695 @@
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
+"PO-Revision-Date: 2023-01-14 07:03+0300\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
+"Language-Team: Russian <>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.08.3\n"
+
+#. なんか、気持ち悪くなってきた
+msgctxt "DIALOG_ABOBO_DEFEATED"
+msgid "I don't feel so good..."
+msgstr "Я себя чувствую не очень..."
+
+#. ようし、やってやろうじゃないか！
+msgctxt "DIALOG_ABOBO_START_BATTLE"
+msgid "Okay, let's do this!"
+msgstr "Ладно, начнём!"
+
+#. ガーン
+msgctxt "DIALOG_HASEBE_DEFEATED"
+msgid "Oh, poop."
+msgstr "Вот дерьмо."
+
+#. 殺っちゃう？
+msgctxt "DIALOG_HASEBE_START_BATTLE"
+msgid "Time to kill?"
+msgstr "Время убивать?"
+
+#. 女の子を攻撃するワケ！
+msgctxt "DIALOG_KYOKO_DIE_0"
+msgid "You're not supposed to hit girls!"
+msgstr "Девочек бить нельзя!"
+
+#. 負けてあげるワケないでしょ！
+msgctxt "DIALOG_KYOKO_GLOAT_0"
+msgid "As if I'd let you beat me!"
+msgstr "Думаешь, я так просто сдамся?"
+
+#. 何だっての！
+msgctxt "DIALOG_KYOKO_IFINTERRUPTED_0"
+msgid "What the heck!"
+msgstr "Какого чёрта?"
+
+#. 痛っ！
+msgctxt "DIALOG_KYOKO_JUSTHIT_0"
+msgid "Ouch!"
+msgstr "Ой!"
+
+#. あちゃー！
+msgctxt "DIALOG_KYOKO_KILLPLAYER_0"
+msgid "Oops!"
+msgstr "Упс!"
+
+#. インスタ教えてよ？
+msgctxt "DIALOG_KYOKO_MISC_0"
+msgid "What's your insta?"
+msgstr "Какой у тебя инстаграм?"
+
+#. 回復しなきゃ！
+msgctxt "DIALOG_KYOKO_WEAKENED_0"
+msgid "I need healing!"
+msgstr "Мне нужно лечение!"
+
+#. クソガキども！俺の家から出てけ！
+msgctxt "DIALOG_MALL_SECURITY_GUARD_SEE_PLAYER_0"
+msgid "Get outta my house!"
+msgstr "Вон из моего дома!"
+
+#. こんなことって・・・
+msgctxt "DIALOG_MAMI_DEFEATED"
+msgid "We'll never live this down..."
+msgstr "Мы это никогда не забудем..."
+
+#. 殺っちゃおう！
+msgctxt "DIALOG_MAMI_START_BATTLE"
+msgid "You bet!"
+msgstr "Кто бы сомневался!"
+
+#. ...
+msgctxt "DIALOG_MISC_DOTDOTDOT"
+msgid "..."
+msgstr "..."
+
+#. 恥を知りなさい！
+msgctxt "DIALOG_MISUZU_DEFEATED"
+msgid "You're embarassing me!"
+msgstr "Хватит меня позорить!"
+
+#. こっち来いっつってんでしょ！
+msgctxt "DIALOG_MISUZU_START_BATTLE"
+msgid "Get over here!"
+msgstr "Иди сюда!"
+
+#. これで曲も終わり
+msgctxt "DIALOG_NOIZE_DEFEATED"
+msgid "Track over..."
+msgstr "Песня окончена..."
+
+#. ワン、ツー、スリー、フォー！
+msgctxt "DIALOG_NOIZE_START_BATTLE"
+msgid "1, 2, 3, FOUR!"
+msgstr "Раз, два, три, ЧЕТЫРЕ!"
+
+#. あんた達ダサすぎ！
+msgctxt "DIALOG_NOIZE_TAUNT_0"
+msgid "You girls are so lame!"
+msgstr "Вы, девчата, такие убожества!"
+
+#. ホントはファンじゃないでしょ！
+msgctxt "DIALOG_NOIZE_TAUNT_1"
+msgid "You aren't real fans!"
+msgstr "Вы не настоящие фанаты!"
+
+#. ちっきしょー
+msgctxt "DIALOG_SABUKO_DEFEATED"
+msgid "Curse you..."
+msgstr "Будь вы прокляты..."
+
+#. 始めるわよ。
+msgctxt "DIALOG_SABUKO_START_BATTLE"
+msgid "Let's begin."
+msgstr "Начнём."
+
+#. 次こそは…
+msgctxt "DIALOG_THUG_DIE_0"
+msgid "Next time..."
+msgstr "В следующий раз..."
+
+#. 俺を倒すにゃ足りなかったな。
+msgctxt "DIALOG_THUG_GLOAT_0"
+msgid "You're not strong enough to beat me."
+msgstr "У тебя сил не хватит меня побить."
+
+#. やりやがったな！
+msgctxt "DIALOG_THUG_IFINTERRUPTED_0"
+msgid "How dare you!"
+msgstr "Как ты смеешь!?"
+
+#. ウッ。
+msgctxt "DIALOG_THUG_JUSTHIT_0"
+msgid "Oof."
+msgstr "Уф."
+
+#. ハッ、うぬぼれてたんだろ！
+msgctxt "DIALOG_THUG_KILLPLAYER_0"
+msgid "Hah, you thought you were good enough!"
+msgstr "Ха-ха, а я-то думал!"
+
+#. 最高の日だな。
+msgctxt "DIALOG_THUG_MISC_0"
+msgid "What a nice day we're having."
+msgstr "Какой прекрасный выдался день."
+
+#. おい、こっちだ！
+msgctxt "DIALOG_THUG_SEEPLAYER_0"
+msgid "Hey, get over here!"
+msgstr "Эй, иди сюда!"
+
+#. やっちまえ！
+msgctxt "DIALOG_THUG_SEEPLAYER_1"
+msgid "GET THEM!"
+msgstr "ВЗЯТЬ ИХ!"
+
+#. 俺は大丈夫だ、大したことない。
+msgctxt "DIALOG_THUG_WEAKENED_0"
+msgid "I'm fine, tis but a flesh wound."
+msgstr "Всё хорошо, это всего лишь царапина."
+
+#. 僕なんか、僕なんか
+msgctxt "DIALOG_YAMADA_DEFEATED"
+msgid "I suck..."
+msgstr "Я никуда не гожусь..."
+
+#. 闇はもうすぐそこに・・・
+msgctxt "DIALOG_YAMADA_START_BATTLE"
+msgid "It's about to get DARK!"
+msgstr "Да настанет ТЬМА!"
+
+#. オエッ！
+msgctxt "ENEMY_DEATH_FEMALE_0"
+msgid "BARF!"
+msgstr "БУЭ!"
+
+#. ああもうッ！
+msgctxt "ENEMY_DEATH_FEMALE_1"
+msgid "Oh dang!"
+msgstr "А, чёрт!"
+
+#. わあ！
+msgctxt "ENEMY_DEATH_FEMALE_10"
+msgid "Whoa!"
+msgstr "Ух ты!"
+
+#. いい子にしなさい！
+msgctxt "ENEMY_DEATH_FEMALE_11"
+msgid "Play nice!"
+msgstr "Играй по-честному!"
+
+#. きゃあ！
+msgctxt "ENEMY_DEATH_FEMALE_12"
+msgid "OUCH!"
+msgstr "ОЙ!"
+
+#. この意地悪！
+msgctxt "ENEMY_DEATH_FEMALE_13"
+msgid "You're so mean!"
+msgstr "Это было грубо!"
+
+#. ふん！
+msgctxt "ENEMY_DEATH_FEMALE_14"
+msgid "Hmph!"
+msgstr "Пфф!"
+
+#. マジでヤバいくらい超悲しい。
+msgctxt "ENEMY_DEATH_FEMALE_15"
+msgid "So very, very sad."
+msgstr "Очень, очень печально."
+
+#. 顔はやめてよ！
+msgctxt "ENEMY_DEATH_FEMALE_16"
+msgid "Not in the face!"
+msgstr "Только не по лицу!"
+
+#. 血の味がする。
+msgctxt "ENEMY_DEATH_FEMALE_17"
+msgid "I taste blood."
+msgstr "Я чувствую вкус крови."
+
+#. おなかが！
+msgctxt "ENEMY_DEATH_FEMALE_18"
+msgid "My tummy!"
+msgstr "Мой живот!"
+
+#. ヒザが！
+msgctxt "ENEMY_DEATH_FEMALE_19"
+msgid "My knees!"
+msgstr "Мои коленки!"
+
+#. 痛い！
+msgctxt "ENEMY_DEATH_FEMALE_2"
+msgid "That hurt!"
+msgstr "Больно!"
+
+#. 肘が！
+msgctxt "ENEMY_DEATH_FEMALE_20"
+msgid "My elbow!"
+msgstr "Мой локоть!"
+
+#. 失敗しちゃった。
+msgctxt "ENEMY_DEATH_FEMALE_21"
+msgid "That wasn't nice."
+msgstr "Это было не очень."
+
+#. 殴らないでよ！
+msgctxt "ENEMY_DEATH_FEMALE_22"
+msgid "Stop punching me!"
+msgstr "Хватит меня колотить!"
+
+#. 背中が痛い。
+msgctxt "ENEMY_DEATH_FEMALE_23"
+msgid "My spine aches."
+msgstr "У меня спина болит."
+
+#. 意気地なしの間抜け！
+msgctxt "ENEMY_DEATH_FEMALE_24"
+msgid "Feckless goon!"
+msgstr "Бесполезный громила!"
+
+#. 仕方ないね。
+msgctxt "ENEMY_DEATH_FEMALE_25"
+msgid "Oh well."
+msgstr "Ну ладно."
+
+#. やだもう！
+msgctxt "ENEMY_DEATH_FEMALE_26"
+msgid "OOMF!"
+msgstr "УФ!"
+
+#. それでもあたしカワイイよね。
+msgctxt "ENEMY_DEATH_FEMALE_27"
+msgid "I still look cute."
+msgstr "Я всё ещё выгляжу симпатично."
+
+#. マジで痛い。
+msgctxt "ENEMY_DEATH_FEMALE_28"
+msgid "That really hurt."
+msgstr "Это было очень больно."
+
+#. コテンパンにされちゃったわ。
+msgctxt "ENEMY_DEATH_FEMALE_29"
+msgid "I'm so grounded."
+msgstr "Я так разбита."
+
+#. まさか！
+msgctxt "ENEMY_DEATH_FEMALE_3"
+msgid "No way!"
+msgstr "Не пойдёт!"
+
+#. マジで大っ嫌い。
+msgctxt "ENEMY_DEATH_FEMALE_30"
+msgid "I super hate you."
+msgstr "Я тебя так ненавижу!"
+
+#. 化粧が落ちるでしょうが！
+msgctxt "ENEMY_DEATH_FEMALE_31"
+msgid "Watch the makeup!"
+msgstr "Не размажь косметику!"
+
+#. こいつ。
+msgctxt "ENEMY_DEATH_FEMALE_32"
+msgid "You jerk."
+msgstr "Ты ничтожество."
+
+#. 超失礼。
+msgctxt "ENEMY_DEATH_FEMALE_33"
+msgid "So rude."
+msgstr "Как грубо."
+
+#. 助けて！
+msgctxt "ENEMY_DEATH_FEMALE_34"
+msgid "HELP!"
+msgstr "ПОМОГИТЕ!"
+
+#. パパ！
+msgctxt "ENEMY_DEATH_FEMALE_35"
+msgid "DADDY!"
+msgstr "ПАПОЧКА!"
+
+#. どうでもいい。
+msgctxt "ENEMY_DEATH_FEMALE_36"
+msgid "Whatever."
+msgstr "Неважно."
+
+#. ハァ…
+msgctxt "ENEMY_DEATH_FEMALE_37"
+msgid "Sigh..."
+msgstr "Эх..."
+
+#. うんざり。
+msgctxt "ENEMY_DEATH_FEMALE_38"
+msgid "Aw geez."
+msgstr "Оууу."
+
+#. くそっ！
+msgctxt "ENEMY_DEATH_FEMALE_39"
+msgid "Dangit!"
+msgstr "Блин!"
+
+#. やだ！
+msgctxt "ENEMY_DEATH_FEMALE_4"
+msgid "Nu uh!"
+msgstr "Не-а!"
+
+#. しまった！
+msgctxt "ENEMY_DEATH_FEMALE_40"
+msgid "Darnit!"
+msgstr "Чёрт!"
+
+#. こぶしを下ろしてよ。
+msgctxt "ENEMY_DEATH_FEMALE_41"
+msgid "Put down your fists, sister."
+msgstr "Убери-ка кулаки, сестричка."
+
+#. ケホケホ！
+msgctxt "ENEMY_DEATH_FEMALE_42"
+msgid "COUGH!"
+msgstr "КХЕ!"
+
+#. フー。
+msgctxt "ENEMY_DEATH_FEMALE_43"
+msgid "Huh."
+msgstr "Хм."
+
+#. あーあ。
+msgctxt "ENEMY_DEATH_FEMALE_44"
+msgid "Meh."
+msgstr "М-м."
+
+#. 負けちゃった。
+msgctxt "ENEMY_DEATH_FEMALE_45"
+msgid "I'm a loser."
+msgstr "Я неудачница."
+
+#. 好きにしなよ！
+msgctxt "ENEMY_DEATH_FEMALE_46"
+msgid "BLARG!"
+msgstr "Э-Э-Э!"
+
+#. バカ注意報。
+msgctxt "ENEMY_DEATH_FEMALE_47"
+msgid "Dork alert (me)."
+msgstr "Осторожно, зануда (это я)."
+
+#. ああもう。
+msgctxt "ENEMY_DEATH_FEMALE_48"
+msgid "Aw shucks."
+msgstr "О... чёрт."
+
+#. 参ったってば！
+msgctxt "ENEMY_DEATH_FEMALE_49"
+msgid "I'm done for!"
+msgstr "С меня хватит!"
+
+#. 頭がフラフラする～…
+msgctxt "ENEMY_DEATH_FEMALE_5"
+msgid "I feel wooooozy..."
+msgstr "Голова кружится..."
+
+#. お腹が！
+msgctxt "ENEMY_DEATH_FEMALE_6"
+msgid "My guts!"
+msgstr "Мой живот!"
+
+#. ウーン！
+msgctxt "ENEMY_DEATH_FEMALE_7"
+msgid "OOF!"
+msgstr "УФ!"
+
+#. やってらんない。
+msgctxt "ENEMY_DEATH_FEMALE_8"
+msgid "Pathetic."
+msgstr "Какая жалость."
+
+#. マジでどうでもいいっていうか。
+msgctxt "ENEMY_DEATH_FEMALE_9"
+msgid "Like totally whatever."
+msgstr "То есть, типа, неважно."
+
+#. オエー！
+msgctxt "ENEMY_DEATH_MALE_0"
+msgid "BARF!"
+msgstr "БУЭ!"
+
+#. くそっ！
+msgctxt "ENEMY_DEATH_MALE_1"
+msgid "Oh dang!"
+msgstr "А, чёрт!"
+
+#. わあ！
+msgctxt "ENEMY_DEATH_MALE_10"
+msgid "Whoa!"
+msgstr "Ух ты!"
+
+#. ママアアアア！
+msgctxt "ENEMY_DEATH_MALE_11"
+msgid "Mamaaa!"
+msgstr "Мама!"
+
+#. うわ！
+msgctxt "ENEMY_DEATH_MALE_12"
+msgid "OUCH!"
+msgstr "ОЙ!"
+
+#. 俺が何したってんだ？
+msgctxt "ENEMY_DEATH_MALE_13"
+msgid "What'd I do to you?"
+msgstr "Что я тебе сделал?"
+
+#. ふん！
+msgctxt "ENEMY_DEATH_MALE_14"
+msgid "Hmph!"
+msgstr "Пфф!"
+
+#. がっかりだ。
+msgctxt "ENEMY_DEATH_MALE_15"
+msgid "Bummer."
+msgstr "Облом."
+
+#. 昼飯がどっか行っちまう。
+msgctxt "ENEMY_DEATH_MALE_16"
+msgid "There goes my lunch."
+msgstr "А вот и мой завтрак."
+
+#. 血の味がする。
+msgctxt "ENEMY_DEATH_MALE_17"
+msgid "I taste blood."
+msgstr "Я чувствую вкус крови."
+
+#. 腹が！
+msgctxt "ENEMY_DEATH_MALE_18"
+msgid "My stomach!"
+msgstr "Мой желудок!"
+
+#. ヒザが！
+msgctxt "ENEMY_DEATH_MALE_19"
+msgid "My knees!"
+msgstr "Мои коленки!"
+
+#. イテッ！
+msgctxt "ENEMY_DEATH_MALE_2"
+msgid "That hurt!"
+msgstr "Больно!"
+
+#. これが楽しいってのか？
+msgctxt "ENEMY_DEATH_MALE_20"
+msgid "Is this fun yet?"
+msgstr "Разве это весело?"
+
+#. よくなかったな。
+msgctxt "ENEMY_DEATH_MALE_21"
+msgid "That wasn't nice."
+msgstr "Это было не очень."
+
+#. 話し合いはどうなった？
+msgctxt "ENEMY_DEATH_MALE_22"
+msgid "What happened to civil discourse?"
+msgstr "Что случилось с цивилизованным диалогом?"
+
+#. 骨が！
+msgctxt "ENEMY_DEATH_MALE_23"
+msgid "My vertibrae!"
+msgstr "Мои позвонки!"
+
+#. 俺が殴ってるのに気付いてないな。
+msgctxt "ENEMY_DEATH_MALE_24"
+msgid "You don't see ME punching YOU."
+msgstr "Ты не видишь, как Я бью ТЕБЯ."
+
+#. やられた。
+msgctxt "ENEMY_DEATH_MALE_25"
+msgid "Down I go."
+msgstr "Иду на дно."
+
+#. パンチ！
+msgctxt "ENEMY_DEATH_MALE_26"
+msgid "BIFF!"
+msgstr "БУМ!"
+
+#. やれやれ、疲れたぜ。
+msgctxt "ENEMY_DEATH_MALE_27"
+msgid "Welp, I'm beat."
+msgstr "Ох, меня побили."
+
+#. マジで痛い。
+msgctxt "ENEMY_DEATH_MALE_28"
+msgid "That really hurt."
+msgstr "Это было очень больно."
+
+#. コテンパンにされちまった。
+msgctxt "ENEMY_DEATH_MALE_29"
+msgid "I'm so grounded."
+msgstr "Я так разбит."
+
+#. ちょい待ち…
+msgctxt "ENEMY_DEATH_MALE_3"
+msgid "Hey now..."
+msgstr "Эй, погоди..."
+
+#. いい動きだ！
+msgctxt "ENEMY_DEATH_MALE_30"
+msgid "Nice moves!"
+msgstr "Неплохой приём!"
+
+#. 顔を殴りやがった！
+msgctxt "ENEMY_DEATH_MALE_31"
+msgid "Your fist hurt my face!"
+msgstr "Твой кулак мне в лицо попал!"
+
+#. この野郎。
+msgctxt "ENEMY_DEATH_MALE_32"
+msgid "You jerk."
+msgstr "Ты ничтожество."
+
+#. マジで失礼だな。
+msgctxt "ENEMY_DEATH_MALE_33"
+msgid "So rude."
+msgstr "Как грубо."
+
+#. 助けて！
+msgctxt "ENEMY_DEATH_MALE_34"
+msgid "HELP!"
+msgstr "ПОМОГИТЕ!"
+
+#. ママ！
+msgctxt "ENEMY_DEATH_MALE_35"
+msgid "MOMMY!"
+msgstr "МАМОЧКА!"
+
+#. どうでもいい。
+msgctxt "ENEMY_DEATH_MALE_36"
+msgid "Whatever."
+msgstr "Неважно."
+
+#. ハァ…
+msgctxt "ENEMY_DEATH_MALE_37"
+msgid "Sigh..."
+msgstr "Эх..."
+
+#. やれやれ。
+msgctxt "ENEMY_DEATH_MALE_38"
+msgid "Aw geez."
+msgstr "Оууу."
+
+#. くそがっ！
+msgctxt "ENEMY_DEATH_MALE_39"
+msgid "Dangit!"
+msgstr "Блин!"
+
+#. だるい…
+msgctxt "ENEMY_DEATH_MALE_4"
+msgid "I don't feel so good..."
+msgstr "Я себя чувствую не очень..."
+
+#. しまった！
+msgctxt "ENEMY_DEATH_MALE_40"
+msgid "Darnit!"
+msgstr "Чёрт!"
+
+#. 何て暴力的なやつだ…
+msgctxt "ENEMY_DEATH_MALE_41"
+msgid "Such violence..."
+msgstr "Сколько насилия..."
+
+#. ゲホッ！
+msgctxt "ENEMY_DEATH_MALE_42"
+msgid "COUGH!"
+msgstr "КХЕ!"
+
+#. ちくしょう！
+msgctxt "ENEMY_DEATH_MALE_43"
+msgid "Zounds!"
+msgstr "Чёрт возьми!"
+
+#. あああちくしょう！
+msgctxt "ENEMY_DEATH_MALE_44"
+msgid "Double-zounds!"
+msgstr "Чёрт возьми ещё раз!"
+
+#. バカ野郎！
+msgctxt "ENEMY_DEATH_MALE_45"
+msgid "You palooka!"
+msgstr "Тупица!"
+
+#. 好きにしやがれ！
+msgctxt "ENEMY_DEATH_MALE_46"
+msgid "BLARG!"
+msgstr "Э-Э-Э!"
+
+#. 本気でやったな！
+msgctxt "ENEMY_DEATH_MALE_47"
+msgid "Totally whack!"
+msgstr "Полный отстой!"
+
+#. ああ、くそ。
+msgctxt "ENEMY_DEATH_MALE_48"
+msgid "Aw shucks."
+msgstr "О... чёрт."
+
+#. 参った！
+msgctxt "ENEMY_DEATH_MALE_49"
+msgid "I'm done for!"
+msgstr "С меня хватит!"
+
+#. 予想外だ
+msgctxt "ENEMY_DEATH_MALE_5"
+msgid "Does anyone read this?"
+msgstr "Кто-нибудь это читает?"
+
+#. 胃が！
+msgctxt "ENEMY_DEATH_MALE_6"
+msgid "My spleen!"
+msgstr "Моя селезёнка!"
+
+#. ウーン！
+msgctxt "ENEMY_DEATH_MALE_7"
+msgid "OOF!"
+msgstr "УФ!"
+
+#. クールじゃないぜ。
+msgctxt "ENEMY_DEATH_MALE_8"
+msgid "Not cool, dude."
+msgstr "Совсем не круто, чувак."
+
+#. お前かわいいな！
+msgctxt "ENEMY_DEATH_MALE_9"
+msgid "You're cute!"
+msgstr "Как мило!"
+
+#. まったくダサい衣装ね！
+msgctxt "TO_PHASE_2"
+msgid "Such hideous outfits!"
+msgstr "Какие ужасные наряды!"
+
+#. 派手に行きましょう！
+msgctxt "TO_PHASE_3"
+msgid "Dressed to KILL!"
+msgstr "СНОГСШИБАТЕЛЬНЫЙ вид!"

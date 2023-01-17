@@ -1,0 +1,442 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-01-17 02:43\n"
+"PO-Revision-Date: 2023-01-17 02:43\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. どうでもいいことだけど...もしあんたたちが 空腹ならプリモの高級レストランに行ってみたら？さっき渡したエンブレムがあれば入れるからさ。
+msgctxt "HonkPrimosOpen"
+msgid ""
+"it's not like i care...but if you want to, like, i dunno, 'eat food' or "
+"whatever, you can use those emblem things to get into primo's fancy-pants "
+"restaurant."
+msgstr ""
+
+#. あの魔女っ子！なんでこんな酷いことができるんだヨ！商売ガタキだからってウチの商品をあちこちに消しちゃうなんて酷い！！誰でもいいから助けてくださーい…
+msgctxt "HonkrAnUnfortunateSituationStart"
+msgid ""
+"That witch...that awful witch...!! Woe, woe is I!! They scattered my "
+"precious product across the horizon! Someone, anyone, please aid me... :'("
+msgstr ""
+
+#. ノースラヴィーンレーンでお前達を待つ。以上だ。
+msgctxt "HonkrBankHeist"
+msgid "Meet me at North Ravine Lane. That's it. That's the honk."
+msgstr ""
+
+#. サブの手下はクロスタウン銀行にいる。以上。
+msgctxt "HonkrBankHeist2"
+msgid ""
+"You will find my father's men over at the Crosstown Bank in the Town Square."
+msgstr ""
+
+#. ヤクザたちが僕らのバスケットコートを占拠してるんだ！熱血なバスケ魂を持つ君たちだったら助けてくれるよね？？
+msgctxt "HonkrBasketball"
+msgid ""
+"If any philanthropic gentlefolk want to help me with a small yakuza issue at"
+" the basketball court, I'd be suuuuuper thankful! ;-)"
+msgstr ""
+
+#. ううう>///< せっかく買った水着で海を楽しみたいのに、山田くんがずっとずっと邪魔してくるの......お願い、誰か助けてーーーー ！！Q.Q
+msgctxt "HonkrBeachCreep"
+msgid ""
+"Ugh!! >///< I just wanna enjoy the beach, and that creeper Yamada won't "
+"leave me alone...! TnT Someone help meeee... Q.Q"
+msgstr ""
+
+#. 運動神経のいいヤツなら誰でもいい。学校のコートでドッジボールの練習相手になってくれないか。
+msgctxt "HonkrBeanBall"
+msgid ""
+"Please, someone with any athletic abilities, get over to Beanball Court stat"
+" and whip these bums into shape. =_="
+msgstr ""
+
+#. 超最高のベストフレンドのゴダイ君からのホットな情報です！;-)
+#. アトリウムに僕の友達がいるんだけど、困っている君たちを助けてくれるかも！...やっぱり友情って素敵だよね！（もちろん僕らも親友だよ！）
+msgctxt "HonkrBeeboo"
+msgid ""
+"Hot tip from your super duper number one pal Godai! ;-) There's an old "
+"friend of mine hanging out in the Atrium who miiight just want to help you "
+"out...oh man, I love friendship!"
+msgstr ""
+
+#. おい、まだ帰るんじゃない！ 忘れたのか？通気口を探すんだ。
+msgctxt "HonkrBeebooExit"
+msgid "You can't leave yet! You need to find the vent first. Idiots..."
+msgstr ""
+
+#. クビになったから、ついさっきマジックショップをオープンしたよ。お金があるときにいつでもおいで。
+msgctxt "HonkrBlaireShop"
+msgid ""
+"prolly fired from work...feel free to stop by and buy stuff or whatever."
+msgstr ""
+
+#. 誰か親友のゴダイ君を助けてくれませんか......？:<
+#. 大事な大事な設計図をどこに置いてきてしまったんだ。前回はリバ高の演劇場だった気がするんだけど…。連絡待ってるね ;)
+msgctxt "HonkrBlueprints"
+msgid ""
+"Could anyone do their ol' bestie Godai a fav...? :< I can't remember where I"
+" left my blueprints. Last time I saw it was the Auditorium. I'll be "
+"waaaaiting. ;-)"
+msgstr ""
+
+#. やあ皆、元気してるかな？日々、ビルドアップして筋肉を魅せる準備はできてるかい？せっかくだから君たちの筋肉を採点してあげよう！
+msgctxt "HonkrBuffBeach"
+msgid ""
+"Swolutations, bros and bro-friends. Every day, 24/7, no breaks taken, I "
+"gotta get my shred on. You want that shred? Let's see if you're worthy!"
+msgstr ""
+
+#. ついにやったよ！！ブラックな会社を辞めてついに自分のお店を構える事ができました！ぜひ食べにきてね^w^
+msgctxt "HonkrEnoki"
+msgid ""
+"I did it! I finally did it! ^-^ Enoki's Smoky Mochi is open for business!! "
+"Keep an eye out for my food truck, coming to a parking spot near you! ^w^"
+msgstr ""
+
+#. 変な高校生たちへ、どうもアリガトウ。ゴーストトラップは墓場まで持っていってあげるヨ。マリアンが来るなら早めに教えてネ。-_-
+msgctxt "HonkrGhostPepperEnd"
+msgid ""
+"Thanks a lot, weirdos. I'll take the ghost trap to the Graveyard for you. "
+"Meet you there, imbeciles. -_-"
+msgstr ""
+
+#. 墓地に何か不思議な魔法がかけられてるみたいなんだヨ...うねうねしたツタがどんどんフラットアイアンズを覆っていってるのサ...
+#. 怖くて怖くてホネまで震えて眠れないヨ。
+msgctxt "HonkrGhostPepperStart"
+msgid ""
+"Some strange magic is happening in the graveyard...those vines have been "
+"blocking off more and more of Flatirons lately... ((shudder)) It's enough to"
+" chill ya right to your bones."
+msgstr ""
+
+#. 誰か殴りたいヤツがいたらアパートまで来てくれ。アーボーミーツで特製パンチを届けてやるぜ！もちろんお金はいただくがな！
+msgctxt "HonkrHHabobo"
+msgid ""
+"if any1 wants 2 punch stuff, Abobo is offering his services...FOR A PRICE!! "
+"come 2 Abobo's apartment if ur interested"
+msgstr ""
+
+#. ドット絵で描かれたこの街は居心地がいい。いろんな壁を殴ってみたいな。橋の上で待つよ。
+msgctxt "HonkrHHalex"
+msgid ""
+"So many pixels in this city. So many pixels to punch! I'll be hanging out on"
+" the bridge."
+msgstr ""
+
+#. 悪いやつに見えなそうだから俺たち2人が直々に手伝ってやるよ。遊園地に居るからお金を用意してここまで来な。
+msgctxt "HonkrHHberserker"
+msgid ""
+"You look so weak, I might as well call you calendar! You know, because your "
+"days are numbered. HA-HA! Junior gets it! If you need a hand, let me know. I"
+" HAVE TWO! LOL! I'm at the amusement park."
+msgstr ""
+
+#. ねえねえ、親友のプルーヴィ知らない？ダンスと喧嘩が大好きなヤツでいつもキレた顔してるんだ～。迷子になったっぽいんだよね。見つけてくれたら私も何か手伝ってあげるからさ。何かわかったらキャピトルアベニューまできて。
+msgctxt "HonkrHHchris"
+msgid ""
+"any1 seen my gal provie...? she rly likes dancing and violence, so hmu if u "
+"need help punching stuff. im in capitol ave"
+msgstr ""
+
+#. 貴方達のような方でも多少は私の役に立ちましたわ。何か他に手伝ってほしいことがあれば、造船所にいらっしゃい。
+msgctxt "HonkrHHhibari"
+msgid ""
+"You peons are borderline tolerable, I guess. If you can afford my "
+"assistance, I will be at the shipyards."
+msgstr ""
+
+#. アップタウンに超美味しいラーメン屋さんがデキたの知ってますカ？ヨコシン横丁で待ち合わせして一緒にデートに行きまショウ！もちろんアナタのおごりですけどネ～
+#. :3
+#. 
+msgctxt "HonkrHHjam"
+msgid ""
+"oh oh, i heard there's some super yummy ramen in uptown! meet me in yokocho "
+"and let's grab something to eat! you're buying, though~ :3"
+msgstr ""
+
+#. ケバコだよ！K・E・B・A・K・O！お金をくれるなら友達になりましょう！！！！
+msgctxt "HonkrHHkebako"
+msgid "HI MY NAME IS KEBAKO LET'S BE FRIENDS IF YOU GIVE ME MONEY!!!!!!!! :D"
+msgstr ""
+
+#. ソウルを燃やし足りないならワタシの音楽で火をつけてやるよ！！テクノスのレクリエーションルームで待ってるぜ！！
+msgctxt "HonkrHHnoize"
+msgid ""
+"i'll be in the rec room at Technos if you want to hire me for a private "
+"concert"
+msgstr ""
+
+#. オレがデートや仕事で忙しくない時なら「いつでも」声をかけてくれていいぜ！そんな事言ったら「いつでも」人気のオレは雇えなくなっちまうがな！
+msgctxt "HonkrHHpaul"
+msgid ""
+"If I'm not busy, on a date, or just generally being awesome, I'll be here if"
+" you want to hire me for some extra muscle. ;) jk that means I'd never be "
+"here lol"
+msgstr ""
+
+#. なぜここにいるのかわからないが、おそらく戦いに呼ばれたんだろう。チームを組みたいならドッグバウ公園でオレを探してくれ。
+msgctxt "HonkrHHryan"
+msgid ""
+"Not sure what's happening, but I'm here to fight. Come find me at the dog "
+"park if you want to team up."
+msgstr ""
+
+#. オレに会いたきゃオーシャンハイツの公園に来な。相手をしてやるぜ。
+msgctxt "HonkrHHsol"
+msgid ""
+"If you want to see the coolest cameo of the entire game, come to the park in"
+" Ocean Heights B)"
+msgstr ""
+
+#. 着ている服を汚したくないならナイトクラブまで来てくれ。品位のある戦い方を貴方達に教えてあげよう。
+msgctxt "HonkrHHwes"
+msgid ""
+"If anyone needs a suave fighter to elegantly pummel your foes into a fine "
+"mist, hit me up. I'll be at the nightclub."
+msgstr ""
+
+#. 友達が捕まっているのを見てしまったの...！ ;;;A;;助けたかったんだけど、私は弱虫だから...。(´・ω・`)>///<
+#. お願い、誰か助けて...!
+msgctxt "HonkrHostages"
+msgid ""
+"I marked the location where I saw our friends being held...! ;;;A;; I "
+"would've helped, but I'm not really the punching type... >///< Please, help "
+"them...!"
+msgstr ""
+
+#. この先にメインフレームがある。それをハックしてツイコの部屋へのアクセスコードを手に入れろ。
+msgctxt "HonkrInsideMainframe"
+msgid ""
+"you're headed into the core of technos now. up ahead, you'll find the "
+"mainframe. hack it to get the code to tsuiko's office."
+msgstr ""
+
+#. ショッピングモールに来たら何でもあるわよ！ もし誰か居るなら、声をかけてね！美味しいもの買ってあげるから一緒にお話ししましょ！
+msgctxt "HonkrKaori"
+msgid ""
+"The mall has everything you need~! <3 And if anyone is down for hanging, hit"
+" me up! ^^ I'll buy you food~ :3 ...haha please?"
+msgstr ""
+
+#. なあ、ケンのやつ学校の屋上に隠れてるんだってさ、バカみたいだろ？、、、、(¬_¬)
+msgctxt "HonkrKenTwins"
+msgid ""
+"yo, if anyone's curious, that idiot Ken is hiding on the school rooftop like"
+" a dumb punk. smh,,, typical boss. (¬_¬)"
+msgstr ""
+
+#. オレってただの高校生だけどよ。時々30年くらい生きてるなぁって感じる事があるんだけど、これが成長ってヤツなのか？
+msgctxt "HonkrKunioDefault"
+msgid ""
+"sometimes i feel like i've lived more than 30 lives...idk, is that weird?"
+msgstr ""
+
+#. 猫ちゃんとかワンちゃんって頭をなでてほしいときってどう話すんだろう？ミャウミャウミャウ？ワンワンワン！ワンが3回で頭を撫でる合図みたいなのってないかな～
+msgctxt "HonkrKyokoDefault"
+msgid ""
+"do you think that cats and dogs say \"it's raining humans\"? O_O or would it"
+" be like \"mew mew mew bork bork boof\"...."
+msgstr ""
+
+#. 新鮮な空気を吸ってリフレッシュしてきてね～ 2ヶ月もソファに座りっぱなしだとパパみたいに腰を痛めちゃうわよ。 ママより
+msgctxt "HonkrKyokosMom"
+msgid ""
+"You kiddos need some fresh air!  Two months of sitting on the couch is not "
+"good for your lumbar.  Love, Mom"
+msgstr ""
+
+#. ガムを噛むか腹筋をするか・・・。他にすることないのかよ。
+msgctxt "HonkrMarianDefault"
+msgid "here to do sit-ups and chew bubblegum..and i'm all out of bubblegum"
+msgstr ""
+
+#. いろんなヤツからツンデレって言われるんだけど…もしかしてこのリュックのブランド名だったりする？
+msgctxt "HonkrMisakoDefault"
+msgid "What is a tsundere and why do people keep calling me that........."
+msgstr ""
+
+#. 名探偵に憧れる若者たちよ！私特製のMysteryを用意した！※少しでも興味がある学生はすぐに校長室まで来ること。
+msgctxt "HonkrMrKFirst"
+msgid ""
+"I've got some hot leads on a case for any gumshoes interested...swing on by "
+"the Principal's Office if you like MYSTERY."
+msgstr ""
+
+#. 君たちは本物の探偵が何たるかを私に教えてくれた！謎は無事解くことができた！報酬を受け取りにきてくれ。
+msgctxt "HonkrMrKSecond"
+msgid ""
+"You strolled into my office and really showed me a thing a two about "
+"detectiving...detecting? MYSTERY SOLVED! Come get your reward."
+msgstr ""
+
+#. やあ、みんな最高のシェフ兼俳優のプリモだ！オーシャンハイツに超豪華なお店をオープンしたから、気になった人みんな見に来いよな！
+msgctxt "HonkrOceanUnlocked"
+msgid ""
+"It is I, Primo! I've just opened the most opulent outlet for ocean dining "
+"this side of Ocean Heights."
+msgstr ""
+
+#. もう終わったの？いやぁ～さすが肉体労働がピッタリって感じ～。オフィスのワークスペースで待ってるね～ ^^
+msgctxt "HonkrOfficeFengShuiEnd"
+msgid ""
+"You're all done? Wow, you really ARE used to manual labor! Come meet me at "
+"the cubicles! ^^"
+msgstr ""
+
+#. 仕事の習熟度は給与の格差を正当化するために使われる言い訳なんだって～
+#. ようするに今チョー忙しいかったからチョーありがたいってこと！家具はロビー、パワードスーツ工場、バイオドームにあるよ！
+msgctxt "HonkrOfficeFengShuiMid"
+msgid ""
+"Remember, unskilled labor is a myth used to justify poverty wages! Anyway, "
+"I'm like suuuper busy, but you can find the furniture in the Lobby, Mech "
+"Factory, and Museum! :3 You're like, super appreciated!"
+msgstr ""
+
+#. 昨日ネイルしたばっかなんだよね...... :( 美容が一番の労働カモ......)
+msgctxt "HonkrOfficeFengShuiStart"
+msgid ""
+"I really need help moving some stuff but like...I literally just got this "
+"manicure yesterday? :( Beauty really is such a heavy burden to bear..."
+msgstr ""
+
+#. どうでもいいことだけど...あんたたちお腹空いてんならプリモの高級レストランに行ってみたら？さっき渡したエンブレムがあれば入れるからさ。
+msgctxt "HonkrPrimosOpen"
+msgid ""
+"it's not like i care...but if you want to, like, i dunno, 'eat food' or "
+"whatever, you can use those emblem things to get into primo's fancy-pants "
+"restaurant."
+msgstr ""
+
+#. ん？？このボタンって何？「ニューゲーム＋」だって。
+msgctxt "HonkrProvieDefault"
+msgid "pffft, what is this? new game plus?"
+msgstr ""
+
+#. かわいいネコちゃんがたくさんいて、ぜんぜん時間がたりない～！！！！！！！！！！！！！！！ このふわふわの毛玉を自分の目で確かめて！
+msgctxt "HonkrRescute"
+msgid ""
+"heeeeeeeeeeeyyy~! oh. em. gee!! so many cute cats and so little time~!! :3  "
+"you should totes come check out these squishy little furballs for "
+"yourself~~!!"
+msgstr ""
+
+#. ダメだ、前髪が上手くまとまらない…ポマードを変えたからか？...仕方ねえ下ろすか。
+msgctxt "HonkrRikiDefault"
+msgid ""
+"I feel like I could pull off a pompadour, but it's so much gel...nah, I'm ok"
+msgstr ""
+
+#. 電灯がついたな！さっさと戻ってきてくれ、感謝のプレゼントがあるぜ！
+msgctxt "HonkrRollingBlackoutsEnd"
+msgid ""
+"eyyy the lights'r back on, nioce B) head back my way, i got a thank u "
+"present for ya. just cleaning the blood off it first"
+msgstr ""
+
+#. トンネル!!! トンネルがカッコいいぜ!!! ライトでクールに照らされてるじゃねえか！！！
+#. ヒンヤリしていてもっとクールだぜ…アボボギャグ…ギャッハッハ!！
+msgctxt "HonkrRollingBlackoutsFinal"
+msgid ""
+"TUNNEL!!! TUNNEL IS LIT!! LIT WITH LIGHTS!! but also lit like cool...hehe. "
+"Abobo make pun..."
+msgstr ""
+
+#. 観光客を驚かそうとしたら、電気全部消えちゃったんだけど。これって偶然なのか？
+msgctxt "HonkrRollingBlackoutsStart"
+msgid ""
+"bummer,,, I was about to mug some tourists and all the lights went out. :("
+msgstr ""
+
+#. このサイトに自分の写真を載せる人が全然居ないような気がします;-) ボクが、、、いや世の中はもっと見たいって思ってるはずだよ！
+msgctxt "HonkrSelfies"
+msgid ""
+"Methinks not enough people post photos of themselves on this site. ;-) Be "
+"the change I--I mean, the WORLD--wants to see......."
+msgstr ""
+
+#. なあ、みんな!!! ボイラー室でパーティを開くから、ジュースを持ってきておしゃべりしようぜ！ サムビィより
+msgctxt "HonkrThumby"
+msgid ""
+"Howdy, y'all!!! I heard some boiler room drama goin' around the "
+"school........we should share a juice box and converse!! ouo Your Pal, "
+"Thumby <3"
+msgstr ""
+
+#. なあ、みんな暇だったらゲーセンにきなよ！！！ヤクザと喧嘩するよりウルトラダンスライトアップベイベーリミックスの方が百倍楽しいからさ！ヤクザに本当のボスが誰か教えてやろうぜ！！
+msgctxt "HonkrTokenNonsenseEnd"
+msgid ""
+"hey guys, come back to the arcade when you get a chance...! i know you're "
+"way better at ~*ultra dance you light up my life baby remix vxx*~ than these"
+" punks!! show these yakuza who's boss!"
+msgstr ""
+
+#. ナイススコアだ！仕方ねぇからクラブに入れてやるぜ！
+msgctxt "HonkrTokenNonsenseEnd2"
+msgid "nice scorre! maybee i'll let u in2 da clubb noww."
+msgstr ""
+
+#. 僕が調べた限りだとYコインの両替機はヨコシン横丁、スカル質屋、おもちゃ屋前にあったはず。
+msgctxt "HonkrTokenNonsenseMid"
+msgid ""
+"you can find token machines in yokocho, the basement near the pawn shop, and"
+" in the toy district!"
+msgstr ""
+
+#. クラブに入りたいなら自分の力を証明しろ！さあグルーヴに乗ってビートを刻め！
+msgctxt "HonkrTokenNonsenseStart"
+msgid "prove yur wurth if yu want to ged in da clubb. lets cee sum mooves."
+msgstr ""
+
+#. 誰か！ゲームセンターに来てくれ！
+msgctxt "HonkrTokenNonsenseStart2"
+msgid "Hey guys, come see me at the video game district outside the arcade!"
+msgstr ""
+
+#. やあ、みんなどうしたんだ！オレこそがリバーシティ最高のアスリートだ。オレが生きてる内に記録は抜けないだろうが挑戦する心くらいは強く持っとけよな！
+msgctxt "HonkrTourDeCrash"
+msgid ""
+"yo yo what up!! river city's best athlete here ;) not tryna brag or nothin "
+"but i'd be rly surprised if anyone could beat my best time running thru the "
+"forest. just sayin B)"
+msgstr ""
+
+#. あてぃしのフォロワーを叩いた結果がこれだよww あんたたちの活躍よりもスキャンダルの方がネットで注目されててウケるwwwwwwww #ついスタ
+#. #GetHacked
+msgctxt "HonkrTsuiko"
+msgid ""
+"That's what you get for beating up my followers, losers. Though this short-"
+"lived scandal is probs the most attention you'll ever get online lmaooo "
+"#TsuikoStans #GetHacked"
+msgstr ""
+
+#. 学校にいる数十人くらいのフォロワーを救いたいんでしょ？正門は渡したエンブレムで開くと思うから使っていいよ。（許可したフォロワーのみ返信可能）
+msgctxt "HonkrTsuikoSchool"
+msgid ""
+"If you care about saving those simps over at that gross thing you call your "
+"school, you best use the emblems to open the front gate. Don't reply to "
+"this. kthxbyeee"
+msgstr ""
+
+#. オレはこのアプリに踊らされてる羊みたいな連中とは違うんだ..ただダウンタウンとアップタウンのロックダウンが解除されたことをみんなに知らせたかったんだ。
+msgctxt "HonkrUptownDowntown"
+msgid ""
+"for the record, im not one of you sheeple that use this app... i just wanted"
+" everyone to know downtown and uptown are open now."
+msgstr ""
+
+#. ワッツアップ！三和会タワーに殴り込みに行きたい人がいたらちょうど今玄関がフルオープンになってるから乗り込めるよ！以上。#hint
+msgctxt "HonkrYakuzaDoors"
+msgid ""
+"Wazzup y'all!! Kozuki here with another hot take!! ;D If anyone wanted to "
+"storm the yakuza's castle gates, those locked doors are open now. Juuuust "
+"sayin'~! #hinthint #nudgenudge"
+msgstr ""

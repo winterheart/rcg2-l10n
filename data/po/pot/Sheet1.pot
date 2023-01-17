@@ -1,0 +1,8770 @@
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: you@example.com\n"
+"POT-Creation-Date: 2023-01-17 02:43\n"
+"PO-Revision-Date: 2023-01-17 02:43\n"
+"Last-Translator: you <you@example.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. 左右の移動（スティック）
+msgctxt "ActionNamePS5_LeftStick_Horizontal"
+msgid "Move Left/Right (Stick)"
+msgstr ""
+
+#. 上下の移動（スティック）
+msgctxt "ActionNamePS5_LeftStick_Vertical"
+msgid "Move Up/Down (Stick)"
+msgstr ""
+
+#. タッチパッドボタン
+msgctxt "ActionNamePS5_Touchpad_Button"
+msgid "Touch Pad Button"
+msgstr ""
+
+#. タッチパッドボタン
+msgctxt "ActionNamePS5_touch_pad_button"
+msgid "Touch Pad Button"
+msgstr ""
+
+#. 左右の移動（スティック）
+msgctxt "ActionNameSwitch_LeftStick_Horizontal"
+msgid "Move Left/Right (Stick)"
+msgstr ""
+
+#. 上下の移動（スティック）
+msgctxt "ActionNameSwitch_LeftStick_Vertical"
+msgid "Move Up/Down (Stick)"
+msgstr ""
+
+#. ジャンプ
+msgctxt "ActionName_A"
+msgid "Jump"
+msgstr ""
+
+#. SP攻撃
+msgctxt "ActionName_B"
+msgid "Special Attack"
+msgstr ""
+
+#. 下へ移動
+msgctxt "ActionName_Down"
+msgid "Move Down"
+msgstr ""
+
+#. メニューを開く（オンライン）
+msgctxt "ActionName_LBumper"
+msgid "Cellphone (Online)"
+msgstr ""
+
+#. アシスト攻撃（左）
+msgctxt "ActionName_LBumper2"
+msgid "Recruit (Left Slot)"
+msgstr ""
+
+#. 左へ移動
+msgctxt "ActionName_Left"
+msgid "Move Left"
+msgstr ""
+
+#. 左右の移動（スティック操作）
+msgctxt "ActionName_LeftStick_Horizontal"
+msgid "Move Left/Right (Analog Stick)"
+msgstr ""
+
+#. 上下の移動（スティック操作）
+msgctxt "ActionName_LeftStick_Vertical"
+msgid "Move Up/Down (Analog Stick)"
+msgstr ""
+
+#. ガード
+msgctxt "ActionName_RBumper"
+msgid "Block"
+msgstr ""
+
+#. アシスト攻撃（右）
+msgctxt "ActionName_RBumper2"
+msgid "Recruit (Right Slot)"
+msgstr ""
+
+#. 右へ移動
+msgctxt "ActionName_Right"
+msgid "Move Right"
+msgstr ""
+
+#. クイックアイテムを使う
+msgctxt "ActionName_RightStick"
+msgid "Use Quick Item"
+msgstr ""
+
+#. クイックアイテムを選ぶ
+msgctxt "ActionName_RightStick_Horizontal"
+msgid "Select Quick Item"
+msgstr ""
+
+#. メニューを開く（マップ）
+msgctxt "ActionName_Select"
+msgid "Cellphone (GPS)"
+msgstr ""
+
+#. メニューを開く
+msgctxt "ActionName_Start"
+msgid "Cellphone (Menu)"
+msgstr ""
+
+#. 奥へ移動
+msgctxt "ActionName_Up"
+msgid "Move Up"
+msgstr ""
+
+#. 通常攻撃
+msgctxt "ActionName_X"
+msgid "Quick Attack"
+msgstr ""
+
+#. ヘヴィ攻撃
+msgctxt "ActionName_Y"
+msgid "Heavy Attack"
+msgstr ""
+
+#. アークシステムワークス【リバーシティガールズ２】 
+#. エンドユーザー向けライセンス契約
+#. 
+#. 最終更新日：2022年10月27日
+#. 
+#. Content:
+#. 1．契約当事者
+#. 2．プライバシー
+#. 3．ライセンスの前提条件
+#. 4．限定的利用ライセンス
+#. 5．権利帰属
+#. 6．期間
+#. 7．修正
+#. 8．本件ゲームの修正
+#. 9．ゲーム内通貨および仮想アイテム
+#. 10．ユーザーコンテンツ
+#. 11．オンライン上の行為
+#. 12．著作権に関するポリシー
+#. 13．第三者のコンテンツ
+#. 14．免責事項
+#. 15．インターネット
+#. 16．責任の制限
+#. 17．準拠法
+#. 18．裁判地
+#. 19．第三受益者
+#. 20．雑則
+#. 
+#. 本契約をよくお読みください。弊社のゲームまたはサービスにアクセスすることにより、お客様は、本契約に記載の一切の条件に拘束される旨、および参照により本契約に組み込まれることとなる一切の条件に拘束される旨に、同意したことになります。かかる条件のうち一部でも同意できないものがある場合には、弊社のゲームまたはサービスのアクセスまたは利用のいずれもできません。
+#. このエンドユーザー向けライセンス契約（「本契約」）は、お客様とアークシステムワークス株式会社（「ASW」）、ARC SYSTEM WORKS ASIA
+#. BRANCH（「ASWアジア」）のうち該当するもの（いずれの場合も、「アークシステムワークス」または「弊社」）との間の契約であって、お客様による【リバーシティガールズ2】（そのマルチプレイヤー部分、オンライン部分およびダウンロード部分、ならびに紙媒体または電子媒体の関連ドキュメントおよびコンテンツも含まれますが、これらに限定されるものではありません）（「本件ゲーム」）へのアクセスおよびその利用に適用されます。本件ゲームは、ライセンス許諾されるに過ぎず、売り渡されるものではありません。本契約は、本件ゲームまたはそのコピーについての著作権または所有権を付与するものではありません。お客様とアークシステムワークスとの間に他の製品またはサービスに関する別の契約が存する場合においても、本契約は、態様の如何を問わず、かかる契約の条件を変更するものではありません。お客様によるいかなる変更、追加または削除も、アークシステムワークスにより本条において明示的に拒絶されているものとします。
+#. 本件ゲームの一部である特定の機能および特性には、弊社から提示される追加条件（掲示料金、請求手続およびプロモーションに関する規則も含まれますが、これらに限定されるものではありません）が適用されることがあります。別段の記載がない限り、適用されるいかなる追加条件も、参照により本契約に組み込まれたことになります。本契約と何らかの追加条件との間に矛盾が生じた場合には、当該特定の機能および特性については、当該追加条件が優先するものとします。
+#. 
+#. 1. 契約当事者
+#. お客様との間に契約関係が生じることとなるアークシステムワークスの当事者は、お客様の居住地に応じて定まります。お客様が日本の居住者である場合、本契約の当事者は、お客様およびASWとなります。お客様がアジア（日本を除きます）の居住者である場合、本契約の当事者は、お客様およびASWアジアとなります。お客様が上記以外の居住者である場合、本契約の当事者は、お客様およびASWとなります。
+#. 
+#. 2. プライバシー
+#. 本件ゲームを通じて収集されるデータは、ASWにより日本において保持されます。詳しくは、ASWのプライバシーポリシー（https://www.arcsystemworks.jp/portal/privacy/jp/）をご確認ください。プライバシーポリシーでは、かかるデータの弊社による収集、利用および開示の方法等について説明がなされています。
+#. 
+#. 3. ライセンスの前提条件
+#. 本契約において許諾されるライセンスは、とりわけ以下に掲げる事項、および本契約に定められた他の一切の条件についてのお客様による完全な遵守が、前提条件となります。
+#. a) お客様がご自身の居住地における成人年齢に達していること
+#. 。お客様がご自身の居住地における成人年齢に達していない場合には、本契約および適用のある一切の追加条件に拘束される旨について、お客様の親または法定後見人による同意が必要となります。
+#. b) 本契約の一切の条件、および本件ゲームに適用される一切の追加条件について、お客様が同意しているとともに遵守していること。
+#. c)
+#. お客様による本件ゲームのアクセスおよび利用について、一定のセキュリティ措置の適用を受けること。これには、本件ゲームのシリアルコード登録、インターネットへの継続的アクセス、および一定のセキュリティ/デジタル権管理機能への同意も含まれますが、これらに限定されるものではありません。かかるセキュリティ措置への同意または完全な遵守がなされなかった場合には、お客様による本件ゲームの利用が部分的または完全に損なわれることがあります。
+#. d) お客様による本件ゲームのアクセスおよび利用が、適用のある一切の現地法令、国内法令および外国法令に従ったものであること。
+#. e)
+#. お客様による本件ゲームのアクセスおよび利用の場所が、本件ゲームの動作環境として予定され有効にライセンス認証を経たオペレーティングシステムが動作しているローカルコンピューター（「対象ハードウェア」）に限定されること。
+#. f)
+#. アイテムの購入及び使用は対象ハードウェアが動作するオペレーティングシステム及びプラットフォームの運営者が定めるネットワーク規約に同意する必要があります。購入したアイテムの使用権はアイテム毎に異なりますのでご確認下さい。別途明記されていない場合、ゲーム内ストアコンテンツの年齢制限はゲームの年齢制限に準じます。
+#. 
+#. 4. 限定的利用ライセンス
+#. a)
+#. 本契約の規定内容およびお客様によるその遵守を条件として、弊社は、適用のあるプラットフォーム利用規則または利用規約（該当のものがある場合）で許可された態様に限り、お客様の所有下または排他的管理下にある対象ハードウェア上でお客様の居住国において本契約の期間にわたり本件ゲームを利用するための非独占的、譲渡不可かつ限定的なライセンスをお客様に許諾します。本件ゲームのオリジナル版についてのいかなる更新版、追加版および置換版も、本契約に準拠するものとします。ただし、かかる更新版に別段のライセンス条件が付されている場合には、この限りではありません。
+#. b)
+#. 上記内容は、本件ゲームについてのお客様の権利のすべてを定めたものです。本件ゲームについての権利のうち本契約においてお客様に明示的に付与されていない一切のものは、弊社に留保されます。上記内容を制限することなく、お客様は、次のいずれの行為についても、自ら行わず、いかなる第三者にも許可せず、かついかなる第三者にも行わせないものとします。
+#. (i)
+#. 本件ゲームの頒布、コピー、ライセンス、貸与または販売（このライセンスまたは該当のプラットフォーム利用規則により明示的に許可されたものを除きます）、
+#. (ii) お客様ご自身の私的な非商業的利用以外を目的とした本件ゲームの利用、
+#. (iii) 本件ゲームについてのリバースエンジニアリング、逆コンパイル、逆アセンブル、またはソースコード抽出の試み、
+#. (iv) 本件ゲームの修正、改変、または派生物作成、
+#. (v) 本件ゲームにおける著作権表示、商標表示その他の権利帰属表示の削除、改変または不明瞭化、
+#. (vi) 予定された目的以外での本件ゲームの利用、
+#. (vii) お客様の所有下になくその排他的管理下にもない対象ハードウェア上での本件ゲームの利用、
+#. (viii) 本件ゲームにおけるセキュリティ措置の回避またはその試み、または
+#. (ix) 本件ゲームのオンライン機能へのアクセス時におけるお客様の地域の不明瞭化または隠ぺいの試み。
+#. 
+#. 5. 権利帰属
+#. 本件ゲームならびに本件ゲーム内に存するかまたは本件ゲームを通じて利用できる一切のコンテンツ（後に定義されるユーザーコンテンツを除きます）および他の素材（アークシステムワークスのロゴ、一切のデザイン、テキスト、グラフィックス、写真、情報、データ、ソフトウェア、サウンドファイル、本件ゲーム通貨および本件仮想アイテムその他のデータファイル、ならびにこれらを選別または整理したものも含まれますが、これに限定されるものではありません）は、アークシステムワークスまたはそのライセンサーに帰属する財産であって、著作権その他の知的財産に関する法律および条約で保護されています。本契約におけるいかなる別段の規定にもかかわらず、お客様は、本件ゲーム内に存するいかなるコンテンツ（本件ゲーム通貨および本件仮想アイテムも含まれますが、これらに限定されるものではありません）についてのいかなる所有権または著作権等もお客様に帰属しない旨に、同意しているものとします。
+#. 
+#. 6. 期間
+#. a)
+#. 第3条に掲げられた前提条件のお客様による充足により、本契約は、お客様が本件ゲームを利用する期間にわたり、完全に有効に存続するものとします。いずれの当事者も、理由の有無にかかわらず、合理的な事前通知により、いつでも本契約を解除できるものとします。お客様は、ご自身の保有下、保管下または管理下にある本件ゲームの一切のコピーを削除または破棄することにより、本契約を解除できるものとします。アークシステムワークスは、お客様による本件ゲームの利用の中止について、お客様および第三者のいずれに対しても、責任を負いません。
+#. b)
+#. お客様による本契約の条件への違反があった場合、アークシステムワークスは、自己の有する他のいかなる権利も制限することなく、本件ゲームについてのお客様に対するライセンスを即時に制限、停止または取り消す権利を有するものとします。
+#. c) 本契約が終了した場合、
+#. (i) 本件ゲームについてのお客様へのライセンスは、即時に失効するものとし、
+#. (ii) お客様は、いかなる料金の返金も受ける権利を有しません。
+#. これには、未消化の料金（該当のものがある場合）も含まれます。ただし、用法上の義務付けにより本件購入済みゲーム通貨が返金対象となる場合は、この限りではありません。
+#. d) 第4条(b)、第5条、第6条(d)、第8条、第10条、および第13条から第20条は、本契約の終了後も存続するものとします。
+#. 
+#. 7. 修正
+#. アークシステムワークスは、時期および理由の如何を問わず、その専ら自己の裁量により、本契約に変更または修正を加える権利を留保します。アークシステムワークスは、本契約に何らかの変更を加える場合には、当該変更について、1か月前までに通知するものとします。その方法は、本件ゲームを通じた告知などによるものとします。お客様は、かかる変更の効力発生日後も本件ゲームの利用を継続することにより、改訂後の本契約に同意したものとみなされます。
+#. 
+#. 8. 本件ゲームの修正
+#. アークシステムワークスは、合理的な事前通知により、本件ゲームまたはそのいかなる機能もしくは部分についても、一時的または永久的に修正しまたは中止する権利を留保します。なお、緊急事態または絶対的に必要な場合においては、かかる事前通知を要しないものとします。お客様は、本件ゲームまたはそのいかなる部分のいかなる修正、停止または中止についてもアークシステムワークスが責任を負わない旨に、同意しているものとします。
+#. i)
+#. アークシステムワークスは、適宜その単独の裁量により、かつ、お客様に対する何らの通知および責任なしに、本件ゲームの全部または一部およびこれらに関するお客様のアクセスもしくは利用について、修正、制約、制限、停止、取消しまたは終了（お客様のプレイデータのリセットを含みます）を実施することができます。修正には、自動のソフトウェア更新、アップグレードまたはコンテンツもしくはサービスの削除が含まれ、当該修正によりデータ、コンテンツ、機能または有用性が損なわれることがあります。
+#. ii)
+#. 本件ゲームには不具合が含まれることがあります。本件ゲームの主たる目的は、本件ゲームの動作に関するフィードバックを収集し、不具合を特定することにあります。アークシステムワークスは、本契約の条件上、お客様に対する技術サポートの提供義務を負うものではなく、また、本件ゲーム内に存在するエラーまたは不具合について修正を保証するものではありません。お客様は、法令に違反しない範囲において、データ、コンテンツ、機能もしくは有用性の喪失、またはご自身の対象ハードウェア、データもしくはソフトウェアの損傷のいずれについてもアークシステムワークスが責任を負わないことに、同意するものとします。本件ゲームへのアクセスおよび本件ゲームの利用は、すべてお客様の自己責任によります。
+#. iii)
+#. お客様は、本件ゲームへのアクセスおよび本件ゲームの利用に関するアークシステムワークスからの要請に協力することに同意するものとします。当該要請には、本件ゲームに関してお客様が発見したバグその他の問題についての報告要請が含まれます。
+#. iv)
+#. お客様は、本件ゲームに関係するいかなる提案、フィードバック、非公開データまたは非公開情報（画像、ゲームプレイまたはバグに関する情報も含まれますが、これらに限定されません）につき、アークシステムワークスの書面による事前同意なしにいかなる第三者に対しても漏えいまたは開示しないことに、同意するものとします。
+#. v)
+#. アークシステムワークスは、いかなる時点においても、その単独の裁量により、かつ、お客様に対する何らの通知および責任なしに、お客様のプレイデータ（レベル、アイテム等）をリセットできるものとします。
+#. 
+#. 9. ゲーム内通貨および仮想アイテム
+#. a) アークシステムワークスは、次の機能をお客様に提供することがあります。
+#. (i) ゲーム内通貨を使用するための限定的ライセンスを購入する機能（「本件購入済みゲーム通貨」）、
+#. (ii)
+#. 本件ゲームにおける特定のタスクの遂行によりゲーム内通貨（本件購入済みゲーム通貨と合わせて、「本件ゲーム通貨」）を使用するための限定的ライセンスを獲得する機能、および/または
+#. (iii)
+#. 本件ゲーム内でアークシステムワークスにより提供される仮想物品およびサービス（「本件仮想アイテム」）についての限定的ライセンスを獲得し、かつ/またはかかる限定的ライセンスを本件ゲーム通貨で購入する機能。
+#. アークシステムワークスは、かかるライセンスの購入または獲得の機能を提供する場合には、本契約の規定内容およびお客様によるその遵守を条件として、お客様に対し、かかる本件ゲーム通貨または本件仮想アイテム（場合に応じ該当するもの）をご自身の私的かつ非商用的な用途に使用するための非独占的、譲渡不可、取消可能かつ限定的な権利およびライセンスするものとします。
+#. b)
+#. 本件ゲーム通貨によって引き換えることのできるものは、本件ゲーム内で使用できる本件仮想アイテムに限られます。本件ゲーム通貨および本件仮想アイテムは、アークシステムワークスその他のいかなる人または法人においても、金銭、金銭的価値を有するものまたは金銭等価物へと引き換えることはできません。ただし、適用法による別段の義務付けがある場合は、この限りではありません。本件ゲーム通貨および本件仮想アイテムは、現実通貨と等価値を有するものではなく、現実通貨の代替となるものでもありません。アークシステムワークスその他のいかなる人その他の法人も、本件ゲーム通貨または本件仮想アイテムについて、有価物（現実通貨も含みます）への引換えの義務を負いません。お客様は、ゲーム内属性に対するかまたは本件ゲーム通貨および/もしくは本件仮想アイテムの知覚価値に対し影響を及ぼすおそれのある措置（適用法上禁止されているものを除きます）がアークシステムワークスによりいかなる時点であれ講じられることがある旨について、確認し同意しているものとします。アークシステムワークスは、その専ら自己の裁量により、本件ゲーム通貨の購入量、獲得量または引換量に制限を加えることができるものとします。
+#. c)
+#. 本件購入済みゲーム通貨のいかなる購入も、確定的なものであって、状況の如何を問わず返金不可、譲渡不可かつ交換不可となります。ただし、適用法による別段の義務付けがある場合は、この限りではありません。本件購入済みゲーム通貨および一定の本件仮想アイテムの購入価格を除き、アークシステムワークスは、本件ゲーム通貨または本件仮想アイテムのアクセス、使用または不使用について課金をすることはありません。
+#. d)
+#. お客様による本件ゲーム通貨または本件仮想アイテムの譲渡、売却、贈与、交換、取引、リース、再許諾または貸借等の処分は、いずれも禁止されています。ただし、本件ゲーム内において、かつアークシステムワークスにより明示的に許可されている場合については、この限りではありません。本契約における別段の合意がある場合を除き、本件ゲーム通貨および本件仮想アイテムについていかなる権利、権原および権益も、アークシステムワークスに留保されるとともに、引き続きアークシステムワークスに帰属します。
+#. e)
+#. 本件ゲーム通貨および本件仮想アイテムについて本契約上でのライセンスは、第6条に基づく本契約の終了時に失効するものとします。ただし、本契約に別段の定めがある場合は、この限りではありません。
+#. 
+#. 10. ユーザーコンテンツ
+#. 何らかの通信、情報、知的財産、素材、メッセージ、写真、グラフィックス、動画、URLその他の事項またはコンテンツを本件ゲームに投稿すること（「ユーザーコンテンツ」）により、現地の適用法上許容される限りにおいて、お客様は、ご自身へのさらなる通知または対価のいずれもなしに、該当の知的財産権の法的保護の全期間にわたり本件ゲーム、関係物品および関係サービスに関連してユーザーコンテンツを利用するための非独占的、無償、完全に譲渡可能かつ再許諾可能でかつ全世界対象のライセンスを、本契約によりアークシステムワークスに対し許諾したことになります。これには、既知であるか今後考案されるかを問わずあらゆる方法および媒体による複製、複写、翻案、修正、実施、派生物作成、表示、公表、放映、伝送その他の方法による利用、配布、活用および公開の権利も含まれます。適用法上許容される限りにおいて、お客様は、適用法上、本件ゲームならびに関係物品およびサービスに関連するアークシステムワークスおよび他のプレイヤーによる当該資産の利用および享受について、氏名表示、公表、同一性の保持および名誉を傷つけない事に関する一切の著作者人格権を本契約により放棄するものとします。アークシステムワークスに許諾されたライセンスは、本契約のいかなる終了または取消しの後においても、存続するものとします。
+#. 
+#. 11. オンライン上の行為
+#. アークシステムワークスの故意または重過失による場合を除き、アークシステムワークスは、いかなるユーザーの行為についても、それが本件ゲームのアクセスまたは利用に関係する否かにかかわらず、何らの責務または責任も負いません。アークシステムワークスは、お客様が本第12条の規定その他本契約の何らかの条件に違反した場合には、いつでもお客様による本件ゲームへのアクセス権を停止しまたは失効させることができるものとします。アークシステムワークスは、本件ゲームにおいてアップロード、公表、保存または表示（以下「投稿」）のなされたいかなるユーザーコンテンツについても、（たとえば著作権者からの請求に対する対応として）審査することができるものとします。ただし、本件ゲーム内のプライベートメッセージの一部としてシェアされたユーザーコンテンツについては、アークシステムワークスは、少なくとも当該通信の一方からその内容が（たとえば、好ましくないメッセージとしてアークシステムワークスへの通報により）提出された場合を除き、その内容のスクリーニングまたは審査のいずれも実施しません。アークシステムワークスは、いかなるユーザーコンテンツについても、削除する権利およびオンライン化を拒否する権利を有します。アークシステムワークスは、本件ゲームに投稿されたユーザーコンテンツのいずれについても、日常的にスクリーニング、編集または監視を行うわけではありません。ただし、アークシステムワークスは、本件ゲームを通じて投稿されたいかなるユーザーコンテンツについても、それが本契約に違反し、第三者の権利を侵害し、かつ/または適用のある法律、規則もしくは規制に違反するとの判断を自己の合理的裁量により下した場合には、削除、スクリーニングまたは編集を行う権利を留保するとともに、かかる措置について絶対的裁量を有するものとします。お客様は、本件ゲームについて過去に利用停止処分または退会処分を受けたことがある場合には、本件ゲームを利用することができません。お客様は、自らが投稿しまたはユーザーもしくは第三者に送信した一切のユーザーコンテンツについて、単独で責任を負うものとします。とりわけ、お客様は、本件ゲームに関連して以下のいずれの行為についても、自ら行わないこと、試みないこと、かつ他者に行わせないことについて、同意しているものとします。
+#. a)
+#. 不法、誹謗、中傷、不快、わいせつ、卑猥、下品、低俗、淫ら、露骨な性表現、いやがらせ、脅迫、プライバシー権侵害、パブリシティ権侵害、悪態、扇動もしくは詐欺に当たるユーザーコンテンツ、不法その他の反社会的な行為（ハッキングも含まれます）を助長しもしくは促進するユーザーコンテンツ、何らかの集団もしくは個人に対する人種差別、偏見、物理的危害その他の危害を助長するユーザーコンテンツまたは他の何らかの点で好ましくないユーザーコンテンツを投稿すること。
+#. b) 何らかの人その他の法人の特許、商標、営業秘密、著作権その他の知的財産権または専有財産権を侵害するおそれのあるユーザーコンテンツを投稿すること。
+#. c) 商業的活動または商取引（商業目的の広告または勧誘の伝送も含まれます）に関与すること。
+#. d) いかなる者（ご自身も含まれます）に関するものであれ、個人情報を入力、開示または配布すること。
+#. e)
+#. 何らかの人その他の法人（アークシステムワークスの役員、フォーラムリーダー、ガイド、ホスト、従業員または代理人も含まれます）になりすますこと、またはお客様と何らかの人その他の法人との関係性について詐称しその他何らかの方法で不実の表示をすること。
+#. f)
+#. 本件ゲーム、その通常のプレイもしくは会話の流れを妨害もしくは阻害し、または下品なことば、ののしり、過剰な叫び声（全部大文字など）、「スパム行為」もしくは本件ゲームの他のユーザーを害する他の何らかの妨害的もしくは有害な方法を用いること。
+#. g)
+#. バグ、エラーその他の設計上の瑕疵を利用または活用することにより、本件ゲームに対する不正なアクセス権を取得し、他のプレイヤーとの関係で不当に有利な状況を獲得し、または本件ゲームに関連してチート行為もしくは不正利用を行うこと。かかる行為には、本件ゲームのうちアクセス権限を有しない部分にアクセスすること、またはボット、エミュレーターその他の不正なサードパーティ製ツールを用いることも含まれますが、これらに限定されるものではありません。
+#. h)
+#. 本件ゲームのルールに則った他のユーザーによる本件ゲームのプレイの享受を妨害することとなるかまたはその全ユーザーによる享受のための本件ゲームの維持に際してのアークシステムワークスもしくはプラットフォームプロバイダーにおける費用もしくは支障を増加させることとなる何らかの行為をすること。
+#. i)
+#. オンラインプレイ中に意図的にネットワークを切断し、または他の一定のプレイヤーに繰り返し負かされるようにすることで当該プレイヤーのランキングの上昇もしくは本件ゲーム内でのカウント獲得を助けること。
+#. j) 本件仮想アイテムまたは本件ゲーム通貨について、本件ゲーム外において取引、売却、オークションその他の譲渡を行うかまたは譲渡を試みること。
+#. k) 上記のほか、本契約の規定その他アークシステムワークスから告知されたポリシーに違反するか、またはアークシステムワークスに責任を負わせること。
+#. 
+#. 12. 著作権に関するポリシー
+#. 著作権者またはその代理人は、自らの保有下または管理下にある著作権が本件ゲーム内の何らかのものにより侵害されていると判断した場合には、後述するところに従い、弊社指定の著作権代理人に対し、当該侵害に関する通知を提出することができます。アークシステムワークスは、第三者の知的財産権の侵害を繰り返したユーザーについて、状況に応じ適切な場合に、アークシステムワークスの専ら自己の裁量により、アカウントを削除するという方針を採用しています。ただし、アークシステムワークスは、他者の知的財産権を侵害したユーザーについて、侵害が繰り返されたか否かにかかわらず、本件ゲームへのアクセスを制限しまたは停止することもあります。
+#. アークシステムワークス株式会社
+#. 名宛人：管理部長
+#. 日本国
+#. 〒222-0033
+#. 神奈川県横浜市港北区新横浜2-3-9 新横浜金子ビル
+#. +81-45-470-1550（電話）
+#. +81-45-470-1551（ファックス）
+#. copyright@arcsy.co.jp
+#. 
+#. 13. 第三者のコンテンツ
+#. 本件ゲームを通じ、何らかのユーザー、広告主その他の第三者のコンテンツがお客様に提供されることがあります。弊社は、第三者のコンテンツを管理しておりません。そのため、お客様は、アークシステムワークスの故意または重過失による場合を除き、いかなる第三者のコンテンツについても弊社が責任を負わないこと、第三者のコンテンツに含まれる情報の正確性または品質のいずれに関しても弊社が保証しないこと、また第三者のコンテンツのうち意図しないもの、好ましくないもの、不正確なもの、誤解を招くものまたは不法なもののいずれについても弊社が責任を負わないことに、同意しているものとします。商号、商標、メーカー、サプライヤーその他によるいかなる製品、サービス、プロセスその他の情報についての言及も、これらについてアークシステムワークスによる是認、後援もしくは推奨または提携関係を意味するものではなく、これらを黙示するものでもありません。ただし、アークシステムワークスによる明示がある場合は、この限りではありません。
+#. 
+#. 14. 免責事項
+#. お客様は、お客様による本件ゲームのアクセスもしくは利用に影響を及ぼすウイルスその他の無効化機能、または本件ゲーム、他のサービスおよび対象ハードウェアの間における互換性の欠如のいずれについても、アークシステムワークスならびにそのライセンサーおよびサプライヤーが責務または責任のいずれも負わない旨を、確認し同意しているものとします。本件ゲームその他の一切のサービスは、「現状有姿」で提供されます。本契約に定めのある場合を除き、アークシステムワークスおよびにそのライセンサーならびにサプライヤーは、いかなる種類の保証または条件（明示または黙示を問わず、法律その他のいかなる根拠によるものであるかも問いません）も明確に否認します。これには、非侵害、商品性または特定目的への適合性に関する黙示的保証も含まれますが、これらに限定されるものではありません。
+#. 国によっては、消費者契約における黙示的条件の否認または保証もしくは担保の排除もしくは制限が許されていないことから、本条における免責事項の一部または全部がお客様に適用されないことがあります。
+#. 
+#. 15. インターネット
+#. お客様は、本件ゲームに関連する何らかの通信または処理の開始、実施または完了の正確性または適時性の観点においてお客様が遭遇するいかなる遅延または不具合についてもアークシステムワークスが責務または責任のいずれも負わない旨を、確認し同意しているものとします。また、アークシステムワークスは、本件ゲームのオンライン部分、マルチプレイヤー部分またはダウンロード部分について、お客様の希望する時点でお客様によるアクセスが可能である旨のいずれも約束または保証できず、かかる約束または保証をすることもありません。本件ゲームの当該部分にアクセスできない状況が長期間にわたって生じることもあります。アークシステムワークスは、本件ゲームのオンライン部分、マルチプレイヤー部分またはダウンロード部分のいずれの動作についても、中断がないこと、エラーが存しないこと、セキュアであることまたはウイルスが存しないことのいずれも保証せず、いずれのサーバーの動作継続または可用性についても保証しません。
+#. 
+#. 16. 責任の制限
+#. 次に掲げるものを除き、いかなる場合も、アークシステムワークスまたはその子会社、関係会社、役員、従業員、代理人その他のパートナーおよびサプライヤーは、本件ゲームの利用もしくは利用不能、本件ゲームに含まれているかもしくは本件ゲームを通じてアクセスするコンテンツの利用もしくは利用不能またはサポートサービスの不提供に起因するかまたは何らかの点で関係する間接損害、特別損害、派生的損害または懲罰的損害賠償その他利用機会の喪失または逸失利益など（これらに限定されるものではありません）のいかなる損害についても、それが契約、不法行為（過失も含まれます）その他のいかなる根拠による訴えであるかを問わず、責任を負いません。
+#. (1) アークシステムワークスの過失に起因する死亡または人身傷害、
+#. (2) アークシステムワークスによる詐欺または欺まん的不実表示、
+#. (3) アークシステムワークスによる故意行為または重過失、
+#. (4) 本件ゲームの利用に起因する有形動産の滅失または損傷、および 
+#. (5) 他の何らかの責任のうちその制限または排除が適用法上許されないもの。
+#. アークシステムワークスによる軽過失、通常の過失または本契約に基づく本質的義務の違反の場合、アークシステムワークスの責任は、お客様に生じた予見可能な直接損害に限定されるものとします。いかなる場合も、本件ゲームの利用もしくは利用不能または本契約に起因または関連するアークシステムワークスの責任の総額は、契約、保証、過失、製造物責任、厳格責任、知的財産侵害その他のいかなる理論に基づくものであるかを問わず、100ドル、またはこれを上回る場合においてはお客様による本件ゲームの利用のためにお客様からアークシステムワークスに支払われた金額を上限とします。本第17条は、お客様の居住地における法律上で契約による制限が許されていないいかなる強制的または法定の保証も、制限するものではありません。
+#. 
+#. 17. 準拠法
+#. 適用法上の義務付けがある限りにおいて、本契約の一切の条件および条項は、本第20条に定める準拠法と矛盾する場合といえども、適用のあるすべての強行法規に準拠し、かかる法規に従って解釈されるものとします。いかなる場合も、本第20条において企図された準拠法に基づく本契約の条件の適用、解釈または執行により、適用のある消費者保護法に基づき消費者たるお客様に付与された何らかの権利について、排除、制限その他の限定がなされることはありません。お客様の行為は、現地法、国内法および国際法の適用を受けることもありますので、その旨ご留意ください。各当事者は、本契約に起因するいかなる紛争または取引にも国際物品売買契約に関する国際連合条約が適用されない旨に、合意しているものとします。
+#. a) 日本の居住者たるお客様には、以下が適用されます。
+#. 本契約に起因または関連する両当事者間のいかなる紛争も、本契約および日本法に準拠するものとします。ただし、抵触法原則のうち他国の法律の適用を生じさせることとなるものは、効力を有しないものとします。
+#. b) アジア（日本を除きます）の居住者たるお客様には、以下が適用されます。
+#. 本契約に起因または関連する両当事者間のいかなる紛争も、本契約および韓国法に準拠するものとします。ただし、抵触法原則のうち他国の法律の適用を生じさせることとなるものは、効力を有しないものとします。
+#. c) 上記以外の地域の居住者たるお客様には、以下が適用されます。
+#. 本契約に起因または関連する両当事者間のいかなる紛争も、本契約および日本法に準拠するものとします。ただし、抵触法原則のうち他国の法律の適用を生じさせることとなるものは、効力を有しないものとします。
+#. 
+#. 18. 裁判地
+#. a) 日本の居住者たるお客様には、以下が適用されます。
+#. 本契約に起因または関連する当事者間のいかなる紛争も、東京地方裁判所において解決されるものとし、お客様およびASWは、同裁判所の専属的裁判管轄権に服することについて、合意しているものとします。
+#. b) アジア（日本を除きます）の居住者たるお客様には、以下が適用されます。
+#. 本契約に起因または関連する当事者間のいかなる紛争も、ソウル中央地方法院において解決されるものとし、お客様およびASWアジアは、同裁判所の専属的裁判管轄権に服することについて、合意しているものとします。
+#. c) 上記以外の地域の居住者たるお客様には、以下が適用されます。
+#. 本契約に起因または関連する当事者間のいかなる紛争も、東京地方裁判所において解決されるものとし、お客様およびASWAは、上記裁判所の専属的裁判管轄に服することについて、合意しているものとします。
+#. 
+#. 19. 第三受益者
+#. 本契約の当事者以外のいかなる人その他の法主体も、いかなる法律においてであれ、本契約のいかなる規定も行使する権利を有しません。これは、かかる人その他の法主体の名指しがある場合においても、同様とします。本条のいずれの規定も、本契約について許可された譲受人または被移転者のいずれの権利にも影響を及ぼすものではありません。
+#. 
+#. 20. 雑則
+#. 本契約は、本件ゲームの利用に関してお客様とアークシステムワークスとの間の合意内容のすべてを余すところなく記載したものです。本契約の何らかの条項が無効または執行不能と判断された場合においても、当該条項により本契約における本質的義務が本契約から失われることとなる場合を除き、本契約の残余部分は、その残余期間その他第6条(d)に記載の期間にわたり、引き続き完全な効力を有するものとします。お客様は、アークシステムワークスの書面による事前同意を得ない限り、本契約または本契約に基づく自己の権利のいずれも、譲渡することはできません。かかる同意を得ることなく試みられたいかなる譲渡も、無効とします。上述の制約内容を条件として、本契約は、弊社およびその各々の承継人および譲受人に対し完全な拘束力を有し、これらの者の利益のために効力を生じ、かつこれらの者により行使できるものとします。本契約における何らかの権利または条項についてアークシステムワークスによる行使または履行強制がなされなかった場合においても、当該権利または条項が放棄されたことにはなりません。本契約の条文見だしは、便宜のみを目的とするものであって、何らの法律上または契約上の効果も有しないものとします。
+#. 
+#. ASWへのお問い合わせの場合には、弊社の製品サポート
+#. （https://www.arcsystemworks.jp/support/）に記載された手順に従ってください。
+#. ASWAへのお問い合わせの場合には、ASWAのContact窓口
+#. （https://arcsystemworks.com/contact/）にご連絡ください。
+#. ASWアジアへのお問い合わせの場合には、ASWアジアのContact窓口
+#. 韓国語　http://www.arcsystemworks.asia/formmail/formmail.php
+#. 中国語　http://www.arcsystemworks.asia/formmail/formmail_zh.php
+#. を通じてご連絡ください。
+#. アークシステムワークス株式会社 プライバシーポリシー（個人情報保護方針）
+#. https://www.arcsystemworks.jp/portal/privacy/jp/
+#. 
+msgctxt "ArcEula_Body"
+msgid ""
+"WAYFORWARD TECHNOLOGIES [River City Girls 2] \n"
+"END USER LICENSE AGREEMENT\n"
+"\n"
+"Last Updated：October 27, 2022\n"
+"\n"
+"Contents:\n"
+"1．CONTRACTING PARTY.\n"
+"2．PRIVACY\n"
+"3．PRECONDITIONS OF THE LICENSES.\n"
+"4．LIMITED USE LICENSE\n"
+"5．OWNERSHIP\n"
+"6．TERM\n"
+"7．AMENDMENTS\n"
+"8．MODIFICATION OF THE GAME\n"
+"9．IN-GAME CURRENCY AND VIRTUAL ITEMS\n"
+"10．USER CONTENT\n"
+"11．ONLINE CONDUCT\n"
+"12．COPYRIGHT POLICY\n"
+"13．THIRD PARTY CONTENT \n"
+"14．DISCLAIMER\n"
+"15．INTERNET\n"
+"16．LIMITATION ON LIABILITY\n"
+"17．GOVERNING LAW\n"
+"18．VENUE\n"
+"19．THIRD-PARTY BENEFICIARIES\n"
+"20．MISCELLANEOUS\n"
+"\n"
+"PLEASE READ THIS AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR GAMES OR SERVICES, YOU AGREE TO BE BOUND BY ALL TERMS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE OUR GAMES OR SERVICES.\n"
+"This End User License Agreement (this \"\"Agreement\"\") is a contract between you and WAYFORWARD TECHNOLOGIES (“WF”) as applicable (\"\"WAYFORWARD\"\", \"\"us\"\", \"\"we\"\" or \"\"our\"\") and applies to your access to, and use of, [River City Girls 2], including, without limitation, any multi-player, online, or downloadable portions thereof and any related written or electronic documentation or content (the “Game”). The Game is licensed, and not sold, and this Agreement confers no title or ownership to the Game or any copy thereof. This Agreement does not alter in any way the terms or conditions of any other agreement you may have with WAYFORWARD TECHNOLOGIES for other products or services. Any changes, additions, or deletions by you are not acceptable, and are hereby expressly rejected by WAYFORWARD TECHNOLOGIES.\n"
+"Additional terms provided by us (including, but not limited to, posted fees, billing procedures, and promotion rules) may apply to particular functionalities and features that are part of the Game. Unless otherwise indicated, any additional applicable terms are incorporated by reference into this Agreement. In the event of a conflict between this Agreement and any additional terms, the additional terms shall govern with respect to such particular functionalities and features.  \n"
+"\n"
+"1. CONTRACTING PARTY. \n"
+"This Agreement is between you and WAYFORWARD TECHNOLOGIES.\n"
+"\n"
+"2. PRIVACY\n"
+"Data collected through this Game is held by WF in the United States of America. For more information, please refer to WF’s Privacy Policy (https://www.arcsystemworks.jp/portal/privacy/en/) for information about how we collect, use, and disclose such data.\n"
+"\n"
+"3. PRECONDITIONS OF THE LICENSES.\n"
+"The licenses granted in this Agreement are specifically conditioned upon the following and your full compliance with all other terms and conditions set forth in this Agreement:\n"
+"a) You have reached the age of majority in your jurisdiction. If you are under the age of majority in your jurisdiction, your parent or legal guardian must agree to be bound by this Agreement and any applicable additional terms; \n"
+"b) You agree to and comply with all of the terms in this Agreement, and any additional terms as may be applicable to the Game;\n"
+"c) Your access and use of the Game is subject to certain security measures, including, without limitation, registering the Game with a serial code, having continuous access to the Internet, and accepting certain security/digital rights management features. Failure to accept and fully-comply with such security measures may partially or completely impair your use of the Game.\n"
+"d) Your access and use of the Game is in accordance with all applicable local, state, national, and foreign laws and regulations.\n"
+"e) You access and use the Game only on local machines, running validly licensed copies of operating systems on which the Game was designed to operate (the “Hardware”);\n"
+"f) Purchase and use of items are subject to the Network Terms of Service and User Agreement set by each platform operator of Hardware. This online service has been sublicensed to you by each platform operator.  Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.\n"
+"\n"
+"4. LIMITED USE LICENSE\n"
+"a) Subject to the terms of this Agreement and your compliance with these terms, we grant you a non-exclusive, non-transferable, limited license to use the Game for the term of the Agreement in your country of residence, on Hardware that you own or exclusively control and solely as permitted by the applicable platform usage rules or terms of use (if any). Any updates, supplements or replacements to the original Game are governed by this Agreement unless separate license terms accompany such update.\n"
+"b) The preceding states the entirety of your rights with respect to the Game, and we reserve all rights in and to the Game not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following:\n"
+"(i) distribute, copy, license, rent, or sell the Game (except as expressly permitted by this license or the applicable platform usage rules); \n"
+"(ii) use the Game for any purpose other than your own personal, noncommercial use; \n"
+"(iii) reverse engineer, decompile, disassemble, or attempt to discover the source code for the Game; \n"
+"(iv) modify, alter, or create any derivative works of the Game; \n"
+"(v) remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on or in the Game; \n"
+"(vi) use the Game for purposes for which it is not designed; \n"
+"(vii) use the Game on any Hardware that you do not own or exclusively control; \n"
+"(viii) circumvent, or attempt to circumvent, any security measures in the Game; or \n"
+"(ix) attempt to obscure or mask your region when accessing any online features of the Game.\n"
+"\n"
+"5. OWNERSHIP\n"
+"The Game and all content (other than User Content, as defined below) and other materials in the Game or available through the Game, including, without limitation, the WAYFORWARD TECHNOLOGIES logo, and all designs, text, graphics, pictures, information, data, software, sound files, Game Currency, Virtual Items, other files and the selection and arrangement thereof are the property of WAYFORWARD TECHNOLOGIES or its licensors and are protected by copyright and other intellectual property laws and treaties. Notwithstanding any provision to the contrary herein, you agree that you have no right or title in or to any content that appears in the Game, including without limitation any Game Currency and Virtual Items.\n"
+"\n"
+"6. TERM \n"
+"a) Subject to your satisfaction of the preconditions set forth in Section 3, this Agreement will remain in full force and effect while you use the Game. Either party may terminate this Agreement with or without cause at any time with reasonable prior notice. You may terminate this Agreement by deleting or destroying all copies of the Game in your possession, custody, or control. WAYFORWARD TECHNOLOGIES shall not be liable to you or any third party for termination of your use of the Game.\n"
+"b) Without limiting any other rights of WAYFORWARD TECHNOLOGIES, if you fail to comply with the terms and conditions of this Agreement, WAYFORWARD TECHNOLOGIES retains the right to immediately limit, suspend, or terminate your license to the Game.\n"
+"c) Upon termination of this Agreement:\n"
+"(i) your license to the Game shall cease immediately; and \n"
+"(ii) you will not be entitled to a refund of any fees, including any unused fees, if any, except for Purchased Game Currency refunded as required by applicable law.\n"
+"d) Section 4(b), 5, 6(d), 8, 10, 13-20 shall survive termination of this Agreement.\n"
+"\n"
+"7. AMENDMENTS\n"
+"WAYFORWARD TECHNOLOGIES reserves the right to change or modify this Agreement at any time and for any reason at WAYFORWARD TECHNOLOGIES’s sole discretion. If WAYFORWARD TECHNOLOGIES makes changes to this Agreement, we will provide one month prior notice of such changes, such as by providing notice through the Game. Your continued use of the Game after the effective date of such changes will confirm your acceptance of the revised Agreement.\n"
+"\n"
+"8. MODIFICATION OF THE GAME\n"
+"WAYFORWARD TECHNOLOGIES reserves the right to modify or discontinue, temporarily or permanently, the Game or any features or portions thereof with prior reasonable notice and, in case of emergency or if absolutely necessary, without prior notice. You agree that WAYFORWARD TECHNOLOGIES will not be liable for any modification, suspension, or discontinuance of the Game or any part thereof. \n"
+"i) From time to time, WAYFORWARD TECHNOLOGIES, in its sole discretion, may modify, impose limits on, restrict, suspend, terminate, or discontinue the Game or any aspect of the Game and your access to and use thereof, including resetting your play data, without any notice or liability to you. Modifications may include automatic software updates, upgrades, or removal of content or services that may cause a loss of data, content, functionality, or utility.\n"
+"ii) The Game may contain defects, and a primary purpose of licensing the Game under this Agreement is for WAYFORWARD TECHNOLOGIES to obtain feedback on Game performance and identify defects. WAYFORWARD TECHNOLOGIES is under no obligation to provide technical support to you under the terms of this Agreement and provides no assurance that any specific errors or discrepancies in the Game will be corrected. You agree that, to the extent permitted by applicable law, WAYFORWARD TECHNOLOGIES is not liable for any loss of data, content, function, or utility or damage to your computer, data, and/or software. Your access to and use of the Game are entirely at your own risk.\n"
+"iii) You agree to cooperate with WAYFORWARD TECHNOLOGIES's requests related to your access to and use of the Game, including WAYFORWARD TECHNOLOGIES’s requests to report any bugs and other issues that you discover in or related to the Game.\n"
+"iv) You agree that you will not reveal or disclose any suggestions, feedback, or non-public data or information related to the Game (including, but not limited to, information about images, gameplay, or bugs in the Game) to any third parties without WAYFORWARD TECHNOLOGIES’s prior written consent.\n"
+"v) At any time, WAYFORWARD TECHNOLOGIES, in its sole discretion, may reset your play data (level, item) without any notice or liability to you.\n"
+"\n"
+"9. IN-GAME CURRENCY AND VIRTUAL ITEMS\n"
+"a) WAYFORWARD TECHNOLOGIES may offer you the ability to:\n"
+"(i) purchase a limited license to use in-game currency (“Purchased Game Currency”);\n"
+"(ii) earn a limited license to use in-game currency by performing specified tasks in the Game (together with the Purchased Game Currency, “Game Currency”); and/or \n"
+"(iii) earn a limited license, and/or purchase a limited license with Game Currency, to virtual goods and services made available by WAYFORWARD TECHNOLOGIES in the Game (“Virtual Items”). \n"
+"If WAYFORWARD TECHNOLOGIES offers the ability to purchase or earn such licenses, WAYFORWARD TECHNOLOGIES shall grant you a non-exclusive, non-transferable, revocable, limited right and license to use such Game Currency or Virtual Items, as applicable, for your personal, non-commercial use exclusively in the Game, subject to the terms of this Agreement and your compliance therewith.\n"
+"b) Game Currency may only be redeemed for Virtual Items for use in the Game and neither Game Currency nor Virtual Items are redeemable for money, any thing of monetary value, or for any monetary equivalent from WAYFORWARD TECHNOLOGIES or any other person or entity, except as otherwise required by applicable law. Game Currency and Virtual Items do not have an equivalent value in real currency and do not act as a substitute for real currency. Neither WAYFORWARD TECHNOLOGIES nor any other person or entity has any obligation to exchange Game Currency or Virtual Items for anything of value, including, but not limited to, real currency. You acknowledge and agree that WAYFORWARD TECHNOLOGIES may engage in actions that may impact the in-game attributes or perceived value of Game Currency and/or Virtual Items at any time, except as prohibited by applicable law. WAYFORWARD TECHNOLOGIES, in its sole discretion, may impose limits on the amount of Game Currency that may be purchased, earned, or redeemed.  \n"
+"c) All purchases of Purchased Game Currency are final and are not refundable, transferable, or exchangeable under any circumstances, except as otherwise required by applicable law.  Except for the purchase price of Purchased Game Currency and certain Virtual Items, WAYFORWARD TECHNOLOGIES does not charge any fees for the access, use, or non-use of Game Currency or Virtual Items.\n"
+"d) You may not transfer, sell, gift, exchange, trade, lease, sublicense, or rent Game Currency or Virtual Items except in the Game and as expressly permitted by WAYFORWARD TECHNOLOGIES. Except as otherwise agreed herein, WAYFORWARD TECHNOLOGIES reserves and retains all rights, title, and interest in and to the Game Currency and Virtual Items.\n"
+"e) The licenses granted hereunder to Game Currency and Virtual Items will terminate upon termination of this Agreement in accordance with Section 6, except as otherwise provided herein.\n"
+"\n"
+"10. USER CONTENT\n"
+"By posting any communication, information, intellectual property, material, messages, photos, graphics, videos, URLs, and other items or content to the Game (“User Content”), to the extent permitted by applicable local law, you hereby grant WAYFORWARD TECHNOLOGIES a non-exclusive, royalty-free, fully transferable and sub-licensable worldwide license for the whole duration of the applicable legal protection of intellectual rights to use the User Content in connection with the Game and related goods and services including the rights to reproduce, copy, adapt, modify, perform, create derivative works from, display, publish, broadcast, transmit, or otherwise use, distribute, exploit and communicate to the public by any and all means and media whether now known or hereafter devised without any further notice or compensation of any kind to you. To the extent permitted by applicable law, you hereby waive any moral rights of paternity, publication, reputation, or attribution with respect to WAYFORWARD TECHNOLOGIES’s and other players’ use and enjoyment of such assets in connection with the Game and related goods and services under applicable law. The license grant to WAYFORWARD TECHNOLOGIES survives any termination or revocation of this Agreement.\n"
+"\n"
+"11. ONLINE CONDUCT\n"
+"Unless through the intentional fault or gross negligence of WAYFORWARD TECHNOLOGIES, WAYFORWARD TECHNOLOGIES is not responsible or liable for the conduct of any users, whether or not such conduct relates to the access or use of the Game. WAYFORWARD TECHNOLOGIES may suspend or terminate your access to the Game at any time if you violate the terms of this Section 12 or any other terms and conditions of this Agreement. WAYFORWARD TECHNOLOGIES may (for example in response to a claim from a copyright owner) review any User Content that is uploaded, published, stored, or displayed on the Game (hereinafter, \"\"posted\"\") provided that in the case of User Content shared as a part of any private message within the Game, WAYFORWARD TECHNOLOGIES will not screen or review such content unless at least one party to the communication grants its consent (e.g. by reporting the message to WAYFORWARD TECHNOLOGIES as objectionable). WAYFORWARD TECHNOLOGIES reserves the right to delete or refuse to take online any User Content. Although WAYFORWARD TECHNOLOGIES does not regularly screen, edit, or monitor any of the User Content posted on the Game, WAYFORWARD TECHNOLOGIES reserves the right, and has absolute discretion, to remove, screen, or edit any User Content posted through the Game if WAYFORWARD TECHNOLOGIES determines in its reasonable discretion that such User Content violates this Agreement and/or any third party right, applicable law, rule, or regulation. You may not use the Game if you have previously been suspended or removed from the Game. You are solely responsible for any User Content that you post or transmit to any users or third parties. Specifically, you agree not to do, attempt to do, or cause another to do any of the following in connection with the Game:\n"
+"a) post any User Content that is unlawful, libelous, defamatory, offensive, obscene, pornographic, indecent, vulgar, lewd, sexually explicit, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, or fraudulent; promotes or encourages any illegal or other antisocial activity, including hacking; promotes racism, bigotry, hatred, or physical or other harm of any kind against any group or individual or is otherwise objectionable;\n"
+"b) post any User Content that may infringe any patent, trademark, trade secret, copyright, or other intellectual or proprietary right of any person or entity;\n"
+"c) engage in commercial activities or commercial sales, including transmission of any commercial advertisements or solicitations;\n"
+"d) enter, disclose or disseminate any personal information about anyone (including you);\n"
+"e) impersonate any person or entity, including any WAYFORWARD TECHNOLOGIES officials, forum leaders, guides, hosts, employees, or agents, or falsely state or otherwise misrepresent your affiliation with a person or entity;\n"
+"f) impede or disrupt the Game or the normal flow of Game play or dialogue or use vulgar language, abusiveness, excessive shouting (e.g., ALL CAPS), “spamming,” or any other disruptive or detrimental methods that disturb other users of the Game;\n"
+"g) use or exploit any bugs, errors, or design flaws to obtain unauthorized access to the Game, to gain an unfair advantage over other players, or to cheat or utilize unauthorized exploits in connection with the Game, including but not limited to accessing portions of the Game that you are not authorized to access and using any bots, emulators, or other unauthorized third party tools;\n"
+"h) do anything that interferes with the ability of other users to enjoy playing the Game in accordance with its rules or that materially increases the expense or difficulty of WAYFORWARD TECHNOLOGIES or the platform provider in maintaining the Game for the enjoyment of all its users.\n"
+"i) intentionally disconnect from the network during online play or allow yourself to be defeated by a given player repeatedly to help boost their rankings or win counts in the Game.\n"
+"j) trade, sell, auction, or otherwise transfer or attempt to transfer any Virtual Items or Game Currency outside the Game;\n"
+"k) otherwise violates the terms of this Agreement, other policies communicated by WAYFORWARD TECHNOLOGIES, or creates liability for WAYFORWARD TECHNOLOGIES.\n"
+"\n"
+"12. COPYRIGHT POLICY\n"
+"Copyright owners or agents of copyright owners who believe that anything in the Game infringes upon any copyright owned or controlled by them, may submit a notification of such infringement with our designated Copyright Agent as set forth below. WAYFORWARD TECHNOLOGIES has adopted a policy of terminating, in appropriate circumstances and at WAYFORWARD TECHNOLOGIES’s sole discretion, users who are repeat infringers of the intellectual property rights of third parties. Provided however that, WAYFORWARD TECHNOLOGIES also may limit or terminate access to the Game of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.\n"
+"\n"
+"WAYFORWARD TECHNOLOGIES\n"
+"28738 The Old Road\n"
+"Valencia, CA 91355\n"
+"United States\n"
+"support@wayforward.com\n"
+"(661)420-4757\n"
+"\n"
+"13. THIRD PARTY CONTENT\n"
+"Content from any users, advertisers, and other third parties may be made available to you through the Game. Because we do not control third party content, you agree that unless due to intentional fault or gross negligence of WAYFORWARD TECHNOLOGIES, we are not responsible for any third party content, make no guarantees about the accuracy or quality of the information in third party content; and assume no responsibility for unintended, objectionable, inaccurate, misleading, or unlawful third party content. Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, by WAYFORWARD TECHNOLOGIES, except where expressly stated by WAYFORWARD TECHNOLOGIES.\n"
+"\n"
+"14. DISCLAIMER\n"
+"You acknowledge and agree that WAYFORWARD TECHNOLOGIES and its licensors and suppliers are not responsible or liable for any viruses or other disabling features that affect your access to or use of the game or any incompatibility among the game, other services, and hardware. The game and all other services are provided “as is.” Except as might be described herein, WAYFORWARD TECHNOLOGIES and its licensors and suppliers expressly disclaim all warranties or conditions of any kind (express or implied and arising by law or otherwise) including, without limitation, any implied warranties of non-infringement, merchantability, or fitness for a particular purpose. \n"
+"Some jurisdictions do not allow the disclaimer of implied terms nor the exclusion or limitation of warranties or guarantees in contracts with consumers, so some or all of the disclaimers in this section may not apply to you.\n"
+"\n"
+"15. INTERNET\n"
+"You acknowledge and agree that WAYFORWARD TECHNOLOGIES is not responsible or liable for any delays or failures you may experience in initiating, conducting, or completing any transmissions or transactions in connection with the game in an accurate or timely manner.\n"
+"Further, WAYFORWARD TECHNOLOGIES cannot and does not promise or ensure that you will be able to access the online, multi-player, or downloadable portions of the Game whenever you want, and there may be extended periods of time when you cannot access such portions of the Game. WAYFORWARD TECHNOLOGIES does not ensure continuous, error-free, secure, or virus-free operation of any online, multi-player, or downloadable portions of the Game or continued operation or availability of any given server.\n"
+"\n"
+"16. LIMITATION ON LIABILITY\n"
+"Except for\n"
+"(1) Death or personal injury caused by WAYFORWARD TECHNOLOGIES’ negligence,\n"
+"(2) Fraud or fraudulent misrepresentation by WAYFORWARD TECHNOLOGIES, \n"
+"(3) Intentional acts or gross negligence of WAYFORWARD TECHNOLOGIES, \n"
+"(4) Loss or destruction of tangible personal property caused by the use of the game, and \n"
+"(5) Any other liability which cannot be limited or excluded by applicable law,\n"
+"In no event shall WAYFORWARD TECHNOLOGIES or its subsidiaries, affiliates, officers, employees, agents, and other partners and suppliers be liable for any indirect, special, consequential or punitive damages, or any other damages including but not limited to loss of use, loss of profits, whether in an action in contract, tort (including negligence) or otherwise, arising out of or in any way connected with the use of or inability to use the game or the content contained in or accessed through the game or the failure to provide support services.\n"
+"In the event of slight or ordinary negligence, or breach of WAYFORWARD TECHNOLOGIES’s essential obligations under this agreement, WAYFORWARD TECHNOLOGIES’ liability shall be limited to direct and foreseeable damages suffered by you. In no event shall the aggregate liability of WAYFORWARD TECHNOLOGIES, whether in contract, warranty, tort, product liability, strict liability, intellectual property infringement or other theory, arising out of or relating to the use of or inability to use the game or to these terms exceed one hundred dollars ($100) or, if higher, the amount paid by you to WAYFORWARD TECHNOLOGIES for your use of the game. This section 17 does not limit any mandatory or statutory guarantees that cannot be limited by contract under the laws of your local jurisdiction.\n"
+"\n"
+"17. GOVERNING LAW\n"
+"To the extent required by applicable law, all terms and provisions of this Agreement shall be governed and construed in accordance with all applicable mandatory laws, even if inconsistent with the governing law set forth in this Section 20 and in no event shall the application, interpretation, or enforcement of the terms of this Agreement, under any jurisdictional law contemplated by this Section 20 exclude, limit, or otherwise restrict any rights vested with you, as a consumer, under any applicable consumer protection laws. Please note that your conduct may also be subject to other local, state, national, and international laws. The parties agree that the UN Convention on Contracts for the International Sale of Goods shall not apply to any dispute or transaction arising out of this Agreement.\n"
+"Any dispute between the parties arising from or relating to this Agreement, will be governed by this Agreement and the laws of the United States, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.\n"
+"\n"
+"18. VENUE\n"
+"Any dispute between the parties arising from or relating to this Agreement shall be decided by the United States District Court for the Central District of California, and you and WF agree to submit to the personal jurisdiction of that court.\n"
+"\n"
+"19. THIRD-PARTY BENEFICIARIES\n"
+"Any person or entity who is not a party to this Agreement shall have no rights under any law to enforce any terms of this Agreement, regardless of whether such person or entity has been identified by name. Nothing in this section shall affect the rights of any permitted assignee or transferee of this Agreement.\n"
+"\n"
+"20. MISCELLANEOUS\n"
+"This Agreement contains the entire agreement between you and WAYFORWARD TECHNOLOGIES regarding the use of the Game. If any provision of this Agreement is held invalid or unenforceable, the remainder of this Agreement shall continue in full force and effect for the remainder of the term, or as otherwise set forth in Section 6(d), except if such provision deprives the Agreement from its essential obligations. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of WAYFORWARD TECHNOLOGIES, and any attempted assignment without such consent shall be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by us and our respective successors and assigns. The failure of WAYFORWARD TECHNOLOGIES to exercise or enforce any right or provision of this Agreement shall not operate as a waiver of such right or provision. The section titles in this Agreement are for convenience only and have no legal or contractual effect.\n"
+"\n"
+"To contact WF, please follow the process described on our support page located at \n"
+"https://wayforward.com/support/\n"
+"\n"
+"WAYFORWARD TECHNOLOGIES PRIVACY POLICY\n"
+"https://wayforward.com/privacy/\n"
+"\n"
+"\n"
+msgstr ""
+
+#. エンドユーザー向けライセンス契約
+msgctxt "ArcEula_Title"
+msgid "END USER LICENSE AGREEMENT"
+msgstr ""
+
+#. ブロックリスト
+msgctxt "BlockList"
+msgid "Block List"
+msgstr ""
+
+#. このプレイヤーをブロックしますか？
+msgctxt "BlockList_ConfirmBlock"
+msgid "Are you sure you want to block this player?"
+msgstr ""
+
+#. プレイヤー {0} をブロックしますか？
+msgctxt "BlockList_ConfirmBlockSpecific"
+msgid "Are you sure you want to block {0}?"
+msgstr ""
+
+#. このプレイヤーをゲームからキックしますか？
+msgctxt "BlockList_ConfirmKick"
+msgid "Are you sure you want to kick this player?"
+msgstr ""
+
+#. プレイヤー {0} をゲームからキックしますか？
+msgctxt "BlockList_ConfirmKickSpecific"
+msgid "Are you sure you want to kick {0}?"
+msgstr ""
+
+#. このプレーヤーを通報しますか？
+msgctxt "BlockList_ConfirmReport"
+msgid "Report this player?"
+msgstr ""
+
+#. ブロックを解除しますか？
+msgctxt "BlockList_ConfirmUnblock"
+msgid "Unblock this player?"
+msgstr ""
+
+#. プレイヤー {0} のブロックを解除しますか？
+msgctxt "BlockList_ConfirmUnblockSpecific"
+msgid "Unblock {0}?"
+msgstr ""
+
+#. ブロックしたプレイヤーを閲覧する。
+msgctxt "BlockList_FooterMsg"
+msgid "View blocked players."
+msgstr ""
+
+#. プレイヤー {0} はゲームからブロックされました。
+msgctxt "BlockList_HasBeenBlocked"
+msgid "{0} has been blocked."
+msgstr ""
+
+#. プレイヤー {0} はゲームからキックされました。
+msgctxt "BlockList_HasBeenKicked"
+msgid "{0} has been kicked."
+msgstr ""
+
+#. プレイヤー {0} はブロックから解除されました。
+msgctxt "BlockList_HasBeenUnblocked"
+msgid "{0} has been unblocked."
+msgstr ""
+
+#. プレイヤーをブロックする。
+msgctxt "BlockPlayer"
+msgid "Block Player"
+msgstr ""
+
+#. このゲームからブロックされています。
+msgctxt "BlockedFromGame"
+msgid "You have been blocked from this game."
+msgstr ""
+
+#. ブロックしたプレイヤー
+msgctxt "BlockedPlayers"
+msgid "Blocked Players"
+msgstr ""
+
+#. ブレア
+msgctxt "Boss_Blaire"
+msgid "Blaire"
+msgstr ""
+
+#. ヘリコプター
+msgctxt "Boss_Helicopter"
+msgid "Helicopter"
+msgstr ""
+
+#. ケン
+msgctxt "Boss_Ken"
+msgid "Ken"
+msgstr ""
+
+#. ケン＆双子
+msgctxt "Boss_KenDragon"
+msgid "Ken ft. the Dragon Twins"
+msgstr ""
+
+#. マリアン
+msgctxt "Boss_Marian"
+msgid "Marian"
+msgstr ""
+
+#. プリモ
+msgctxt "Boss_Primo"
+msgid "Primo"
+msgstr ""
+
+#. プルーヴィ
+msgctxt "Boss_Provie"
+msgid "Provie"
+msgstr ""
+
+#. リアクター
+msgctxt "Boss_Reactor"
+msgid "Reactor"
+msgstr ""
+
+#. サブ
+msgctxt "Boss_Sabu"
+msgid "Sabu"
+msgstr ""
+
+#. ツイコ
+msgctxt "Boss_Tsuiko"
+msgid "Tsuiko"
+msgstr ""
+
+#. どこに向かいますか？
+msgctxt "BusTravel_ChooseDestination"
+msgid "Choose a destination"
+msgstr ""
+
+#. コントローラーを再接続してください。
+msgctxt "CONTROLLER_DC_MSG"
+msgid "Please re-connect the controller."
+msgstr ""
+
+#. コントローラーの接続が切れました。
+msgctxt "CONTROLLER_DC_TITLE"
+msgid "Controller has been disconnected"
+msgstr ""
+
+#. {0}を再接続してください。
+msgctxt "CONTROLLER_TRC_DC_MSG"
+msgid "Please re-connect the {0}."
+msgstr ""
+
+#. {0}の接続が切れました。
+msgctxt "CONTROLLER_TRC_DC_TITLE"
+msgid "The {0} has been disconnected."
+msgstr ""
+
+#. ワイヤレスコントローラー
+msgctxt "CONTROLLER_TRC_SONY_NAME"
+msgid "wireless controller"
+msgstr ""
+
+#. アイテムを装備しますか？
+msgctxt "Cellphone_Accessories_ConfirmEquip"
+msgid "Where do you want to equip it?"
+msgstr ""
+
+#. アイテムを外しますか？
+msgctxt "Cellphone_Accessories_ConfirmUnequip"
+msgid "Unequip this item?"
+msgstr ""
+
+#. 装備しているアクセサリを確認する。
+msgctxt "Cellphone_Accessories_FooterMsg"
+msgid "View and equip your accessories."
+msgstr ""
+
+#. アクセサリ
+msgctxt "Cellphone_Header_Accessories"
+msgid "ACCESSORIES"
+msgstr ""
+
+#. ホーム
+msgctxt "Cellphone_Header_Home"
+msgid "HOME"
+msgstr ""
+
+#. ホンカー
+msgctxt "Cellphone_Header_Honkr"
+msgid "HONKR"
+msgstr ""
+
+#. インベントリ
+msgctxt "Cellphone_Header_Inventory"
+msgid "INVENTORY"
+msgstr ""
+
+#. コマンド
+msgctxt "Cellphone_Header_MovesList"
+msgid "MOVES LIST"
+msgstr ""
+
+#. 設定
+msgctxt "Cellphone_Header_Settings"
+msgid "SETTINGS"
+msgstr ""
+
+#. アクセサリ
+msgctxt "Cellphone_Home_Accessories"
+msgid "Accessories"
+msgstr ""
+
+#. EXP
+msgctxt "Cellphone_Home_Exp"
+msgid "EXP"
+msgstr ""
+
+#. アプリケーションを選んでください。
+msgctxt "Cellphone_Home_FooterMsg"
+msgid "Choose an application."
+msgstr ""
+
+#. マップ
+msgctxt "Cellphone_Home_GPS"
+msgid "GPS"
+msgstr ""
+
+#. ホンカァ
+msgctxt "Cellphone_Home_Honkr"
+msgid "Honkr"
+msgstr ""
+
+#. アイテム
+msgctxt "Cellphone_Home_Items"
+msgid "Items"
+msgstr ""
+
+#. レベル
+msgctxt "Cellphone_Home_Level"
+msgid "LEVEL"
+msgstr ""
+
+#. コマンド表
+msgctxt "Cellphone_Home_MoveList"
+msgid "Move List"
+msgstr ""
+
+#. NEXT
+msgctxt "Cellphone_Home_Next"
+msgid "NEXT"
+msgstr ""
+
+#. 設定
+msgctxt "Cellphone_Home_Settings"
+msgid "Settings"
+msgstr ""
+
+#. カメラ
+msgctxt "Cellphone_Home_Snapshot"
+msgid "Snapr"
+msgstr ""
+
+#. ホンカァを確認する。
+msgctxt "Cellphone_Honkr_FooterMsg"
+msgid "View Honkr posts."
+msgstr ""
+
+#. このアイテムを使用しますか？
+msgctxt "Cellphone_Inventory_ConfirmUse"
+msgid "Consume this item?"
+msgstr ""
+
+#. インベントリからアイテムを使用する。
+msgctxt "Cellphone_Inventory_FooterMsg"
+msgid "Use items from your inventory."
+msgstr ""
+
+#. 取得した技を確認する。
+msgctxt "Cellphone_MovesList_FooterMsg"
+msgid "View your moves."
+msgstr ""
+
+#. 隠れ家限定
+msgctxt "Cellphone_Settings_Hideout"
+msgid "HIDEOUT ONLY"
+msgstr ""
+
+#. 装備しているアクセサリを確認する。
+msgctxt "Cellphone_Snapr_FooterMsg"
+msgid "View Snapr posts."
+msgstr ""
+
+#. 汚職警察官
+msgctxt "CharacterName_BadCop"
+msgid "Bad Cop"
+msgstr ""
+
+#. チアガール
+msgctxt "CharacterName_Cheerleader"
+msgid "Cheerleader"
+msgstr ""
+
+#. カンフー
+msgctxt "CharacterName_Chin"
+msgid "Chin"
+msgstr ""
+
+#. サイボーグ
+msgctxt "CharacterName_Cyborg"
+msgid "Cyborg"
+msgstr ""
+
+#. ???
+msgctxt "CharacterName_Denji"
+msgid "???"
+msgstr ""
+
+#. フェムボイド
+msgctxt "CharacterName_FemBot"
+msgid "C.A.T.S."
+msgstr ""
+
+#. カヨ
+msgctxt "CharacterName_Kayo"
+msgid "Kayo"
+msgstr ""
+
+#. クニコ
+msgctxt "CharacterName_Kuniko"
+msgid "Kuniko"
+msgstr ""
+
+#. ストリートウィッチ
+msgctxt "CharacterName_Larper"
+msgid "LARPer"
+msgstr ""
+
+#. リンダ
+msgctxt "CharacterName_Linda"
+msgid "Linda"
+msgstr ""
+
+#. レスラー
+msgctxt "CharacterName_Luchadora"
+msgid "Luchadora"
+msgstr ""
+
+#. ツッパリ
+msgctxt "CharacterName_MaleThug"
+msgid "Thug"
+msgstr ""
+
+#. マーサ スプラッターヘッド
+msgctxt "CharacterName_Martha"
+msgid "Martha Splatterhead"
+msgstr ""
+
+#. ミホコ
+msgctxt "CharacterName_Mihoko"
+msgid "Mihoko"
+msgstr ""
+
+#. ミサコ
+msgctxt "CharacterName_Misako"
+msgid "Misako"
+msgstr ""
+
+#. ポール
+msgctxt "CharacterName_Paul"
+msgid "Paul"
+msgstr ""
+
+#. 男子学生
+msgctxt "CharacterName_SchoolBoy"
+msgid "School Boy"
+msgstr ""
+
+#. 女子学生
+msgctxt "CharacterName_SchoolGirl"
+msgid "School Girl"
+msgstr ""
+
+#. スカルマゲドン
+msgctxt "CharacterName_Skullmageddon"
+msgid "Skullmageddon"
+msgstr ""
+
+#. ソニー・リー
+msgctxt "CharacterName_Sonny"
+msgid "Sonny Lee"
+msgstr ""
+
+#. タイガーマン
+msgctxt "CharacterName_Tigerman"
+msgid "Tigerman"
+msgstr ""
+
+#. トラッシュ
+msgctxt "CharacterName_Trash"
+msgid "Trash"
+msgstr ""
+
+#. ウェアベアー
+msgctxt "CharacterName_Waver"
+msgid "Waver"
+msgstr ""
+
+#. ウィリアムス
+msgctxt "CharacterName_Williams"
+msgid "Williams"
+msgstr ""
+
+#. 女ヤクザ
+msgctxt "CharacterName_YakuzaF"
+msgid "Yakuza Female"
+msgstr ""
+
+#. 男ヤクザ
+msgctxt "CharacterName_YakuzaMale"
+msgid "Yakuza Male"
+msgstr ""
+
+#. 妖怪
+msgctxt "CharacterName_Yokai"
+msgid "Yokai"
+msgstr ""
+
+#. キャラクターを選択してください。
+msgctxt "CharacterSelectScreen_FooterMsg_Main"
+msgid "Choose a character."
+msgstr ""
+
+#. READY!
+msgctxt "CharacterSelectScreen_Ready"
+msgid "READY!"
+msgstr ""
+
+#. ホストが新たな仲間をアンロック！
+msgctxt "Character_Unlock_Client_Main"
+msgid "You helped your friend unlock"
+msgstr ""
+
+#. （次はホストになって手伝ってもらおう）
+msgctxt "Character_Unlock_Client_Sub"
+msgid "(now beat her yourself!)"
+msgstr ""
+
+#. IS READY TO FIGHT
+msgctxt "Character_Unlock_Host_Main"
+msgid "IS READY TO FIGHT"
+msgstr ""
+
+#. （隠れ家で交代できるぞ）
+msgctxt "Character_Unlock_Host_Sub"
+msgid "(check your hideout)"
+msgstr ""
+
+#. GENIUS
+msgctxt "Combo_Flavor_10"
+msgid "GENIUS"
+msgstr ""
+
+#. SERIOUSLY?
+msgctxt "Combo_Flavor_100"
+msgid "SERIOUSLY?"
+msgstr ""
+
+#. BRUTAL
+msgctxt "Combo_Flavor_11"
+msgid "BRUTAL"
+msgstr ""
+
+#. FASHIONABLE
+msgctxt "Combo_Flavor_12"
+msgid "FASHIONABLE"
+msgstr ""
+
+#. OVERKILL
+msgctxt "Combo_Flavor_120"
+msgid "OVERKILL"
+msgstr ""
+
+#. CELEBRATE
+msgctxt "Combo_Flavor_128"
+msgid "CELEBRATE"
+msgstr ""
+
+#. LUCKY
+msgctxt "Combo_Flavor_13"
+msgid "LUCKY"
+msgstr ""
+
+#. RAMPAGE
+msgctxt "Combo_Flavor_130"
+msgid "RAMPAGE"
+msgstr ""
+
+#. WILD
+msgctxt "Combo_Flavor_14"
+msgid "WILD"
+msgstr ""
+
+#. KEEP IT UP
+msgctxt "Combo_Flavor_140"
+msgid "KEEP IT UP"
+msgstr ""
+
+#. CRASH!!
+msgctxt "Combo_Flavor_15"
+msgid "CRASH!!"
+msgstr ""
+
+#. OMG
+msgctxt "Combo_Flavor_150"
+msgid "OMG"
+msgstr ""
+
+#. SUPER
+msgctxt "Combo_Flavor_16"
+msgid "SUPER"
+msgstr ""
+
+#. RIDICULOUS
+msgctxt "Combo_Flavor_160"
+msgid "RIDICULOUS"
+msgstr ""
+
+#. ULTRA
+msgctxt "Combo_Flavor_17"
+msgid "ULTRA"
+msgstr ""
+
+#. NON-STOP
+msgctxt "Combo_Flavor_170"
+msgid "NON-STOP"
+msgstr ""
+
+#. HYPER
+msgctxt "Combo_Flavor_18"
+msgid "HYPER"
+msgstr ""
+
+#. BIZARRE
+msgctxt "Combo_Flavor_180"
+msgid "BIZARRE"
+msgstr ""
+
+#. STUNNING
+msgctxt "Combo_Flavor_19"
+msgid "STUNNING"
+msgstr ""
+
+#. ORA ORA ORA!!
+msgctxt "Combo_Flavor_190"
+msgid "ORA ORA ORA!!"
+msgstr ""
+
+#. BRILLIANT
+msgctxt "Combo_Flavor_20"
+msgid "BRILLIANT"
+msgstr ""
+
+#. OK, STOP
+msgctxt "Combo_Flavor_200"
+msgid "OK, STOP"
+msgstr ""
+
+#. LOVEY DOVEY
+msgctxt "Combo_Flavor_214"
+msgid "LOVEY DOVEY"
+msgstr ""
+
+#. BERSERK
+msgctxt "Combo_Flavor_216"
+msgid "BERSERK"
+msgstr ""
+
+#. YOU OKAY?
+msgctxt "Combo_Flavor_230"
+msgid "YOU OKAY?"
+msgstr ""
+
+#. HYPE
+msgctxt "Combo_Flavor_25"
+msgid "HYPE"
+msgstr ""
+
+#. FINISHED?
+msgctxt "Combo_Flavor_260"
+msgid "FINISHED?"
+msgstr ""
+
+#. KEEP IT UP!
+msgctxt "Combo_Flavor_290"
+msgid "KEEP IT UP!"
+msgstr ""
+
+#. OKAY
+msgctxt "Combo_Flavor_3"
+msgid "OKAY"
+msgstr ""
+
+#. AMAZING
+msgctxt "Combo_Flavor_30"
+msgid "AMAZING"
+msgstr ""
+
+#. SHINING
+msgctxt "Combo_Flavor_300"
+msgid "SHINING"
+msgstr ""
+
+#. GLITTERING
+msgctxt "Combo_Flavor_330"
+msgid "GLITTERING"
+msgstr ""
+
+#. ELITE
+msgctxt "Combo_Flavor_35"
+msgid "ELITE"
+msgstr ""
+
+#. LUMINOUS
+msgctxt "Combo_Flavor_360"
+msgid "LUMINOUS"
+msgstr ""
+
+#. LET'S GO
+msgctxt "Combo_Flavor_37"
+msgid "LET'S GO"
+msgstr ""
+
+#. HOLOGRAPHIC
+msgctxt "Combo_Flavor_390"
+msgid "HOLOGRAPHIC"
+msgstr ""
+
+#. GOOD
+msgctxt "Combo_Flavor_4"
+msgid "GOOD"
+msgstr ""
+
+#. M-M-MONSTER
+msgctxt "Combo_Flavor_40"
+msgid "M-M-MONSTER"
+msgstr ""
+
+#. LOL
+msgctxt "Combo_Flavor_420"
+msgid "LOL"
+msgstr ""
+
+#. CHEATER!
+msgctxt "Combo_Flavor_430"
+msgid "CHEATER!"
+msgstr ""
+
+#. DEADLY
+msgctxt "Combo_Flavor_444"
+msgid "DEADLY"
+msgstr ""
+
+#. INHUMAN
+msgctxt "Combo_Flavor_45"
+msgid "INHUMAN"
+msgstr ""
+
+#. IMPOSSIBLE
+msgctxt "Combo_Flavor_450"
+msgid "IMPOSSIBLE"
+msgstr ""
+
+#. CUTE
+msgctxt "Combo_Flavor_5"
+msgid "CUTE"
+msgstr ""
+
+#. ULTIMATE
+msgctxt "Combo_Flavor_50"
+msgid "ULTIMATE"
+msgstr ""
+
+#. HOT BLOODED
+msgctxt "Combo_Flavor_500"
+msgid "HOT BLOODED"
+msgstr ""
+
+#. SILLY
+msgctxt "Combo_Flavor_6"
+msgid "SILLY"
+msgstr ""
+
+#. BRO...
+msgctxt "Combo_Flavor_60"
+msgid "BRO..."
+msgstr ""
+
+#. BIG UPS!
+msgctxt "Combo_Flavor_600"
+msgid "BIG UPS!"
+msgstr ""
+
+#. SCARY
+msgctxt "Combo_Flavor_666"
+msgid "SCARY"
+msgstr ""
+
+#. NICE
+msgctxt "Combo_Flavor_69"
+msgid "NICE"
+msgstr ""
+
+#. DREAMY
+msgctxt "Combo_Flavor_7"
+msgid "DREAMY"
+msgstr ""
+
+#. QUEEN
+msgctxt "Combo_Flavor_70"
+msgid "QUEEN"
+msgstr ""
+
+#. SHOCKING
+msgctxt "Combo_Flavor_700"
+msgid "SHOCKING"
+msgstr ""
+
+#. JACKPOT
+msgctxt "Combo_Flavor_777"
+msgid "JACKPOT"
+msgstr ""
+
+#. SWEET
+msgctxt "Combo_Flavor_8"
+msgid "SWEET"
+msgstr ""
+
+#. MORE
+msgctxt "Combo_Flavor_80"
+msgid "MORE"
+msgstr ""
+
+#. SHOWTIME
+msgctxt "Combo_Flavor_800"
+msgid "SHOWTIME"
+msgstr ""
+
+#. ABSURD
+msgctxt "Combo_Flavor_850"
+msgid "ABSURD"
+msgstr ""
+
+#. CLEVER
+msgctxt "Combo_Flavor_9"
+msgid "CLEVER"
+msgstr ""
+
+#. ALMOST
+msgctxt "Combo_Flavor_90"
+msgid "ALMOST"
+msgstr ""
+
+#. SMAAAASH!!
+msgctxt "Combo_Flavor_900"
+msgid "SMAAAASH!!"
+msgstr ""
+
+#. FOR REAL?
+msgctxt "Combo_Flavor_950"
+msgid "FOR REAL?"
+msgstr ""
+
+#. BARF!
+msgctxt "Combo_Flavor_999"
+msgid "BARF!"
+msgstr ""
+
+#. Hits
+msgctxt "Combo_Hits"
+msgid "Hits"
+msgstr ""
+
+#. Connecting…
+msgctxt "Connecting"
+msgid "Connecting..."
+msgstr ""
+
+#. ゲームパッド設定
+msgctxt "ControlMapper_Gamepad"
+msgid "Gamepad Configuration"
+msgstr ""
+
+#. キーボード設定
+msgctxt "ControlMapper_Keyboard"
+msgid "Keyboard Configuration"
+msgstr ""
+
+#. 変更したいアクションを選択してください。
+msgctxt "ControlRemap_FooterMsg_ChooseControl"
+msgid "Choose a control to remap."
+msgstr ""
+
+#. ボタン設定を変更するゲームパッドもしくはキーボードを選択してください。
+msgctxt "ControlRemap_FooterMsg_ControllerType"
+msgid "Choose which controller type to remap."
+msgstr ""
+
+#. 割り当てたボタンを反映します。
+msgctxt "ControlRemap_FooterMsg_RebindControl"
+msgid "Press a button to remap it to the selected control."
+msgstr ""
+
+#. ボタン設定をリセットしますか？
+msgctxt "ControlRemap_ResetMapConfirmation"
+msgid "Reset button configuration?"
+msgstr ""
+
+#. デフォルトの設定に戻す
+msgctxt "ControlRemap_ResetToDefaultPrompt"
+msgid "Reset to default"
+msgstr ""
+
+#. 敵をふっとばすと体力が回復する。
+msgctxt "EQUIP_DESC_ATHLETIC_BOTTOM"
+msgid "Regain health when carrying enemies."
+msgstr ""
+
+#. 重い武器のダメージが増加する。
+msgctxt "EQUIP_DESC_ATHLETIC_TOP"
+msgid "Heavy weapons are more damaging."
+msgstr ""
+
+#. 武器の投擲攻撃が確率で爆発するようになる。
+msgctxt "EQUIP_DESC_BOMB_BRA"
+msgid "Thrown weapons might explode on impact."
+msgstr ""
+
+#. 走るスピードが速くなる
+msgctxt "EQUIP_DESC_BUNNY_BUTTON"
+msgid "Run way too fast."
+msgstr ""
+
+#. ガードブレイクのチャージ時間が短くなる。
+msgctxt "EQUIP_DESC_CLOWN_MAKEUP"
+msgid "Refills Guard Break much faster, and something else."
+msgstr ""
+
+#. 敵を倒した時に得られるお金が増加する。
+msgctxt "EQUIP_DESC_COIN_PURSE"
+msgid "Pick up more money from defeated enemies."
+msgstr ""
+
+#. ヘヴィアタックのダメージが増加する。
+msgctxt "EQUIP_DESC_EYESHADOW"
+msgid "Heavy attacks are even heavier."
+msgstr ""
+
+#. SPゲージのチャージが早くなる。
+msgctxt "EQUIP_DESC_FAKE_TATOOS"
+msgid "Special Meter fills up even faster."
+msgstr ""
+
+#. SPアタックのダメージが増加する。
+msgctxt "EQUIP_DESC_FALSE_EYELASHES"
+msgid "Special attacks do more damage."
+msgstr ""
+
+#. ダウン後のローリングで敵が倒れる。
+msgctxt "EQUIP_DESC_FRILLY_BOTTOM"
+msgid "Rolling knocks enemies over."
+msgstr ""
+
+#. 起き上がり時の無敵時間が伸び、攻撃のダメージを増加する。
+msgctxt "EQUIP_DESC_FRILL_BRA"
+msgid "Getting up gives more invulnerability and does more damage."
+msgstr ""
+
+#. 自分も仲間も蘇生しやすくなる。
+msgctxt "EQUIP_DESC_FROST_SIGIL"
+msgid "Reviving and being revived is much easier."
+msgstr ""
+
+#. 敵を倒した時に経験値ボーナスを得る。
+msgctxt "EQUIP_DESC_GAMER_GUIDE"
+msgid "Random bonus XP upon defeating enemies."
+msgstr ""
+
+#. 与えるダメージが増加するが、受けるダメージも増加する。
+msgctxt "EQUIP_DESC_GLASS_MOUTHGUARD"
+msgid "Do more damage but take more damage."
+msgstr ""
+
+#. 稀にヘヴィアタックに毒属性の効果を付与する。
+msgctxt "EQUIP_DESC_GOTH_SHIRT"
+msgid "Chance of poison with heavy attacks."
+msgstr ""
+
+#. 敵を倒すと回復する。
+msgctxt "EQUIP_DESC_GYM_SHORTS"
+msgid "Heal yourself by destroying others."
+msgstr ""
+
+#. 体力が無限になり全てのステータスが最大になる。
+msgctxt "EQUIP_DESC_HAIR_RIBBON"
+msgid "Infinite ST and max stats."
+msgstr ""
+
+#. 武器によるダメージが増加する。
+msgctxt "EQUIP_DESC_KNIFE_EARRINGS"
+msgid "Your weapons are much deadlier."
+msgstr ""
+
+#. 稀に復活する。
+msgctxt "EQUIP_DESC_LANTERN"
+msgid "This magical item might bring you back from the dead."
+msgstr ""
+
+#. 男性に対するダメージが増加する。
+msgctxt "EQUIP_DESC_LOVE_LETTER"
+msgid "Do more damage to guys."
+msgstr ""
+
+#. 女性に対するダメージが増加する。
+msgctxt "EQUIP_DESC_MAKEUP_KIT"
+msgid "Do more damage to girls."
+msgstr ""
+
+#. 武器の耐久性が増加する。
+msgctxt "EQUIP_DESC_MULTITOOL"
+msgid "Weapons are far more durable."
+msgstr ""
+
+#. 月まで飛んでけ！
+msgctxt "EQUIP_DESC_MUSCLE_CHARM"
+msgid "Bang! Pow! To the moon!"
+msgstr ""
+
+#. 回復アイテムの回復量が増加する。
+msgctxt "EQUIP_DESC_MUSIC_PLAYER"
+msgid "Soothing sounds make healing items more effective."
+msgstr ""
+
+#. 武器の投擲速度が2倍になる。
+msgctxt "EQUIP_DESC_PADLOCK_BRA"
+msgid "Double the velocity of thrown weapons."
+msgstr ""
+
+#. 稀にガード時にペッパースプレーが守ってくれる。
+msgctxt "EQUIP_DESC_PEPPER_SPRAY"
+msgid "While blocking, a chance of pepper spray can save you."
+msgstr ""
+
+#. 稀に武器攻撃でとてつもないダメージを与える。
+msgctxt "EQUIP_DESC_POWER_MITTEN"
+msgid "Using weapons can sometimes be very shocking."
+msgstr ""
+
+#. 攻撃力が増加するが、動きが鈍くなる。
+msgctxt "EQUIP_DESC_SCISSORS"
+msgid "Attacking is stronger, but you move more slowly."
+msgstr ""
+
+#. 空中攻撃のダメージが増加する。
+msgctxt "EQUIP_DESC_SIGN_NECKLACE"
+msgid "Air attacks are stronger."
+msgstr ""
+
+#. 走るスピードが速くなる。
+msgctxt "EQUIP_DESC_SPEED_RUNNERS"
+msgid "Running speed is increased."
+msgstr ""
+
+#. 敵を気絶させやすくなる。
+msgctxt "EQUIP_DESC_SPIKED_KNUCKLES"
+msgid "Do more stun damage to enemies."
+msgstr ""
+
+#. 最強になるが、最鈍になる。
+msgctxt "EQUIP_DESC_TANK_BUTTON"
+msgid "You are the strongest but the slowest."
+msgstr ""
+
+#. ジャストガードすると敵が凍りつく。
+msgctxt "EQUIP_DESC_TEEN_MAGAZINE"
+msgid "Parrying enemies will cause them to freeze."
+msgstr ""
+
+#. 集めた猫の数だけ強くなる。
+msgctxt "EQUIP_DESC_TUNA_SHIRT"
+msgid "Each cat rescued makes you stronger."
+msgstr ""
+
+#. 徐々に体力が減少してしまうが、敵を倒すと回復する。
+msgctxt "EQUIP_DESC_VAMPIRE_TEETH"
+msgid "Gradually lose ST, but gain ST by defeating enemies."
+msgstr ""
+
+#. 稀にヘヴィアタックが敵を炎上させる。
+msgctxt "EQUIP_DESC_WITCH_BOTTLE"
+msgid "Heavy attacks have a chance of being super heated."
+msgstr ""
+
+#. 夜になると止まらなくなる呪いのアイテム。
+msgctxt "EQUIP_DESC_WOLF_LOCKET"
+msgid "This cursed item allows you to be unstoppable at night."
+msgstr ""
+
+#. 稀にヘヴィアタックが敵を感電状態にさせる。
+msgctxt "EQUIP_DESC_WOOL_SOCKS"
+msgid "Heavy attacks have a chance to do shock."
+msgstr ""
+
+#. 掴み投げ攻撃が強くなる。
+msgctxt "EQUIP_DESC_WRESTLING_SINGLET"
+msgid "Your grapple throws are more powerful."
+msgstr ""
+
+#. アスリートボトムス
+msgctxt "EQUIP_NAME_ATHLETIC_BOTTOM"
+msgid "Athletic Bottom"
+msgstr ""
+
+#. アスリートトップス
+msgctxt "EQUIP_NAME_ATHLETIC_TOP"
+msgid "Athletic Top"
+msgstr ""
+
+#. ボムブラ
+msgctxt "EQUIP_NAME_BOMB_BRA"
+msgid "Bomb Bra"
+msgstr ""
+
+#. ウサギのボタン
+msgctxt "EQUIP_NAME_BUNNY_BUTTON"
+msgid "Bunny Button"
+msgstr ""
+
+#. ピエロマスク
+msgctxt "EQUIP_NAME_CLOWN_MAKEUP"
+msgid "Clown Makeup"
+msgstr ""
+
+#. 小銭入れ
+msgctxt "EQUIP_NAME_COIN_PURSE"
+msgid "Coin Purse"
+msgstr ""
+
+#. アイシャドウ
+msgctxt "EQUIP_NAME_EYESHADOW"
+msgid "Eyeshadow"
+msgstr ""
+
+#. フェイクタトゥー
+msgctxt "EQUIP_NAME_FAKE_TATTOOS"
+msgid "Fake Tattoos"
+msgstr ""
+
+#. つけまつげ
+msgctxt "EQUIP_NAME_FALSE_EYELASHES"
+msgid "False Lashes"
+msgstr ""
+
+#. フリフリボトムス
+msgctxt "EQUIP_NAME_FRILLY_BOTTOM"
+msgid "Frilly Bottom"
+msgstr ""
+
+#. フリフリブラ
+msgctxt "EQUIP_NAME_FRILL_BRA"
+msgid "Frilly Bra"
+msgstr ""
+
+#. 氷の紋章
+msgctxt "EQUIP_NAME_FROST_SIGIL"
+msgid "Frost Sigil"
+msgstr ""
+
+#. 完全攻略本！決定版
+msgctxt "EQUIP_NAME_GAMER_GUIDE"
+msgid "Gamer Guide"
+msgstr ""
+
+#. ガラスのマウスピース
+msgctxt "EQUIP_NAME_GLASS_MOUTHGUARD"
+msgid "Glass Mouthguard"
+msgstr ""
+
+#. ゴスロリワンピース
+msgctxt "EQUIP_NAME_GOTH_SHIRT"
+msgid "Goth Shirt"
+msgstr ""
+
+#. ジムショーツ
+msgctxt "EQUIP_NAME_GYM_SHORTS"
+msgid "Gym Shorts"
+msgstr ""
+
+#. ヘアリボン
+msgctxt "EQUIP_NAME_HAIR_RIBBON"
+msgid "Hair Ribbon"
+msgstr ""
+
+#. ナイフのイヤリング
+msgctxt "EQUIP_NAME_KNIFE_EARRINGS"
+msgid "Knife Earrings"
+msgstr ""
+
+#. ランタン
+msgctxt "EQUIP_NAME_LANTERN"
+msgid "Lantern"
+msgstr ""
+
+#. ラブレター
+msgctxt "EQUIP_NAME_LOVE_LETTER"
+msgid "Love Letter"
+msgstr ""
+
+#. 化粧道具
+msgctxt "EQUIP_NAME_MAKEUP_KIT"
+msgid "Makeup Kit"
+msgstr ""
+
+#. マルチツール
+msgctxt "EQUIP_NAME_MULTITOOL"
+msgid "Multitool"
+msgstr ""
+
+#. プロレスマン消しゴム
+msgctxt "EQUIP_NAME_MUSCLE_CHARM"
+msgid "Muscle Charm"
+msgstr ""
+
+#. 音楽プレーヤー
+msgctxt "EQUIP_NAME_MUSIC_PLAYER"
+msgid "Music Player"
+msgstr ""
+
+#. 南京錠ブラジャー
+msgctxt "EQUIP_NAME_PADLOCK_BRA"
+msgid "Padlock Bra"
+msgstr ""
+
+#. 唐辛子スプレー
+msgctxt "EQUIP_NAME_PEPPER_SPRAY"
+msgid "Pepper Spray"
+msgstr ""
+
+#. パワーミトン
+msgctxt "EQUIP_NAME_POWER_MITTEN"
+msgid "Power Mitten"
+msgstr ""
+
+#. はさみ
+msgctxt "EQUIP_NAME_SCISSORS"
+msgid "Scissors"
+msgstr ""
+
+#. サインネックレス
+msgctxt "EQUIP_NAME_SIGN_NECKLACE"
+msgid "Sign Necklace"
+msgstr ""
+
+#. スピードランナー
+msgctxt "EQUIP_NAME_SPEED_RUNNERS"
+msgid "Speed Runners"
+msgstr ""
+
+#. スパイクグローブ
+msgctxt "EQUIP_NAME_SPIKED_KNUCKLES"
+msgid "Spiked Knuckles"
+msgstr ""
+
+#. 戦車のボタン
+msgctxt "EQUIP_NAME_TANK_BUTTON"
+msgid "Tank Button"
+msgstr ""
+
+#. ティーン雑誌 リキ特集
+msgctxt "EQUIP_NAME_TEEN_MAGAZINE"
+msgid "Teen Magazine"
+msgstr ""
+
+#. 三崎マグロシャツ
+msgctxt "EQUIP_NAME_TUNA_SHIRT"
+msgid "Tuna Shirt"
+msgstr ""
+
+#. 吸血鬼の八重歯
+msgctxt "EQUIP_NAME_VAMPIRE_TEETH"
+msgid "Vampire Teeth"
+msgstr ""
+
+#. 魔女の水筒
+msgctxt "EQUIP_NAME_WITCH_BOTTLE"
+msgid "Witch Bottle"
+msgstr ""
+
+#. 狼ペンダント
+msgctxt "EQUIP_NAME_WOLF_LOCKET"
+msgid "Wolf Locket"
+msgstr ""
+
+#. ウールの靴下
+msgctxt "EQUIP_NAME_WOOL_SOCKS"
+msgid "Wool Socks"
+msgstr ""
+
+#. レスラーシャツ
+msgctxt "EQUIP_NAME_WRESTLING_SINGLET"
+msgid "Wrestling Singlet"
+msgstr ""
+
+#. 空きスロット
+msgctxt "FileSelect_EmptySlot"
+msgid "Empty Slot"
+msgstr ""
+
+#. 戻る
+msgctxt "FooterPrompt_Back"
+msgid "Back"
+msgstr ""
+
+#. 決定
+msgctxt "FooterPrompt_Confirm"
+msgid "Confirm"
+msgstr ""
+
+#. 削除する
+msgctxt "FooterPrompt_Delete"
+msgid "Delete"
+msgstr ""
+
+#. 参加者をキックする
+msgctxt "FooterPrompt_KickPlayer"
+msgid "Kick Player"
+msgstr ""
+
+#. Refresh
+msgctxt "FooterPrompt_Refresh"
+msgid "Refresh"
+msgstr ""
+
+#. 選択する
+msgctxt "FooterPrompt_Select"
+msgid "Select"
+msgstr ""
+
+#. 始める
+msgctxt "FooterPrompt_Start"
+msgid "Start"
+msgstr ""
+
+#. {0}を押してください
+msgctxt "Game_Join"
+msgid "Press {0}"
+msgstr ""
+
+#. アボボ @atomicthrow
+msgctxt "HonkrCharacterName_Abobo"
+msgid "Abobo @atomicthrow"
+msgstr ""
+
+#. アレイスター @undergroundWarlock
+msgctxt "HonkrCharacterName_Aleister"
+msgid "Aleister @undergroundWarlock"
+msgstr ""
+
+#. アレックス @nekketsu_1989
+msgctxt "HonkrCharacterName_Alex"
+msgid "Alex @nekketsu_1989"
+msgstr ""
+
+#. アノン @totally_anon1234
+msgctxt "HonkrCharacterName_Anon"
+msgid "Anon @totally_anon1234"
+msgstr ""
+
+#. バーサーカー @worldsbestdad1990
+msgctxt "HonkrCharacterName_Berserker"
+msgid "Berserker @worldsbestdad1990"
+msgstr ""
+
+#. ブレア @THATwitch
+msgctxt "HonkrCharacterName_Blaire"
+msgid "Blaire @THATwitch"
+msgstr ""
+
+#. クリス @chrisyourbuttgoodbye
+msgctxt "HonkrCharacterName_Chris"
+msgid "Chris @chrisyourbuttgoodbye"
+msgstr ""
+
+#. クラッシュ @crashNdaBoyz
+msgctxt "HonkrCharacterName_Crash"
+msgid "Crash @crashNdaBoyz"
+msgstr ""
+
+#. ???
+msgctxt "HonkrCharacterName_Denji"
+msgid "??? @askmyname"
+msgstr ""
+
+#. エノキ @smokyMochi
+msgctxt "HonkrCharacterName_Enoki"
+msgid "Enoki @smokyMochi"
+msgstr ""
+
+#. ゴダイ @EveryonesFriendGodai
+msgctxt "HonkrCharacterName_Godai"
+msgid "Godai @EveryonesFriendGodai"
+msgstr ""
+
+#. ヒバリ @whimsyanddoodles
+msgctxt "HonkrCharacterName_Hibari"
+msgid "Hibari @whimsyanddoodles"
+msgstr ""
+
+#. ヒロシ @cosmicmegababeStan
+msgctxt "HonkrCharacterName_Hiroshi"
+msgid "Hiroshi @cosmicmegababeStan"
+msgstr ""
+
+#. 蔵土縁 紗夢@kuradoberi
+msgctxt "HonkrCharacterName_Jam"
+msgid "Jam @kuradoberi"
+msgstr ""
+
+#. カオリ @letshang
+msgctxt "HonkrCharacterName_Kaori"
+msgid "Kaori @letshang"
+msgstr ""
+
+#. カヨ @taiyo_kayo
+msgctxt "HonkrCharacterName_Kayo"
+msgid "Kayo @taiyo_kayo"
+msgstr ""
+
+#. ケバコ @sQUIDDIE_RULEZ
+msgctxt "HonkrCharacterName_Kebako"
+msgid "Kebako @sQUIDDIE_RULEZ"
+msgstr ""
+
+#. ケン @TOP_DAWG111
+msgctxt "HonkrCharacterName_Ken"
+msgid "Ken @TOP_DAWG111"
+msgstr ""
+
+#. コウヅキ @theSCOOP
+msgctxt "HonkrCharacterName_Kozuki"
+msgid "Kozuki @theSCOOP"
+msgstr ""
+
+#. クニコ @thoughtsNprayers
+msgctxt "HonkrCharacterName_Kuniko"
+msgid "Kuniko @thoughtsNprayers"
+msgstr ""
+
+#. クニオ @hotblooded_1986
+msgctxt "HonkrCharacterName_Kunio"
+msgid "Kunio @hotblooded_1986"
+msgstr ""
+
+#. キョウコ @Knuckles&Kisses
+msgctxt "HonkrCharacterName_Kyoko"
+msgid "Kyoko @Knuckles&Kisses"
+msgstr ""
+
+#. キョウコママ @REDmomma
+msgctxt "HonkrCharacterName_KyokosMom"
+msgid "Kyoko's Mom @REDmomma"
+msgstr ""
+
+#. マリアン @legendaryAbs888
+msgctxt "HonkrCharacterName_Marian"
+msgid "Marian @legendaryAbs888"
+msgstr ""
+
+#. ミボボ @green_n_nasty
+msgctxt "HonkrCharacterName_Mibobo"
+msgid "Mibobo @green_n_nasty"
+msgstr ""
+
+#. ミホコ @kittyLUVS
+msgctxt "HonkrCharacterName_Mihoko"
+msgid "Mihoko - kittyLUVS"
+msgstr ""
+
+#. ミサコ @knockknockBOOM
+msgctxt "HonkrCharacterName_Misako"
+msgid "Misako @knockknockBOOM"
+msgstr ""
+
+#. Mr. K @storKs_yuMMier
+msgctxt "HonkrCharacterName_MrK"
+msgid "Mr. K @storKs_yuMMier"
+msgstr ""
+
+#. ノイズ @REALnoizeDAB
+msgctxt "HonkrCharacterName_NOIZE"
+msgid "NOIZE @REALnoizeDAB"
+msgstr ""
+
+#. ナリタカ @smellzzBADbruh
+msgctxt "HonkrCharacterName_Naritaka"
+msgid "Naritaka @smellzzBADbruh"
+msgstr ""
+
+#. ポール @bigfatpauly
+msgctxt "HonkrCharacterName_Paul"
+msgid "Paul @bigfatpauly"
+msgstr ""
+
+#. プリモ @peppaPAPA
+msgctxt "HonkrCharacterName_Primo"
+msgid "Primo @peppaPAPA"
+msgstr ""
+
+#. プルーヴィ @SaucySalamander
+msgctxt "HonkrCharacterName_Provie"
+msgid "Provie @SaucySalamander"
+msgstr ""
+
+#. リキ @Mr_Cool_Guy
+msgctxt "HonkrCharacterName_Riki"
+msgid "Riki @Mr_Cool_Guy"
+msgstr ""
+
+#. ライアン @dragonfeets
+msgctxt "HonkrCharacterName_Ryan"
+msgid "Ryan @dragonfeets"
+msgstr ""
+
+#. リュウイチ @theREDone
+msgctxt "HonkrCharacterName_Ryuichi"
+msgid "Ryuichi @theREDone"
+msgstr ""
+
+#. リュウジ @theGREENone
+msgctxt "HonkrCharacterName_Ryuji"
+msgid "Ryuji @theGREENone"
+msgstr ""
+
+#. サブ @hoosier_daddy
+msgctxt "HonkrCharacterName_Sabu"
+msgid "Sabu @hoosier_daddy"
+msgstr ""
+
+#. サブコ @thedragonskiss
+msgctxt "HonkrCharacterName_Sabuko"
+msgid "Sabuko @thedragonskiss"
+msgstr ""
+
+#. サオトメ @unfriendme
+msgctxt "HonkrCharacterName_Saotome"
+msgid "Saotome @unfriendme"
+msgstr ""
+
+#. シミズ @!swoltastic!
+msgctxt "HonkrCharacterName_Shimizu"
+msgid "Shimizu @!swoltastic!"
+msgstr ""
+
+#. スカルマゲドン @BoneDaddy
+msgctxt "HonkrCharacterName_Skullmageddon"
+msgid "Skullmageddon @BoneDaddy"
+msgstr ""
+
+#. スナップ @numb_skull
+msgctxt "HonkrCharacterName_Snap"
+msgid "Snap @numb_skull"
+msgstr ""
+
+#. ソル=バッドガイ @ImmoralFlame
+msgctxt "HonkrCharacterName_Sol"
+msgid "Sol Badguy @ImmoralFlame"
+msgstr ""
+
+#. ソニー・リー @best_B_R_O
+msgctxt "HonkrCharacterName_Sonny"
+msgid "Sonny Lee @best_B_R_O"
+msgstr ""
+
+#. サムビー @shoot_dang_shoot
+msgctxt "HonkrCharacterName_Thumby"
+msgid "Thumby @shoot_dang_shoot"
+msgstr ""
+
+#. ツイコ @PixelPerfect
+msgctxt "HonkrCharacterName_Tsuiko"
+msgid "Tsuiko @PixelPerfect"
+msgstr ""
+
+#. ウェス @robo_VICE
+msgctxt "HonkrCharacterName_Wes"
+msgid "Wes @robo_VICE"
+msgstr ""
+
+#. ウィリアムス @nightRIDER
+msgctxt "HonkrCharacterName_Williams"
+msgid "Williams @nightRIDER"
+msgstr ""
+
+#. ヨウコ @yokos_yolked
+msgctxt "HonkrCharacterName_Yoko"
+msgid "Yoko @yokos_yolked"
+msgstr ""
+
+#. ここで何かやることあるかも→
+msgctxt "HonkrCurrentObjectivePost"
+msgid "This is what I need to do in"
+msgstr ""
+
+#. Complete
+msgctxt "Honkr_Complete"
+msgid "Complete"
+msgstr ""
+
+#. メッセージ履歴
+msgctxt "Honkr_Page_History"
+msgid "History"
+msgstr ""
+
+#. タイムライン
+msgctxt "Honkr_Page_NewsFeed"
+msgid "News Feed"
+msgstr ""
+
+#. 依頼リスト
+msgctxt "Honkr_Page_Objectives"
+msgid "Objectives"
+msgstr ""
+
+#. クロスプレイ
+msgctxt "HostJoinScreen_Crossplay"
+msgid "Crossplay"
+msgstr ""
+
+#. 異なるプラットフォームとマッチングするかどうかを選択してください。
+msgctxt "HostJoinScreen_FooterMsg_Crossplay"
+msgid ""
+"Choose if you would like to play with players on different consoles or not."
+msgstr ""
+
+#. ホストで始める。
+msgctxt "HostJoinScreen_FooterMsg_Host"
+msgid "Host an online game."
+msgstr ""
+
+#. ゲストで参加する。
+msgctxt "HostJoinScreen_FooterMsg_Join"
+msgid "Join an online game."
+msgstr ""
+
+#. ホスト
+msgctxt "HostJoinScreen_Host"
+msgid "Host"
+msgstr ""
+
+#. ゲスト
+msgctxt "HostJoinScreen_Join"
+msgid "Join"
+msgstr ""
+
+#. 難易度
+msgctxt "HostOptionsScreen_Difficulty"
+msgid "Difficulty"
+msgstr ""
+
+#. 軟派 < ノーマル>
+msgctxt "HostOptionsScreen_Difficulty_Easy"
+msgid "Normal"
+msgstr ""
+
+#. 熱血 < ナイトメア>
+msgctxt "HostOptionsScreen_Difficulty_Hard"
+msgid "Nightmare"
+msgstr ""
+
+#. 硬派 < タフ >
+msgctxt "HostOptionsScreen_Difficulty_Medium"
+msgid "Tough"
+msgstr ""
+
+#. 難易度を選択します。軟派、硬派、熱血の順番に難易度が高くなります。
+msgctxt "HostOptionsScreen_FooterMsg_Difficulty"
+msgid "Set the game's difficulty."
+msgstr ""
+
+#. 同士討ち設定を選択します。
+msgctxt "HostOptionsScreen_FooterMsg_FriendlyFire"
+msgid "Set whether players can damage each other."
+msgstr ""
+
+#. ゲームモードを選択します。
+msgctxt "HostOptionsScreen_FooterMsg_GameMode"
+msgid "Set the game mode."
+msgstr ""
+
+#. ゲームへの参加方法を設定します。
+msgctxt "HostOptionsScreen_FooterMsg_Privacy"
+msgid "Set who can join the game."
+msgstr ""
+
+#. 同士討ち
+msgctxt "HostOptionsScreen_FriendlyFire"
+msgid "Friendly Fire"
+msgstr ""
+
+#. ゲームモード
+msgctxt "HostOptionsScreen_GameMode"
+msgid "Game Mode"
+msgstr ""
+
+#. ストーリーモード
+msgctxt "HostOptionsScreen_GameMode_Story"
+msgid "Story Mode"
+msgstr ""
+
+#. ルーム設定
+msgctxt "HostOptionsScreen_Privacy"
+msgid "Privacy"
+msgstr ""
+
+#. フレンドロビー
+msgctxt "HostOptionsScreen_Privacy_FriendsOnly"
+msgid "Friends Only"
+msgstr ""
+
+#. プライベート
+msgctxt "HostOptionsScreen_Privacy_Private"
+msgid "Private"
+msgstr ""
+
+#. だれでも
+msgctxt "HostOptionsScreen_Privacy_Public"
+msgid "Public"
+msgstr ""
+
+#. 地域
+msgctxt "HostOptionsScreen_Region"
+msgid "Region"
+msgstr ""
+
+#. 体力を{0}%回復する。
+msgctxt "ITEM_DESC_ALOE_DRINK"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する。
+msgctxt "ITEM_DESC_ASPIRIN"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する。
+msgctxt "ITEM_DESC_AVOCADO_TOAST"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_A_TOUGH_FIGHT"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_BACON_ROD"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_BAGUETTE"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_BANDAGES"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_BETTER_THAN_YOU"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 空中攻撃を強化する。
+msgctxt "ITEM_DESC_BIRTH_CHART_NECKLACE"
+msgid "Air attacks are stronger."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_BOBA_TEA"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. お金を拾うと体力が回復
+msgctxt "ITEM_DESC_BOMB_BOTTOM"
+msgid "Grabbing money can heal your wounds."
+msgstr ""
+
+#. 体力を{0}%回復する。一時的に移動速度アップ。
+msgctxt "ITEM_DESC_BOUNTY_LASS"
+msgid "Replenish stamina {0} percent. Temp AG boost."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_BUTTERMILK"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する。お腹を壊すかも。
+msgctxt "ITEM_DESC_CANDY_CORN_DRINKING_HORN"
+msgid "Replenish stamina by {0} percent. Might be poisonous."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_CARNE_SAURUS"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_CAT_PILLOW"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_CHARACTER_SELECT"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_CHOCOLATE_FILLED_FROG"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_CHOCO_BERRY"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 倒れている敵へ与えるダメージが増加する。
+msgctxt "ITEM_DESC_CHOKER"
+msgid "Do more damage to enemies on the ground."
+msgstr ""
+
+#. 体力を{0}%回復する。稀に体力が減る。
+msgctxt "ITEM_DESC_CILANTRO_LICORICE"
+msgid ""
+"Replenish stamina by {0} percent. Slight chance of hurting your stamina."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_CLONE_NUGGETS"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 助っ人のダメージが増加する。
+msgctxt "ITEM_DESC_COACH'S_HAT"
+msgid "Recruits attacks are more damaging."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_CURRY_RICE"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_DANGO"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_DANGOO"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. コンボ数に応じて体力が回復する。
+msgctxt "ITEM_DESC_DECO_NAILS"
+msgid "Combos can be therapeutic."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_DORAYAKI"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_DRAGON_BROTHERS"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. ヘヴィアタックに電撃効果を追加する。
+msgctxt "ITEM_DESC_ELECTRIC_JUICE"
+msgid "Temp shock effect with heavy attacks."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_EL_PASTOREX"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_END_CREDITS_SONG"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_FAKE_CHICKEN"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_FEEL_HEAT"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_FIRE_CHEESE"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 一時的にヘヴィアタックに延焼効果を追加する
+msgctxt "ITEM_DESC_FIRE_JUICE"
+msgid "Temp fire effect with heavy attacks."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_FIRST_AID"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 攻撃を受けるとSPゲージが溜まる。
+msgctxt "ITEM_DESC_FISHNET_TOP"
+msgid "Recover special meter when attacked."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_FIZZY_FUZZ"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 持っていると建築系の武器が壊れなくなる
+msgctxt "ITEM_DESC_FUNSTRUCTION"
+msgid "Makes Construction weapons not break when held."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_GARLIC_GELATO"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_GHOASTER_STRUDEL"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する。一時的に移動速度ダウン。
+msgctxt "ITEM_DESC_GLUE_PASTE"
+msgid "Replenish stamina by {0} percent. Slows you down temporarily."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_GNOCCHI_MOCHI"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_GRAPPLES"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_GREEN_SMOOTHIE"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_GUMMY_YUMMIES"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_GUTTERMILK"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 助っ人ゲージが溜まりやすくなる。
+msgctxt "ITEM_DESC_HEART_EARRINGS"
+msgid "Recruits' meters fill up faster."
+msgstr ""
+
+#. SPゲージが無限になる
+msgctxt "ITEM_DESC_HEART_REACTOR"
+msgid "This device gives you infinite special meter."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_HORCHATA"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力が{0}％回復する。一時的に運が上昇する。
+msgctxt "ITEM_DESC_HOT_BLOODED_BOYS"
+msgid "Replenish stamina {0} percent. Temp LK boost."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_ICE_CREAM_CONE"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_JELLY_FILLED"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 持っているとスポーツ系の武器が壊れなくなる
+msgctxt "ITEM_DESC_JOCK_JOURNAL"
+msgid "Makes Sports weapons not break when held."
+msgstr ""
+
+#. 持っているとオモチャ系の武器が壊れなくなる
+msgctxt "ITEM_DESC_JOY_OF_TOYS"
+msgid "Makes Toy weapons not break when held."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_KATSU_DON"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_LASAGNA"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 自動販売機でドロップするアイテムが増える。
+msgctxt "ITEM_DESC_LOCKPICK_KIT"
+msgid "Vending machines are far more generous."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_MAIN_THEME"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_MATCHA_TEA"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_MECH_TOY"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_MEGA_RAN"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_MELON_MINTS"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する。一時的に移動速度ダウン。
+msgctxt "ITEM_DESC_MERV_DOUBLE"
+msgid "Replenish stamina by {0} percent. Slows you down temporarily."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_MERV_FIRES"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_MERV_SHAKE"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_MERV_SINGLE"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. ときどき倒れた時に手榴弾を落とす
+msgctxt "ITEM_DESC_MILITARY_BELT"
+msgid "Chance of dropping a grenade when knocked down."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_MILK"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_MONGOLIAN_BEETS"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_MONKEY_BREAD"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_NOIZE_FIGURE"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. cut
+msgctxt "ITEM_DESC_NOOSE_CANDY"
+msgid "cut"
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_NOT_DOGS"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_NO_2_PENCILS"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_OCTOPUS_HOTDOG"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_OFF_LAWN"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_OLD_FASHIONED"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_OOLONG_TEA"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}％回復する。一時的に攻撃力アップ。
+msgctxt "ITEM_DESC_PLUMBERINOS"
+msgid "Replenish stamina {0} percent. Temp AT boost."
+msgstr ""
+
+#. ヘヴィアタックに猛毒効果を追加
+msgctxt "ITEM_DESC_POISON_JUICE"
+msgid "Temp poison effect with heavy attacks."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_POLYESTER_CANDY"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_POTATO_SNAPS"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_PROLOGUE"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_PROVIE_THEME"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_PTERAFLAN"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_QOQO_SODA"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_QUESO_DIPLODOCUS"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_QUICHE"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_RAMEN"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_RAVIOLI"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. ピンチになると防御シールドを展開する
+msgctxt "ITEM_DESC_RIBBON_BRA"
+msgid "Get a defensive shield when close to defeat."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_ROXY_THEME"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_SALMON_NIGIRI"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 全員の体力とSPゲージを完全に回復する
+msgctxt "ITEM_DESC_SAUNA_FOR_ALL"
+msgid "Full replenish stamina and special for everyone."
+msgstr ""
+
+#. 体力とSPゲージを完全に回復する
+msgctxt "ITEM_DESC_SAUNA_FOR_ONE"
+msgid "Full replenish stamina and special for yourself."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_SHERMAN_PARK"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_SHOP_THEME"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_SHRIMP_ROLL"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. お店のアイテムが安くなる。
+msgctxt "ITEM_DESC_SMART_WATCH"
+msgid "Makes store items cheaper."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_SMOKY_MOCHI"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_SORBET"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_SPICY_MOCHI"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_SPICY_TUNA_ROLL"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_SPRINKLED"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_SUNDAE"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_TACODACTYL"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_TAIYAKI"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_TEETH_FRACKERS"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_TEMPURA"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_THAI_TEA"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 持っていると家庭系の武器が壊れなくなる
+msgctxt "ITEM_DESC_THRILLHOUSE"
+msgid "Makes Household weapons not break when held."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_TOFU_BURRITO"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_TOY_ALARM"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}％回復する。一時的に武器の威力アップ。
+msgctxt "ITEM_DESC_TRIANGLE_PRINCESS"
+msgid "Replenish stamina {0} percent. Temp WP boost."
+msgstr ""
+
+#. ジャストガードをするとダメージを与える。
+msgctxt "ITEM_DESC_TRIANON'S_TRINKET"
+msgid "Pull off power parries that do damage."
+msgstr ""
+
+#. 体力を{0}％回復する。一時的に移動速度アップ。
+msgctxt "ITEM_DESC_TURBO_JUICE"
+msgid "Replenish stamina by {0} percent. Temp AG boost."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_UMAMI_MOCHI"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 体力を{0}％回復する。一時的に武器の威力アップ。
+msgctxt "ITEM_DESC_VAMPIRE_PUNCHER_(GAME)"
+msgid "Replenish stamina {0} percent. Temp WP boost."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_VELOCI_AL_PASTOR"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 子分の攻撃で子分の体力が回復するようになる
+msgctxt "ITEM_DESC_VIRTUAL_PET"
+msgid "Recruit attacks have a chance of healing themselves."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_VITAMIN_K_TONIC"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 一時的にヘヴィアタックに凍結効果を追加
+msgctxt "ITEM_DESC_WATER_JUICE"
+msgid "Temp freeze effect with heavy attacks."
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_YOUR_LIKE"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 体力を{0}%回復する
+msgctxt "ITEM_DESC_YUMMI_WORMS"
+msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. アロエジュース
+msgctxt "ITEM_NAME_ALOE_DRINK"
+msgid "Aloe Drink"
+msgstr ""
+
+#. アスピリン
+msgctxt "ITEM_NAME_ASPIRIN"
+msgid "Aspirin"
+msgstr ""
+
+#. アボカドトースト
+msgctxt "ITEM_NAME_AVOCADO_TOAST"
+msgid "Avocado Toast"
+msgstr ""
+
+#. タフファイト
+msgctxt "ITEM_NAME_A_TOUGH_FIGHT"
+msgid "A Tough Fight"
+msgstr ""
+
+#. ベーコンロッド
+msgctxt "ITEM_NAME_BACON_ROD"
+msgid "Bacon Rod"
+msgstr ""
+
+#. フランスパン
+msgctxt "ITEM_NAME_BAGUETTE"
+msgid "Baguette"
+msgstr ""
+
+#. 包帯
+msgctxt "ITEM_NAME_BANDAGES"
+msgid "Bandages"
+msgstr ""
+
+#. Better Than You
+msgctxt "ITEM_NAME_BETTER_THAN_YOU"
+msgid "Better Than You"
+msgstr ""
+
+#. 魔法陣ネックレス
+msgctxt "ITEM_NAME_BIRTH_CHART_NECKLACE"
+msgid "Sign Necklace"
+msgstr ""
+
+#. タピオカティー
+msgctxt "ITEM_NAME_BOBA_TEA"
+msgid "Boba Tea"
+msgstr ""
+
+#. ニトロパンツ
+msgctxt "ITEM_NAME_BOMB_BOTTOM"
+msgid "Bomb Bottom"
+msgstr ""
+
+#. バウンティ・ラス（ゲーム）
+msgctxt "ITEM_NAME_BOUNTY_LASS"
+msgid "Bounty Lass (Game)"
+msgstr ""
+
+#. バターミルク
+msgctxt "ITEM_NAME_BUTTERMILK"
+msgid "Buttermilk"
+msgstr ""
+
+#. キャンディコーンドリンクホーン
+msgctxt "ITEM_NAME_CANDY_CORN_DRINKING_HORN"
+msgid "Candy Corn Drinking Horn"
+msgstr ""
+
+#. シナモンソイラテ
+msgctxt "ITEM_NAME_CARNE_SAURUS"
+msgid "Horchata"
+msgstr ""
+
+#. ネコ枕
+msgctxt "ITEM_NAME_CAT_PILLOW"
+msgid "Cat Pillow"
+msgstr ""
+
+#. キャラクターセレクト
+msgctxt "ITEM_NAME_CHARACTER_SELECT"
+msgid "Character Select"
+msgstr ""
+
+#. カワズチョコ
+msgctxt "ITEM_NAME_CHOCOLATE_FILLED_FROG"
+msgid "Chocolate Filled Frog"
+msgstr ""
+
+#. チョコベリー
+msgctxt "ITEM_NAME_CHOCO_BERRY"
+msgid "Choco Berry"
+msgstr ""
+
+#. ラブチョーカー
+msgctxt "ITEM_NAME_CHOKER"
+msgid "Choker"
+msgstr ""
+
+#. パクチーグミ
+msgctxt "ITEM_NAME_CILANTRO_LICORICE"
+msgid "Cilantro Licorice"
+msgstr ""
+
+#. 培養チキンナゲット
+msgctxt "ITEM_NAME_CLONE_NUGGETS"
+msgid "Clone Nuggets"
+msgstr ""
+
+#. コーチ帽
+msgctxt "ITEM_NAME_COACH'S_HAT"
+msgid "Coach's Hat"
+msgstr ""
+
+#. カレーライス
+msgctxt "ITEM_NAME_CURRY_RICE"
+msgid "Curry Rice"
+msgstr ""
+
+#. だんご
+msgctxt "ITEM_NAME_DANGO"
+msgid "Dango"
+msgstr ""
+
+#. だんごぅ
+msgctxt "ITEM_NAME_DANGOO"
+msgid "Dangoo"
+msgstr ""
+
+#. キャラネイル
+msgctxt "ITEM_NAME_DECO_NAILS"
+msgid "Deco Nails"
+msgstr ""
+
+#. どら焼き
+msgctxt "ITEM_NAME_DORAYAKI"
+msgid "Dorayaki"
+msgstr ""
+
+#. Dragon Brothers
+msgctxt "ITEM_NAME_DRAGON_BROTHERS"
+msgid "Dragon Brothers"
+msgstr ""
+
+#. DRAGON TWINS
+msgctxt "ITEM_NAME_DRAGON_TWINS"
+msgid "DRAGON TWINS"
+msgstr ""
+
+#. メガパチ
+msgctxt "ITEM_NAME_ELECTRIC_JUICE"
+msgid "Electric Juice"
+msgstr ""
+
+#. Al Pastorex
+msgctxt "ITEM_NAME_EL_PASTOREX"
+msgid "Al Pastorex"
+msgstr ""
+
+#. Thank you for Your Time
+msgctxt "ITEM_NAME_END_CREDITS_SONG"
+msgid "Thanks for Your Time"
+msgstr ""
+
+#. フェイクチキン
+msgctxt "ITEM_NAME_FAKE_CHICKEN"
+msgid "Fake Chicken"
+msgstr ""
+
+#. Feel the Heat
+msgctxt "ITEM_NAME_FEEL_HEAT"
+msgid "Feel The Heat"
+msgstr ""
+
+#. カプサイシンラムネ
+msgctxt "ITEM_NAME_FIRE_JUICE"
+msgid "Fire Juice"
+msgstr ""
+
+#. ファーストエイド
+msgctxt "ITEM_NAME_FIRST_AID"
+msgid "First Aid Kit"
+msgstr ""
+
+#. フィッシュネットシャツ
+msgctxt "ITEM_NAME_FISHNET_TOP"
+msgid "Fishnet Top"
+msgstr ""
+
+#. フィジーファズ
+msgctxt "ITEM_NAME_FIZZY_FUZZ"
+msgid "Fizzy Fuzz"
+msgstr ""
+
+#. フライチーズ
+msgctxt "ITEM_NAME_FRIED_CHEESE"
+msgid "Fried Cheese"
+msgstr ""
+
+#. 楽しみの見つけ方（本）
+msgctxt "ITEM_NAME_FUNSTRUCTION"
+msgid "Funstruction (Book)"
+msgstr ""
+
+#. ガーリックジェラート
+msgctxt "ITEM_NAME_GARLIC_GELATO"
+msgid "Garlic Gelato"
+msgstr ""
+
+#. おばけシュトゥルーデル
+msgctxt "ITEM_NAME_GHOASTER_STRUDEL"
+msgid "Ghoaster Strudel"
+msgstr ""
+
+#. でんぷんのり
+msgctxt "ITEM_NAME_GLUE_PASTE"
+msgid "Glue Paste"
+msgstr ""
+
+#. もちもちのニョッキ
+msgctxt "ITEM_NAME_GNOCCHI_MOCHI"
+msgid "Gnocchi Mochi"
+msgstr ""
+
+#. リンゴ（ブドウ味）
+msgctxt "ITEM_NAME_GRAPPLES"
+msgid "Grapples"
+msgstr ""
+
+#. 緑茶スムージー
+msgctxt "ITEM_NAME_GREEN_SMOOTHIE"
+msgid "Green Smoothie"
+msgstr ""
+
+#. みんなでサウナ
+msgctxt "ITEM_NAME_GROUP_SAUNA"
+msgid "Group Sauna"
+msgstr ""
+
+#. やみつきグミ
+msgctxt "ITEM_NAME_GUMMY_YUMMIES"
+msgid "Gummy Yummies"
+msgstr ""
+
+#. ミルクドーナッツ
+msgctxt "ITEM_NAME_GUTTERMILK"
+msgid "Guttermilk Donut"
+msgstr ""
+
+#. ハートのイアリング
+msgctxt "ITEM_NAME_HEART_EARRINGS"
+msgid "Heart Earrings"
+msgstr ""
+
+#. ハートリアクター
+msgctxt "ITEM_NAME_HEART_REACTOR"
+msgid "Heart Reactor"
+msgstr ""
+
+#. オルチャータ
+msgctxt "ITEM_NAME_HORCHATA"
+msgid "Horchata"
+msgstr ""
+
+#. 熱血少年（ゲーム）
+msgctxt "ITEM_NAME_HOT_BLOODED_BOYS"
+msgid "Hot Blooded Boys (Game)"
+msgstr ""
+
+#. アイスクリーム
+msgctxt "ITEM_NAME_ICE_CREAM_CONE"
+msgid "Ice Cream Cone"
+msgstr ""
+
+#. ぱんぱんのゼリー
+msgctxt "ITEM_NAME_JELLY_FILLED"
+msgid "Jelly Filled"
+msgstr ""
+
+#. ジョックジャーナル（本）
+msgctxt "ITEM_NAME_JOCK_JOURNAL"
+msgid "Jock Journal (Book)"
+msgstr ""
+
+#. おもちゃの喜び（本）
+msgctxt "ITEM_NAME_JOY_OF_TOYS"
+msgid "Joy of Toys (Book)"
+msgstr ""
+
+#. カツ丼
+msgctxt "ITEM_NAME_KATSU_DON"
+msgid "Katsudon"
+msgstr ""
+
+#. ラザニア
+msgctxt "ITEM_NAME_LASAGNA"
+msgid "Lasagna"
+msgstr ""
+
+#. キュートロックピック
+msgctxt "ITEM_NAME_LOCKPICK_KIT"
+msgid "Lockpick Kit"
+msgstr ""
+
+#. メインテーマ
+msgctxt "ITEM_NAME_MAIN_THEME"
+msgid "Main Theme"
+msgstr ""
+
+#. MARIAN KELLY
+msgctxt "ITEM_NAME_MARIAN_THEME"
+msgid "MARIAN KELLY"
+msgstr ""
+
+#. 抹茶
+msgctxt "ITEM_NAME_MATCHA_TEA"
+msgid "Matcha Tea"
+msgstr ""
+
+#. おもちゃロボット
+msgctxt "ITEM_NAME_MECH_TOY"
+msgid "Mech Toy"
+msgstr ""
+
+#. Mega Ran
+msgctxt "ITEM_NAME_MEGA_RAN"
+msgid "Mega Ran"
+msgstr ""
+
+#. スイカ
+msgctxt "ITEM_NAME_MELON_MINTS"
+msgid "Melon Mints"
+msgstr ""
+
+#. ダブルテックバーガー
+msgctxt "ITEM_NAME_MERV_DOUBLE"
+msgid "Merv Double"
+msgstr ""
+
+#. テックフライドポテト
+msgctxt "ITEM_NAME_MERV_FRIES"
+msgid "Merv Fries"
+msgstr ""
+
+#. テックシェイク
+msgctxt "ITEM_NAME_MERV_SHAKE"
+msgid "Merv Shake"
+msgstr ""
+
+#. テックバーガー
+msgctxt "ITEM_NAME_MERV_SINGLE"
+msgid "Merv Single"
+msgstr ""
+
+#. ファンシーミリタリーベルト
+msgctxt "ITEM_NAME_MILITARY_BELT"
+msgid "Military Belt"
+msgstr ""
+
+#. ミルク
+msgctxt "ITEM_NAME_MILK"
+msgid "Milk"
+msgstr ""
+
+#. モンゴリアンビーツ
+msgctxt "ITEM_NAME_MONGOLIAN_BEETS"
+msgid "Mongolian Beets"
+msgstr ""
+
+#. モンキーパン
+msgctxt "ITEM_NAME_MONKEY_BREAD"
+msgid "Monkey Bread"
+msgstr ""
+
+#. ノイズのフィギュア
+msgctxt "ITEM_NAME_NOIZE_FIGURE"
+msgid "NOIZE Figure"
+msgstr ""
+
+#. ヌースキャンディ
+msgctxt "ITEM_NAME_NOOSE_CANDY"
+msgid "Noose Candy"
+msgstr ""
+
+#. ノットドッグ
+msgctxt "ITEM_NAME_NOT_DOGS"
+msgid "Not Dogs"
+msgstr ""
+
+#. ふつうの鉛筆
+msgctxt "ITEM_NAME_NO_2_PENCILS"
+msgid "No. 2 Pencils"
+msgstr ""
+
+#. たこさんウィンナー
+msgctxt "ITEM_NAME_OCTOPUS_HOTDOG"
+msgid "Octopus Hotdog"
+msgstr ""
+
+#. Get Off My Lawn
+msgctxt "ITEM_NAME_OFF_LAWN"
+msgid "Get Off My Lawn"
+msgstr ""
+
+#. オールドファッション
+msgctxt "ITEM_NAME_OLD_FASHIONED"
+msgid "Old Fashioned"
+msgstr ""
+
+#. ウーロン茶
+msgctxt "ITEM_NAME_OOLONG_TEA"
+msgid "Oolong Tea"
+msgstr ""
+
+#. 配管工たち（ゲーム）
+msgctxt "ITEM_NAME_PLUMBERINOS"
+msgid "Plumberinos (Game)"
+msgstr ""
+
+#. 毒烏龍茶
+msgctxt "ITEM_NAME_POISON_JUICE"
+msgid "Poison Juice"
+msgstr ""
+
+#. わたあめ
+msgctxt "ITEM_NAME_POLYESTER_CANDY"
+msgid "Polyester Candy"
+msgstr ""
+
+#. ポテトチップス
+msgctxt "ITEM_NAME_POTATO_SNAPS"
+msgid "Potato Snaps"
+msgstr ""
+
+#. Prologue
+msgctxt "ITEM_NAME_PROLOGUE"
+msgid "Prologue"
+msgstr ""
+
+#. プルーヴィ
+msgctxt "ITEM_NAME_PROVIE_THEME"
+msgid "Provie."
+msgstr ""
+
+#. プリンノドン
+msgctxt "ITEM_NAME_PTERAFLAN"
+msgid "Pteraflan"
+msgstr ""
+
+#. バブルソーダ
+msgctxt "ITEM_NAME_QOQO_SODA"
+msgid "Qoqo Soda"
+msgstr ""
+
+#. プリンノドン
+msgctxt "ITEM_NAME_QUESO_DIPLODOCUS"
+msgid "Pteraflan"
+msgstr ""
+
+#. キッシュ
+msgctxt "ITEM_NAME_QUICHE"
+msgid "Quiche"
+msgstr ""
+
+#. イェー系ラーメン
+msgctxt "ITEM_NAME_RAMEN"
+msgid "Ramen"
+msgstr ""
+
+#. ラビオリ
+msgctxt "ITEM_NAME_RAVIOLI"
+msgid "Ravioli"
+msgstr ""
+
+#. リボンブラ
+msgctxt "ITEM_NAME_RIBBON_BRA"
+msgid "Ribbon Bra"
+msgstr ""
+
+#. ロキシィのテーマ
+msgctxt "ITEM_NAME_ROXY_THEME"
+msgid "Roxy's Theme"
+msgstr ""
+
+#. SABU
+msgctxt "ITEM_NAME_SABU_THEME"
+msgid "SABU"
+msgstr ""
+
+#. サーモンの握り
+msgctxt "ITEM_NAME_SALMON_NIGIRI"
+msgid "Salmon Nigiri"
+msgstr ""
+
+#. パーティサウナ
+msgctxt "ITEM_NAME_SAUNA_FOR_ALL"
+msgid "Sauna For All"
+msgstr ""
+
+#. 一人用サウナ
+msgctxt "ITEM_NAME_SAUNA_FOR_ONE"
+msgid "Sauna For One"
+msgstr ""
+
+#. Sherman Park
+msgctxt "ITEM_NAME_SHERMAN_PARK"
+msgid "Sherman Park"
+msgstr ""
+
+#. ショップのテーマ
+msgctxt "ITEM_NAME_SHOP_THEME"
+msgid "Shop Theme"
+msgstr ""
+
+#. えび天ロール
+msgctxt "ITEM_NAME_SHRIMP_ROLL"
+msgid "Shrimp Roll"
+msgstr ""
+
+#. スマートウォッチ
+msgctxt "ITEM_NAME_SMART_WATCH"
+msgid "Smart Watch"
+msgstr ""
+
+#. 燻製焦げ餅
+msgctxt "ITEM_NAME_SMOKY_MOCHI"
+msgid "Smoky Mochi"
+msgstr ""
+
+#. ソルベ
+msgctxt "ITEM_NAME_SORBET"
+msgid "Sorbet"
+msgstr ""
+
+#. 激辛麻辣餅
+msgctxt "ITEM_NAME_SPICY_MOCHI"
+msgid "Spicy Mochi"
+msgstr ""
+
+#. スパイシーツナロール
+msgctxt "ITEM_NAME_SPICY_TUNA_ROLL"
+msgid "Spicy Tuna Roll"
+msgstr ""
+
+#. ふりかけドーナッツ
+msgctxt "ITEM_NAME_SPRINKLED"
+msgid "Sprinkled"
+msgstr ""
+
+#. サンデー
+msgctxt "ITEM_NAME_SUNDAE"
+msgid "Sundae"
+msgstr ""
+
+#. プテラタコティルス
+msgctxt "ITEM_NAME_TACODACTYL"
+msgid "Tacodactyl"
+msgstr ""
+
+#. たい焼き
+msgctxt "ITEM_NAME_TAIYAKI"
+msgid "Taiyaki"
+msgstr ""
+
+#. 魔術師
+msgctxt "ITEM_NAME_TAROTCARD_1"
+msgid "The Magician"
+msgstr ""
+
+#. 運命の輪
+msgctxt "ITEM_NAME_TAROTCARD_10"
+msgid "The Wheel Of Fortune"
+msgstr ""
+
+#. 正義
+msgctxt "ITEM_NAME_TAROTCARD_11"
+msgid "Justice"
+msgstr ""
+
+#. 吊るし人
+msgctxt "ITEM_NAME_TAROTCARD_12"
+msgid "The Hanged Man"
+msgstr ""
+
+#. 死
+msgctxt "ITEM_NAME_TAROTCARD_13"
+msgid "Death"
+msgstr ""
+
+#. 節制
+msgctxt "ITEM_NAME_TAROTCARD_14"
+msgid "Temperance"
+msgstr ""
+
+#. 悪魔
+msgctxt "ITEM_NAME_TAROTCARD_15"
+msgid "The Devil"
+msgstr ""
+
+#. 塔
+msgctxt "ITEM_NAME_TAROTCARD_16"
+msgid "The Tower"
+msgstr ""
+
+#. 星
+msgctxt "ITEM_NAME_TAROTCARD_17"
+msgid "The Star"
+msgstr ""
+
+#. 月
+msgctxt "ITEM_NAME_TAROTCARD_18"
+msgid "The Moon"
+msgstr ""
+
+#. 太陽
+msgctxt "ITEM_NAME_TAROTCARD_19"
+msgid "The Sun"
+msgstr ""
+
+#. 女教皇
+msgctxt "ITEM_NAME_TAROTCARD_2"
+msgid "The High Priestess"
+msgstr ""
+
+#. 審判
+msgctxt "ITEM_NAME_TAROTCARD_20"
+msgid "Judgement"
+msgstr ""
+
+#. 世界
+msgctxt "ITEM_NAME_TAROTCARD_21"
+msgid "The World"
+msgstr ""
+
+#. 愚者
+msgctxt "ITEM_NAME_TAROTCARD_22"
+msgid "The Fool"
+msgstr ""
+
+#. 女帝
+msgctxt "ITEM_NAME_TAROTCARD_3"
+msgid "The Empress"
+msgstr ""
+
+#. 皇帝
+msgctxt "ITEM_NAME_TAROTCARD_4"
+msgid "The Emperor"
+msgstr ""
+
+#. 法王
+msgctxt "ITEM_NAME_TAROTCARD_5"
+msgid "The Hierophant"
+msgstr ""
+
+#. 恋人たち
+msgctxt "ITEM_NAME_TAROTCARD_6"
+msgid "The Lovers"
+msgstr ""
+
+#. 戦車
+msgctxt "ITEM_NAME_TAROTCARD_7"
+msgid "The Chariot"
+msgstr ""
+
+#. 剛毅
+msgctxt "ITEM_NAME_TAROTCARD_8"
+msgid "Strength"
+msgstr ""
+
+#. 隠者
+msgctxt "ITEM_NAME_TAROTCARD_9"
+msgid "The Hermit"
+msgstr ""
+
+#. めちゃ大きくて固いキャンディー
+msgctxt "ITEM_NAME_TEETH_FRACKERS"
+msgid "Teeth Frackers"
+msgstr ""
+
+#. 天ぷら
+msgctxt "ITEM_NAME_TEMPURA"
+msgid "Tempura"
+msgstr ""
+
+#. 紅茶
+msgctxt "ITEM_NAME_THAI_TEA"
+msgid "Thai Tea"
+msgstr ""
+
+#. スリルハウス（本）
+msgctxt "ITEM_NAME_THRILLHOUSE"
+msgid "Thrillhouse (Book)"
+msgstr ""
+
+#. 豆腐のブリトー
+msgctxt "ITEM_NAME_TOFU_BURRITO"
+msgid "Tofu Burrito"
+msgstr ""
+
+#. おもちゃのアラーム
+msgctxt "ITEM_NAME_TOY_ALRM"
+msgid "Toy Alarm"
+msgstr ""
+
+#. デルタの伝説（ゲーム）
+msgctxt "ITEM_NAME_TRIANGLE_PRINCESS"
+msgid "Triangle Princess (Game)"
+msgstr ""
+
+#. トリアノントリンケット
+msgctxt "ITEM_NAME_TRIANON'S_TRINKET"
+msgid "Trianon's Trinket"
+msgstr ""
+
+#. ターボジュース
+msgctxt "ITEM_NAME_TURBO_JUICE"
+msgid "Turbo Juice"
+msgstr ""
+
+#. 旨味モチ
+msgctxt "ITEM_NAME_UMAMI_MOCHI"
+msgid "Umami Mochi"
+msgstr ""
+
+#. デルタの伝説（ゲーム）
+msgctxt "ITEM_NAME_VAMPIRE_PUNCHER_(GAME)"
+msgid "Triangle Princess (Game)"
+msgstr ""
+
+#. アルパストレックス
+msgctxt "ITEM_NAME_VELOCI_AL_PASTOR"
+msgid "Al Pastorex"
+msgstr ""
+
+#. Vペット
+msgctxt "ITEM_NAME_VIRTUAL_PET"
+msgid "Virtual Pet"
+msgstr ""
+
+#. ビタミン剤
+msgctxt "ITEM_NAME_VITAMIN_K_TONIC"
+msgid "Vitamin K Tonic"
+msgstr ""
+
+#. カロリーZeroウォーター
+msgctxt "ITEM_NAME_WATER_JUICE"
+msgid "Water Juice"
+msgstr ""
+
+#. Your Like
+msgctxt "ITEM_NAME_YOUR_LIKE"
+msgid "Your Like"
+msgstr ""
+
+#. おいちぃようちゅう
+msgctxt "ITEM_NAME_YUMMI_WORMS"
+msgid "Yummi Worms"
+msgstr ""
+
+#. フレンド
+msgctxt "JoinGameSubtext_Friends"
+msgid "FRIENDS"
+msgstr ""
+
+#. 参加
+msgctxt "JoinGameSubtext_Join"
+msgid "JOIN"
+msgstr ""
+
+#. (公開ロビー)
+msgctxt "JoinGameSubtext_Public"
+msgid "(PUBLIC)"
+msgstr ""
+
+#. ロビーIDを指定して限定ロビーに参加する。
+msgctxt "JoinScreen_FooterMsg_PrivateCode"
+msgid "Join a private game using a code."
+msgstr ""
+
+#. 公開ロビーに参加する。
+msgctxt "JoinScreen_FooterMsg_Public"
+msgid "Join a public game."
+msgstr ""
+
+#. 限定ロビー
+msgctxt "JoinScreen_PrivateCode"
+msgid "Private Code"
+msgstr ""
+
+#. 公開ロビー
+msgctxt "JoinScreen_Public"
+msgid "Public"
+msgstr ""
+
+#. IDを入力する。
+msgctxt "JoinWithCode_EnterCode"
+msgid "Enter Code"
+msgstr ""
+
+#. ロビーIDを入力してロビーに参加します。
+msgctxt "JoinWithCode_FooterMsg"
+msgid "Enter code to join game."
+msgstr ""
+
+#. プレイヤーを退出させる。
+msgctxt "KickFromGame"
+msgid "Kick From Game"
+msgstr ""
+
+#. このゲームからキックされました。
+msgctxt "KickedFromGame"
+msgid "You have been kicked from this game."
+msgstr ""
+
+#. 長押し
+msgctxt "LBL_BUTTON_CHARGE"
+msgid "Hold"
+msgstr ""
+
+#. 短押し
+msgctxt "LBL_BUTTON_RAPIDLY"
+msgid "Rapidly"
+msgstr ""
+
+#. 適用
+msgctxt "LBL_CONFIRM_APPLY"
+msgid "Apply?"
+msgstr ""
+
+#. © ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights reserved.
+msgctxt "LBL_LEGAL_DISCLAIMER"
+msgid ""
+"© ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights reserved."
+msgstr ""
+
+#. New Move!
+msgctxt "LBL_NEW_MOVE"
+msgid "New Move!"
+msgstr ""
+
+#. New Moves in 道場!
+msgctxt "LBL_NEW_MOVES_IN_DOJO"
+msgid "New Moves in Dojo!"
+msgstr ""
+
+#. OK COOL
+msgctxt "LBL_OK_COOL"
+msgid "OK COOL"
+msgstr ""
+
+#. 解像度
+msgctxt "LBL_RESOLUTION"
+msgid "Resolution"
+msgstr ""
+
+#. ウィンドウモード
+msgctxt "LBL_WINDOWED"
+msgid "Windowed"
+msgstr ""
+
+#. 簡体字
+msgctxt "Language_ChineseSimplified"
+msgid "Chinese (Simplified)"
+msgstr ""
+
+#. 繁体字
+msgctxt "Language_ChineseTraditional"
+msgid "Chinese (Traditional)"
+msgstr ""
+
+#. 英語
+msgctxt "Language_English"
+msgid "English"
+msgstr ""
+
+#. フランス語
+msgctxt "Language_French"
+msgid "French"
+msgstr ""
+
+#. ドイツ語
+msgctxt "Language_German"
+msgid "German"
+msgstr ""
+
+#. イタリア語
+msgctxt "Language_Italian"
+msgid "Italian"
+msgstr ""
+
+#. 日本語
+msgctxt "Language_Japanese"
+msgid "Japanese"
+msgstr ""
+
+#. 韓国語
+msgctxt "Language_Korean"
+msgid "Korean"
+msgstr ""
+
+#. Russian
+msgctxt "Language_Russian"
+msgid "Russian"
+msgstr ""
+
+#. スペイン語
+msgctxt "Language_Spanish"
+msgid "Spanish"
+msgstr ""
+
+#. ロビー
+msgctxt "Lobby"
+msgid "LOBBY"
+msgstr ""
+
+#. Complete
+msgctxt "LobbyListing_Complete"
+msgid "Complete"
+msgstr ""
+
+#. {0}に参加しますか？
+msgctxt "LobbyListing_ConfirmJoin"
+msgid "Are you sure you want to join {0}?"
+msgstr ""
+
+#. ユーザーを選択してください。（同じ地域のユーザーのみ表示します。）
+msgctxt "LobbyListing_FooterMsg"
+msgid ""
+"Choose a game to join. (You can only join games in your selected region.)"
+msgstr ""
+
+#. ID
+msgctxt "LobbyListing_ID"
+msgid "ID"
+msgstr ""
+
+#. プレイヤー
+msgctxt "LobbyListing_Players"
+msgid "Players"
+msgstr ""
+
+#. 金的
+msgctxt "MOVE_NAME_ACORN_BREAKER"
+msgid "Acorn Breaker"
+msgstr ""
+
+#. スクリューボンバー
+msgctxt "MOVE_NAME_ACRO_CIRCUS"
+msgid "Acro Circus"
+msgstr ""
+
+#. アクロバットドラゴン
+msgctxt "MOVE_NAME_ACRO_DRAGON"
+msgid "Acro Dragon"
+msgstr ""
+
+#. アクロフリップ
+msgctxt "MOVE_NAME_ACRO_FLIP"
+msgid "Acro Flip"
+msgstr ""
+
+#. エアキャンセル
+msgctxt "MOVE_NAME_AIR_CANCEL"
+msgid "Air Cancel"
+msgstr ""
+
+#. エアクロス
+msgctxt "MOVE_NAME_AIR_CROSS"
+msgid "Air Cross"
+msgstr ""
+
+#. エアパンケーキ
+msgctxt "MOVE_NAME_AIR_PANCAKE"
+msgid "Air Pancake"
+msgstr ""
+
+#. エア石畳キス
+msgctxt "MOVE_NAME_AIR_PAVEMENT_SMOOCH"
+msgid "Air Pavement Smooch"
+msgstr ""
+
+#. エアスプリットキック
+msgctxt "MOVE_NAME_AIR_SPLITKICK"
+msgid "Air Splitkick"
+msgstr ""
+
+#. バックフリップ
+msgctxt "MOVE_NAME_BACKFLIP"
+msgid "Backflip"
+msgstr ""
+
+#. バク転キック
+msgctxt "MOVE_NAME_BACKFLIP_KICK"
+msgid "Backflip Kick"
+msgstr ""
+
+#. バックハンドスプリング
+msgctxt "MOVE_NAME_BACKHAND_SPRING"
+msgid "Backhand Spring"
+msgstr ""
+
+#. オリンピックスピン
+msgctxt "MOVE_NAME_BACKPACK_SWING"
+msgid "Olympic Spin"
+msgstr ""
+
+#. バックスピン
+msgctxt "MOVE_NAME_BACKSPIN"
+msgid "Backspin"
+msgstr ""
+
+#. 左バックチョップ
+msgctxt "MOVE_NAME_BACK_CHOP"
+msgid "Left Back Chop"
+msgstr ""
+
+#. バック三日月蹴り
+msgctxt "MOVE_NAME_BACK_CRESCENT_KICK"
+msgid "Back Crescent Kick"
+msgstr ""
+
+#. バックエルボー
+msgctxt "MOVE_NAME_BACK_ELBOW"
+msgid "Back Elbow"
+msgstr ""
+
+#. スピンバックフィスト
+msgctxt "MOVE_NAME_BACK_FIST"
+msgid "Spin Back Fist"
+msgstr ""
+
+#. バックハンドキック
+msgctxt "MOVE_NAME_BACK_HAND_SPRING"
+msgid "Back Hand Spring"
+msgstr ""
+
+#. バックスプリットキック
+msgctxt "MOVE_NAME_BACK_SPLIT_KICK"
+msgid "Back Split Kick"
+msgstr ""
+
+#. バックアッパーカット
+msgctxt "MOVE_NAME_BACK_UPPERCUT"
+msgid "Back Uppercut"
+msgstr ""
+
+#. バレットキック
+msgctxt "MOVE_NAME_BALLET_KICK"
+msgid "Ballet Kick"
+msgstr ""
+
+#. オーバーヘッドキック
+msgctxt "MOVE_NAME_BICYCLE_KICK"
+msgid "Bicycle Kick"
+msgstr ""
+
+#. バードキック
+msgctxt "MOVE_NAME_BIRD_KICK"
+msgid "Bird Kick"
+msgstr ""
+
+#. ブームボックス
+msgctxt "MOVE_NAME_BOOM_BOX"
+msgid "Boom Box"
+msgstr ""
+
+#. ボルダーホルダー
+msgctxt "MOVE_NAME_BOULDER_HOLDER"
+msgid "Boulder Holder"
+msgstr ""
+
+#. バウンサースロー
+msgctxt "MOVE_NAME_BOUNCER_THROW"
+msgid "Bouncer Throw"
+msgstr ""
+
+#. ブリックブレイカー
+msgctxt "MOVE_NAME_BRICK_BREAKER"
+msgid "Brick Breaker"
+msgstr ""
+
+#. プロペラキック
+msgctxt "MOVE_NAME_BROKEN_PROPELLER"
+msgid "Broken Propeller"
+msgstr ""
+
+#. ブルースバックハンド
+msgctxt "MOVE_NAME_BRUCE_BACKHAND"
+msgid "Bruce Backhand"
+msgstr ""
+
+#. ボム！
+msgctxt "MOVE_NAME_BUMP"
+msgid "Bump"
+msgstr ""
+
+#. バタフライキック
+msgctxt "MOVE_NAME_BUTTERFLY_KICK"
+msgid "Butterfly Kick"
+msgstr ""
+
+#. ヒップアタック
+msgctxt "MOVE_NAME_BUTT_BUMP"
+msgid "Butt Bump"
+msgstr ""
+
+#. カルーセルトス
+msgctxt "MOVE_NAME_CAROUSEL_TOSS"
+msgid "Carousel Toss"
+msgstr ""
+
+#. 横側転蹴り
+msgctxt "MOVE_NAME_CARTWHEEL"
+msgid "Cartwheel"
+msgstr ""
+
+#. カリスマキック
+msgctxt "MOVE_NAME_CHARISMA_CHECK"
+msgid "Charisma Check"
+msgstr ""
+
+#. チープショット
+msgctxt "MOVE_NAME_CHEAP_SHOT"
+msgid "Cheap Shot"
+msgstr ""
+
+#. チアードリル
+msgctxt "MOVE_NAME_CHEER_DRILL"
+msgid "Cheer Drill"
+msgstr ""
+
+#. チアポーズ
+msgctxt "MOVE_NAME_CHEER_POSE"
+msgid "Cheer Pose"
+msgstr ""
+
+#. サーカスフリップ
+msgctxt "MOVE_NAME_CIRCUS_FLIP"
+msgid "Circus Flip"
+msgstr ""
+
+#. サーカストス
+msgctxt "MOVE_NAME_CIRCUS_TOSS"
+msgid "Circus Toss"
+msgstr ""
+
+#. クリンチニーキック
+msgctxt "MOVE_NAME_CLINCH_KNEES"
+msgid "Clinch Knees"
+msgstr ""
+
+#. クロスライン
+msgctxt "MOVE_NAME_CLOTHESLINE"
+msgid "Clothesline"
+msgstr ""
+
+#. コードブレイカー
+msgctxt "MOVE_NAME_CODE_BREAKER"
+msgid "Code Breaker"
+msgstr ""
+
+#. コインドロップ
+msgctxt "MOVE_NAME_COIN_DROP"
+msgid "Coin Drop"
+msgstr ""
+
+#. キメキメヘアー
+msgctxt "MOVE_NAME_COMBING_HAIR"
+msgid "Combing Hair"
+msgstr ""
+
+#. 三日月蹴り
+msgctxt "MOVE_NAME_CRESCENT_KICK"
+msgid "Crescent Kick"
+msgstr ""
+
+#. クロスパンチ
+msgctxt "MOVE_NAME_CROSS"
+msgid "Cross"
+msgstr ""
+
+#. クロスチョップ
+msgctxt "MOVE_NAME_CROSSBODY_CHECK"
+msgid "Crossbody Check"
+msgstr ""
+
+#. 軽打！
+msgctxt "MOVE_NAME_DAB"
+msgid "Dab!"
+msgstr ""
+
+#. ダイブキック
+msgctxt "MOVE_NAME_DIVE_KICK"
+msgid "Dive Kick"
+msgstr ""
+
+#. ドッジ
+msgctxt "MOVE_NAME_DODGE"
+msgid "Dodge"
+msgstr ""
+
+#. バックフリップエスケープ
+msgctxt "MOVE_NAME_DONKEY_KICK"
+msgid "Backflip Escape"
+msgstr ""
+
+#. ダブルドロップキック
+msgctxt "MOVE_NAME_DOUBLE_DROPKICK"
+msgid "Double Dropkick"
+msgstr ""
+
+#. ダブルスラッシュキック
+msgctxt "MOVE_NAME_DOUBLE_SLASH_KICK"
+msgid "Double Slash Kick"
+msgstr ""
+
+#. マッハキック
+msgctxt "MOVE_NAME_DRAGON_FEET"
+msgid "Dragon Feet"
+msgstr ""
+
+#. ドロップエルボー
+msgctxt "MOVE_NAME_DROP_ELBOW"
+msgid "Drop Elbow"
+msgstr ""
+
+#. ドロップキック
+msgctxt "MOVE_NAME_DROP_KICK"
+msgid "Dropkick"
+msgstr ""
+
+#. 食べる
+msgctxt "MOVE_NAME_EAT"
+msgid "Monch"
+msgstr ""
+
+#. エルボーピストン
+msgctxt "MOVE_NAME_ELBOW_PISTON"
+msgid "Elbow Piston"
+msgstr ""
+
+#. エルボースマッシュ
+msgctxt "MOVE_NAME_ELBOW_SMASH"
+msgid "Elbow Smash"
+msgstr ""
+
+#. ストンピング
+msgctxt "MOVE_NAME_FATAL_STEPS"
+msgid "Fatal Steps"
+msgstr ""
+
+#. フレア
+msgctxt "MOVE_NAME_FLARE"
+msgid "Flare"
+msgstr ""
+
+#. フリップキック
+msgctxt "MOVE_NAME_FLIP_KICK"
+msgid "Flip Kick"
+msgstr ""
+
+#. 跳び膝蹴り
+msgctxt "MOVE_NAME_FLYING_KNEE"
+msgid "Flying Knee"
+msgstr ""
+
+#. フライングスクイル
+msgctxt "MOVE_NAME_FLYING_SQUIRREL"
+msgid "Flying Squirrel"
+msgstr ""
+
+#. フランケンシュタイナー
+msgctxt "MOVE_NAME_FRANKENSTEINER"
+msgid "Frankensteiner"
+msgstr ""
+
+#. 前蹴り
+msgctxt "MOVE_NAME_FRONTKICK"
+msgid "Front Kick"
+msgstr ""
+
+#. フルネルソンパンチ
+msgctxt "MOVE_NAME_FULL_NELSON_PUNCHES"
+msgid "Full Nelson Punches"
+msgstr ""
+
+#. ジャーマン・スープレックス
+msgctxt "MOVE_NAME_GERMAN_SUPLEX"
+msgid "German Suplex"
+msgstr ""
+
+#. グラマーショット
+msgctxt "MOVE_NAME_GLAMOUR_SHOT"
+msgid "Glamour Shot"
+msgstr ""
+
+#. ゴールキーパーパンチ
+msgctxt "MOVE_NAME_GOALIE_PUNCH"
+msgid "Goalie Punch"
+msgstr ""
+
+#. ヘッドバット
+msgctxt "MOVE_NAME_GRAB_HEADBUTT"
+msgid "Grab Headbutt"
+msgstr ""
+
+#. つかみバックヒールキック
+msgctxt "MOVE_NAME_GRAB_HEEL_KICK"
+msgid "Grab Back Heel Kick"
+msgstr ""
+
+#. グラブ・ニー
+msgctxt "MOVE_NAME_GRAB_KNEE"
+msgid "Grab Knee"
+msgstr ""
+
+#. マウント踏みつけ
+msgctxt "MOVE_NAME_GROUND_STOMP"
+msgid "Stomp"
+msgstr ""
+
+#. 内臓パンチ
+msgctxt "MOVE_NAME_GUT_PUNCH"
+msgid "Gut Punch"
+msgstr ""
+
+#. ガットパンチ
+msgctxt "MOVE_NAME_GUT_PUNCHES"
+msgid "Gut Punches"
+msgstr ""
+
+#. ハンドスティックキック
+msgctxt "MOVE_NAME_HANDSTAND_KICK"
+msgid "Handstand Kick"
+msgstr ""
+
+#. ハードパンチ
+msgctxt "MOVE_NAME_HARDER_PUNCH"
+msgid "Harder Punch"
+msgstr ""
+
+#. ノックアウトパンチ
+msgctxt "MOVE_NAME_HAYMAKER"
+msgid "Haymaker"
+msgstr ""
+
+#. ヘッドバット
+msgctxt "MOVE_NAME_HEADBUTT"
+msgid "Headbutt"
+msgstr ""
+
+#. ヘッドスライド
+msgctxt "MOVE_NAME_HEAD_SLIDE"
+msgid "Head Slide"
+msgstr ""
+
+#. ヘッドストンピング
+msgctxt "MOVE_NAME_HEAD_STOMP"
+msgid "Head Stomp"
+msgstr ""
+
+#. ハートビートパンチ
+msgctxt "MOVE_NAME_HEARTBEAT"
+msgid "Heartbeat"
+msgstr ""
+
+#. ヘヴィアッパーカット
+msgctxt "MOVE_NAME_HEAVY_UPPERCUT"
+msgid "Heavy Uppercut"
+msgstr ""
+
+#. バックヒールキック
+msgctxt "MOVE_NAME_HEEL_KICK"
+msgid "Back Heel Kick"
+msgstr ""
+
+#. ハイエルボー
+msgctxt "MOVE_NAME_HIGH_ELBOW"
+msgid "High Elbow"
+msgstr ""
+
+#. 内臓キック
+msgctxt "MOVE_NAME_HIGH_KICK"
+msgid "High Kick"
+msgstr ""
+
+#. フック
+msgctxt "MOVE_NAME_HOOK"
+msgid "Hook"
+msgstr ""
+
+#. 倒立フックキック
+msgctxt "MOVE_NAME_HOOK_KICK"
+msgid "Handstand Hook Kick"
+msgstr ""
+
+#. ホップニー
+msgctxt "MOVE_NAME_HOP_KNEE"
+msgid "Hop Knee"
+msgstr ""
+
+#. 熱血パンチ
+msgctxt "MOVE_NAME_HOT_BLOODED_PUNCH"
+msgid "Hot Blooded Punch"
+msgstr ""
+
+#. 人間ウェポン
+msgctxt "MOVE_NAME_HUMAN_WEAPON"
+msgid "Human Weapon"
+msgstr ""
+
+#. クレーターパンチ
+msgctxt "MOVE_NAME_HURRICANE_KICK"
+msgid "Kunio Crater"
+msgstr ""
+
+#. ジャブ
+msgctxt "MOVE_NAME_JAB"
+msgid "Jab"
+msgstr ""
+
+#. ジュエルパンチ
+msgctxt "MOVE_NAME_JEWEL_PUNCH"
+msgid "Jewel Punch"
+msgstr ""
+
+#. ジャンプ水平キック
+msgctxt "MOVE_NAME_JUMP_180_KICK"
+msgid "Jump 180 Kick"
+msgstr ""
+
+#. ジャンプチョップ
+msgctxt "MOVE_NAME_JUMP_CHOP"
+msgid "Jump Chop"
+msgstr ""
+
+#. ジャンプダブルパンチ
+msgctxt "MOVE_NAME_JUMP_DOUBLE_PUNCH"
+msgid "Jump Double Punch"
+msgstr ""
+
+#. ジャンプエルボードロップ
+msgctxt "MOVE_NAME_JUMP_ELBOW_DROP"
+msgid "Jump Elbow Drop"
+msgstr ""
+
+#. ジャンプハーフムーンキック
+msgctxt "MOVE_NAME_JUMP_HALF_MOON_KICK"
+msgid "Half Moon Kick"
+msgstr ""
+
+#. ハンマーヘッド
+msgctxt "MOVE_NAME_JUMP_HAMMER"
+msgid "Hammer Head"
+msgstr ""
+
+#. ジャンプヘッドバット
+msgctxt "MOVE_NAME_JUMP_HEADBUTT"
+msgid "Jump Headbutt"
+msgstr ""
+
+#. ジャンプフック
+msgctxt "MOVE_NAME_JUMP_HOOK"
+msgid "Jump Hook"
+msgstr ""
+
+#. ジャンプハリケーンキック
+msgctxt "MOVE_NAME_JUMP_HURRICANE_KICK"
+msgid "Jump Hurricane Kick"
+msgstr ""
+
+#. ジャンプジャブ
+msgctxt "MOVE_NAME_JUMP_JAB"
+msgid "Jump Jab"
+msgstr ""
+
+#. ジャンプキック
+msgctxt "MOVE_NAME_JUMP_KICK"
+msgid "Jump Kick"
+msgstr ""
+
+#. ジャンプハンマー
+msgctxt "MOVE_NAME_JUMP_SWING_PUNCH"
+msgid "Jump Swing Punch"
+msgstr ""
+
+#. ジャンプツイストキック
+msgctxt "MOVE_NAME_JUMP_TWIST_KICK"
+msgid "Jump Twist Kick"
+msgstr ""
+
+#. キックトス
+msgctxt "MOVE_NAME_KICK_TOSS"
+msgid "Kick Toss"
+msgstr ""
+
+#. KOカッター
+msgctxt "MOVE_NAME_KO_CUTTER"
+msgid "KO Cutter"
+msgstr ""
+
+#. KOアッパーカット
+msgctxt "MOVE_NAME_KO_UPPERCUT"
+msgid "KO Uppercut"
+msgstr ""
+
+#. 左ジャブ
+msgctxt "MOVE_NAME_LEFT_JAB"
+msgid "Left Jab"
+msgstr ""
+
+#. 左パンチ
+msgctxt "MOVE_NAME_LEFT_PUNCH"
+msgid "Left Punch"
+msgstr ""
+
+#. リフトオフコンボ
+msgctxt "MOVE_NAME_LIFT_OFF_COMB"
+msgid "Lift Off Comb"
+msgstr ""
+
+#. リフトオフキック
+msgctxt "MOVE_NAME_LIFT_OFF_DONKEY_KICK"
+msgid "Lift Off Donkey Kick"
+msgstr ""
+
+#. リフトオフゲイナー
+msgctxt "MOVE_NAME_LIFT_OFF_GAINER"
+msgid "Lift Off Gainer"
+msgstr ""
+
+#. ゲイザーリフトオフ
+msgctxt "MOVE_NAME_LIFT_OFF_GEYSER"
+msgid "Geyser Lift Off"
+msgstr ""
+
+#. リフトオフアッパー
+msgctxt "MOVE_NAME_LIFT_OFF_HEADBUTT"
+msgid "Lift Off Uppercut"
+msgstr ""
+
+#. リフトオフヘッドバット
+msgctxt "MOVE_NAME_LIFT_OFF_LAUNCHER"
+msgid "Lift Off Headbutt"
+msgstr ""
+
+#. ライガードロップ
+msgctxt "MOVE_NAME_LIGER_DROP"
+msgid "Liger Drop"
+msgstr ""
+
+#. リフティングライダー
+msgctxt "MOVE_NAME_LIGHTNING_RIDER"
+msgid "Lightning Rider"
+msgstr ""
+
+#. フラットキック
+msgctxt "MOVE_NAME_LOW_KICK"
+msgid "Low Kick"
+msgstr ""
+
+#. マインドメルド
+msgctxt "MOVE_NAME_MIND_MELD"
+msgid "Mind Meld"
+msgstr ""
+
+#. マッハキック
+msgctxt "MOVE_NAME_MJ_KICK"
+msgid "MJ Kick"
+msgstr ""
+
+#. マッハキック
+msgctxt "MOVE_NAME_MK_KICK"
+msgid "MK Kick"
+msgstr ""
+
+#. モンゴリアンチョップ
+msgctxt "MOVE_NAME_MONGOLIAN_CHOP"
+msgid "Mongolian Chop"
+msgstr ""
+
+#. マウントパンチ
+msgctxt "MOVE_NAME_MOUNT_PUNCH_KUNIO"
+msgid "Mount Punch"
+msgstr ""
+
+#. マウントパンチ
+msgctxt "MOVE_NAME_MOUNT_PUNCH_RIKI"
+msgid "Mount Punch"
+msgstr ""
+
+#. ナットクラッカー
+msgctxt "MOVE_NAME_NUTCRACKER"
+msgid "Nutcracker"
+msgstr ""
+
+#. マッハパンチ
+msgctxt "MOVE_NAME_ONE_INCH_PUNCH"
+msgid "Stone Hand"
+msgstr ""
+
+#. パシフィックスラム
+msgctxt "MOVE_NAME_PACIFIC_SLAM"
+msgid "Pacific Slam"
+msgstr ""
+
+#. パームスラスト
+msgctxt "MOVE_NAME_PALM_THRUST"
+msgid "Palm Thrust"
+msgstr ""
+
+#. パーティクラッシャー
+msgctxt "MOVE_NAME_PARTY_CRASHER"
+msgid "Party Crasher"
+msgstr ""
+
+#. 石畳キス
+msgctxt "MOVE_NAME_PAVEMENT_SMOOCH"
+msgid "Pavement Smooch"
+msgstr ""
+
+#. パイルドライバー
+msgctxt "MOVE_NAME_PILEDRIVER"
+msgid "Piledriver"
+msgstr ""
+
+#. パイルドライバー
+msgctxt "MOVE_NAME_PILEDRIVER_RIKI"
+msgid "Piledriver"
+msgstr ""
+
+#. ホッピングキック
+msgctxt "MOVE_NAME_POGO_KICK"
+msgid "Pogo Kick"
+msgstr ""
+
+#. パワーボム
+msgctxt "MOVE_NAME_POWERBOMB"
+msgid "Powerbomb"
+msgstr ""
+
+#. ラビッドパンチ
+msgctxt "MOVE_NAME_RABBIT_PUNCH"
+msgid "Rabbit Punch"
+msgstr ""
+
+#. リバースドンキー
+msgctxt "MOVE_NAME_REVERSE_DONKEY"
+msgid "Reverse Donkey"
+msgstr ""
+
+#. 右クロス
+msgctxt "MOVE_NAME_RIGHT_CROSS"
+msgid "Right Cross"
+msgstr ""
+
+#. 右パンチ
+msgctxt "MOVE_NAME_RIGHT_PUNCH"
+msgid "Right Punch"
+msgstr ""
+
+#. ローリングパンチ
+msgctxt "MOVE_NAME_ROLLING_PUNCH"
+msgid "Rolling Punch"
+msgstr ""
+
+#. ラウンドハウス
+msgctxt "MOVE_NAME_ROUNDHOUSE"
+msgid "Roundhouse"
+msgstr ""
+
+#. 回し蹴り
+msgctxt "MOVE_NAME_ROUNDHOUSE_KICK"
+msgid "Roundhouse Kick"
+msgstr ""
+
+#. ランニングジャブ
+msgctxt "MOVE_NAME_RUNNING_JAB"
+msgid "Running Jab"
+msgstr ""
+
+#. ランニングパンチ
+msgctxt "MOVE_NAME_RUNNING_RABBIT"
+msgid "Running Rabbit"
+msgstr ""
+
+#. サウナタオル
+msgctxt "MOVE_NAME_SAUNA_TOWEL"
+msgid "Sauna Towel"
+msgstr ""
+
+#. シャドウクローン
+msgctxt "MOVE_NAME_SHADOW_COMBO"
+msgid "Shadow Clones"
+msgstr ""
+
+#. 背負い投げ
+msgctxt "MOVE_NAME_SHOULDER_THROW"
+msgid "Shoulder Throw"
+msgstr ""
+
+#. サイドヘッドバット
+msgctxt "MOVE_NAME_SIDE_HEADBUTT"
+msgid "Side Headbutt"
+msgstr ""
+
+#. スカイカッター
+msgctxt "MOVE_NAME_SKY_CUTTER"
+msgid "Sky-Cutter"
+msgstr ""
+
+#. スライドウェイ
+msgctxt "MOVE_NAME_SLIDEWAYZ"
+msgid "Slidewayz"
+msgstr ""
+
+#. スライディング
+msgctxt "MOVE_NAME_SLIDE_TACKLE"
+msgid "Slide Tackle"
+msgstr ""
+
+#. 右スナップキック
+msgctxt "MOVE_NAME_SNAP_KICK"
+msgid "Right Snap Kick"
+msgstr ""
+
+#. サッカーチャージ
+msgctxt "MOVE_NAME_SOCCER_CHARGE"
+msgid "Soccer Charge"
+msgstr ""
+
+#. サッカーキック
+msgctxt "MOVE_NAME_SOCCER_KICK"
+msgid "Soccer Kick"
+msgstr ""
+
+#. スピンサイクル
+msgctxt "MOVE_NAME_SPIN_CYCLE"
+msgid "Spin Cycle"
+msgstr ""
+
+#. スピンキック
+msgctxt "MOVE_NAME_SPIN_KICK"
+msgid "Spin Kick"
+msgstr ""
+
+#. スパイラルアッパーカット
+msgctxt "MOVE_NAME_SPIRAL_UPPERCUT"
+msgid "Spiral Uppercut"
+msgstr ""
+
+#. スピンスプリットキック
+msgctxt "MOVE_NAME_SPLIT_KICK"
+msgid "Spin Split Kick"
+msgstr ""
+
+#. マッハパンチ
+msgctxt "MOVE_NAME_STONE_HANDS"
+msgid "Stone Hands"
+msgstr ""
+
+#. マッハパンチ
+msgctxt "MOVE_NAME_STONE_HANDS_MISAKO"
+msgid "Stone Hands"
+msgstr ""
+
+#. ストーンフィスト
+msgctxt "MOVE_NAME_STONE_HANDS_RIKI"
+msgid "Stone Fists"
+msgstr ""
+
+#. ジャケットランチャー
+msgctxt "MOVE_NAME_STONE_LAUNCHER"
+msgid "Jacket Launcher"
+msgstr ""
+
+#. スタンガン
+msgctxt "MOVE_NAME_STUNGUN"
+msgid "Stungun"
+msgstr ""
+
+#. スーパーキック
+msgctxt "MOVE_NAME_SUPER_KICK"
+msgid "Super Kick"
+msgstr ""
+
+#. スウィープキック
+msgctxt "MOVE_NAME_SWEEP_KICK"
+msgid "Sweep Kick"
+msgstr ""
+
+#. スウィートロール
+msgctxt "MOVE_NAME_SWEET_ROLL"
+msgid "Sweet Roll"
+msgstr ""
+
+#. テーブルフリップ
+msgctxt "MOVE_NAME_TABLE_FLIP"
+msgid "Table Flip"
+msgstr ""
+
+#. タイアースラム
+msgctxt "MOVE_NAME_TIRE_SLAM"
+msgid "Tire Slam"
+msgstr ""
+
+#. ツイスティングニー
+msgctxt "MOVE_NAME_TWISTING_KNEE"
+msgid "Twisting Knee"
+msgstr ""
+
+#. アッパーカット
+msgctxt "MOVE_NAME_UPPERCUT"
+msgid "Uppercut"
+msgstr ""
+
+#. ベンディング
+msgctxt "MOVE_NAME_VENTING"
+msgid "Venting"
+msgstr ""
+
+#. ダイビングレシーブ
+msgctxt "MOVE_NAME_VOLLEYBALL_SAVE"
+msgid "Diving Volleyball Save"
+msgstr ""
+
+#. バレーボールトス
+msgctxt "MOVE_NAME_VOLLEYBALL_SET"
+msgid "Volleyball Set"
+msgstr ""
+
+#. バレースパイク
+msgctxt "MOVE_NAME_VOLLEY_SPIKE"
+msgid "Volley Spike"
+msgstr ""
+
+#. ウェーブスラップ
+msgctxt "MOVE_NAME_WAVE_SLAP"
+msgid "Wave Slap"
+msgstr ""
+
+#. ウェブスター
+msgctxt "MOVE_NAME_WEBSTER"
+msgid "Webster"
+msgstr ""
+
+#. 空中技
+msgctxt "MOVE_TYPE_AERIAL"
+msgid "Aerial"
+msgstr ""
+
+#. 後ろ取り
+msgctxt "MOVE_TYPE_BEHIND_GRAB"
+msgid "Behind Grab"
+msgstr ""
+
+#. つかみ
+msgctxt "MOVE_TYPE_GRAB"
+msgid "Grab"
+msgstr ""
+
+#. ヘビー
+msgctxt "MOVE_TYPE_HEAVY"
+msgid "Heavy"
+msgstr ""
+
+#. ノーマル
+msgctxt "MOVE_TYPE_NORMAL"
+msgid "Normal"
+msgstr ""
+
+#. ダッシュ中
+msgctxt "MOVE_TYPE_RUNNING"
+msgid "Running"
+msgstr ""
+
+#. 特殊
+msgctxt "MOVE_TYPE_SPECIAL"
+msgid "Special"
+msgstr ""
+
+#. オフラインで始める。
+msgctxt "MainMenuScreen_FooterMsg_LocalPlay"
+msgid "Start a local game."
+msgstr ""
+
+#. オンラインで始める。
+msgctxt "MainMenuScreen_FooterMsg_OnlinePlay"
+msgid "Start or join an online game."
+msgstr ""
+
+#. ゲームの設定を変更する。
+msgctxt "MainMenuScreen_FooterMsg_Settings"
+msgid "Change game settings."
+msgstr ""
+
+#. ゲームスタート
+msgctxt "MainMenuScreen_LocalPlay"
+msgid "Local Play"
+msgstr ""
+
+#. オンラインプレイ
+msgctxt "MainMenuScreen_OnlinePlay"
+msgid "Online Play"
+msgstr ""
+
+#. オンラインマルチプレイ
+msgctxt "MainMenuScreen_OnlinePlay_Playstation"
+msgid "Online Multiplayer"
+msgstr ""
+
+#. 設定
+msgctxt "MainMenuScreen_Settings"
+msgid "Settings"
+msgstr ""
+
+#. 空中攻撃
+msgctxt "MoveList_Header_Aerial"
+msgid "Aerial Moves"
+msgstr ""
+
+#. つかみ攻撃
+msgctxt "MoveList_Header_Grab"
+msgid "Grab Moves"
+msgstr ""
+
+#. ヘヴィ攻撃
+msgctxt "MoveList_Header_Heavy"
+msgid "Heavy Moves"
+msgstr ""
+
+#. 通常攻撃
+msgctxt "MoveList_Header_Normal"
+msgid "Normal Moves"
+msgstr ""
+
+#. ダッシュ攻撃
+msgctxt "MoveList_Header_Running"
+msgid "Running Moves"
+msgstr ""
+
+#. SP攻撃
+msgctxt "MoveList_Header_Special"
+msgid "Special Moves"
+msgstr ""
+
+#. ブラ歩き
+msgctxt "NewGamePlus_Loiter"
+msgid "Loiter"
+msgstr ""
+
+#. クエストの進行度を残したまま街をブラブラできます。
+#. やり残しがないか確かめよう！
+msgctxt "NewGamePlus_Loiter_Desc"
+msgid ""
+"Stick around and take care of loose ends!\n"
+"Quest progress is retained."
+msgstr ""
+
+#. ニューゲーム＋
+msgctxt "NewGamePlus_NGP"
+msgid "New Game Plus"
+msgstr ""
+
+#. もう一度ゲームを最初から始めよう！
+#. ストーリーの進行状況はリセットされ、敵はより凶悪になります。
+msgctxt "NewGamePlus_NGP_Desc"
+msgid ""
+"Restart for a new, more challenging adventure!\n"
+"Story progress is reset and enemies are tougher."
+msgstr ""
+
+#. クリア時のステータス、アイテム、取得した技は全て引き継がれます。
+msgctxt "NewGamePlus_RetainedStuff"
+msgid "Current stats, items, and techniques are retained."
+msgstr ""
+
+#. オンライン
+msgctxt "Online"
+msgid "Online"
+msgstr ""
+
+#. オンラインマッチ
+msgctxt "OnlineMatchmaking"
+msgid "Online Matchmaking"
+msgstr ""
+
+#. 操作設定
+msgctxt "Option_Controls"
+msgid "Controls"
+msgstr ""
+
+#. 難易度
+msgctxt "Option_Difficulty"
+msgid "Difficulty"
+msgstr ""
+
+#. 同士討ち
+msgctxt "Option_FriendlyFire"
+msgid "Friendly Fire"
+msgstr ""
+
+#. オフ
+msgctxt "Option_Off"
+msgid "Off"
+msgstr ""
+
+#. オン
+msgctxt "Option_On"
+msgid "On"
+msgstr ""
+
+#. タイトルへ戻る
+msgctxt "Option_Quit"
+msgid "Quit"
+msgstr ""
+
+#. セーブしてやめる
+msgctxt "Option_SaveAndQuit"
+msgid "Save And Quit"
+msgstr ""
+
+#. アジア
+msgctxt "PhotonRegion_ASIA"
+msgid "Asia"
+msgstr ""
+
+#. オーストラリア
+msgctxt "PhotonRegion_AU"
+msgid "Australia"
+msgstr ""
+
+#. 適正地域
+msgctxt "PhotonRegion_BEST_REGION"
+msgid "Best Region"
+msgstr ""
+
+#. カナダ
+msgctxt "PhotonRegion_CAE"
+msgid "Canada"
+msgstr ""
+
+#. 中国
+msgctxt "PhotonRegion_CN"
+msgid "China"
+msgstr ""
+
+#. ヨーロッパ
+msgctxt "PhotonRegion_EU"
+msgid "Europe"
+msgstr ""
+
+#. インド
+msgctxt "PhotonRegion_IN"
+msgid "India"
+msgstr ""
+
+#. 日本
+msgctxt "PhotonRegion_JP"
+msgid "Japan"
+msgstr ""
+
+#. 韓国
+msgctxt "PhotonRegion_KR"
+msgid "South Korea"
+msgstr ""
+
+#. ロシア
+msgctxt "PhotonRegion_RU"
+msgid "Russia"
+msgstr ""
+
+#. 東ロシア
+msgctxt "PhotonRegion_RUE"
+msgid "Russia East"
+msgstr ""
+
+#. 南アメリカ
+msgctxt "PhotonRegion_SA"
+msgid "South America"
+msgstr ""
+
+#. アメリカ 東海岸
+msgctxt "PhotonRegion_US"
+msgid "US East"
+msgstr ""
+
+#. アメリカ 西海岸
+msgctxt "PhotonRegion_USW"
+msgid "US West"
+msgstr ""
+
+#. 南アフリカ
+msgctxt "PhotonRegion_ZA"
+msgid "South Africa"
+msgstr ""
+
+#. ↑
+msgctxt "PlayerIndicatorType_Karat"
+msgid "Caret"
+msgstr ""
+
+#. なし
+msgctxt "PlayerIndicatorType_None"
+msgid "None"
+msgstr ""
+
+#. リング
+msgctxt "PlayerIndicatorType_Ring"
+msgid "Ring"
+msgstr ""
+
+#. 両方
+msgctxt "PlayerIndicatorType_RingAndKarat"
+msgid "Both"
+msgstr ""
+
+#. プレイヤーリスト
+msgctxt "PlayerList"
+msgid "Player List"
+msgstr ""
+
+#. Player {0}
+msgctxt "PlayerNumberDisplay"
+msgid "Player {0}"
+msgstr ""
+
+msgctxt "PleaseDisableCrossplay"
+msgid "Please disable crossplay to join this server."
+msgstr ""
+
+msgctxt "PleaseEnableCrossplay"
+msgid "Please enable crossplay to join this server."
+msgstr ""
+
+#. Please wait...
+msgctxt "PleaseWait"
+msgid "Please wait..."
+msgstr ""
+
+#. ホストから切断されました。
+msgctxt "Popup_HostDisconnect"
+msgid "Host disconnected"
+msgstr ""
+
+#. ネットワークが切断されました。
+msgctxt "Popup_NetworkDisconnect"
+msgid "Network disconnected"
+msgstr ""
+
+#. メグミ先生!
+msgctxt "PortraitDialog004-01_Misako"
+msgid "Ms. Megumi!"
+msgstr ""
+
+#. Press {0} to Join
+msgctxt "Press_Confirm"
+msgid "Press {0} to Join"
+msgstr ""
+
+#. Press {0} to Play
+msgctxt "Press_Start"
+msgid "Press {0} to Play"
+msgstr ""
+
+#. 地元の高校生
+msgctxt "PrimoDelights_GuestSubtitle_Kunio"
+msgid "Local Idiot"
+msgstr ""
+
+#. 地元の高校生
+msgctxt "PrimoDelights_GuestSubtitle_Kyoko"
+msgid "Local Idiot"
+msgstr ""
+
+#. 地元？のショップ店員
+msgctxt "PrimoDelights_GuestSubtitle_Marian"
+msgid "Local Idiot"
+msgstr ""
+
+#. 地元の高校生
+msgctxt "PrimoDelights_GuestSubtitle_Misako"
+msgid "Local Idiot"
+msgstr ""
+
+#. 地元？の高校生
+msgctxt "PrimoDelights_GuestSubtitle_Provie"
+msgid "Local Idiot"
+msgstr ""
+
+#. 地元の高校生
+msgctxt "PrimoDelights_GuestSubtitle_Riki"
+msgid "Local Idiot"
+msgstr ""
+
+#. 最近遊んだプレイヤー
+msgctxt "RecentPlayers"
+msgid "Recent Players"
+msgstr ""
+
+#. ギャングから追放されたアボボ。拳で世の中の不条理を解決する方法を模索して筋トレ中。
+msgctxt "Recruit_Abobo_DESC"
+msgid ""
+"Dethroned as the leader of his gang, Abobo finds a new path that still "
+"includes punching away his problems."
+msgstr ""
+
+#. アボボ
+msgctxt "Recruit_Abobo_NAME"
+msgid "Abobo"
+msgstr ""
+
+#. どこか見覚えがある男。どうやらクニオは会いたくないみたいだ。
+msgctxt "Recruit_Alex_DESC"
+msgid ""
+"This guy looks weirdly familiar. Kunio gets deja vu when he looks at him."
+msgstr ""
+
+#. アレックス
+msgctxt "Recruit_Alex_NAME"
+msgid "Alex"
+msgstr ""
+
+#. 賄賂を払う人間よりも堕落している警察署長。こいつが真のラスボスかもしれない。
+msgctxt "Recruit_BadCop_Fujimoto_DESC"
+msgid "The chief of police is even more corrupted than the people paying him."
+msgstr ""
+
+#. フジモト
+msgctxt "Recruit_BadCop_Fujimoto_NAME"
+msgid "Fujimoto"
+msgstr ""
+
+#. 間違いなく市民を守ってくれない汚職警官。ほぼコスプレ。
+msgctxt "Recruit_BadCop_Matsui_DESC"
+msgid "Corrupt police that are certainly not sworn to protect you."
+msgstr ""
+
+#. マツイ
+msgctxt "Recruit_BadCop_Matsui_NAME"
+msgid "Matsui"
+msgstr ""
+
+#. 職務に忙殺されて殉職したことがこの汚職警官にとっては一番の汚点だった。
+msgctxt "Recruit_BadCop_Nakamura_DESC"
+msgid ""
+"Being killed in the line of duty was merely an inconvenience to this dirty "
+"cop."
+msgstr ""
+
+#. ナカムラ
+msgctxt "Recruit_BadCop_Nakamura_NAME"
+msgid "Nakamura"
+msgstr ""
+
+#. 警官の格好をした悪いやつ。脱毛サロンに行くヤツをだいたいシバく。
+msgctxt "Recruit_BadCop_Nomura_DESC"
+msgid "Corrupt police that are certainly not sworn to protect you."
+msgstr ""
+
+#. ノムラ
+msgctxt "Recruit_BadCop_Nomura_NAME"
+msgid "Nomura"
+msgstr ""
+
+#. 汚職警官に憧れて入った汚職警官見習い。まだ可愛さが抜けていない。
+msgctxt "Recruit_BadCop_Onishi_DESC"
+msgid "Corrupt police that are certainly not sworn to protect you."
+msgstr ""
+
+#. オオニシ
+msgctxt "Recruit_BadCop_Onishi_NAME"
+msgid "Onishi"
+msgstr ""
+
+#. スパイとして汚職警官になりきっている。と本人だけが言っている。
+msgctxt "Recruit_BadCop_Saito_DESC"
+msgid "Corrupt police that are certainly not sworn to protect you."
+msgstr ""
+
+#. サイトウ
+msgctxt "Recruit_BadCop_Saito_NAME"
+msgid "Saito"
+msgstr ""
+
+#. NOT RECRUITABLE, N/A, DO NOT LOCALIZE
+msgctxt "Recruit_BadCop_Watson_DESC"
+msgid "NOT RECRUITABLE, N/A, DO NOT LOCALIZE"
+msgstr ""
+
+#. ワトソン
+msgctxt "Recruit_BadCop_Watson_NAME"
+msgid "Watson"
+msgstr ""
+
+#. ジュニアのために大学資金を貯金中のナイスなパパ。ジュニアの言うことは絶対。
+msgctxt "Recruit_Berserker_DESC"
+msgid ""
+"He's always looking for extra cash for Junior's college fund. He's a great "
+"dad."
+msgstr ""
+
+#. バーサーカー
+msgctxt "Recruit_Berserker_NAME"
+msgid "Berserker"
+msgstr ""
+
+#. NOT RECRUITABLE, N/A, DO NOT LOCALIZE
+msgctxt "Recruit_CATS_5KY-L3R_DESC"
+msgid "NOT RECRUITABLE, N/A, DO NOT LOCALIZE"
+msgstr ""
+
+#. 5KY-L3R
+msgctxt "Recruit_CATS_5KY-L3R_NAME"
+msgid "5KY-L3R"
+msgstr ""
+
+#. サイバネティックな猫型ロボット。日本のアニメから得たヒントでボディはスマートに制作された。
+msgctxt "Recruit_CATS_CH-424_DESC"
+msgid ""
+"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes, and "
+"lasers."
+msgstr ""
+
+#. CATS-424
+msgctxt "Recruit_CATS_CH-424_NAME"
+msgid "CH-424"
+msgstr ""
+
+#. ソノカワのパーソナルアシスタント。死ぬほど親切だ。割り算が得意そう。
+msgctxt "Recruit_CATS_ER-1N_DESC"
+msgid "Sonokawa's personal assistant. She is as helpful as she is deadly."
+msgstr ""
+
+#. ER-1N
+msgctxt "Recruit_CATS_ER-1N_NAME"
+msgid "ER-1N"
+msgstr ""
+
+#. CATSの試作用モデル。何でもかんでもやらされるため体はボロボロだが強い闘志を秘めている。
+msgctxt "Recruit_CATS_K47H2YN_DESC"
+msgid ""
+"This C.A.T.Soldier is a special beta model running experimental software. "
+msgstr ""
+
+#. K47H2YN
+msgctxt "Recruit_CATS_K47H2YN_NAME"
+msgid "K47H2YN"
+msgstr ""
+
+#. サイバネティックな猫型ロボット。原宿を意識したこのモデルは可愛すぎたためリバーシティ限定となった。
+msgctxt "Recruit_CATS_K4Y-L1_DESC"
+msgid ""
+"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes, and "
+"lasers."
+msgstr ""
+
+#. K4Y-L1
+msgctxt "Recruit_CATS_K4Y-L1_NAME"
+msgid "K4Y-L1"
+msgstr ""
+
+#. サイバネティックな猫型ロボット。攻撃的なトゲは笑顔で誤魔化している。
+msgctxt "Recruit_CATS_KLR-4_DESC"
+msgid ""
+"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes, and "
+"lasers."
+msgstr ""
+
+#. K1R-4
+msgctxt "Recruit_CATS_KLR-4_NAME"
+msgid "K1R-4"
+msgstr ""
+
+#. サイバネティックな猫型ロボット。シャイなヤツほど攻撃性が高まる。
+msgctxt "Recruit_CATS_M3-G4N_DESC"
+msgid ""
+"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes, and "
+"lasers."
+msgstr ""
+
+#. M3-G4N
+msgctxt "Recruit_CATS_M3-G4N_NAME"
+msgid "M3-G4N"
+msgstr ""
+
+#. 動きの早いチアガール。ツンとした表情も可愛い。
+msgctxt "Recruit_Cheerleader_Ashanti_DESC"
+msgid "These cheerful girls are agile and love to dodge your advances."
+msgstr ""
+
+#. アーシャ
+msgctxt "Recruit_Cheerleader_Ashanti_NAME"
+msgid "Ashanti"
+msgstr ""
+
+#. 動きの早いチアガール。笑顔が素敵な彼女のキックはホネまで染みる。
+msgctxt "Recruit_Cheerleader_Chara_DESC"
+msgid "These cheerful girls are agile and love to dodge your advances."
+msgstr ""
+
+#. サラ
+msgctxt "Recruit_Cheerleader_Chara_NAME"
+msgid "Chara"
+msgstr ""
+
+#. 動きの早いチアガール。空中から繰り出されるキックは仮面をつけたヒーローレベル。
+msgctxt "Recruit_Cheerleader_Colleen_DESC"
+msgid "These cheerful girls are agile and love to dodge your advances."
+msgstr ""
+
+#. カリーン
+msgctxt "Recruit_Cheerleader_Colleen_NAME"
+msgid "Colleen"
+msgstr ""
+
+#. 動きの早いチアガール。ミスリバ高の次に喧嘩が大事。
+msgctxt "Recruit_Cheerleader_Linnea_DESC"
+msgid "These cheerful girls are agile and love to dodge your advances."
+msgstr ""
+
+#. リネア
+msgctxt "Recruit_Cheerleader_Linnea_NAME"
+msgid "Linnea"
+msgstr ""
+
+#. ヤバいチアガールたちを率いる、チアのリーダー。胸のドクロは彼女のアイディア。
+msgctxt "Recruit_Cheerleader_Midori_DESC"
+msgid "The cheerleader leader leading her lethal ladies."
+msgstr ""
+
+#. ミドリ
+msgctxt "Recruit_Cheerleader_Midori_NAME"
+msgid "Midori"
+msgstr ""
+
+#. 動きの早いチアゾンビ。生前よりも応援に力を入れているが、顔が怖いので誰も近寄らない。
+msgctxt "Recruit_Cheerleader_Rachel_DESC"
+msgid "She cares not for leading cheers. She's more like a fearleader. "
+msgstr ""
+
+#. レイチェル
+msgctxt "Recruit_Cheerleader_Rachel_NAME"
+msgid "Rachel"
+msgstr ""
+
+#. EDMカンフーの武術家。リー兄弟に殴られたのは良い思い出。
+msgctxt "Recruit_Chin_Chin_DESC"
+msgid ""
+"A kung-fu martial artist. Apparently, he was once beaten up by the Lee Bros."
+msgstr ""
+
+#. シン
+msgctxt "Recruit_Chin_Chin_NAME"
+msgid "Chin"
+msgstr ""
+
+#. 少林拳の達人。キレイな石を集めるのが日課。
+msgctxt "Recruit_Chin_LiCheng_DESC"
+msgid "A master of Shaolin kung-fu. He likes to collect rocks and stones."
+msgstr ""
+
+#. リーシン
+msgctxt "Recruit_Chin_LiCheng_NAME"
+msgid "Li Cheng"
+msgstr ""
+
+#. NOT RECRUITABLE, N/A, DO NOT LOCALIZE
+msgctxt "Recruit_Chin_Taimei_DESC"
+msgid "NOT RECRUITABLE, N/A, DO NOT LOCALIZE"
+msgstr ""
+
+#. タイメイ
+msgctxt "Recruit_Chin_Taimei_NAME"
+msgid "Taimei"
+msgstr ""
+
+#. 噂では暗殺の秘密結社に追われている伝説の武術家。あくまで噂だが。
+msgctxt "Recruit_Chin_Yagyu_DESC"
+msgid "A formidable opponent, rumored to be in a secret society of assassins."
+msgstr ""
+
+#. ヤギュウ
+msgctxt "Recruit_Chin_Yagyu_NAME"
+msgid "Yagyu"
+msgstr ""
+
+#. プルーヴィの親友。彼女の喧嘩は勝っても負けても気絶してしまうのが一番の悩みらしい。
+msgctxt "Recruit_Chris_DESC"
+msgid "Chris is always down for a fight, even if she's the one to start it."
+msgstr ""
+
+#. クリス
+msgctxt "Recruit_Chris_NAME"
+msgid "Chris"
+msgstr ""
+
+#. 未来から送られてきたロボットっぽくデザインされたロボット。
+msgctxt "Recruit_Cyborg_64-RC14_DESC"
+msgid "Giant robots from the future disguised as giant robot looking humans."
+msgstr ""
+
+#. 64-RC14
+msgctxt "Recruit_Cyborg_64-RC14_NAME"
+msgid "64-RC14"
+msgstr ""
+
+#. 未来から送られてきた設定のロボット。皮膚の部分はネズミに食べられた。
+msgctxt "Recruit_Cyborg_CH-R15_DESC"
+msgid "Giant robots from the future disguised as giant robot looking humans."
+msgstr ""
+
+#. CH-R15
+msgctxt "Recruit_Cyborg_CH-R15_NAME"
+msgid "CH-R15"
+msgstr ""
+
+#. 未来からやってきた刺客。複数の武器を体に内蔵している。
+msgctxt "Recruit_Cyborg_D4-V1D_DESC"
+msgid "Giant robots from the future disguised as giant robot looking humans."
+msgstr ""
+
+#. D4-V1D
+msgctxt "Recruit_Cyborg_D4-V1D_NAME"
+msgid "D4-V1D"
+msgstr ""
+
+#. 科学技術が未発達だった頃、サイボーグたちは魔術にその金属の手を染めた。
+msgctxt "Recruit_Cyborg_H4-YD3N_DESC"
+msgid ""
+"When science was not enough, the cyborgs tried their metal hands at magic."
+msgstr ""
+
+#. H4-YD3N
+msgctxt "Recruit_Cyborg_H4-YD3N_NAME"
+msgid "H4-YD3N"
+msgstr ""
+
+#. 銃弾でもビクともしない最強のサイボーグ。角刈りは誰のセンスなのか。
+msgctxt "Recruit_Cyborg_J3-R3MY_DESC"
+msgid "Modern ballistics feels like being hit by feathers to him."
+msgstr ""
+
+#. J3-R3MY
+msgctxt "Recruit_Cyborg_J3-R3MY_NAME"
+msgid "J3-R3MY"
+msgstr ""
+
+#. 未来から来たロボット。オーシャンハイツが楽しすぎてボディペイントと日光浴をしてしまった。
+msgctxt "Recruit_Cyborg_J4-M35_DESC"
+msgid "Giant robots from the future disguised as giant robot looking humans."
+msgstr ""
+
+#. J4-M35
+msgctxt "Recruit_Cyborg_J4-M35_NAME"
+msgid "J4-M35"
+msgstr ""
+
+#. NOT RECRUITABLE, N/A, DO NOT LOCALIZE
+msgctxt "Recruit_Cyborg_V0-1D1_DESC"
+msgid "NOT RECRUITABLE, N/A, DO NOT LOCALIZE"
+msgstr ""
+
+#. V0-1D1
+msgctxt "Recruit_Cyborg_V0-1D1_NAME"
+msgid "V0-1D1"
+msgstr ""
+
+#. ファッションで街をいっぱいにする野望を持つおしゃれのパイオニア。
+msgctxt "Recruit_Hibari_DESC"
+msgid ""
+"Hibari would love to web this city up with her threading. The fashionless "
+"will suffer."
+msgstr ""
+
+#. ヒバリ
+msgctxt "Recruit_Hibari_NAME"
+msgid "Hibari"
+msgstr ""
+
+#. いつか店を持ちたいと思っているカンフー料理人。ただ、お金が全くない。
+msgctxt "Recruit_Jam_DESC"
+msgid "She really needs money if she's going to open up her restaurant."
+msgstr ""
+
+#. 蔵土縁 紗夢
+msgctxt "Recruit_Jam_NAME"
+msgid "Jam Kuradoberi"
+msgstr ""
+
+#. 姉のカヨから世の中の全てを学び、世界のすべてを知った！…気でいる。
+msgctxt "Recruit_Kayo_Asuka_DESC"
+msgid ""
+"Kayo's sister who taught her everything she knows. Still plenty to teach."
+msgstr ""
+
+#. アスカ
+msgctxt "Recruit_Kayo_Asuka_NAME"
+msgid "Asuka"
+msgstr ""
+
+#. クミコとミスズの親友。ハンドバッグとマスクはお風呂でも手放せない。
+msgctxt "Recruit_Kayo_Kayo_DESC"
+msgid "Besties with Kumiko and Misuzu. She always has her handbag with her."
+msgstr ""
+
+#. カヨ
+msgctxt "Recruit_Kayo_Kayo_NAME"
+msgid "Kayo"
+msgstr ""
+
+#. 強欲故に虫の姿に変えられた。コインの泉に行くたびより虫らしくなってきている。
+msgctxt "Recruit_Kayo_Nani_DESC"
+msgid ""
+"Wished too many times at the coin fountain and was punished for her greed."
+msgstr ""
+
+#. ナ二
+msgctxt "Recruit_Kayo_Nani_NAME"
+msgid "Nani"
+msgstr ""
+
+#. 違う次元からやってきたネコガール。サラダに触れると毒に侵される。
+msgctxt "Recruit_Kebako_DESC"
+msgid "From a different dimension, this catgirl still has no salad."
+msgstr ""
+
+#. ケバコ
+msgctxt "Recruit_Kebako_NAME"
+msgid "Kebako"
+msgstr ""
+
+#. 見習いの魔法使い。アーケインを読み解く集中力がなかったので見た目だけでも魔法使いになりきっている。
+msgctxt "Recruit_LARPer_Blaise_DESC"
+msgid "They have no aptitude for the arcane, so they like to play pretend."
+msgstr ""
+
+#. ブレイズ
+msgctxt "Recruit_LARPer_Blaise_NAME"
+msgid "Blaise"
+msgstr ""
+
+#. 「どんなに硬い岩でも池に投げてしまえば消えてなくなる」by ケイレブ
+msgctxt "Recruit_LARPer_Caleb_DESC"
+msgid ""
+"\"Any rock can be used for banishing if you throw it hard enough.\" - Caleb"
+msgstr ""
+
+#. ケイレブ
+msgctxt "Recruit_LARPer_Caleb_NAME"
+msgid "Caleb"
+msgstr ""
+
+#. 見習いの魔法使い。硬めの枕がなかなか見つからないので魔導書を日々持ち歩いている。
+msgctxt "Recruit_LARPer_Fabian_DESC"
+msgid "They have no aptitude for the arcane, so they like to play pretend."
+msgstr ""
+
+#. ファビアン
+msgctxt "Recruit_LARPer_Fabian_NAME"
+msgid "Fabian"
+msgstr ""
+
+#. 究極の死の魔法を見つけた見習い魔法使い。放射線は彼の武器。
+msgctxt "Recruit_LARPer_Jareth_DESC"
+msgid ""
+"He discovered an invisible force that can kill... No, not magic. Radiation."
+msgstr ""
+
+#. ジェイレス
+msgctxt "Recruit_LARPer_Jareth_NAME"
+msgid "Jareth"
+msgstr ""
+
+#. 見習いの魔法使い。ハロウィンのコスプレが気に入っている。
+msgctxt "Recruit_LARPer_Lucius_DESC"
+msgid "They have no aptitude for the arcane, so they like to play pretend."
+msgstr ""
+
+#. ルーシャス
+msgctxt "Recruit_LARPer_Lucius_NAME"
+msgid "Lucius"
+msgstr ""
+
+#. 見習いの魔法使い。アーケインを読み解く根気はなく、魔法使いごっこが好き。
+msgctxt "Recruit_LARPer_Wilmot_DESC"
+msgid "They have no aptitude for the arcane, so they like to play pretend."
+msgstr ""
+
+#. ウィルモット
+msgctxt "Recruit_LARPer_Wilmot_NAME"
+msgid "Wilmot"
+msgstr ""
+
+#. 相手をイジメてお仕置きするのが大好きなタフな鞭使い。
+msgctxt "Recruit_Linda_Linda_DESC"
+msgid "A tough lady who prefers to punish her enemies with her whip."
+msgstr ""
+
+#. リンダ
+msgctxt "Recruit_Linda_Linda_NAME"
+msgid "Linda"
+msgstr ""
+
+#. この街すべてを支配するまで止まらない、邪悪なドッペルゲンガー。
+msgctxt "Recruit_Linda_Mecha Linda_DESC"
+msgid ""
+"An evil doppleganger who won't stop until she dominates this entire city."
+msgstr ""
+
+#. メカリンダ
+msgctxt "Recruit_Linda_Mecha Linda_NAME"
+msgid "Mecha Linda"
+msgstr ""
+
+#. リンダの双子の姉妹。厳密に言えば彼女の方が先に生まれたので、姉である。
+msgctxt "Recruit_Linda_Neo Linda_DESC"
+msgid ""
+"Linda's twin sister. She was technically born first, so she's in charge."
+msgstr ""
+
+#. ネオリンダ
+msgctxt "Recruit_Linda_Neo Linda_NAME"
+msgid "Neo Linda"
+msgstr ""
+
+#. リバーシティでよく見るレスラー。文字通り相手を骨抜きにさせるほどの怪力の持ち主。
+msgctxt "Recruit_Luchadora_Estrella_DESC"
+msgid "These girls can, and will, crush you. Be careful what you wish for."
+msgstr ""
+
+#. エストレラ
+msgctxt "Recruit_Luchadora_Estrella_NAME"
+msgid "Estrella"
+msgstr ""
+
+#. 特殊な力に目覚めたレスラー。光る眼光は道行く人を怖がらせてしまう。
+msgctxt "Recruit_Luchadora_LaLlorona_DESC"
+msgid ""
+"Some people say that they hear weeping before they see her. Maybe it's just "
+"them."
+msgstr ""
+
+#. ラ・エローナ
+msgctxt "Recruit_Luchadora_LaLlorona_NAME"
+msgid "La Llorona"
+msgstr ""
+
+#. レスラー集団のリーダー。逞しいだけじゃなく美しさもあわせ持つ。
+msgctxt "Recruit_Luchadora_Mariana_DESC"
+msgid "The leader of the Luchadoras. She's as violent as she is beautiful."
+msgstr ""
+
+#. マリアンナ
+msgctxt "Recruit_Luchadora_Mariana_NAME"
+msgid "Mariana"
+msgstr ""
+
+#. リバーシティでよく見るレスラー。「青い瞳は正義の証。」が決め台詞。
+msgctxt "Recruit_Luchadora_Rosa_DESC"
+msgid "These girls can, and will, crush you. Be careful what you wish for."
+msgstr ""
+
+#. ローザ
+msgctxt "Recruit_Luchadora_Rosa_NAME"
+msgid "Rosa"
+msgstr ""
+
+#. リバーシティでよく見るレスラー。ロリポップな見た目から出る怪力は人を魅了させる。
+msgctxt "Recruit_Luchadora_Valentina_DESC"
+msgid "These girls can, and will, crush you. Be careful what you wish for."
+msgstr ""
+
+#. バレンティーナ
+msgctxt "Recruit_Luchadora_Valentina_NAME"
+msgid "Valentina"
+msgstr ""
+
+#. リバーシティでよく見るレスラー。密かにレッドの座を狙っている。
+msgctxt "Recruit_Luchadora_Valeria_DESC"
+msgid "These girls can, and will, crush you. Be careful what you wish for."
+msgstr ""
+
+#. バレリーナ
+msgctxt "Recruit_Luchadora_Valeria_NAME"
+msgid "Valeria"
+msgstr ""
+
+#. ゾンビになったゴロツキ。遊泳禁止だったサブの違法薬品の溜め池で泳いでしまった。
+msgctxt "Recruit_MaleThug_Chaim_DESC"
+msgid ""
+"Sabu's illegal chemical reservoir wasn't the best choice for swimming. "
+msgstr ""
+
+#. シェイム
+msgctxt "Recruit_MaleThug_Chaim_NAME"
+msgid "Chaim"
+msgstr ""
+
+#. 街中で喧嘩を売ってくるゴロツキ。カラフルなものが好き。
+msgctxt "Recruit_MaleThug_Davey_DESC"
+msgid "Low life miscreants who learned to fight on the streets."
+msgstr ""
+
+#. デイヴィ
+msgctxt "Recruit_MaleThug_Davey_NAME"
+msgid "Davey"
+msgstr ""
+
+#. 街中で喧嘩を売ってくるゴロツキ。リバーシティーで身も心も鍛えてきた。
+msgctxt "Recruit_MaleThug_Farrokh_DESC"
+msgid "The streets of River City have toughened his skin and soul."
+msgstr ""
+
+#. フェイロ
+msgctxt "Recruit_MaleThug_Farrokh_NAME"
+msgid "Farrokh"
+msgstr ""
+
+#. 街中で喧嘩を売ってくるゴロツキ。目には秘めた闘志が宿っている。
+msgctxt "Recruit_MaleThug_Georgios_DESC"
+msgid "Low life miscreants who learned to fight on the streets."
+msgstr ""
+
+#. ジョルジオ
+msgctxt "Recruit_MaleThug_Georgios_NAME"
+msgid "Georgios"
+msgstr ""
+
+#. 街中で喧嘩を売ってくるゴロツキ。肩にかけた鎖は髪の毛に引っかかって取れなくなった。
+msgctxt "Recruit_MaleThug_Pete_DESC"
+msgid "Low life miscreants who learned to fight on the streets."
+msgstr ""
+
+#. ピート
+msgctxt "Recruit_MaleThug_Pete_NAME"
+msgid "Pete"
+msgstr ""
+
+#. 街中で喧嘩を売ってくるゴロツキ。ツッパる事が漢の勲章だと思っている。
+msgctxt "Recruit_MaleThug_Rogers_DESC"
+msgid "Low life miscreants who learned to fight on the streets."
+msgstr ""
+
+#. ロジャース
+msgctxt "Recruit_MaleThug_Rogers_NAME"
+msgid "Rogers"
+msgstr ""
+
+#. マーサのライバルであり親友。複雑な関係。
+msgctxt "Recruit_Martha_EmpressCrushfist_DESC"
+msgid "Martha's nemesis and best friend. It's complicated."
+msgstr ""
+
+#. 破戒の女帝
+msgctxt "Recruit_Martha_EmpressCrushfist_NAME"
+msgid "Empress Crushfist"
+msgstr ""
+
+#. 戦いすぎて常に緊張感を放ち続けているため、むやみに近づくと感電する。
+msgctxt "Recruit_Martha_MarthaSplatterhead_DESC"
+msgid "The Combatribes were no longer enough of a challenge for her."
+msgstr ""
+
+#. マーサ・スプラッターヘッド
+msgctxt "Recruit_Martha_MarthaSplatterhead_NAME"
+msgid "Martha Splatterhead"
+msgstr ""
+
+#. 別の次元からやってきたゴーゴン。すぐに帰る予定だったが、この場所がお気に入りになってしまった。
+msgctxt "Recruit_Martha_QueenEarthbreaker_DESC"
+msgid ""
+"A gorgon from another time and place but she finds she fits here just fine."
+msgstr ""
+
+#. 地鳴らしの女神
+msgctxt "Recruit_Martha_QueenEarthbreaker_NAME"
+msgid "Queen Earthbreaker"
+msgstr ""
+
+#. キョウコの幼なじみ。ファンが心臓麻痺を起こすくらいロックな魂で攻撃をする。
+msgctxt "Recruit_NOIZE_DESC"
+msgid "Her riffs are as deadly as they are soothing for the soul."
+msgstr ""
+
+#. ノイズ
+msgctxt "Recruit_NOIZE_NAME"
+msgid "NOIZE"
+msgstr ""
+
+#. ボクサー魂と目立ちたがり屋精神を1:1にして1％の音楽性を加えるとポールを錬成できる。
+msgctxt "Recruit_Paul_DESC"
+msgid ""
+"Paul is 50 percent boxer and 50 percent showboat. But also one percent "
+"casanova."
+msgstr ""
+
+#. ポール
+msgctxt "Recruit_Paul_NAME"
+msgid "Paul"
+msgstr ""
+
+#. どこか見覚えがある男。どうやらクニオは会いたくないみたいだ。
+msgctxt "Recruit_RCRKunio_DESC"
+msgid ""
+"This guy looks weirdly familiar. Kunio gets deja vu when he looks at him."
+msgstr ""
+
+#. アレックス
+msgctxt "Recruit_RCRKunio_NAME"
+msgid "Alex"
+msgstr ""
+
+#. どこか見覚えがある男。どうやらリキとは少し因縁があるらしい。
+msgctxt "Recruit_RCRRiki_DESC"
+msgid ""
+"This guy looks weirdly familiar. Riki gets deja vu when he looks at him."
+msgstr ""
+
+#. ライアン
+msgctxt "Recruit_RCRRiki_NAME"
+msgid "Ryan"
+msgstr ""
+
+#. どこか見覚えがある男。どうやらリキとは少し因縁があるらしい。
+msgctxt "Recruit_Ryan_DESC"
+msgid ""
+"This guy looks weirdly familiar. Riki gets deja vu when he looks at him."
+msgstr ""
+
+#. ライアン
+msgctxt "Recruit_Ryan_NAME"
+msgid "Ryan"
+msgstr ""
+
+#. リバーシティにいるゾンビ高校生。かつてのイケメンも、もはや見る影なし。
+msgctxt "Recruit_SchoolBoy_Grendel_DESC"
+msgid "Once the prom king. Not really a contender for that title anymore."
+msgstr ""
+
+#. グレンデル
+msgctxt "Recruit_SchoolBoy_Grendel_NAME"
+msgid "Grendel"
+msgstr ""
+
+#. リバーシティにいる高校生。見るからに噛ませ犬な見た目だが本人は気に入っている。
+msgctxt "Recruit_SchoolBoy_Kaitsu_DESC"
+msgid "These entitled jerks love to fight dirty."
+msgstr ""
+
+#. カイツ
+msgctxt "Recruit_SchoolBoy_Kaitsu_NAME"
+msgid "Kaitsu"
+msgstr ""
+
+#. リバーシティにいる高校生。受験勉強でイライラしている。卑怯な戦い方を好む。
+msgctxt "Recruit_SchoolBoy_Kayden_DESC"
+msgid "These entitled jerks love to fight dirty."
+msgstr ""
+
+#. ケイデン
+msgctxt "Recruit_SchoolBoy_Kayden_NAME"
+msgid "Kayden"
+msgstr ""
+
+#. リバーシティにいる高校生。ズボンは砂かけ用にポケットを大きくしたオーダーメイド仕様。
+msgctxt "Recruit_SchoolBoy_Malhar_DESC"
+msgid "These entitled jerks love to fight dirty."
+msgstr ""
+
+#. マルハール
+msgctxt "Recruit_SchoolBoy_Malhar_NAME"
+msgid "Malhar"
+msgstr ""
+
+#. リバーシティにいる高校生。ボーイズバンドのリーダーで超イケてる。
+msgctxt "Recruit_SchoolBoy_Mel_DESC"
+msgid "Leader of the schoolboys and his own band. So cool."
+msgstr ""
+
+#. メル
+msgctxt "Recruit_SchoolBoy_Mel_NAME"
+msgid "Mel"
+msgstr ""
+
+#. リバーシティにいる高校生。座右の銘は「下剋上」。
+msgctxt "Recruit_SchoolBoy_Seirai_DESC"
+msgid "These entitled jerks love to fight dirty."
+msgstr ""
+
+#. セイライ
+msgctxt "Recruit_SchoolBoy_Seirai_NAME"
+msgid "Seirai"
+msgstr ""
+
+#. リバーシティにいる高校生。メガネが合っていないため本が読めない。
+msgctxt "Recruit_SchoolGirl_Hannah_DESC"
+msgid "If you are not part of their clique, you are part of their problem."
+msgstr ""
+
+#. キム
+msgctxt "Recruit_SchoolGirl_Hannah_NAME"
+msgid "Kim"
+msgstr ""
+
+#. リバーシティにいる高校生。ネコが好き。
+msgctxt "Recruit_SchoolGirl_Hinata_DESC"
+msgid "If you are not part of their clique, you are part of their problem."
+msgstr ""
+
+#. ヒナタ
+msgctxt "Recruit_SchoolGirl_Hinata_NAME"
+msgid "Hinata"
+msgstr ""
+
+#. リバーシティにいる高校生。女子グループに入っていないヤツは全員敵だと思っている。
+msgctxt "Recruit_SchoolGirl_Ichika_DESC"
+msgid "If you are not part of their clique, you are part of their problem."
+msgstr ""
+
+#. イチカ
+msgctxt "Recruit_SchoolGirl_Ichika_NAME"
+msgid "Ichika"
+msgstr ""
+
+#. 女子高生グループのリーダー。見た目通りの苦労人。
+msgctxt "Recruit_SchoolGirl_Nen_DESC"
+msgid ""
+"The dominant female of the pack. She didn't get the part for her looks."
+msgstr ""
+
+#. ネン
+msgctxt "Recruit_SchoolGirl_Nen_NAME"
+msgid "Nen"
+msgstr ""
+
+#. リバーシティにいる高校生。比較的おとなしめの服装だが、最も攻撃的な性格をしている。
+msgctxt "Recruit_SchoolGirl_Reina_DESC"
+msgid "If you are not part of their clique, you are part of their problem."
+msgstr ""
+
+#. レイナ
+msgctxt "Recruit_SchoolGirl_Reina_NAME"
+msgid "Reina"
+msgstr ""
+
+#. リバーシティ高校の生徒。友達と肝試しに行って取り憑かれた。
+msgctxt "Recruit_SchoolGirl_Vesper_DESC"
+msgid "She tried a seance one night with her friends. It didn't end well."
+msgstr ""
+
+#. ヴェスパー
+msgctxt "Recruit_SchoolGirl_Vesper_NAME"
+msgid "Vesper"
+msgstr ""
+
+#. 無骨で面倒くさがり屋。口数は少なく、必要最低限の言葉しか口にしない。
+msgctxt "Recruit_SolBadguy_DESC"
+msgid ""
+"A living legend. The first gear. Sadly, legend-status doesn't pay bills."
+msgstr ""
+
+#. ソル=バッドガイ
+msgctxt "Recruit_SolBadguy_NAME"
+msgid "Sol Badguy"
+msgstr ""
+
+#. リバーシティのプロレスラー。手足は筋肉質で短いが、その分俊敏ではある。
+msgctxt "Recruit_Tigerman_Aurelien_DESC"
+msgid "These pro wrestlers are as agile as they are musclebound."
+msgstr ""
+
+#. オーレリアン
+msgctxt "Recruit_Tigerman_Aurelien_NAME"
+msgid "Aurelien"
+msgstr ""
+
+#. リバーシティのプロレスラー。トラのマスクは毎日手入れをしている。
+msgctxt "Recruit_Tigerman_Dwayne_DESC"
+msgid "These pro wrestlers are as agile as they are musclebound."
+msgstr ""
+
+#. ドウェイン
+msgctxt "Recruit_Tigerman_Dwayne_NAME"
+msgid "Dwayne"
+msgstr ""
+
+#. リバーシティのプロレスラー。悪役に徹するために毎日6時間化粧をしている。
+msgctxt "Recruit_Tigerman_Hellwig_DESC"
+msgid "He made a heel turn years ago and never turned back."
+msgstr ""
+
+#. ヘルヴィヒ
+msgctxt "Recruit_Tigerman_Hellwig_NAME"
+msgid "Hellwig"
+msgstr ""
+
+#. リバーシティのプロレスラー。同じレスラーのドウェインとはタッグを組むほど仲が良い。
+msgctxt "Recruit_Tigerman_Leon_DESC"
+msgid "These pro wrestlers are as agile as they are musclebound."
+msgstr ""
+
+#. レオン
+msgctxt "Recruit_Tigerman_Leon_NAME"
+msgid "Leon"
+msgstr ""
+
+#. リバーシティのプロレスラー。気合のビンタが強烈すぎて眠れないカラダになった。
+msgctxt "Recruit_Tigerman_Oscar_DESC"
+msgid "Never took a knife edge chop he didn't sadistically enjoy."
+msgstr ""
+
+#. オスカー
+msgctxt "Recruit_Tigerman_Oscar_NAME"
+msgid "Oscar"
+msgstr ""
+
+#. リバーシティのゾンビプロレスラー。マスクのおかげで噛まれても感染はしない。
+msgctxt "Recruit_Tigerman_Szatkowski_DESC"
+msgid "These pro wrestlers are as agile as they are musclebound."
+msgstr ""
+
+#. ザトコフスキ
+msgctxt "Recruit_Tigerman_Szatkowski_NAME"
+msgid "Szatkowski"
+msgstr ""
+
+#. 大きなハンマーを振り回すゴロツキ。トラッシュの兄弟で昔彼をいじめていた嫌なやつ。
+msgctxt "Recruit_Trash_Garbage_DESC"
+msgid ""
+"Trash's brother that used to bully him. Just think how he feels about you."
+msgstr ""
+
+#. ガーベッジ
+msgctxt "Recruit_Trash_Garbage_NAME"
+msgid "Garbage"
+msgstr ""
+
+#. 大きなハンマーを振り回すゴロツキ。母親にはターボジュースを飲みすぎるなと注意されている。
+msgctxt "Recruit_Trash_Scum_DESC"
+msgid "His mother warned him not to drink Turbo Juice excessively."
+msgstr ""
+
+#. スカム
+msgctxt "Recruit_Trash_Scum_NAME"
+msgid "Scum"
+msgstr ""
+
+#. 大きなハンマーを振り回すゴロツキ。ひとたび相棒のハンマーを振り回すと誰にも止められない。
+msgctxt "Recruit_Trash_Trash_DESC"
+msgid "Once he gets his trusty hammer going, nothing can stop him."
+msgstr ""
+
+#. トラッシュ
+msgctxt "Recruit_Trash_Trash_NAME"
+msgid "Trash"
+msgstr ""
+
+#. 暴力が好きな呪われた人形。ギャンブルが好きな心を持っている。
+msgctxt "Recruit_Waver_Chance_DESC"
+msgid "A cursed puppet with a penchant for mayhem."
+msgstr ""
+
+#. チャンス
+msgctxt "Recruit_Waver_Chance_NAME"
+msgid "Chance"
+msgstr ""
+
+#. ハイリスクを好む、キテレツなギャンブラー。ウェアベアーの従姉妹で道路の反対側に住んでいる。
+msgctxt "Recruit_Waver_Exie_DESC"
+msgid "Waver's cousin from the other side of the tracks."
+msgstr ""
+
+#. エグジー
+msgctxt "Recruit_Waver_Exie_NAME"
+msgid "Exie"
+msgstr ""
+
+#. ハイリスクを好む、キテレツなギャンブラー。
+msgctxt "Recruit_Waver_Waver_DESC"
+msgid "A bizarre gambler with a penchant for taking high risks."
+msgstr ""
+
+#. ウェアベアー
+msgctxt "Recruit_Waver_Waver_NAME"
+msgid "Waver"
+msgstr ""
+
+#. 上級紳士なのだが、金のためなら平気で小さい仕事も請け負う。
+msgctxt "Recruit_Wes_DESC"
+msgid ""
+"Wes is high class but doesn't mind lowering himself down to your level for "
+"some extra cash."
+msgstr ""
+
+#. ウェス
+msgctxt "Recruit_Wes_NAME"
+msgid "Wes"
+msgstr ""
+
+#. 三和会の女ヤクザ。ナイフ投げの練習でサブの病院に行く事が多い。
+msgctxt "Recruit_YakuzaF_Akari_DESC"
+msgid "Sabu’s henchwomen are deadly with their knife throwing skills."
+msgstr ""
+
+#. アカリ
+msgctxt "Recruit_YakuzaF_Akari_NAME"
+msgid "Akari"
+msgstr ""
+
+#. 三和会の女ヤクザ。サングラスが壊れていることに本人は気づいていない。
+msgctxt "Recruit_YakuzaF_Harumi_DESC"
+msgid "Sabu’s henchwomen are deadly with their knife throwing skills."
+msgstr ""
+
+#. ハルミ
+msgctxt "Recruit_YakuzaF_Harumi_NAME"
+msgid "Harumi"
+msgstr ""
+
+#. 三和会の女ヤクザ。初任給でアップタウンの可愛い服を買った。
+msgctxt "Recruit_YakuzaF_Hideko_DESC"
+msgid "Sabu’s henchwomen are deadly with their knife throwing skills."
+msgstr ""
+
+#. ヒデコ
+msgctxt "Recruit_YakuzaF_Hideko_NAME"
+msgid "Hideko"
+msgstr ""
+
+#. 三和会の女ヤクザ。拳銃よりも投げナイフが得意。
+msgctxt "Recruit_YakuzaF_Maiko_DESC"
+msgid "Sabu’s henchwomen are deadly with their knife throwing skills."
+msgstr ""
+
+#. マイコ
+msgctxt "Recruit_YakuzaF_Maiko_NAME"
+msgid "Maiko"
+msgstr ""
+
+#. サブの右腕の女性ヤクザ。彼女のナイフは高校生だろうとバターのように滑らかに切り裂く。
+msgctxt "Recruit_YakuzaF_Momoe_DESC"
+msgid ""
+"Sabu’s right hand lady. Her knives can slice teenage girls like cafeteria "
+"butter."
+msgstr ""
+
+#. モモエ
+msgctxt "Recruit_YakuzaF_Momoe_NAME"
+msgid "Momoe"
+msgstr ""
+
+#. NOT RECRUITABLE, N/A, DO NOT LOCALIZE
+msgctxt "Recruit_YakuzaF_Nakano_DESC"
+msgid "NOT RECRUITABLE, N/A, DO NOT LOCALIZE"
+msgstr ""
+
+#. ナカノ
+msgctxt "Recruit_YakuzaF_Nakano_NAME"
+msgid "Nakano"
+msgstr ""
+
+#. サブのお抱え暗殺者。全ての仕事をタダで引き受けている。
+msgctxt "Recruit_YakuzaF_Shinobu_DESC"
+msgid "Sabu’s main assassin. She does this job for free."
+msgstr ""
+
+#. シノブ
+msgctxt "Recruit_YakuzaF_Shinobu_NAME"
+msgid "Shinobu"
+msgstr ""
+
+#. 三和会の男ヤクザ。サブの武闘集団は拳のみを極限まで鍛え上げている。
+msgctxt "Recruit_YakuzaMale_Fudo_DESC"
+msgid ""
+"Sabu’s army of martial artists are incredibly skilled with their fists."
+msgstr ""
+
+#. フード
+msgctxt "Recruit_YakuzaMale_Fudo_NAME"
+msgid "Fudo"
+msgstr ""
+
+#. NOT RECRUITABLE, N/A, DO NOT LOCALIZE
+msgctxt "Recruit_YakuzaMale_Fuji_DESC"
+msgid "NOT RECRUITABLE, N/A, DO NOT LOCALIZE"
+msgstr ""
+
+#. フジ
+msgctxt "Recruit_YakuzaMale_Fuji_NAME"
+msgid "Fuji"
+msgstr ""
+
+#. 三和会の男ヤクザ。身体中にある傷については何も話さない。
+msgctxt "Recruit_YakuzaMale_Hiromi_DESC"
+msgid ""
+"Sabu’s army of martial artists are incredibly skilled with their fists."
+msgstr ""
+
+#. ヒロミ
+msgctxt "Recruit_YakuzaMale_Hiromi_NAME"
+msgid "Hiromi"
+msgstr ""
+
+#. 三和会の男ヤクザ。鍛え上げられた上腕二頭筋で三和会にスカウトされた。
+msgctxt "Recruit_YakuzaMale_Hisoka_DESC"
+msgid ""
+"Sabu’s army of martial artists are incredibly skilled with their fists."
+msgstr ""
+
+#. ヒソカ
+msgctxt "Recruit_YakuzaMale_Hisoka_NAME"
+msgid "Hisoka"
+msgstr ""
+
+#. 三和会の男ヤクザ。プロテイン味の飴を舐めている。
+msgctxt "Recruit_YakuzaMale_Katashi_DESC"
+msgid ""
+"Sabu’s army of martial artists are incredibly skilled with their fists."
+msgstr ""
+
+#. カタシ
+msgctxt "Recruit_YakuzaMale_Katashi_NAME"
+msgid "Katashi"
+msgstr ""
+
+#. サブの左腕。サブ以外、誰も彼に逆らえない。
+msgctxt "Recruit_YakuzaMale_Masaaki_DESC"
+msgid "Sabu's very own left hand man. No one dares challenge his authority."
+msgstr ""
+
+#. マサアキ
+msgctxt "Recruit_YakuzaMale_Masaaki_NAME"
+msgid "Masaaki"
+msgstr ""
+
+#. 元三和会の男ヤクザ。古い鬼に取りつかれ、絶えず戦いを欲している。
+msgctxt "Recruit_YakuzaMale_Osamu_DESC"
+msgid "Possessed by an ancient oni and an insatiable desire for combat."
+msgstr ""
+
+#. オサム
+msgctxt "Recruit_YakuzaMale_Osamu_NAME"
+msgid "Osamu"
+msgstr ""
+
+#. シンバル奏者の怨霊。狂気に魂を奪われて慈悲も恐怖もなくしてしまった。
+msgctxt "Recruit_Yokai_AkaManto_DESC"
+msgid "His soul is lost to madness. He has no mercy and no fear."
+msgstr ""
+
+#. アカマント
+msgctxt "Recruit_Yokai_AkaManto_NAME"
+msgid "Aka Manto"
+msgstr ""
+
+#. シンバル奏者の怨霊。スクールバスの不慮の事故から生まれてしまった魂。
+msgctxt "Recruit_Yokai_Aku_DESC"
+msgid ""
+"Their school bus crashed in the woods, and they were never seen alive again."
+msgstr ""
+
+#. アク
+msgctxt "Recruit_Yokai_Aku_NAME"
+msgid "Aku"
+msgstr ""
+
+#. シンバル奏者の怨霊。毒のような液体を口から出している。
+msgctxt "Recruit_Yokai_Hotoke_DESC"
+msgid ""
+"Their school bus crashed in the woods, and they were never seen alive again."
+msgstr ""
+
+#. ホットケ
+msgctxt "Recruit_Yokai_Hotoke_NAME"
+msgid "Hotoke"
+msgstr ""
+
+#. シンバル奏者の怨霊。今では人間の頃恐れていた存在になってしまった。
+msgctxt "Recruit_Yokai_Kamaitachi_DESC"
+msgid ""
+"Though a monstrous shadow of his former self, he is still the leader of his "
+"clique."
+msgstr ""
+
+#. かまいたち
+msgctxt "Recruit_Yokai_Kamaitachi_NAME"
+msgid "Kamaitachi"
+msgstr ""
+
+#. シンバル奏者の怨霊。事故から生まれた悲しい存在、ゾンビのような見た目だが幽霊に近い。
+msgctxt "Recruit_Yokai_Yoru_DESC"
+msgid ""
+"Their school bus crashed in the woods, and they were never seen alive again."
+msgstr ""
+
+#. ヨル
+msgctxt "Recruit_Yokai_Yoru_NAME"
+msgid "Yoru"
+msgstr ""
+
+#. シンバル奏者の怨霊。見た目はグロテスクだが、孔雀の羽がチャームポイント。
+msgctxt "Recruit_Yokai_Zenaku_DESC"
+msgid ""
+"Their school bus crashed in the woods, and they were never seen alive again."
+msgstr ""
+
+#. 善悪
+msgctxt "Recruit_Yokai_Zenaku_NAME"
+msgid "Zenaku"
+msgstr ""
+
+#. 地域
+msgctxt "Region"
+msgid "Region"
+msgstr ""
+
+#. プレーヤーを通報する
+msgctxt "ReportPlayer"
+msgid "Report Player"
+msgstr ""
+
+#. 接続不良
+msgctxt "ReportReason_BadConnection"
+msgid "Bad Connection"
+msgstr ""
+
+#. 迷惑行為
+msgctxt "ReportReason_Griefing"
+msgid "Griefing"
+msgstr ""
+
+#. プレイ放置
+msgctxt "ReportReason_Inactivity"
+msgid "Inactivity"
+msgstr ""
+
+#. その他
+msgctxt "ReportReason_Other"
+msgid "Other"
+msgstr ""
+
+#. ブレアのエンブレム
+msgctxt "Reward_Emblem_Blaire"
+msgid "Blaire's Emblem"
+msgstr ""
+
+#. ケンのエンブレム
+msgctxt "Reward_Emblem_Ken"
+msgid "Ken's Emblem"
+msgstr ""
+
+#. プリモのエンブレム
+msgctxt "Reward_Emblem_Primo"
+msgid "Primo's Emblem"
+msgstr ""
+
+#. ツイコのエンブレム
+msgctxt "Reward_Emblem_Tsuiko"
+msgid "Tsuiko's Emblem"
+msgstr ""
+
+#. リバーシティ銀行
+msgctxt "River City Bank"
+msgid "River City Bank"
+msgstr ""
+
+#. 解放レベル
+msgctxt "STORE_UNLOCKED_AT_LEVEL"
+msgid "Unlocked at Level"
+msgstr ""
+
+#. セーブデータを作成する。スロット
+msgctxt "SaveFileScreen_ConfirmCreate"
+msgid "Create save in slot"
+msgstr ""
+
+#. セーブデータを消去する。
+msgctxt "SaveFileScreen_ConfirmDelete"
+msgid "Delete save in slot"
+msgstr ""
+
+#. セーブデータを選ぶ。
+msgctxt "SaveFileScreen_FooterMsg"
+msgid "Choose a file."
+msgstr ""
+
+msgctxt "ServerHasCrossplayDisabled"
+msgid "Server does not have crossplay enabled."
+msgstr ""
+
+#. ボタン設定
+msgctxt "SettingScreen_ControllerMapping"
+msgid "Controller Mapping"
+msgstr ""
+
+#. ボタン設定の変更をする。
+msgctxt "SettingScreen_ControllerMapping_FooterMsg"
+msgid "Remap controls."
+msgstr ""
+
+#. テキスト
+msgctxt "SettingScreen_Language"
+msgid "Language"
+msgstr ""
+
+#. 言語を切り替える。
+msgctxt "SettingScreen_Language_FooterMsg"
+msgid "Change the game language."
+msgstr ""
+
+#. BGM
+msgctxt "SettingScreen_Music"
+msgid "Music"
+msgstr ""
+
+#. BGMのボリュームを調整する。
+msgctxt "SettingScreen_Music_FooterMsg"
+msgid "Change music volume."
+msgstr ""
+
+#. プレイヤー強調表示
+msgctxt "SettingScreen_PlayerIndicator"
+msgid "Player Indicator"
+msgstr ""
+
+#. プレイヤー強調表示の種類を選択する。
+msgctxt "SettingScreen_PlayerIndicator_FooterMsg"
+msgid "Choose the style of player indicator."
+msgstr ""
+
+#. サーバーを選択してください。
+msgctxt "SettingScreen_Region_FooterMsg"
+msgid "Choose location of servers to use in online play."
+msgstr ""
+
+#. SE
+msgctxt "SettingScreen_SFX"
+msgid "SFX"
+msgstr ""
+
+#. SE音声のボリュームを調整する。
+msgctxt "SettingScreen_SFX_FooterMsg"
+msgid "Change sound effect volume."
+msgstr ""
+
+#. パートナーのボイス
+msgctxt "SettingScreen_SecondaryVo"
+msgid "Partner Voice"
+msgstr ""
+
+#. 字幕
+msgctxt "SettingScreen_Subtitles"
+msgid "Subtitles"
+msgstr ""
+
+#. 字幕の言語を切り替える。
+msgctxt "SettingScreen_Subtitles_FooterMsg"
+msgid "Change the language of subtitles."
+msgstr ""
+
+#. テキスト表示速度
+msgctxt "SettingScreen_TextSpeed"
+msgid "Text Speed"
+msgstr ""
+
+#. テキスト表示速度を調整する。
+msgctxt "SettingScreen_TextSpeed_FooterMsg"
+msgid "Change the text speed."
+msgstr ""
+
+#. 振動
+msgctxt "SettingScreen_Vibration"
+msgid "Vibration"
+msgstr ""
+
+#. 振動のオン・オフを切り替える。
+msgctxt "SettingScreen_Vibration_FooterMsg"
+msgid "Set controller vibration on or off."
+msgstr ""
+
+#. ボイス
+msgctxt "SettingScreen_Voice"
+msgid "Voice"
+msgstr ""
+
+#. ボイスのボリュームを調整する。
+msgctxt "SettingScreen_Voice_FooterMsg"
+msgid "Change voice volume."
+msgstr ""
+
+#. 音声
+msgctxt "SettingScreen_Voiceover"
+msgid "Voiceover"
+msgstr ""
+
+#. 音声の言語を切り替える。オンラインプレイではホストの設定が優先されます。
+msgctxt "SettingScreen_Voiceover_FooterMsg"
+msgid "Change the voiceover langauge."
+msgstr ""
+
+#. オフ
+msgctxt "Setting_Off"
+msgid "Off"
+msgstr ""
+
+#. オン
+msgctxt "Setting_On"
+msgid "On"
+msgstr ""
+
+#. テキスト表示速度を調整する。
+msgctxt "SettingsScreen_TextSpeed_FooterMsg"
+msgid "Change the text speed."
+msgstr ""
+
+#. 画面の解像度を変更します。
+msgctxt "Settings_Resolution_FooterMsg"
+msgid "Set the resolution."
+msgstr ""
+
+#. 速い
+msgctxt "Settings_TextSpeed_Fast"
+msgid "Fast"
+msgstr ""
+
+#. 普通
+msgctxt "Settings_TextSpeed_Medium"
+msgid "Medium"
+msgstr ""
+
+#. ゆっくり
+msgctxt "Settings_TextSpeed_Slow"
+msgid "Slow"
+msgstr ""
+
+#. スクリーンモードの設定を変更します。
+msgctxt "Settings_WindowMode_FooterMsg"
+msgid "Choose to run the game in full screen or in a window."
+msgstr ""
+
+#. 写真投稿
+msgctxt "Snapr_Page_PhotoFeed"
+msgid "Photo Feed"
+msgstr ""
+
+#. セルフィ
+msgctxt "Snapr_Page_SelfieOps"
+msgid "Selfie Ops"
+msgstr ""
+
+#. アップルテイター
+msgctxt "Ticker_Apple Tater_NAME"
+msgid "Apple Tater"
+msgstr ""
+
+#. ビィブゥ
+msgctxt "Ticker_Beeboo_NAME"
+msgid "Beeboo"
+msgstr ""
+
+#. ブレア
+msgctxt "Ticker_Blaire_NAME"
+msgid "Blaire"
+msgstr ""
+
+#. バリー
+msgctxt "Ticker_Bully_NAME"
+msgid "Bully"
+msgstr ""
+
+#. ブルノフ
+msgctxt "Ticker_Burnov_NAME"
+msgid "Burnov"
+msgstr ""
+
+#. 渡し守
+msgctxt "Ticker_Ferryman_NAME"
+msgid "Ferryman"
+msgstr ""
+
+#. ゴダイ
+msgctxt "Ticker_Godai_NAME"
+msgid "Godai"
+msgstr ""
+
+#. ハセベ
+msgctxt "Ticker_Hasebe_NAME"
+msgid "Hasebe"
+msgstr ""
+
+#. ヒロシ
+msgctxt "Ticker_Hiroshi_NAME"
+msgid "Hiroshi"
+msgstr ""
+
+#. ジャック
+msgctxt "Ticker_Jack_NAME"
+msgid "Jack"
+msgstr ""
+
+#. カオリ
+msgctxt "Ticker_Kaori_NAME"
+msgid "Kaori"
+msgstr ""
+
+#. ケン
+msgctxt "Ticker_KenOS_NAME"
+msgid "Ken (O.S.)"
+msgstr ""
+
+#. ケン & サブコ
+msgctxt "Ticker_KenSabuko_NAME"
+msgid "Ken & Sabuko"
+msgstr ""
+
+#. ケン
+msgctxt "Ticker_Ken_NAME"
+msgid "Ken"
+msgstr ""
+
+#. コウヅキ
+msgctxt "Ticker_Kozuki_NAME"
+msgid "Kozuki"
+msgstr ""
+
+#. クニオ
+msgctxt "Ticker_Kunio_NAME"
+msgid "Kunio"
+msgstr ""
+
+#. キョウコ
+msgctxt "Ticker_Kyoko_NAME"
+msgid "Kyoko"
+msgstr ""
+
+#. キョウコママ
+msgctxt "Ticker_Kyokos Mom_NAME"
+msgid "Kyoko's Mom"
+msgstr ""
+
+#. リトル カリーン
+msgctxt "Ticker_Lil Colleen_NAME"
+msgid "Lil' Colleen"
+msgstr ""
+
+#. マミ
+msgctxt "Ticker_Mami_NAME"
+msgid "Mami"
+msgstr ""
+
+#. マリアン
+msgctxt "Ticker_Marian_NAME"
+msgid "Marian"
+msgstr ""
+
+#. メグミ
+msgctxt "Ticker_Megumi_NAME"
+msgid "Megumi"
+msgstr ""
+
+#. ミボボ
+msgctxt "Ticker_Mibobo_NAME"
+msgid "Mibobo"
+msgstr ""
+
+#. ミサコ
+msgctxt "Ticker_Misako_NAME"
+msgid "Misako"
+msgstr ""
+
+#. ミスズ
+msgctxt "Ticker_Misuzu_NAME"
+msgid "Misuzu"
+msgstr ""
+
+#. Mr. K
+msgctxt "Ticker_MrK_NAME"
+msgid "Mr. K"
+msgstr ""
+
+#. プリモ
+msgctxt "Ticker_Primo_NAME"
+msgid "Primo"
+msgstr ""
+
+#. ワニ博士
+msgctxt "Ticker_Professor Croc_NAME"
+msgid "Professor Croc"
+msgstr ""
+
+#. プルーヴィ
+msgctxt "Ticker_Provie_NAME"
+msgid "Provie"
+msgstr ""
+
+#. リキ
+msgctxt "Ticker_Riki_NAME"
+msgid "Riki"
+msgstr ""
+
+#. リュウイチ
+msgctxt "Ticker_Ryuichi_NAME"
+msgid "Ryuichi"
+msgstr ""
+
+#. リュウイチ&リュウジ 
+msgctxt "Ticker_Ryuji Ryuichi_NAME"
+msgid "Ryuji & Ryuichi"
+msgstr ""
+
+#. リュウジ
+msgctxt "Ticker_Ryuji_NAME"
+msgid "Ryuji"
+msgstr ""
+
+#. サブ
+msgctxt "Ticker_SabuOS_NAME"
+msgid "Sabu (O.S.)"
+msgstr ""
+
+#. サブ
+msgctxt "Ticker_Sabu_NAME"
+msgid "Sabu"
+msgstr ""
+
+#. サブコ
+msgctxt "Ticker_Sabuko_NAME"
+msgid "Sabuko"
+msgstr ""
+
+#. サオトメ
+msgctxt "Ticker_Saotome_NAME"
+msgid "Saotome"
+msgstr ""
+
+#. シミズ
+msgctxt "Ticker_Shimizu_NAME"
+msgid "Shimizu"
+msgstr ""
+
+#. スナップ
+msgctxt "Ticker_Snap_NAME"
+msgid "Snap"
+msgstr ""
+
+#. ソノカワ
+msgctxt "Ticker_Sonokawa_NAME"
+msgid "Sonokawa"
+msgstr ""
+
+#. サムビー
+msgctxt "Ticker_Thumby_NAME"
+msgid "Thumby"
+msgstr ""
+
+#. ツイコ
+msgctxt "Ticker_Tsuiko_NAME"
+msgid "Tsuiko"
+msgstr ""
+
+#. ヤクザダンク
+msgctxt "Ticker_Yakuza Baller_NAME"
+msgid "Yakuza Baller"
+msgstr ""
+
+#. ヤクザドクター
+msgctxt "Ticker_Yakuza Doctor_NAME"
+msgid "Yakuza Doctor"
+msgstr ""
+
+#. ヤクザアルバイト
+msgctxt "Ticker_Yakuza Henchman_NAME"
+msgid "Yakuza Henchman"
+msgstr ""
+
+#. ヤクザ
+msgctxt "Ticker_Yakuza_NAME"
+msgid "Yakuza"
+msgstr ""
+
+#. ヤマダ
+msgctxt "Ticker_Yamada_NAME"
+msgid "Yamada"
+msgstr ""
+
+#. ヨウコ
+msgctxt "Ticker_Yoko_NAME"
+msgid "Yoko"
+msgstr ""
+
+#. 2ヶ月後～
+msgctxt "TitleCard_TwoMonthsLater"
+msgid "TWO MONTHS LATER"
+msgstr ""
+
+#. {20}  を同じ方向に素早く二回入力するとダッシュだ。走りながら攻撃することもできるぞ。
+msgctxt "Tutorial_01_Body"
+msgid ""
+"Double-tap and hold {20} in either direction to run. You can attack while "
+"running."
+msgstr ""
+
+#. 駆け抜けろ！
+msgctxt "Tutorial_01_Title"
+msgid "GOTTA RUN!"
+msgstr ""
+
+#. {0}  で壁に向かってジャンプして、もう一度  {0}  を押すと壁を蹴ってさらに高く飛び上がるぞ。
+msgctxt "Tutorial_02_Body"
+msgid ""
+"Jump toward a wall with {0} then press {0} again to leap off the wall and "
+"get even higher."
+msgstr ""
+
+#. ウォールジャンプ！
+msgctxt "Tutorial_02_Title"
+msgid "WALL JUMPIN!"
+msgstr ""
+
+#. {0}  を軽く押すと小さめのジャンプ、 {0}  を長く押すと大きめのジャンプだ。走りながらジャンプもできるぞ。
+msgctxt "Tutorial_04_Body"
+msgid ""
+"Tap {0} to do a small jump. Hold {0} to do a full jump. You can also jump "
+"further from a run."
+msgstr ""
+
+#. ジャンプを使い分けよう
+msgctxt "Tutorial_04_Title"
+msgid "MIGHT AS WELL JUMP!"
+msgstr ""
+
+#. 正面からの攻撃を  {16}
+#. でガードしよう。タイミングよくガードすると、敵を痺れさせたり飛んでくる武器をキャッチすることができるんだ。ガード中に上か下に移動すると回避することできるぞ。
+msgctxt "Tutorial_05_Body"
+msgid ""
+"Hold {16} to block attack in front of you. Tap {16} at the moment of impact "
+"to parry the attack or catch weapons. Double tap up or down to dodge."
+msgstr ""
+
+#. ガードを固めろ！
+msgctxt "Tutorial_05_Title"
+msgid "ON THE DEFENSE!"
+msgstr ""
+
+#. ここは安全な隠れ家だ！敵に倒されたときにこの場所で復活することができるぜ。キャラクターを交代したり、アイテムを入れ替えたりもできるぞ。
+msgctxt "Tutorial_08_Body"
+msgid ""
+"This is a hideout where you'll be safe. You'll respawn here. You can regroup"
+" here to swap characters and change settings. You'll refill some stamina "
+"whenever you return."
+msgstr ""
+
+#. 隠れ家へようこそ！
+msgctxt "Tutorial_08_Title"
+msgid "SAFE AND SOUND!"
+msgstr ""
+
+#. {2}  を押すと武器を拾う事ができる。拾った武器は  {2}  で攻撃、 {3}  で投げるんだ。武器は使いすぎると壊れちまうぜ。
+msgctxt "Tutorial_09_Body"
+msgid ""
+"Press {2} to pick up weapons. Use them with {2} or throw them with {3}. "
+"Weapons break apart after too much use."
+msgstr ""
+
+#. 拾って武器に。
+msgctxt "Tutorial_09_Title"
+msgid "WEAPONS GALORE!"
+msgstr ""
+
+#. 敵を弱らせると稀に命乞いをしてくる。掴んだ状態で  {4}  か  {5}  を押すと助っ人に勧誘するぞ。2人まで呼ぶことができるぜ。
+msgctxt "Tutorial_11_Body"
+msgid ""
+"Weaken the last enemy left in a scene and they will beg for mercy. Walk into"
+"  them to grab the enemy, then press {4} or {5} to recruit them. You can "
+"have two recruits."
+msgstr ""
+
+#. リクルート！（1/2）
+msgctxt "Tutorial_11_Title"
+msgid "RECRUITS! (1/2)"
+msgstr ""
+
+#. あまりに長いことソファで過ごしちまったな。外に出たら、喧嘩するもよし、人助けもよし、買い食いするもよし、自由に街を探索してくれ！
+msgctxt "Tutorial_13_Body"
+msgid ""
+"You have spent too much time on the couch. Fight enemies, eat food items, "
+"complete missions, and find side quests to regain your XP. Choose your own "
+"path."
+msgstr ""
+
+#. おかえりなさい！
+msgctxt "Tutorial_13_Title"
+msgid "WELCOME BACK!"
+msgstr ""
+
+#. 倒されちまったか！他のプレイヤーが倒れたとき、魂が抜けきる前にマウント攻撃をすると、蘇生できるぞ！
+msgctxt "Tutorial_14_Body"
+msgid ""
+"Hero down! When the other player dies, you can revive them by quickly "
+"attacking their body before their angel gets away."
+msgstr ""
+
+#. 死ぬんじゃないぞ！
+msgctxt "Tutorial_14_Title"
+msgid "DON'T DIE ON ME!"
+msgstr ""
+
+#. 敵を繰り返し攻撃すると、めまい状態になることがある。近寄って掴み、{2} と  {3}  で投げと腹パンだ。
+msgctxt "Tutorial_15_Body"
+msgid ""
+"Sometimes an enemy will become dizzy after being attacked repeatedly. Walk "
+"into them to grab the enemy, then throw or attack them with {2} and {3}."
+msgstr ""
+
+#. つかめ！
+msgctxt "Tutorial_15_Title"
+msgid "GRAB 'EM!"
+msgstr ""
+
+#. ホンカァは今流行のSNS。リバーシティでのミッション、クエスト、最近の出来事なんかを知らせてくれるぞ。
+msgctxt "Tutorial_21_Body"
+msgid ""
+"Your highly addictive social media app, Honkr will give you notifications "
+"about missions, quests, and general happenings in River City."
+msgstr ""
+
+#. ホンク！
+msgctxt "Tutorial_21_Title"
+msgid "HONK!"
+msgstr ""
+
+#. 待ち伏せだ！通常攻撃  {2}  とヘヴィ攻撃  {3}  で敵を倒すとスクリーンロックが解除できるぞ！
+msgctxt "Tutorial_22_Body"
+msgid ""
+"Ambushed! Press {2} for Quick Attacks and {3} for Heavy Attacks to defeat "
+"the gangs and break the screenlock. You'll be rewarded for breaking out of "
+"them."
+msgstr ""
+
+#. スクリーンロック！
+msgctxt "Tutorial_22_Title"
+msgid "SCREEN LOCK!"
+msgstr ""
+
+#. リクルートした助っ人は  {4}  /  {5} でアシストに呼べる。助っ人の体力は画面上に表示されるぞ。
+msgctxt "Tutorial_24_Body"
+msgid ""
+"Recruited enemies can be called into action by pressing the {4} or {5} "
+"button. Their health is displayed in your HUD at the top of the screen. Once"
+" defeated, they will return to a hideout."
+msgstr ""
+
+#. リクルート！（2/2）
+msgctxt "Tutorial_24_Title"
+msgid "RECRUITS! (2/2)"
+msgstr ""
+
+#. お金で雇う用心棒は、コストはかかるがかなり強いぞ！もし体力がゼロになってしまったらもう一度雇わなければならない。
+msgctxt "Tutorial_25_Body"
+msgid ""
+"Hired henchmen are stronger recruits that cost money. If your henchmen is "
+"defeated, you will have to hire them again."
+msgstr ""
+
+#. 用心棒！
+msgctxt "Tutorial_25_Title"
+msgid "HIRED HENCHMEN!"
+msgstr ""
+
+#. お菓子やアイテムを使うと体力が回復する。あとで食べたいアイテムはバッグや倉庫に保存しておくことも可能！またアイテムには最初の一度だけステータスがアップする効果も付いてるぞ！
+msgctxt "Tutorial_26_Body"
+msgid ""
+"Eating a consumable item will earn you a permanent stat boost the first time"
+" it's eaten. You can eat them in the shop or save them for later."
+msgstr ""
+
+#. もっとたらふく食べさせて！
+msgctxt "Tutorial_26_Title"
+msgid "I WANNA' MUNCH!"
+msgstr ""
+
+#. 役に立つ効果をもったアクセサリを身につけることで戦いを有利にすすめる事ができるぞ。
+msgctxt "Tutorial_27_Body"
+msgid ""
+"You can wear two kinds of accessories that will aid you in battle with buffs"
+" and upgrades."
+msgstr ""
+
+#. 買い物三昧！
+msgctxt "Tutorial_27_Title"
+msgid "SHOPPING SPREE!"
+msgstr ""
+
+#. 道場では新しい攻撃技を身につけることができるぞ！（多少のお金も必要だが）通常攻撃、ヘヴィ攻撃の他にSPゲージを消費して攻撃するSP攻撃も覚えられるぞ！
+msgctxt "Tutorial_28_Body"
+msgid ""
+"Find new moves here to expand your arsenal of attacks. Special attacks drain"
+" SP (the green meter)."
+msgstr ""
+
+#. 道場に入門！
+msgctxt "Tutorial_28_Title"
+msgid "ENTER THE DOJO!"
+msgstr ""
+
+#. サウナに入ると体力とSPゲージを回復できるぞ。
+msgctxt "Tutorial_29_Body"
+msgid ""
+"Saunas are a quick and cheap way of replenishing all your ST and SP. You can"
+" do it alone or with your group."
+msgstr ""
+
+#. ととのえる時間！
+msgctxt "Tutorial_29_Title"
+msgid "TIME TO UNWIND!"
+msgstr ""
+
+#. ここで購入した音楽は隠れ家のジュークボックスで再生ができるぞ！レッツロック！
+msgctxt "Tutorial_30_Body"
+msgid "The music bought in here will be available in your hideouts. Rock on!"
+msgstr ""
+
+#. 新曲！
+msgctxt "Tutorial_30_Title"
+msgid "NEW TUNES!"
+msgstr ""
+
+#. クイックアイテムボタンを使用すると戦闘中でもすぐに回復ができる。 {19}  でアイテムを切替、 {12}  を押し込みで使用だ。
+msgctxt "Tutorial_31_Body"
+msgid ""
+"The quick item select tool at the top allows you to eat on the go. Use {19} "
+"to cycle through items and press {12} to eat."
+msgstr ""
+
+#. 速攻元気！
+msgctxt "Tutorial_31_Title"
+msgid "Quick Item Select!"
+msgstr ""
+
+#. プロレスラーを相手にコンボの練習だ！新しい技や新たな助っ人を手に入れた時はココで試してみよう！
+msgctxt "Tutorial_32_Body"
+msgid "Feel free to practice your combos on helpless Dojo Cat!"
+msgstr ""
+
+#. 努力こそが近道！
+msgctxt "Tutorial_32_Title"
+msgid "Training Dojo!"
+msgstr ""
+
+#. SWAP <size=30>WITH</size> ME?
+msgctxt "UI_CharacterSwap_Title"
+msgid "SWAP <size=30>WITH</size> ME?"
+msgstr ""
+
+#. ミッション
+msgctxt "UI_Confirmation_StartQuest_Mission"
+msgid "MISSION"
+msgstr ""
+
+#. 後でやるかも～
+msgctxt "UI_Confirmation_StartQuest_No"
+msgid "Maybe Later"
+msgstr ""
+
+#. クエスト
+msgctxt "UI_Confirmation_StartQuest_Quest"
+msgid "QUEST"
+msgstr ""
+
+#. 引き受ける
+msgctxt "UI_Confirmation_StartQuest_Yes"
+msgid "Start"
+msgstr ""
+
+#. Fail
+msgctxt "UI_DansuAlert_Fail"
+msgid "Fail"
+msgstr ""
+
+#. GOOD
+msgctxt "UI_DansuAlert_Good"
+msgid "GOOD"
+msgstr ""
+
+#. Miss
+msgctxt "UI_DansuAlert_Miss"
+msgid "Miss"
+msgstr ""
+
+#. OK
+msgctxt "UI_DansuAlert_Ok"
+msgid "OK"
+msgstr ""
+
+#. PERFECT!
+msgctxt "UI_DansuAlert_Perfect"
+msgid "PERFECT!"
+msgstr ""
+
+#. Good Job!
+msgctxt "UI_DansuGame_GoodJob"
+msgid "Good Job!"
+msgstr ""
+
+#. Ready?
+msgctxt "UI_DansuGame_Ready"
+msgid "Ready?"
+msgstr ""
+
+#. START!
+msgctxt "UI_DansuGame_Start"
+msgid "START!"
+msgstr ""
+
+#. PUNCH!
+msgctxt "UI_DansuPrompt_Attack"
+msgid "PUNCH!"
+msgstr ""
+
+#. BLOCK!
+msgctxt "UI_DansuPrompt_Block"
+msgid "BLOCK!"
+msgstr ""
+
+#. JUMP!
+msgctxt "UI_DansuPrompt_Jump"
+msgid "JUMP!"
+msgstr ""
+
+#. DOWN!
+msgctxt "UI_DansuPrompt_StepDown"
+msgid "DOWN!"
+msgstr ""
+
+#. LEFT!
+msgctxt "UI_DansuPrompt_StepLeft"
+msgid "LEFT!"
+msgstr ""
+
+#. RIGHT!
+msgctxt "UI_DansuPrompt_StepRight"
+msgid "RIGHT!"
+msgstr ""
+
+#. UP!
+msgctxt "UI_DansuPrompt_StepUp"
+msgid "UP!"
+msgstr ""
+
+#. 所持金を少し失うが
+#. すぐにステージから復帰できる。
+msgctxt "UI_GameOver_Continue_Desc"
+msgid ""
+"Reset all new progress since last checkpoint. \n"
+"Lose some money."
+msgstr ""
+
+#. クイックリトライ
+msgctxt "UI_GameOver_Continue_Title"
+msgid "TRY AGAIN"
+msgstr ""
+
+#. すぐにステージから復帰する。
+msgctxt "UI_GameOver_EasyContinue_Desc"
+msgid "Reset all new progress since last checkpoint. "
+msgstr ""
+
+#. GAME OVER
+msgctxt "UI_GameOver_Header"
+msgid "GAME OVER"
+msgstr ""
+
+#. 最後に訪れた隠れ家からリスタートする。
+#. 所持金を失わないが進行中のクエストは最初からになる。
+msgctxt "UI_GameOver_Hideout_Desc"
+msgid "Respawn at last hideout with no money loss."
+msgstr ""
+
+#. 隠れ家リトライ
+msgctxt "UI_GameOver_Hideout_Title"
+msgid "HIDEOUT"
+msgstr ""
+
+#. ゲームを終了しタイトル画面に戻る。
+msgctxt "UI_GameOver_Quit_Desc"
+msgid "Return to title screen"
+msgstr ""
+
+#. ゲームをやめる
+msgctxt "UI_GameOver_Quit_Title"
+msgid "EXIT"
+msgstr ""
+
+#. で雇いますか？
+msgctxt "UI_HireHenchman_Title"
+msgid "Hire Me?"
+msgstr ""
+
+#. EXP
+msgctxt "UI_ItemPickup_EXPERIENCE"
+msgid "EXPERIENCE"
+msgstr ""
+
+#. MONEY
+msgctxt "UI_ItemPickup_MONEY"
+msgid "MONEY"
+msgstr ""
+
+#. OK
+msgctxt "UI_ItemPickup_OKAY"
+msgid "OKAY"
+msgstr ""
+
+#. ゲット！
+msgctxt "UI_ItemPickup_YOUGOT"
+msgid "YOU GOT:"
+msgstr ""
+
+#. Start
+msgctxt "UI_Minigame_Start"
+msgid "Start"
+msgstr ""
+
+#. You Lose
+msgctxt "UI_Minigame_YouLose"
+msgid "You Lose"
+msgstr ""
+
+#. You Win
+msgctxt "UI_Minigame_YouWin"
+msgid "You Win"
+msgstr ""
+
+#. バス停留所
+msgctxt "UI_Navigation_BusStop"
+msgid "Bus Stop"
+msgstr ""
+
+#. 隠れ家
+msgctxt "UI_Navigation_Hideout"
+msgid "Hideout"
+msgstr ""
+
+#. ゲームをやめる: {0}
+msgctxt "UI_PlayerDead_QuitGame"
+msgid "EXIT: {0}"
+msgstr ""
+
+#. まだ助っ人になっていません。
+msgctxt "UI_RECRUIT_NOT_FOUND"
+msgid "You haven't found this one yet!"
+msgstr ""
+
+#. スロットを選択
+msgctxt "UI_RECRUIT_SLOTSELECTION"
+msgid "Which Slot?"
+msgstr ""
+
+#. リクルート
+msgctxt "UI_RECRUIT_Title"
+msgid "Recruits"
+msgstr ""
+
+#. 誰と入れ替える？
+msgctxt "UI_RECRUIT_WHICHSLOT"
+msgid "WHO TO REPLACE?"
+msgstr ""
+
+#. アイテムボックス
+msgctxt "UI_STORAGE_Title"
+msgid "STORAGE"
+msgstr ""
+
+#. {0}を買いますか?
+msgctxt "UI_STORE_BUYIT"
+msgid "Buy {0}?"
+msgstr ""
+
+#. 買い物中:
+msgctxt "UI_STORE_NOWSHOPPING"
+msgid "Now Shopping:"
+msgstr ""
+
+#. 持ち帰り
+msgctxt "UI_STORE_STOREIT"
+msgid "Store it"
+msgstr ""
+
+#. 使う
+msgctxt "UI_STORE_USENOW"
+msgid "USE NOW?"
+msgstr ""
+
+#. アレイスター
+msgctxt "UI_ShopKeeper_Aleister"
+msgid "Aleister"
+msgstr ""
+
+#. アルマス・ゴールド
+msgctxt "UI_ShopKeeper_Almas Gold"
+msgid "Almas Gold"
+msgstr ""
+
+#. バノン
+msgctxt "UI_ShopKeeper_Bannon"
+msgid "Bannon"
+msgstr ""
+
+#. ビリー・リー
+msgctxt "UI_ShopKeeper_Billy Lee"
+msgid "Billy Lee"
+msgstr ""
+
+#. ブレア＆アップルテイター
+msgctxt "UI_ShopKeeper_Blaire Apple Tater"
+msgid "Blaire & Apple Tater"
+msgstr ""
+
+#. ブレイバ
+msgctxt "UI_ShopKeeper_Braver"
+msgid "Braver"
+msgstr ""
+
+#. フルノーヴァ
+msgctxt "UI_ShopKeeper_Bullova"
+msgid "Bullova"
+msgstr ""
+
+#. チャド
+msgctxt "UI_ShopKeeper_Chad"
+msgid "Chad"
+msgstr ""
+
+#. カリーン＆プライヤー
+msgctxt "UI_ShopKeeper_Colleen Pryer"
+msgid "Colleen & Pryer"
+msgstr ""
+
+#. クラッシュ
+msgctxt "UI_ShopKeeper_Crash"
+msgid "Crash"
+msgstr ""
+
+#. エドウィナ
+msgctxt "UI_ShopKeeper_Edwina"
+msgid "Edwina"
+msgstr ""
+
+#. エノキ
+msgctxt "UI_ShopKeeper_Enoki"
+msgid "Enoki"
+msgstr ""
+
+#. グレン
+msgctxt "UI_ShopKeeper_Glen"
+msgid "Glen"
+msgstr ""
+
+#. ヒルコ
+msgctxt "UI_ShopKeeper_Hiruko"
+msgid "Hiruko"
+msgstr ""
+
+#. ジェイク
+msgctxt "UI_ShopKeeper_Jake"
+msgid "Jake"
+msgstr ""
+
+#. ジミー・リー
+msgctxt "UI_ShopKeeper_Jimmy Lee"
+msgid "Jimmy Lee"
+msgstr ""
+
+#. ケイティ
+msgctxt "UI_ShopKeeper_Katie"
+msgid "Katie"
+msgstr ""
+
+#. モンタナ＆トム
+msgctxt "UI_ShopKeeper_Kawaii Guys"
+msgid "Kawaii Montagna & Kawaii Tomm"
+msgstr ""
+
+#. コダニ
+msgctxt "UI_ShopKeeper_Kodani"
+msgid "Kodani"
+msgstr ""
+
+#. クミコ
+msgctxt "UI_ShopKeeper_Kumiko"
+msgid "Kumiko"
+msgstr ""
+
+#. レオポルド
+msgctxt "UI_ShopKeeper_Leopold"
+msgid "Leopold"
+msgstr ""
+
+#. マモル
+msgctxt "UI_ShopKeeper_Mamoru"
+msgid "Mamoru"
+msgstr ""
+
+#. マイク
+msgctxt "UI_ShopKeeper_Mike"
+msgid "Mike"
+msgstr ""
+
+#. ナリタカ
+msgctxt "UI_ShopKeeper_Naritaka"
+msgid "Naritaka"
+msgstr ""
+
+#. ニシムラ
+msgctxt "UI_ShopKeeper_Nishimura"
+msgid "Nishimura"
+msgstr ""
+
+#. パラドリア＆インソムニアちゃん
+msgctxt "UI_ShopKeeper_Paradolia Insomnia-chan"
+msgid "Paradolia & Insomnia-chan"
+msgstr ""
+
+#. パトリシアワゴン
+msgctxt "UI_ShopKeeper_Patricia Wagon"
+msgid "Patricia Wagon"
+msgstr ""
+
+#. ポップ
+msgctxt "UI_ShopKeeper_Pop"
+msgid "Pop"
+msgstr ""
+
+#. レイカ
+msgctxt "UI_ShopKeeper_Reika"
+msgid "Reika"
+msgstr ""
+
+#. ロキシィ
+msgctxt "UI_ShopKeeper_Roxy"
+msgid "Roxy"
+msgstr ""
+
+#. サオリ
+msgctxt "UI_ShopKeeper_Saori"
+msgid "Saori"
+msgstr ""
+
+#. サトミ
+msgctxt "UI_ShopKeeper_Satomi"
+msgid "Satomi"
+msgstr ""
+
+#. 給食のおじさん
+msgctxt "UI_ShopKeeper_School Chef"
+msgid "School Chef"
+msgstr ""
+
+#. シャドウビリー
+msgctxt "UI_ShopKeeper_Shadow Billy"
+msgid "Shadow Billy"
+msgstr ""
+
+#. シンジ
+msgctxt "UI_ShopKeeper_Shinji"
+msgid "Shinji"
+msgstr ""
+
+#. シズカ
+msgctxt "UI_ShopKeeper_Shizuka"
+msgid "Shizuka"
+msgstr ""
+
+#. ショウくん
+msgctxt "UI_ShopKeeper_Shou-kun"
+msgid "Shou-kun"
+msgstr ""
+
+#. スージィ
+msgctxt "UI_ShopKeeper_Suzy"
+msgid "Suzy"
+msgstr ""
+
+#. タカシ
+msgctxt "UI_ShopKeeper_Takashi"
+msgid "Takashi"
+msgstr ""
+
+#. 天狗
+msgctxt "UI_ShopKeeper_Tengu"
+msgid "Tengu"
+msgstr ""
+
+#. トミー＆ケヴィン
+msgctxt "UI_ShopKeeper_Tommy Kevin"
+msgid "Tommy & Kevin"
+msgstr ""
+
+#. Amy’s Candy
+msgctxt "UI_Shop_Name_AmysCandy"
+msgid "Amy’s Candy"
+msgstr ""
+
+#. Attire Fire
+msgctxt "UI_Shop_Name_AttireFire"
+msgid "Attire Fire"
+msgstr ""
+
+#. Blaire's Beguiling Baubles
+msgctxt "UI_Shop_Name_BlairesBeguilingBaubles"
+msgid "Blaire's Beguiling Baubles"
+msgstr ""
+
+#. Chic Buffet
+msgctxt "UI_Shop_Name_ChicBuffet"
+msgid "Chic Buffet"
+msgstr ""
+
+#. Cream Dream
+msgctxt "UI_Shop_Name_CreamDream"
+msgid "Cream Dream"
+msgstr ""
+
+#. Discount Sushi
+msgctxt "UI_Shop_Name_DiscountSushi"
+msgid "Discount Sushi"
+msgstr ""
+
+#. The Donut Queen
+msgctxt "UI_Shop_Name_DonutQueen"
+msgid "The Donut Queen"
+msgstr ""
+
+#. Lucky Penne
+msgctxt "UI_Shop_Name_LuckyPenne"
+msgid "Lucky Penne"
+msgstr ""
+
+#. Merv’s Burger
+msgctxt "UI_Shop_Name_MervsBurger"
+msgid "Merv’s Burger"
+msgstr ""
+
+#. Enoki's Smoky Mochi
+msgctxt "UI_Shop_Name_SHOPS_ENOKIS_SMOKY_MOCHI"
+msgid "Enoki's Smoky Mochi"
+msgstr ""
+
+#. Book Bistro
+msgctxt "UI_Shop_Name_STORE_BOOK_BISTRO"
+msgid "Book Bistro"
+msgstr ""
+
+#. Boy Toys
+msgctxt "UI_Shop_Name_STORE_BOY_TOYS"
+msgid "Boy Toys"
+msgstr ""
+
+#. Cart Mart
+msgctxt "UI_Shop_Name_STORE_CART_MART"
+msgid "Cart Mart"
+msgstr ""
+
+#. Crosstown Dojo
+msgctxt "UI_Shop_Name_STORE_CROSSTOWN_DOJO"
+msgid "Crosstown Dojo"
+msgstr ""
+
+#. Fasteez
+msgctxt "UI_Shop_Name_STORE_FASTEEZ"
+msgid "Fasteez"
+msgstr ""
+
+#. Half Asleep, Half Alive
+msgctxt "UI_Shop_Name_STORE_HALF_ASLEEP,_HALF_ALIVE"
+msgid "Half Asleep, Half Alive"
+msgstr ""
+
+#. Holodreck
+msgctxt "UI_Shop_Name_STORE_HOLO_DRECK"
+msgid "Holodreck"
+msgstr ""
+
+#. Jewel of the Vile
+msgctxt "UI_Shop_Name_STORE_JEWEL_OF_THE_VILE"
+msgid "Jewel of the Vile"
+msgstr ""
+
+#. Legal Drugs
+msgctxt "UI_Shop_Name_STORE_LEGAL_DRUGS"
+msgid "Legal Drugs"
+msgstr ""
+
+#. Merlin's Mystery
+msgctxt "UI_Shop_Name_STORE_MERLIN S_MYSTERY"
+msgid "Merlin's Mystery"
+msgstr ""
+
+#. Naritaka's Toiletries
+msgctxt "UI_Shop_Name_STORE_NARITAKAS_TOILETRIES"
+msgid "Naritaka's Toiletries"
+msgstr ""
+
+#. Ocean Heights Dojo
+msgctxt "UI_Shop_Name_STORE_OCEAN_HEIGHTS_DOJO"
+msgid "Ocean Heights Dojo"
+msgstr ""
+
+#. Pawn Shop
+msgctxt "UI_Shop_Name_STORE_PAWN_SHOP"
+msgid "Pawn Shop"
+msgstr ""
+
+#. Pay Lots
+msgctxt "UI_Shop_Name_STORE_PAY_LOTS"
+msgid "Pay Lots"
+msgstr ""
+
+#. Plaid the Impaler
+msgctxt "UI_Shop_Name_STORE_PLAID_THE_IMPALER"
+msgid "Plaid the Impaler"
+msgstr ""
+
+#. Sands Sauna
+msgctxt "UI_Shop_Name_STORE_POPS_SAUNA"
+msgid "Sands Sauna"
+msgstr ""
+
+#. Sous-veniers
+msgctxt "UI_Shop_Name_STORE_SOUSVENIERS"
+msgid "Sous-veniers"
+msgstr ""
+
+#. Swaggage
+msgctxt "UI_Shop_Name_STORE_SWAGGAGE"
+msgid "Swaggage"
+msgstr ""
+
+#. The Eclectic Elixir
+msgctxt "UI_Shop_Name_STORE_THE_ECLECTIC_ELIXIR"
+msgid "The Eclectic Elixir"
+msgstr ""
+
+#. TKO Music
+msgctxt "UI_Shop_Name_STORE_TKO_MUSIC"
+msgid "TKO Music"
+msgstr ""
+
+#. T-Rex Mex
+msgctxt "UI_Shop_Name_STORE_TREX_MEX"
+msgid "T-Rex Mex"
+msgstr ""
+
+#. Vegan & Out
+msgctxt "UI_Shop_Name_STORE_VEGAN_&_OUT"
+msgid "Vegan & Out"
+msgstr ""
+
+#. Yakuzi Jacuzzi
+msgctxt "UI_Shop_Name_STORE_YAKUZI_JACUZZI"
+msgid "Yakuzi Jacuzzi"
+msgstr ""
+
+#. Six Sweet Under
+msgctxt "UI_Shop_Name_SixSweetUnder"
+msgid "Six Sweet Under"
+msgstr ""
+
+#. Soup'n'Sticks
+msgctxt "UI_Shop_Name_SoupnSticks"
+msgid "Soup'n'Sticks"
+msgstr ""
+
+#. Spicy Subject
+msgctxt "UI_Shop_Name_SpicySubject"
+msgid "Spicy Subject"
+msgstr ""
+
+#. Suzy's
+msgctxt "UI_Shop_Name_Suzys"
+msgid "Suzy's"
+msgstr ""
+
+#. Tea Party
+msgctxt "UI_Shop_Name_TeaParty"
+msgid "Tea Party"
+msgstr ""
+
+#. The ShaDough Realm
+msgctxt "UI_Shop_Name_TheShaDoughRealm"
+msgid "The ShaDough Realm"
+msgstr ""
+
+#. Vest Friends
+msgctxt "UI_Shop_Name_VestFriends"
+msgid "Vest Friends"
+msgstr ""
+
+#. Wardrobe
+msgctxt "UI_Shop_Name_Wardrobe"
+msgid "Wardrobe"
+msgstr ""
+
+#. 容量がいっぱいです！
+msgctxt "UI_Storage_CellFull"
+msgid "Cellphone is full!"
+msgstr ""
+
+#. 容量がいっぱいです！
+msgctxt "UI_Storage_CellphoneFull"
+msgid "Cellphone is full!"
+msgstr ""
+
+#. 使う
+msgctxt "UI_Storage_EatIt"
+msgid "EAT IT"
+msgstr ""
+
+#. どうする？
+msgctxt "UI_Storage_EatOrMove"
+msgid "What will you do?"
+msgstr ""
+
+#. 移す
+msgctxt "UI_Storage_MoveIt"
+msgid "MOVE IT"
+msgstr ""
+
+#. ゲームに参加できません。
+msgctxt "UnableToJoinGame"
+msgid "Unable to join game."
+msgstr ""
+
+#. 速
+msgctxt "VOCAB_Agility"
+msgid "Agility"
+msgstr ""
+
+#. 速さ(AG)
+msgctxt "VOCAB_Agility_Caps"
+msgid "AGILITY (AG)"
+msgstr ""
+
+#. 攻
+msgctxt "VOCAB_Attack"
+msgid "Attack"
+msgstr ""
+
+#. 攻撃(AT)
+msgctxt "VOCAB_Attack_Caps"
+msgid "ATTACK (AT)"
+msgstr ""
+
+#. キャンセル
+msgctxt "VOCAB_Cancel"
+msgid "Cancel"
+msgstr ""
+
+#. 決定
+msgctxt "VOCAB_Confirm"
+msgid "Confirm"
+msgstr ""
+
+#. バッグ
+msgctxt "VOCAB_Inventory"
+msgid "Inventory"
+msgstr ""
+
+#. 運
+msgctxt "VOCAB_Luck"
+msgid "Luck"
+msgstr ""
+
+#. 運(LK)
+msgctxt "VOCAB_Luck_Caps"
+msgid "LUCK (LK)"
+msgstr ""
+
+#. No
+msgctxt "VOCAB_NO"
+msgid "No"
+msgstr ""
+
+#. SP
+msgctxt "VOCAB_Special"
+msgid "Special"
+msgstr ""
+
+#. SPゲージ(SP)
+msgctxt "VOCAB_Special_Caps"
+msgid "SPECIAL (SP)"
+msgstr ""
+
+#. 体力
+msgctxt "VOCAB_Stamina"
+msgid "Stamina"
+msgstr ""
+
+#. 体力(ST)
+msgctxt "VOCAB_Stamina_Caps"
+msgid "STAMINA (ST)"
+msgstr ""
+
+#. 武器
+msgctxt "VOCAB_Weapon"
+msgid "Weapon"
+msgstr ""
+
+#. 武器(WP)
+msgctxt "VOCAB_Weapon_Caps"
+msgid "WEAPON (WP)"
+msgstr ""
+
+#. Yes
+msgctxt "VOCAB_YES"
+msgid "Yes"
+msgstr ""
+
+#. プロフィールを見る。
+msgctxt "ViewProfile"
+msgid "View Profile"
+msgstr ""
+
+#. ダメージ
+msgctxt "Vocab_Damage"
+msgid "Damage"
+msgstr ""
+
+#. 合計コンボ
+msgctxt "Vocab_MaxCombo"
+msgid "Max Combo"
+msgstr ""
+
+#. 合計ダメージ
+msgctxt "Vocab_TotalDamage"
+msgid "Total Damage"
+msgstr ""
+
+#. 野球ボール
+msgctxt "WEAPON_NAME_BASEBALL"
+msgid "Baseball"
+msgstr ""
+
+#. バット
+msgctxt "WEAPON_NAME_BASEBALL_BAT"
+msgid "Baseball Bat"
+msgstr ""
+
+#. ベンチ
+msgctxt "WEAPON_NAME_BENCH"
+msgid "Bench"
+msgstr ""
+
+#. 自転車
+msgctxt "WEAPON_NAME_BICYCLE"
+msgid "Bicycle"
+msgstr ""
+
+#. ブーメラン
+msgctxt "WEAPON_NAME_BOOMERANG"
+msgid "Boomerang"
+msgstr ""
+
+#. チェーン
+msgctxt "WEAPON_NAME_CHAIN"
+msgid "Chain"
+msgstr ""
+
+#. ドッジボール
+msgctxt "WEAPON_NAME_DODGEBALL"
+msgid "Dodgeball"
+msgstr ""
+
+#. 三崎マグロ
+msgctxt "WEAPON_NAME_FISH"
+msgid "Fish"
+msgstr ""
+
+#. フライパン
+msgctxt "WEAPON_NAME_FRYING_PAN"
+msgid "Frying Pan"
+msgstr ""
+
+#. ゴミ箱
+msgctxt "WEAPON_NAME_GARBAGE_CAN"
+msgid "Garbage Can"
+msgstr ""
+
+#. ギター
+msgctxt "WEAPON_NAME_GUITAR"
+msgid "Guitar"
+msgstr ""
+
+#. レーザーソード
+msgctxt "WEAPON_NAME_LASER_SWORD"
+msgid "Laser Sword"
+msgstr ""
+
+#. 金属のイス
+msgctxt "WEAPON_NAME_METAL_CHAIR"
+msgid "Metal Chair"
+msgstr ""
+
+#. モップ
+msgctxt "WEAPON_NAME_MOP"
+msgid "Mop"
+msgstr ""
+
+#. シャベル
+msgctxt "WEAPON_NAME_SHOVEL"
+msgid "Shovel"
+msgstr ""
+
+#. 星型バトン
+msgctxt "WEAPON_NAME_STAR_BATON"
+msgid "Star Baton"
+msgstr ""
+
+#. 木箱
+msgctxt "WEAPON_NAME_WOODEN_CRATE"
+msgid "Wooden Crate"
+msgstr ""
+
+#. 木の板
+msgctxt "WEAPON_NAME_WOOD_PLANK"
+msgid "Wood Plank"
+msgstr ""
+
+#. スパナ
+msgctxt "WEAPON_NAME_WRENCH"
+msgid "Wrench"
+msgstr ""
+
+#. ヨーヨー
+msgctxt "WEAPON_NAME_YOYO"
+msgid "Yoyo"
+msgstr ""
+
+#. ホストを待機中
+msgctxt "WaitingForHost"
+msgid "Waiting for Host"
+msgstr ""
+
+#. ウィンドウモード
+msgctxt "WindowedMode"
+msgid "Window Mode"
+msgstr ""
+
+#. フルスクリーン
+msgctxt "WindowedMode_FullScreen"
+msgid "Full Screen"
+msgstr ""
+
+#. ウィンドウ
+msgctxt "WindowedMode_Windowed"
+msgid "Windowed"
+msgstr ""
+
+#. リバーシティ高校 1F
+msgctxt "World_0_SchoolTutorial1stFloor_NAME"
+msgid "School First Floor"
+msgstr ""
+
+#. リバーシティ高校 2F
+msgctxt "World_0_SchoolTutorial2ndFloor_NAME"
+msgid "School Second Floor"
+msgstr ""
+
+#. リバーシティ高校 教室
+msgctxt "World_0_SchoolTutorialClassroom_NAME"
+msgid "School Classroom"
+msgstr ""
+
+#. リバーシティ高校 ロビー
+msgctxt "World_0_SchoolTutorialLobby_NAME"
+msgid "School Lobby"
+msgstr ""
+
+#. リバーシティ高校
+msgctxt "World_1"
+msgid "R.C.H.S."
+msgstr ""
+
+#. リバーシティ高校 1FフロアA棟
+msgctxt "World_1_1stFloorA_NAME"
+msgid "School First Floor A"
+msgstr ""
+
+#. リバーシティ高校 1FフロアB棟
+msgctxt "World_1_1stFloorB_NAME"
+msgid "School First Floor B"
+msgstr ""
+
+#. リバーシティ高校 監獄棟
+msgctxt "World_1_2ndFloor_PrisonCells_NAME"
+msgid "Cell Block"
+msgstr ""
+
+#. リバーシティ高校 独房
+msgctxt "World_1_2ndFloor_Solitary_NAME"
+msgid "Solitary"
+msgstr ""
+
+#. リバーシティ高校 3Fフロア
+msgctxt "World_1_3rdFloor_NAME"
+msgid "School Third Floor"
+msgstr ""
+
+#. リバーシティ高校 演劇場
+msgctxt "World_1_Auditorium_NAME"
+msgid "School Auditorium"
+msgstr ""
+
+#. リバーシティ高校 ボイラー室
+msgctxt "World_1_BoilerRoom_NAME"
+msgid "Boiler Room"
+msgstr ""
+
+#. リバーシティ高校 食堂
+msgctxt "World_1_Cafeteria_NAME"
+msgid "Cafeteria"
+msgstr ""
+
+#. チェックポイント
+msgctxt "World_1_CheckpointScreening_NAME"
+msgid "Checkpoint Screening"
+msgstr ""
+
+#. リバーシティ高校  居残り部屋
+msgctxt "World_1_Detention_NAME"
+msgid "Detention"
+msgstr ""
+
+#. リバーシティ高校 101
+msgctxt "World_1_Fighting101_NAME"
+msgid "Fighting 101"
+msgstr ""
+
+#. リバーシティ高校 事務
+msgctxt "World_1_GymBasketball_NAME"
+msgid "School Gym"
+msgstr ""
+
+#. 隠し通路
+msgctxt "World_1_HiddenVent_NAME"
+msgid "Hidden Vent"
+msgstr ""
+
+#. リバーシティ高校 ロッカールーム
+msgctxt "World_1_LockerRoom_NAME"
+msgid "Locker Room"
+msgstr ""
+
+#. リバーシティ高校 校長室
+msgctxt "World_1_PrincipalsOffice_NAME"
+msgid "Principal's Office"
+msgstr ""
+
+#. リバーシティ高校 教育部屋
+msgctxt "World_1_Propaganda_NAME"
+msgid "Propaganda Class"
+msgstr ""
+
+#. リバーシティ高校  居残り部屋
+msgctxt "World_1_RestRoom_NAME"
+msgid "School Restroom"
+msgstr ""
+
+#. リバーシティ高校 トイレ
+msgctxt "World_1_Rooftop_NAME"
+msgid "School Rooftop"
+msgstr ""
+
+#. リバーシティ高校 秘密の部屋
+msgctxt "World_1_SecretAreaSchool_NAME"
+msgid "School Secret Area"
+msgstr ""
+
+#. リバーシティ高校 教師休憩部屋
+msgctxt "World_1_TeachersLounge_NAME"
+msgid "Teacher's Break Room"
+msgstr ""
+
+#. クロスタウン
+msgctxt "World_2"
+msgid "Crosstown"
+msgstr ""
+
+#. ガソリンスタンド
+msgctxt "World_2_Alleyway_NAME"
+msgid "Gas Station"
+msgstr ""
+
+#. クロスタウン銀行前 噴水のある広場
+msgctxt "World_2_BankExterior_NAME"
+msgid "Town Square"
+msgstr ""
+
+#. クロスタウン銀行
+msgctxt "World_2_BankInterior_NAME"
+msgid "Crosstown Bank"
+msgstr ""
+
+#. ビーンボールコート
+msgctxt "World_2_BeanBallCourt_NAME"
+msgid "Beanball Court"
+msgstr ""
+
+#. キャピトル大橋（修繕中）
+msgctxt "World_2_CapitalAveBridge_NAME"
+msgid "Capitol Ave Bridge"
+msgstr ""
+
+#. キャピトル大通り
+msgctxt "World_2_CapitalAveV2_NAME"
+msgid "Capitol Ave"
+msgstr ""
+
+#. 奇妙なホテル 秘密と思い出の場所
+msgctxt "World_2_FlowerField_NAME"
+msgid "Memory Field"
+msgstr ""
+
+#. ネオンモール フードコート
+msgctxt "World_2_FoodCourt_NAME"
+msgid "Food Court"
+msgstr ""
+
+#. リバーシティ高校 正門
+msgctxt "World_2_FrontGateIntro_NAME"
+msgid "R.C.H.S. Front Gate"
+msgstr ""
+
+#. リバーシティ高校 正門
+msgctxt "World_2_FrontGate_NAME"
+msgid "R.C.H.S. Front Gate"
+msgstr ""
+
+#. 奇妙なホテル 廊下
+msgctxt "World_2_Hallway_NAME"
+msgid "Mysterious Hallway"
+msgstr ""
+
+#. キョウコの部屋（ベランダ）
+msgctxt "World_2_KyokosBalcony_NAME"
+msgid "Kyoko's Balcony"
+msgstr ""
+
+#. キョウコ家のリビング
+msgctxt "World_2_KyokosHouse_NAME"
+msgid "Kyoko's House"
+msgstr ""
+
+#. キョウコの部屋
+msgctxt "World_2_KyokosRoom_NAME"
+msgid "Kyoko's Bedroom"
+msgstr ""
+
+#. ネオンモール 入口
+msgctxt "World_2_MallEntrance_NAME"
+msgid "Mall Entrance"
+msgstr ""
+
+#. ネオンモール 出口
+msgctxt "World_2_MallExit_NAME"
+msgid "Mall Exit"
+msgstr ""
+
+#. ネオンモール 1Fフロア
+msgctxt "World_2_MallLobby_NAME"
+msgid "Mall Lobby"
+msgstr ""
+
+#. ネオンモール 搬送口
+msgctxt "World_2_MallRear_NAME"
+msgid "Shipping Area"
+msgstr ""
+
+#. ネオンモール 2Fフロア（工事中）
+msgctxt "World_2_MallSecondFloor_NAME"
+msgid "Mall Second Floor"
+msgstr ""
+
+#. ネオンモール パーティ会場
+msgctxt "World_2_MerryGoRound_NAME"
+msgid "Carousel"
+msgstr ""
+
+#. ネオンモール 映画館
+msgctxt "World_2_MovieTheater_NAME"
+msgid "Movie Theater"
+msgstr ""
+
+#. ノースラヴィーンレーン
+msgctxt "World_2_NorthRavineLane_NAME"
+msgid "North Ravine Lane"
+msgstr ""
+
+#. ネオンモール 搬入口
+msgctxt "World_2_ParkingGarage_NAME"
+msgid "Parking Garage"
+msgstr ""
+
+#. キャピトル川 河川敷
+msgctxt "World_2_RiversideRestArea_NAME"
+msgid "Riverside Rest Area"
+msgstr ""
+
+#. クロスタウン 秘密の部屋
+msgctxt "World_2_SecretArea_NAME"
+msgid "Crosstown Secret Area"
+msgstr ""
+
+#. ネオンモール スポーツショップ
+msgctxt "World_2_SportsStore_NAME"
+msgid "Sports Store"
+msgstr ""
+
+#. ネオンモール 1Fフロア 
+msgctxt "World_2_StoreEntrances_NAME"
+msgid "Store Entrances"
+msgstr ""
+
+#. トレーニングジム
+msgctxt "World_2_TrainingGym_NAME"
+msgid "Training Gym"
+msgstr ""
+
+#. マグノリア通り
+msgctxt "World_2_WWLeft_NAME"
+msgid "Magnolia Ave"
+msgstr ""
+
+#. メイプルウッド通り
+msgctxt "World_2_WWRight_NAME"
+msgid "Maple Wood Trail"
+msgstr ""
+
+#. ワインディング通り
+msgctxt "World_2_WindingWay_NAME"
+msgid "Winding Way"
+msgstr ""
+
+#. アップタウン
+msgctxt "World_3"
+msgid "Uptown"
+msgstr ""
+
+#. 荒らされた本屋「大省堂」
+msgctxt "World_3_AbandonedBookStore_NAME"
+msgid "Burgh's Books"
+msgstr ""
+
+#. 停留所
+msgctxt "World_3_AlleyEntrance_NAME"
+msgid "Loading Zone"
+msgstr ""
+
+#. ダンスダンスルーム
+msgctxt "World_3_ArcadeDDR_NAME"
+msgid "Dance Room"
+msgstr ""
+
+#. ゲームセンター
+msgctxt "World_3_Arcade_NAME"
+msgid "Arcade"
+msgstr ""
+
+#. ネコカフェ「ねこいちず」
+msgctxt "World_3_CatCafe_NAME"
+msgid "Feline Good"
+msgstr ""
+
+#. トッカストリート
+msgctxt "World_3_Connector1_NAME"
+msgid "Tocca Street"
+msgstr ""
+
+#. ラザールストリート
+msgctxt "World_3_Connector2_NAME"
+msgid "Razzar Street"
+msgstr ""
+
+#. 路地裏の地下
+msgctxt "World_3_Floor1_NAME"
+msgid "Basement"
+msgstr ""
+
+#. ナイトクラブ メインフロア
+msgctxt "World_3_Nightclub_NAME"
+msgid "Wes' Nightclub"
+msgstr ""
+
+#. ラックスコーヒー前 広場
+msgctxt "World_3_OutdoorCafe_NAME"
+msgid "Outdoor Plaza"
+msgstr ""
+
+#. ポーンショップ
+msgctxt "World_3_PawnShop_NAME"
+msgid "Pawn Shop"
+msgstr ""
+
+#. ナイトクラブ キレイなトイレ
+msgctxt "World_3_Restroom_NAME"
+msgid "Club Restroom"
+msgstr ""
+
+#. ナイトクラブ ダンスフロア
+msgctxt "World_3_RobotClubEntrance_NAME"
+msgid "Dance Floor"
+msgstr ""
+
+#. ナイトクラブ ロボットステージ
+msgctxt "World_3_RobotClub_NAME"
+msgid "Robot Club"
+msgstr ""
+
+#. アップタウン 秘密の部屋
+msgctxt "World_3_SecretArea_NAME"
+msgid "Uptown Secret Area"
+msgstr ""
+
+#. ヨコシン横丁
+msgctxt "World_3_ShoppingAlley_NAME"
+msgid "Yokocho"
+msgstr ""
+
+#. ネオンモール 路地裏口
+msgctxt "World_3_ShoppingEntrance_NAME"
+msgid "Shopping Entrance"
+msgstr ""
+
+#. アパレルストア
+msgctxt "World_3_ShoppingFashion_NAME"
+msgid "Fashion District"
+msgstr ""
+
+#. おもちゃ屋「ないものねだり」
+msgctxt "World_3_ShoppingToys_NAME"
+msgid "Toy District"
+msgstr ""
+
+#. ゲームセンター前 東側
+msgctxt "World_3_ShoppingVideoGames_NAME"
+msgid "Gaming District"
+msgstr ""
+
+#. ダウンタウン
+msgctxt "World_4"
+msgid "Downtown"
+msgstr ""
+
+#. モーテルの隠れ家
+msgctxt "World_4_AbandonedMotel_NAME"
+msgid "Tex's Motel"
+msgstr ""
+
+#. アボボの汚い部屋
+msgctxt "World_4_AbobosApartment_NAME"
+msgid "Abobo's Apartment"
+msgstr ""
+
+#. ダウンタウン 路地裏
+msgctxt "World_4_BackAlley_NAME"
+msgid "Back Alley"
+msgstr ""
+
+#. バスケットコート
+msgctxt "World_4_Basketball_NAME"
+msgid "Basketball Court"
+msgstr ""
+
+#. ヒップスター通り
+msgctxt "World_4_CityStreets1_NAME"
+msgid "Hipster Street"
+msgstr ""
+
+#. ボードゲームカフェ
+msgctxt "World_4_CoffeeShopBar_NAME"
+msgid "Coffee Shop"
+msgstr ""
+
+#. ファーマーズマーケット
+msgctxt "World_4_FarmersMarket_NAME"
+msgid "Farmer's Market"
+msgstr ""
+
+#. ジャンクシティ
+msgctxt "World_4_JunkCity_NAME"
+msgid "Junk City"
+msgstr ""
+
+#. リバーシティゴミ処理場
+msgctxt "World_4_JunkYard_NAME"
+msgid "Scrapyard"
+msgstr ""
+
+#. 廃墟アパート 1Fフロア
+msgctxt "World_4_LoopingSlumsFloor1_NAME"
+msgid "Apartments Floor 1"
+msgstr ""
+
+#. 廃墟アパート 4Fフロア
+msgctxt "World_4_LoopingSlumsFloor2_NAME"
+msgid "Apartments Floor 4"
+msgstr ""
+
+#. 廃墟アパート 10Fフロア
+msgctxt "World_4_LoopingSlumsFloor3_NAME"
+msgid "Apartments Floor 10"
+msgstr ""
+
+#. ダウンタウン商店街
+msgctxt "World_4_MadMaxStreets_NAME"
+msgid "Downtown Shopping"
+msgstr ""
+
+#. ドッグラン公園
+msgctxt "World_4_Park_NAME"
+msgid "Dog Park"
+msgstr ""
+
+#. ダウンタウン 秘密の部屋
+msgctxt "World_4_SecretArea_NAME"
+msgid "Downtown Secret Area"
+msgstr ""
+
+#. マッドマックス通り
+msgctxt "World_4_Skidrow_NAME"
+msgid "Skid Street"
+msgstr ""
+
+#. 下水処理場
+msgctxt "World_4_SubwayPlatform_NAME"
+msgid "Sewage Treatment"
+msgstr ""
+
+#. ダウンタウン地下鉄 改札口
+msgctxt "World_4_SubwayTerminal_NAME"
+msgid "Subway Terminal"
+msgstr ""
+
+#. リバ京線 地下鉄トンネル
+msgctxt "World_4_SubwayTunnel_NAME"
+msgid "Subway Tunnel"
+msgstr ""
+
+#. キッチンカー広場
+msgctxt "World_4_TransitStation_NAME"
+msgid "Food Truck Stop"
+msgstr ""
+
+#. 西トンネル
+msgctxt "World_4_TunnelAlleytoMax_NAME"
+msgid "West Tunnel"
+msgstr ""
+
+#. フリーウェイトンネル
+msgctxt "World_4_Tunnel_NAME"
+msgid "Freeway Tunnel"
+msgstr ""
+
+#. フラットアイアンズ
+msgctxt "World_5"
+msgid "Flatirons"
+msgstr ""
+
+#. 廃墟の列車庫
+msgctxt "World_5_AbandonedTrainyard_NAME"
+msgid "Abandoned Trainyard"
+msgstr ""
+
+#. 無人の遊園地
+msgctxt "World_5_AmusementPark_NAME"
+msgid "Amusement Park"
+msgstr ""
+
+#. リバ寺 フリー温泉付き本堂
+msgctxt "World_5_BathHouse_NAME"
+msgid "Bath House"
+msgstr ""
+
+#. ウィッチウッド ブレアの部屋
+msgctxt "World_5_BlairesTreeDomainINT_NAME"
+msgid "Blaire's Domain"
+msgstr ""
+
+#. ウィッチウッド 呪われた大樹
+msgctxt "World_5_BlairesTreeEXT_NAME"
+msgid "Blaire's Tree"
+msgstr ""
+
+#. 壊れかけの観覧車
+msgctxt "World_5_FerrisWheel_NAME"
+msgid "Ferris Wheel"
+msgstr ""
+
+#. ウィッチウッド 霧の道
+msgctxt "World_5_FoggyField_NAME"
+msgid "Foggy Field"
+msgstr ""
+
+#. ウィッチウッド フラトアの滝
+msgctxt "World_5_ForestWaterfall_NAME"
+msgid "Waterfall"
+msgstr ""
+
+#. ウィッチウッド 廃れたキャンプ場
+msgctxt "World_5_Forest_NAME"
+msgid "Campground"
+msgstr ""
+
+#. ウィッチウッド 墓地
+msgctxt "World_5_Graveyard_NAME"
+msgid "Graveyard"
+msgstr ""
+
+#. ライオンの檻
+msgctxt "World_5_LionsCage_NAME"
+msgid "Lion's Cages"
+msgstr ""
+
+#. リバ寺 山門
+msgctxt "World_5_OvergrownTemple_NAME"
+msgid "Temple"
+msgstr ""
+
+#. 荒れ果てた動物園
+msgctxt "World_5_OvergrownZoo_NAME"
+msgid "Overgrown Zoo"
+msgstr ""
+
+#. ウィッチウッド 不気味なキャビン
+msgctxt "World_5_RundownCabin_NAME"
+msgid "Dilapidated Cabin"
+msgstr ""
+
+#. フラットアイアンズ 秘密の部屋
+msgctxt "World_5_SecretArea_NAME"
+msgid "Flatirons Secret Area"
+msgstr ""
+
+#. スケルトンマーケット
+msgctxt "World_5_SkeletonMarket_NAME"
+msgid "Skeleton Market"
+msgstr ""
+
+#. ???
+msgctxt "World_5_WitchyWoods1_NAME"
+msgid "???"
+msgstr ""
+
+#. ???
+msgctxt "World_5_WitchyWoods2_NAME"
+msgid "???"
+msgstr ""
+
+#. ???
+msgctxt "World_5_WitchyWoods3_NAME"
+msgid "???"
+msgstr ""
+
+#. ???
+msgctxt "World_5_WitchyWoods4_NAME"
+msgid "???"
+msgstr ""
+
+#. ???
+msgctxt "World_5_WitchyWoods5_NAME"
+msgid "???"
+msgstr ""
+
+#. ???
+msgctxt "World_5_WitchyWoods7_NAME"
+msgid "???"
+msgstr ""
+
+#. ???
+msgctxt "World_5_WitchyWoods8_NAME"
+msgid "???"
+msgstr ""
+
+#. ウィッチウッド入口
+msgctxt "World_5_WitchyWoodsENT_NAME"
+msgid "Witchy Woods Entrance"
+msgstr ""
+
+#. ウィッチウッド 出口
+msgctxt "World_5_WitchyWoodsEXIT_NAME"
+msgid "Witchy Woods Exit"
+msgstr ""
+
+#. オーシャンハイツ
+msgctxt "World_6"
+msgid "Ocean Heights"
+msgstr ""
+
+#. オーシャンハイツ水族館
+msgctxt "World_6_Aquarium_NAME"
+msgid "Aquarium"
+msgstr ""
+
+#. サンドダラードライブ
+msgctxt "World_6_BeachHomes_NAME"
+msgid "Sand Dollar Drive"
+msgstr ""
+
+#. オーシャンハイツ仲見世通り
+msgctxt "World_6_BeachStorefront_NAME"
+msgid "Ocean Heights Shops"
+msgstr ""
+
+#. リバーシティ海水浴場 ビーチバレー場
+msgctxt "World_6_BeachVolleyball_NAME"
+msgid "Volleyball Beach"
+msgstr ""
+
+#. リバーシティ海水浴場
+msgctxt "World_6_Beach_NAME"
+msgid "Beach"
+msgstr ""
+
+#. リバーシティ海水浴場 ビリーズバフキャンプ
+msgctxt "World_6_BuffBeach_NAME"
+msgid "Buff Beach"
+msgstr ""
+
+#. オーシャンハイツ鮮魚直売所
+msgctxt "World_6_FishMarket_NAME"
+msgid "Fish Market"
+msgstr ""
+
+#. オーシャンハイツ行き自動車道路
+msgctxt "World_6_FreewayToBeach_NAME"
+msgid "Ocean Heights Freeway"
+msgstr ""
+
+#. ペニーハイツ
+msgctxt "World_6_Funhouse_NAME"
+msgid "Funhouse"
+msgstr ""
+
+#. オーシャンハイツ水族館 マーメイドショースタジアム
+msgctxt "World_6_MermaidsTail_NAME"
+msgid "The Mermaid's Tail"
+msgstr ""
+
+#. パレードストリート
+msgctxt "World_6_ParadeStreet_NAME"
+msgid "Parade Street"
+msgstr ""
+
+#. 船着き場
+msgctxt "World_6_PiersBoats_NAME"
+msgid "Docks"
+msgstr ""
+
+#. プリモラウンジ レストランホール
+msgctxt "World_6_PrimosDining_NAME"
+msgid "Primo's Dining Room"
+msgstr ""
+
+#. プリモラウンジ キッチン
+msgctxt "World_6_PrimosKitchen_NAME"
+msgid "Primo's Kitchen"
+msgstr ""
+
+#. プリモラウンジ ロビー
+msgctxt "World_6_PrimosLobby_NAME"
+msgid "Primo's Lobby"
+msgstr ""
+
+#. プリモラウンジ 放送スタジオ
+msgctxt "World_6_PrimosStudio_NAME"
+msgid "Primo's Studio"
+msgstr ""
+
+#. リバーシシティ海水浴場 広場
+msgctxt "World_6_PublicPark_NAME"
+msgid "Beach Plaza"
+msgstr ""
+
+#. オーシャンハイツ水族館 トイレ
+msgctxt "World_6_Restroom_NAME"
+msgid "Plaza Restroom"
+msgstr ""
+
+#. リバーシティ海水浴場 砂の城
+msgctxt "World_6_SandCastle_NAME"
+msgid "Sand Castle"
+msgstr ""
+
+#. オーシャンハイツ 秘密の部屋
+msgctxt "World_6_SecretAreaOceanHeights_NAME"
+msgid "Ocean Heights Secret Area"
+msgstr ""
+
+#. オーシャンハイツ 船着き場
+msgctxt "World_6_Shipyard_NAME"
+msgid "Shipyard"
+msgstr ""
+
+#. オーシャンハイツ仲見世通り 遊歩道
+msgctxt "World_6_ThemePark_NAME"
+msgid "Boardwalk"
+msgstr ""
+
+#. テクノス
+msgctxt "World_7"
+msgid "Technos"
+msgstr ""
+
+#. テクノスビル 排熱孔
+msgctxt "World_7_AirVent1_NAME"
+msgid "Heating Vent"
+msgstr ""
+
+#. テクノスビル 冷却孔
+msgctxt "World_7_AirVent2_NAME"
+msgid "Cooling Vent"
+msgstr ""
+
+#. テクノスビル 通気孔
+msgctxt "World_7_AirVent3_NAME"
+msgid "Air Vent"
+msgstr ""
+
+#. テクノスビル アトリウム
+msgctxt "World_7_Atrium_NAME"
+msgid "Atrium"
+msgstr ""
+
+#. テクノスビル バイオドーム
+msgctxt "World_7_Biosphere_NAME"
+msgid "Biosphere"
+msgstr ""
+
+#. テクノスビル ボールルーム
+msgctxt "World_7_Campus_NAME"
+msgid "Technos Campus"
+msgstr ""
+
+#. テクノスビル オフィスワークスペース
+msgctxt "World_7_Cubicles_NAME"
+msgid "Cubicles"
+msgstr ""
+
+#. テクノスビル エレベーター
+msgctxt "World_7_Elevator_Spaceneedle_NAME"
+msgid "Technos Elevator"
+msgstr ""
+
+#. テクノスビル 正門
+msgctxt "World_7_Gate_NAME"
+msgid "Security Gate"
+msgstr ""
+
+#. メインフレーム
+msgctxt "World_7_InsideMainframe_NAME"
+msgid "Mainframe"
+msgstr ""
+
+#. テクノスビル ロビー
+msgctxt "World_7_Lobby_NAME"
+msgid "Technos Lobby"
+msgstr ""
+
+#. テクノスビル パワースーツ製造ライン
+msgctxt "World_7_MechArea_NAME"
+msgid "Mech Factory"
+msgstr ""
+
+#. テクノスビル バイオドーム
+msgctxt "World_7_Museum_NAME"
+msgid "Technos Museum"
+msgstr ""
+
+#. テクノスビル レクリエーションルーム
+msgctxt "World_7_RecRoom_NAME"
+msgid "Recreation Room"
+msgstr ""
+
+#. テクノスビル ロボット製造ライン
+msgctxt "World_7_RoboticsWarehouse_NAME"
+msgid "Robotics Warehouse"
+msgstr ""
+
+#. テクノス 秘密の部屋
+msgctxt "World_7_SecretArea_NAME"
+msgid "Technos Secret Area"
+msgstr ""
+
+#. テクノスビル 中枢
+msgctxt "World_7_SkyNeedle_NAME"
+msgid "Sky Spire"
+msgstr ""
+
+#. テクノスビル 機材倉庫
+msgctxt "World_7_StorageCloset_NAME"
+msgid "Storage Closet"
+msgstr ""
+
+#. テクノスビル VRルーム
+msgctxt "World_7_VRRoom_NAME"
+msgid "VR Room"
+msgstr ""
+
+#. 三和会タワー
+msgctxt "World_8"
+msgid "Sanwakai Tower"
+msgstr ""
+
+#. 地下施設 パーティルーム
+msgctxt "World_8_Balcony_NAME"
+msgid "Party Room"
+msgstr ""
+
+#. 三和会タワー カジノ
+msgctxt "World_8_Casino_NAME"
+msgid "Tower Casino"
+msgstr ""
+
+#. 三和会タワー 8F
+msgctxt "World_8_Floor8_NAME"
+msgid "Floor 8"
+msgstr ""
+
+#. 三和会タワー ロビー
+msgctxt "World_8_Lobby_NAME"
+msgid "Tower Lobby"
+msgstr ""
+
+#. 地下施設 ラボ区画
+msgctxt "World_8_MagitechHub_NAME"
+msgid "Laboratory"
+msgstr ""
+
+#. 地下施設 マジテックラボ
+msgctxt "World_8_MagitechLobby_NAME"
+msgid "Underground Base"
+msgstr ""
+
+#. ペントハウス
+msgctxt "World_8_Penthouse_NAME"
+msgid "Penthouse"
+msgstr ""
+
+#. 三和会タワー 回転寿司バー
+msgctxt "World_8_RotatingSushiBar_NAME"
+msgid "Mao Sushi"
+msgstr ""
+
+#. サブの秘密の部屋
+msgctxt "World_8_SabuLair_NAME"
+msgid "Sabu's Lair"
+msgstr ""
+
+#. 三和会タワー秘密の部屋
+msgctxt "World_8_SecretArea_NAME"
+msgid "Sanwakai Tower Secret Area"
+msgstr ""
+
+#. 秘密のエレベーターリフト
+msgctxt "World_8_SecretElevatorLift_NAME"
+msgid "Underground Elevator"
+msgstr ""
+
+#. 三和会タワー
+msgctxt "World_8_TowerEntrance_NAME"
+msgid "Sanwakai Tower"
+msgstr ""
+
+#. 地下施設 食料ラボ
+msgctxt "World_8_UndergroundFood_NAME"
+msgid "Food Lab"
+msgstr ""
+
+#. 地下施設 魔術ラボ
+msgctxt "World_8_UndergroundMagic_NAME"
+msgid "Magic Lab"
+msgstr ""
+
+#. 地下施設 技術ラボ
+msgctxt "World_8_UndergroundTech_NAME"
+msgid "Tech Lab"
+msgstr ""
+
+#. 三和会タワー 尋問部屋
+msgctxt "World_8_YakuzaInterrogationRoom_NAME"
+msgid "Interrogation Room"
+msgstr ""
+
+#. 三和会タワー ヤクザ道場
+msgctxt "World_8_YakuzaTraining_NAME"
+msgid "Yakuza Training Room"
+msgstr ""
