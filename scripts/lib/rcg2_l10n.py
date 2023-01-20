@@ -90,7 +90,8 @@ class Rcg2Translation:
                             Rcg2Languages.LANG_CHINESESIMPLIFIED.value["key"],
                             Rcg2Languages.LANG_CHINESETRADITIONAL.value["key"],
                             Rcg2Languages.LANG_RUSSIAN.value["key"],
-                            ], delimiter=";")
+                            ],
+                delimiter=";", lineterminator="\n")
             writer.writeheader()
             for row in self.content:
                 writer.writerow(row)
