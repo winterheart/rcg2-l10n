@@ -4,45 +4,46 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
-"PO-Revision-Date: 2023-01-15 06:47+0300\n"
+"PO-Revision-Date: 2023-01-21 20:44+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 #. 計画停電
 msgctxt "CBA_057_Main"
 msgid "Rolling Blackouts"
-msgstr ""
+msgstr "Веерное отключение"
 
 #. スキッドストリートの発電機
 msgctxt "CBA_057_Main_01"
 msgid "Generator Skid Street"
-msgstr ""
+msgstr "Генератор в трущобах"
 
 #. コーヒーショップの発電機
 msgctxt "CBA_057_Main_02"
 msgid "Generator Coffee Shop"
-msgstr ""
+msgstr "Генератор в кофейне"
 
 #. アパート10階の発電機
 msgctxt "CBA_057_Main_03"
 msgid "Generator Apartments Floor 10"
-msgstr ""
+msgstr "Генератор на десятом этаже"
 
 #. ダウンタウンの発電機を3台修理する
 msgctxt "CBA_057_Main_Description"
 msgid "Fix 3 Generators in Downtown"
-msgstr ""
+msgstr "Почините три генератора в Центре города"
 
 #. ナンセンスな通貨
 msgctxt "CBB_083_Main"
 msgid "Token Nonsense"
-msgstr ""
+msgstr "Жетонная бессмыслица"
 
 #. おもちゃ屋さん前
 msgctxt "CBB_083_Main_01"
@@ -52,22 +53,22 @@ msgstr "Квартал игрушек"
 #. 路地裏の地下
 msgctxt "CBB_083_Main_02"
 msgid "Basement"
-msgstr ""
+msgstr "Подвал"
 
 #. ヨコシン横丁前
 msgctxt "CBB_083_Main_03"
 msgid "Yokocho"
-msgstr ""
+msgstr "Ёкочо"
 
 #. ヤクザコインを15枚集めてゲーセンに入る
 msgctxt "CBB_083_Main_Description"
 msgid "Collect 15 Yakuza Tokens to enter the Arcade"
-msgstr ""
+msgstr "Соберите 15 жетонов якудза, чтобы попасть в аркадный зал"
 
 #. オフィスの風水
 msgctxt "CCB_192_Minor"
 msgid "Office Feng Shui"
-msgstr ""
+msgstr "Офис по фэншую"
 
 #. プリンター
 msgctxt "CCB_192_Minor_01"
@@ -77,12 +78,12 @@ msgstr "Принтер"
 #. ファイルキャビネット
 msgctxt "CCB_192_Minor_02"
 msgid "File Cabinet"
-msgstr ""
+msgstr "Шкаф для бумаг"
 
 #. コーヒーメーカー
 msgctxt "CCB_192_Minor_03"
 msgid "Coffee Maker"
-msgstr ""
+msgstr "Кофемашина"
 
 #. クロスタウン・キャッツ
 msgctxt "CatCafe_Collect_Crosstown"
@@ -97,7 +98,7 @@ msgstr "Коты Центра города"
 #. フラットアイアンズ・キャット
 msgctxt "CatCafe_Collect_Flatirons"
 msgid "Flatirons Cats"
-msgstr ""
+msgstr "Коты Нагорья"
 
 #. オーシャンハイツ・キャッツ
 msgctxt "CatCafe_Collect_Ocean"
@@ -222,132 +223,134 @@ msgstr "Кот"
 #. サーチ＆レスキュー
 msgctxt "CatCafe_Quest_Start"
 msgid "Search and Rescute"
-msgstr ""
+msgstr "Поиск и спасение"
 
 #. 愛すべき猫ちゃんの毛玉、モフモフ、何でもいいから全部かき集めよう。
 msgctxt "CatCafe_Quest_Start_Description"
 msgid "Collect all the lovable fur balls, balls of fur, whatever."
 msgstr ""
+"Найдите все пушистые комочки шерсти, или шерстяные комочки пушистиков,"
+" неважно."
 
 #. 廃墟の列車庫 x2
 msgctxt "GhostCapturedx2"
 msgid "Train Yard x2"
-msgstr ""
+msgstr "Депо x2"
 
 #. 無人の遊園地 x2
 msgctxt "GhostCapturedx4"
 msgid "Amusement Park x2"
-msgstr ""
+msgstr "Парк развлечений x2"
 
 #. 壊れかけの観覧車 x2
 msgctxt "GhostCapturedx6"
 msgid "Ferris Wheel x2"
-msgstr ""
+msgstr "Колесо обозрения x2"
 
 #. 銀行強盗
 msgctxt "Journey_BankHeist"
 msgid "Bank Heist"
-msgstr ""
+msgstr "Ограбление банка"
 
 #. ヤクザが金庫に札束を入れるのを阻止せよ。
 msgctxt "Journey_BankHeist_Description"
 msgid "Stop the yakuza from taking those green bills."
-msgstr ""
+msgstr "Не дайте якудза унести мешки с деньгами."
 
 #. オン・ザ・リバウンド
 msgctxt "Journey_Basketball"
 msgid "On the Rebound"
-msgstr ""
+msgstr "На подборе"
 
 #. ゴダイがヤクザを退治するのを手伝おう。
 msgctxt "Journey_Basketball_Description"
 msgid "Help Godai get rid of some yakuza ballers."
-msgstr ""
+msgstr "Помогите Годаю избавиться от якудза-баскетболистов."
 
 #. ビーチクリープ
 msgctxt "Journey_BeachCreep"
 msgid "Beach Creep"
-msgstr ""
+msgstr "Пляжный приставала"
 
 #. 迷惑をかけているヤマダをビーチの砂に沈めよう。
 msgctxt "Journey_BeachCreep_Description"
 msgid "That punk Yamada's been creepin' all over the beach."
-msgstr ""
+msgstr "Этот надоедливый Ямада пристаёт ко всем на пляжу."
 
 #. ビーンボール・ブリッツ
 msgctxt "Journey_BeanBall"
 msgid "Beanball Blitz"
-msgstr ""
+msgstr "Быстрые вышибалы"
 
 #. 剛速球をぶち当てろ！
 msgctxt "Journey_BeanBall_Description"
 msgid "Get beaned!"
-msgstr ""
+msgstr "Вышибите всех!"
 
 #. 謎のノート
 msgctxt "Journey_Blueprints"
 msgid "An Enigmatic Note"
-msgstr ""
+msgstr "Загадочные записи"
 
 #. ゴダイの設計図1
 msgctxt "Journey_Blueprints_01"
 msgid "Blueprint 1"
-msgstr ""
+msgstr "Чертёж 1"
 
 #. ゴダイの設計図2
 msgctxt "Journey_Blueprints_02"
 msgid "Blueprint 2"
-msgstr ""
+msgstr "Чертёж 2"
 
 #. ゴダイの設計図3
 msgctxt "Journey_Blueprints_03"
 msgid "Blueprint 3"
-msgstr ""
+msgstr "Чертёж 3"
 
 #. ゴダイの設計図4
 msgctxt "Journey_Blueprints_04"
 msgid "Blueprint 4"
-msgstr ""
+msgstr "Чертёж 4"
 
 #. ゴダイがなくした謎の設計図を探してあげよう。
 msgctxt "Journey_Blueprints_Description"
 msgid "Godai needs help finding his blueprints."
-msgstr ""
+msgstr "Годаю необходима помощью в нахождении чертежей."
 
 #. バフビーチ
 msgctxt "Journey_Buff"
 msgid "Buff Beach"
-msgstr ""
+msgstr "Пляжная качалка"
 
 #. アーノルドのような筋肉を手に入れるんだ。
 msgctxt "Journey_Buff_Description"
 msgid "Gotta get buff like Arnold."
-msgstr ""
+msgstr "Раскачайтесь как Арнольд."
 
 #. ミステリー・ミスターK
 msgctxt "Journey_MysteriousMrK"
 msgid "The Mysterious Mr. K"
-msgstr ""
+msgstr "Таинственный Мистер К"
 
 #. 手がかり1
 msgctxt "Journey_MysteriousMrK_Clue1"
 msgid "Clue 1"
-msgstr ""
+msgstr "Улика 1"
 
 #. 手がかり2
 msgctxt "Journey_MysteriousMrK_Clue2"
 msgid "Clue 2"
-msgstr ""
+msgstr "Улика 2"
 
 #. 手がかり3
 msgctxt "Journey_MysteriousMrK_Clue3"
 msgid "Clue 3"
-msgstr ""
+msgstr "Улика 3"
 
 #. 手がかり4
 msgctxt "Journey_MysteriousMrK_Clue4"
 msgid "Clue 4"
-msgstr ""
+msgstr "Улика 4"
 
 #. ???
 msgctxt "Journey_MysteriousMrK_Description"
@@ -357,12 +360,12 @@ msgstr "???"
 #. クニコがワークスペースを京都風にアレンジするのを手伝ってあげましょう。
 msgctxt "Journey_OfficeFengShu_Description"
 msgid "Help Kuniko arrange the office to be a bit more zen or something..."
-msgstr ""
+msgstr "Помогите Кунико обустроить офис."
 
 #. オフィス風水
 msgctxt "Journey_OfficeFengShui"
 msgid "Office Feng Shui"
-msgstr ""
+msgstr "Офис по фэншую"
 
 #. ...
 msgctxt "Journey_ZombieBattle"
@@ -377,47 +380,51 @@ msgstr "???"
 #. ツール・ド・クラッシュ
 msgctxt "Minigame_TourDeCrash"
 msgid "Tour De Crash"
-msgstr ""
+msgstr "Тур де Крэш"
 
 #. 最速の称号を得るため、フラットアイアンズ一周レースに挑戦しよう。
 msgctxt "Minigame_TourDeCrash_Description"
 msgid "Race Crash across the whole of Flatirons for bragging rights."
-msgstr ""
+msgstr "Сразитесь с Крэшем в гонке по Нагорью."
 
 #. ビーブーの大切な日
 msgctxt "Mission_BeeboosBigDay"
 msgid "Beeboo's Big Day"
-msgstr ""
+msgstr "Великий день Бибу"
 
 #. 新しい親友のビーブーを使って、通風孔を通れるようにしよう。
 msgctxt "Mission_BeeboosBigDay_Description"
 msgid "Use your new best friend Beeboo to make it through the air vents."
 msgstr ""
+"Используйте своего нового лучшего друга Бибу, чтобы попасть в вентиляционные"
+" каналы."
 
 #. 変装アラカルト
 msgctxt "Mission_Disguise"
 msgid "Disguises À La Carte"
-msgstr ""
+msgstr "Маскировка а-ля карт"
 
 #. プリモのレストランに忍び込むために、超強力な変装をしよう。
 msgctxt "Mission_Disguise_Description"
 msgid "Find some super convincing disguises to sneak into Primo's Restaurant."
 msgstr ""
+"Найдите какую-нибудь очень убедительную маскировку, чтобы попасть в ресторан"
+" Примо."
 
 #. ホールで火事だ!
 msgctxt "Mission_FireInHall"
 msgid "Fire in the Hall!"
-msgstr ""
+msgstr "Огонь в здании!"
 
 #. ボイラー室でサムビィが助けを求めているぞ。
 msgctxt "Mission_FireInHall_Description"
 msgid "Thumby needs help in the Boiler Room."
-msgstr ""
+msgstr "Тамби нужна помощь в бойлерной."
 
 #. ゴースト・ペッパー・ハント
 msgctxt "Mission_GhostPepper"
 msgid "Ghost Pepper Hunt"
-msgstr ""
+msgstr "Охота на жгучий перец"
 
 #. 廃線跡でゴーストペッパートラップを手に入れ、厄介なツルをやっつけよう。
 msgctxt "Mission_GhostPepper_Description"
@@ -425,11 +432,13 @@ msgid ""
 "Grab your Ghost Pepper trap in the Abandoned Train Yard, and start rounding "
 "up those pesky pepper poultrygeists!"
 msgstr ""
+"Захватите ловушки на призрачных жгучих перцев в заброшенном депо и"
+" разберитесь с этим надоедливым перцовым полтергейстом!"
 
 #. 友だちを救え
 msgctxt "Mission_Hostage"
 msgid "Save Your Friends!"
-msgstr ""
+msgstr "Спасите друзей!"
 
 #. サブコが友達を人質にとった。街中を探し回り、全員を救い出そう。
 msgctxt "Mission_Hostage_Description"
@@ -437,31 +446,33 @@ msgid ""
 "Sabuko's taken your friends as hostages. Scour the city to find and rescue "
 "them all!"
 msgstr ""
+"Сабуко захватила ваших друзей в заложники. Обегите город, чтобы спасти их"
+" всех!"
 
 #. メインフレーム内部
 msgctxt "Mission_Mainframe"
 msgid "Inside the Mainframe"
-msgstr ""
+msgstr "Внутри мейнфрейма"
 
 #. バイトの世界に飛び込んでみよう。
 msgctxt "Mission_Mainframe_Description"
 msgid "Shrink down and enter the wonderful world of bytes."
-msgstr ""
+msgstr "Уменьшитесь и посетите удивительный мир байтов."
 
 #. 地元のバカ
 msgctxt "PrimoDelights_Guest_Subtitle"
 msgid "Local Idiot"
-msgstr ""
+msgstr "Местный идиот"
 
 #. セルフィー・フォー・ゴダイ
 msgctxt "Selfie_Finished"
 msgid "Selfies for Godai"
-msgstr ""
+msgstr "Селфи для Годая"
 
 #. リバーシティのあちこちで、ゴダイの自撮り写真を撮る。
 msgctxt "Selfie_Finished_Description"
 msgid "Take selfies for Godai across River City."
-msgstr ""
+msgstr "Сделайте селфи на фоне пейзажей Ривер-сити для Годая."
 
 #. クロスタウン
 msgctxt "Selfie_Location01"
@@ -496,17 +507,18 @@ msgstr "Старшая школа Ривер-Сити"
 #. フラットアイアンズ
 msgctxt "Selfie_Location07"
 msgid "Flatirons"
-msgstr ""
+msgstr "Нагорье"
 
 #. 不幸な状況
 msgctxt "SkeletonMarket_Quest_155_Minor"
 msgid "An Unfortunate Situation"
-msgstr ""
+msgstr "Неприятная ситуация"
 
 #. スナップはタロットカードを全部なくしてしまいました。リバーシティを捜索すると22枚全部が見つかります。
 msgctxt "SkeletonMarket_Quest_155_Minor_Description"
 msgid "Snap lost all his Tarot Cards. Search River City to find all 22."
 msgstr ""
+"Черепок потерял свои карты таро. Обыщите Ривер-сити и найдите все 22 карты."
 
 #. クロスタウン
 msgctxt "TarotCards_Crosstown"
@@ -521,7 +533,7 @@ msgstr "Центр города"
 #. フラットアイアンズ
 msgctxt "TarotCards_Flatirons"
 msgid "Flatirons"
-msgstr ""
+msgstr "Нагорье"
 
 #. オーシャンハイツ
 msgctxt "TarotCards_OceanHeights"

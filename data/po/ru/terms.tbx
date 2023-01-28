@@ -495,6 +495,426 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="azamat_h._hackimov-41">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>tengu</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>тэнгу</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-42">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>apple tater</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>карамелька</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-43">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>enoki</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>эноки</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-44">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>primo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>примо</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-45">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>snapr</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>щёлкер</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-46">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>honkr</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>крякер</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-47">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>trash</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>трэш</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-48">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>special attack</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>особый удар</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-49">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>provie</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>пруви</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-50">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>sonny lee</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>сонни ли</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-51">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>roxy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>рокси</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-52">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>snap</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>черепок</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-53">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>chris</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>крис</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-54">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>crosstown</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>кросстаун</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-55">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>ryan</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>райан</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-56">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>kaitsu</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>кайцу</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-57">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>kayden</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>кайден</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-58">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>kayo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>кайо</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-59">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>kumiko</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>кумико</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-60">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>kebako</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>кебако</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-61">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>berserker</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>берсеркер</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-62">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>hideout</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>укрытие</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-63">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>aleister</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>алистер</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-64">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>crash</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>крэш</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-65">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>suzy</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>сюзи</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-66">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>flatirons</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>нагорье</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-67">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>thumby</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>тамби</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-68">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>waver</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>вейвер</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-69">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>r.c.h.s.</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>с.ш.р.с.</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-70">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>sanwakai</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>санвакай</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-71">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>beeboo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>бибу</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-72">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>yokocho</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>ёкочо</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-73">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>kozuki</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>кодзуки</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-74">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>mibobo</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>мибобо</term>
+          </tig>
+        </langSet>
+      </termEntry>
+      <termEntry id="azamat_h._hackimov-75">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>megumi</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>мегуми</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
