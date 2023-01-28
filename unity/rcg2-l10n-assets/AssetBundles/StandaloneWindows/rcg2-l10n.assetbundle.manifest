@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 663938405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8f65d6e43798c218996b8f2fdad0040
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0e35348f6650bcb4c4b0bd24d9bda9d9
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/NotoSans-Medium SDF.asset
+- Assets/Resources/NotoSans-Light SDF.asset
+- Assets/Resources/NotoSans-Black SDF Black Outline.asset
+- Assets/Resources/NotoSans-Black SDF.asset
+- Assets/Resources/BalsamiqSansRU-BoldItalic SDF.asset
+- Assets/Resources/NotoSans-Medium SDF Black Outline.asset
+- Assets/Resources/NotoSans-Medium SDF Drop Shadow.asset
+- Assets/Resources/translation.csv
+- Assets/Resources/BalsamiqSansRU-Regular SDF.asset
+- Assets/Resources/NotoSans-Bold SDF.asset
+Dependencies: []
