@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
-"PO-Revision-Date: 2023-01-24 11:50+0300\n"
+"PO-Revision-Date: 2023-01-29 05:55+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -2823,22 +2823,22 @@ msgstr "Разрешение играть с игроками на других 
 #. ホストで始める。
 msgctxt "HostJoinScreen_FooterMsg_Host"
 msgid "Host an online game."
-msgstr ""
+msgstr "Запуск сервера для сетевой игры."
 
 #. ゲストで参加する。
 msgctxt "HostJoinScreen_FooterMsg_Join"
 msgid "Join an online game."
-msgstr ""
+msgstr "Подключение к сетевой игре."
 
 #. ホスト
 msgctxt "HostJoinScreen_Host"
 msgid "Host"
-msgstr ""
+msgstr "Сервер"
 
 #. ゲスト
 msgctxt "HostJoinScreen_Join"
 msgid "Join"
-msgstr ""
+msgstr "Подключение"
 
 #. 難易度
 msgctxt "HostOptionsScreen_Difficulty"
@@ -2898,7 +2898,7 @@ msgstr "История"
 #. ルーム設定
 msgctxt "HostOptionsScreen_Privacy"
 msgid "Privacy"
-msgstr ""
+msgstr "Ограничение"
 
 #. フレンドロビー
 msgctxt "HostOptionsScreen_Privacy_FriendsOnly"
@@ -2908,12 +2908,12 @@ msgstr "Только друзья"
 #. プライベート
 msgctxt "HostOptionsScreen_Privacy_Private"
 msgid "Private"
-msgstr ""
+msgstr "Ограничено"
 
 #. だれでも
 msgctxt "HostOptionsScreen_Privacy_Public"
 msgid "Public"
-msgstr ""
+msgstr "Открыто для всех"
 
 #. 地域
 msgctxt "HostOptionsScreen_Region"
@@ -4319,42 +4319,42 @@ msgstr "ДРУЗЬЯ"
 #. 参加
 msgctxt "JoinGameSubtext_Join"
 msgid "JOIN"
-msgstr ""
+msgstr "ПОДКЛЮЧИТЬСЯ"
 
 #. (公開ロビー)
 msgctxt "JoinGameSubtext_Public"
 msgid "(PUBLIC)"
-msgstr ""
+msgstr "(открытая игра)"
 
 #. ロビーIDを指定して限定ロビーに参加する。
 msgctxt "JoinScreen_FooterMsg_PrivateCode"
 msgid "Join a private game using a code."
-msgstr ""
+msgstr "Подключение по коду доступа."
 
 #. 公開ロビーに参加する。
 msgctxt "JoinScreen_FooterMsg_Public"
 msgid "Join a public game."
-msgstr ""
+msgstr "Подключение к открытой игре."
 
 #. 限定ロビー
 msgctxt "JoinScreen_PrivateCode"
 msgid "Private Code"
-msgstr ""
+msgstr "Код доступа"
 
 #. 公開ロビー
 msgctxt "JoinScreen_Public"
 msgid "Public"
-msgstr ""
+msgstr "Открытая"
 
 #. IDを入力する。
 msgctxt "JoinWithCode_EnterCode"
 msgid "Enter Code"
-msgstr ""
+msgstr "Введите код"
 
 #. ロビーIDを入力してロビーに参加します。
 msgctxt "JoinWithCode_FooterMsg"
 msgid "Enter code to join game."
-msgstr ""
+msgstr "Ввод кода для подключения к игре."
 
 #. プレイヤーを退出させる。
 msgctxt "KickFromGame"
@@ -4467,10 +4467,9 @@ msgid "LOBBY"
 msgstr "ЛОББИ"
 
 #. Complete
-#, fuzzy
 msgctxt "LobbyListing_Complete"
 msgid "Complete"
-msgstr "Готово!"
+msgstr "Прогресс"
 
 #. {0}に参加しますか？
 msgctxt "LobbyListing_ConfirmJoin"
@@ -4482,6 +4481,8 @@ msgctxt "LobbyListing_FooterMsg"
 msgid ""
 "Choose a game to join. (You can only join games in your selected region.)"
 msgstr ""
+"Выберите игру для подключения (вы можете подключаться только к играм "
+"выбранного региона)."
 
 #. ID
 msgctxt "LobbyListing_ID"
@@ -4671,7 +4672,7 @@ msgstr ""
 #. カリスマキック
 msgctxt "MOVE_NAME_CHARISMA_CHECK"
 msgid "Charisma Check"
-msgstr ""
+msgstr "Бросок на харизму"
 
 #. チープショット
 msgctxt "MOVE_NAME_CHEAP_SHOT"
@@ -5041,7 +5042,7 @@ msgstr ""
 #. ジャンプツイストキック
 msgctxt "MOVE_NAME_JUMP_TWIST_KICK"
 msgid "Jump Twist Kick"
-msgstr ""
+msgstr "Удар со скручиванием в прыжке"
 
 #. キックトス
 msgctxt "MOVE_NAME_KICK_TOSS"
@@ -5136,12 +5137,12 @@ msgstr "Монгольский удар"
 #. マウントパンチ
 msgctxt "MOVE_NAME_MOUNT_PUNCH_KUNIO"
 msgid "Mount Punch"
-msgstr ""
+msgstr "Удар по груше"
 
 #. マウントパンチ
 msgctxt "MOVE_NAME_MOUNT_PUNCH_RIKI"
 msgid "Mount Punch"
-msgstr ""
+msgstr "Удар по груше"
 
 #. ナットクラッカー
 msgctxt "MOVE_NAME_NUTCRACKER"
@@ -5246,7 +5247,7 @@ msgstr "Банное полотенце"
 #. シャドウクローン
 msgctxt "MOVE_NAME_SHADOW_COMBO"
 msgid "Shadow Clones"
-msgstr ""
+msgstr "Теневые клоны"
 
 #. 背負い投げ
 msgctxt "MOVE_NAME_SHOULDER_THROW"
@@ -5326,7 +5327,7 @@ msgstr "Каменные кулаки"
 #. ジャケットランチャー
 msgctxt "MOVE_NAME_STONE_LAUNCHER"
 msgid "Jacket Launcher"
-msgstr ""
+msgstr "Куртку на плечо"
 
 #. スタンガン
 msgctxt "MOVE_NAME_STUNGUN"
@@ -5436,12 +5437,12 @@ msgstr "Особые"
 #. オフラインで始める。
 msgctxt "MainMenuScreen_FooterMsg_LocalPlay"
 msgid "Start a local game."
-msgstr ""
+msgstr "Начало локальной игры."
 
 #. オンラインで始める。
 msgctxt "MainMenuScreen_FooterMsg_OnlinePlay"
 msgid "Start or join an online game."
-msgstr ""
+msgstr "Запуск или подключение к сетевой игре."
 
 #. ゲームの設定を変更する。
 msgctxt "MainMenuScreen_FooterMsg_Settings"
@@ -5451,17 +5452,17 @@ msgstr "Изменение настроек игры."
 #. ゲームスタート
 msgctxt "MainMenuScreen_LocalPlay"
 msgid "Local Play"
-msgstr ""
+msgstr "Локальная игра"
 
 #. オンラインプレイ
 msgctxt "MainMenuScreen_OnlinePlay"
 msgid "Online Play"
-msgstr ""
+msgstr "Игра по сети"
 
 #. オンラインマルチプレイ
 msgctxt "MainMenuScreen_OnlinePlay_Playstation"
 msgid "Online Multiplayer"
-msgstr ""
+msgstr "Многопользовательская игра по сети"
 
 #. 設定
 msgctxt "MainMenuScreen_Settings"
@@ -5536,12 +5537,12 @@ msgstr "Текущие характеристики, предметы и при�
 #. オンライン
 msgctxt "Online"
 msgid "Online"
-msgstr ""
+msgstr "Онлайн"
 
 #. オンラインマッチ
 msgctxt "OnlineMatchmaking"
 msgid "Online Matchmaking"
-msgstr ""
+msgstr "Подбор сетевых игр"
 
 #. 操作設定
 msgctxt "Option_Controls"
@@ -5591,7 +5592,7 @@ msgstr "Австралия"
 #. 適正地域
 msgctxt "PhotonRegion_BEST_REGION"
 msgid "Best Region"
-msgstr "Наилучший регион"
+msgstr "Ближайший"
 
 #. カナダ
 msgctxt "PhotonRegion_CAE"
@@ -5699,17 +5700,17 @@ msgstr "Пожалуйста, подождите..."
 #. ホストから切断されました。
 msgctxt "Popup_HostDisconnect"
 msgid "Host disconnected"
-msgstr ""
+msgstr "Сервер отключился"
 
 #. ネットワークが切断されました。
 msgctxt "Popup_NetworkDisconnect"
 msgid "Network disconnected"
-msgstr ""
+msgstr "Сеть отключилась"
 
 #. メグミ先生!
 msgctxt "PortraitDialog004-01_Misako"
 msgid "Ms. Megumi!"
-msgstr ""
+msgstr "Мисс Мегуми!"
 
 #. Press {0} to Join
 msgctxt "Press_Confirm"
@@ -7587,7 +7588,7 @@ msgid ""
 "Jump toward a wall with {0} then press {0} again to leap off the wall and "
 "get even higher."
 msgstr ""
-"Нажмитн {0}, чтобы прыгнуть на стену, и ещё раз {0}, чтобы оттолкнуться от "
+"Нажмите {0}, чтобы прыгнуть на стену, и ещё раз {0}, чтобы оттолкнуться от "
 "неё и прыгнуть ещё выше."
 
 #. ウォールジャンプ！
@@ -7601,7 +7602,7 @@ msgid ""
 "Tap {0} to do a small jump. Hold {0} to do a full jump. You can also jump "
 "further from a run."
 msgstr ""
-"Нажмите {0}, чтобы сделать короткий прыжок. Удерживайте {1}, чтобы сделать "
+"Нажмите {0}, чтобы сделать короткий прыжок. Удерживайте {0}, чтобы сделать "
 "длинный прыжок. Прыгать можно и во время бега."
 
 #. ジャンプを使い分けよう
@@ -7634,7 +7635,7 @@ msgid ""
 msgstr ""
 "Это безопасное укрытие, в котором вы будете появляться. Здесь также можно "
 "сменить персонажа и изменить настройки. Возвращаясь сюда, вы "
-"восстанавливаете небольшое количество выносливости."
+"восстанавливаете небольшое количество стойкости."
 
 #. 隠れ家へようこそ！
 msgctxt "Tutorial_08_Title"
@@ -7678,9 +7679,9 @@ msgid ""
 "complete missions, and find side quests to regain your XP. Choose your own "
 "path."
 msgstr ""
-"Вы слишком времени провели на диване. Сражайтесь с противниками, ешьте, "
-"завершайте миссии и находите побочные задания, чтобы получать дополнительный "
-"ОП. Выбирайте собственный путь."
+"Вы слишком много времени провели на диване. Сражайтесь с противниками, "
+"ешьте, завершайте миссии и находите побочные задания, чтобы получать "
+"дополнительный опыт. Выбирайте собственный путь."
 
 #. おかえりなさい！
 msgctxt "Tutorial_13_Title"
@@ -7722,8 +7723,9 @@ msgid ""
 "Your highly addictive social media app, Honkr will give you notifications "
 "about missions, quests, and general happenings in River City."
 msgstr ""
-"Ваше вызывающее привыкание приложения для социального общения Крякер будет "
-"оповещать вас о миссиях, заданиях и происходящих событиях в Ривер-сити."
+"Ваше вызывающее привыкание приложение для социального взаимодействия под "
+"названием «Крякер» будет оповещать вас о миссиях, заданиях и происходящих "
+"событиях в Ривер-сити."
 
 #. ホンク！
 msgctxt "Tutorial_21_Title"
@@ -7974,8 +7976,8 @@ msgid ""
 "Reset all new progress since last checkpoint. \n"
 "Lose some money."
 msgstr ""
-"Сбрасывает весь прогресс с последней точки сохранения. \n"
-"Теряется некоторая часть денег."
+"Сбрасывает весь прогресс с последней точки\n"
+"сохранения. Теряется некоторая часть денег."
 
 #. クイックリトライ
 msgctxt "UI_GameOver_Continue_Title"
@@ -7985,7 +7987,9 @@ msgstr "ЕЩЁ РАЗ"
 #. すぐにステージから復帰する。
 msgctxt "UI_GameOver_EasyContinue_Desc"
 msgid "Reset all new progress since last checkpoint. "
-msgstr "Сбрасывает весь прогресс с последней точки сохранения. "
+msgstr ""
+"Сбрасывает весь прогресс с последней точки\n"
+"сохранения."
 
 #. GAME OVER
 msgctxt "UI_GameOver_Header"
@@ -7996,7 +8000,9 @@ msgstr "ИГРА ОКОНЧЕНА"
 #. 所持金を失わないが進行中のクエストは最初からになる。
 msgctxt "UI_GameOver_Hideout_Desc"
 msgid "Respawn at last hideout with no money loss."
-msgstr "Возрождает в последнем укрытии без потери денег."
+msgstr ""
+"Возрождает в последнем укрытии без\n"
+"потери денег."
 
 #. 隠れ家リトライ
 msgctxt "UI_GameOver_Hideout_Title"
@@ -8762,7 +8768,7 @@ msgstr "Йо-йо"
 #. ホストを待機中
 msgctxt "WaitingForHost"
 msgid "Waiting for Host"
-msgstr ""
+msgstr "Ожидание сервера"
 
 #. ウィンドウモード
 msgctxt "WindowedMode"
