@@ -1,4 +1,10 @@
-﻿using System.Collections.Generic;
+﻿/*
+This file is part of River City Girls 2 L10n project
+SPDX-License-Identifier: GPL-3.0-or-later
+(c) 2023 Azamat H. Hackimov <azamat.hackimov@gmail.com>
+*/
+
+using System.Collections.Generic;
 using System.IO;
 using System.Reflection;
 using MelonLoader;
