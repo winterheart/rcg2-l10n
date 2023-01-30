@@ -15,7 +15,7 @@ public class CreateAssetBundles
                                         BuildAssetBundleOptions.ChunkBasedCompression,
                                         BuildTarget.StandaloneWindows);
 
-        File.Copy(Path.Combine(assetBundleDirectory, assetName), Path.Combine("..", assetName), true);
+        File.Copy(Path.Combine(assetBundleDirectory, assetName), Path.Combine("../..", assetName), true);
     }
 }
 #endif
