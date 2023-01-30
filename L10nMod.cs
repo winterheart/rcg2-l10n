@@ -14,12 +14,11 @@ namespace RCG2_L10n
     public class L10nMod : MelonMod
     {
         private AssetBundle m_AssetBundle;
-        private static Dictionary<string, FontReplacement> fontsDictionary;
+        private static Dictionary<string, TMP_FontAsset> m_FontsDictionary;
+        private static List<TMP_FontAsset> m_FontsReplaced;
 
-        public override void OnInitializeMelon()
+        public L10nMod()
         {
-            LoggerInstance.Msg("RCG2 l10n started");
-
             using (var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream("rcg2_l10n.rcg2-l10n.assetbundle"))
             using (var tempStream = new MemoryStream((int)stream.Length))
             {
@@ -27,28 +26,58 @@ namespace RCG2_L10n
                 m_AssetBundle = AssetBundle.LoadFromMemory(tempStream.ToArray(), 0);
             }
 
-
-            fontsDictionary = new Dictionary<string, FontReplacement>
+            m_FontsDictionary = new Dictionary<string, TMP_FontAsset>
             {
-                { "BalsamiqSans-Regular SDF", new FontReplacement(m_AssetBundle.LoadAsset<TMP_FontAsset>("BalsamiqSansRU-Regular SDF"), false) },
-                { "BalsamiqSans-BoldItalic SDF", new FontReplacement(m_AssetBundle.LoadAsset<TMP_FontAsset>("BalsamiqSansRU-BoldItalic SDF"), false) },
-                //{ "LiberationSans SDF", new FontReplacement(m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Medium SDF"), false) },
+                { "BalsamiqSans-Regular SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("BalsamiqSansRU-Regular SDF") },
+                { "BalsamiqSans-BoldItalic SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("BalsamiqSansRU-BoldItalic SDF") },
+                { "DotGothic16-Regular SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("TerminusTTF SDF") },
+                { "LiberationSans SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("LiberationSansRU SDF") },
+                { "FugazOne-Regular SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("Lobster-Regular SDF") },
 
-                { "NotoSansJP-Black SDF", new FontReplacement(m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Black SDF"), false) },
-                { "NotoSansJP-Bold SDF", new FontReplacement(m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Bold SDF"), false) },
-                { "NotoSansJP-Light SDF", new FontReplacement(m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Light SDF"), false) },
-                { "NotoSansJP-Medium SDF", new FontReplacement(m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Medium SDF"), false) },
+                { "NotoSansJP-Black SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Black SDF") },
+                { "NotoSansJP-Bold SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Bold SDF") },
+                { "NotoSansJP-Light SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Light SDF") },
+                { "NotoSansJP-Medium SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Medium SDF") },
 
-                { "NotoSansJP-Medium SDF Black Outline", new FontReplacement(m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Medium SDF Black Outline"), false) },
-                { "NotoSansJP-Medium SDF Drop Shadow", new FontReplacement(m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Medium SDF Drop Shadow"), false) },
-                { "NotoSansCJK-Black SDF BlackOutline", new FontReplacement(m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Black SDF Black Outline"), false) }
+                { "NotoSansJP-Medium SDF Black Outline", m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Medium SDF Black Outline") },
+                { "NotoSansJP-Medium SDF Drop Shadow", m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Medium SDF Drop Shadow") },
+                { "NotoSansCJK-Black SDF BlackOutline", m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Black SDF Black Outline") }
             };
+            m_FontsReplaced = new List<TMP_FontAsset>();
+        }
 
-            // Singleton:RCG.UI.ScreenManager/MainUICanvas(Clone)/UI_Splash/LegalPart1/Text/
-            // Legal_Screen_1_Text
+        public override void OnInitializeMelon()
+        {
+            LoggerInstance.Msg("RCG2 l10n started");
 
-            LoggerInstance.Msg("PREINIT: Fonts loaded");
+            UpdateFonts();
+            UpdateLocalization();
+            PatchHarmony();
+        }
 
+        private void UpdateFonts()
+        {
+            // Preload all resources so we can catch all fonts to fallback insertion
+            var entries = Resources.LoadAll("");
+            TMP_FontAsset[] fonts = Resources.FindObjectsOfTypeAll<TMP_FontAsset>();
+            foreach (var font in fonts)
+            {
+                // LoggerInstance.Msg($"Found font: {font.name}");
+                if (m_FontsDictionary.ContainsKey(font.name))
+                {
+                    // Some fonts has fallbacks that have fallbacks, so we push own first to avoid clashing
+                    font.fallbackFontAssetTable.Insert(0, m_FontsDictionary[font.name]);
+                    // Push it into static
+                    m_FontsReplaced.Add(font);
+                    // LoggerInstance.Msg($"Added failback {m_FontsDictionary[font.name].name} to {font.name}");
+                }
+            }
+            Resources.UnloadUnusedAssets();
+            LoggerInstance.Msg("Fonts loaded");
+        }
+
+        private void UpdateLocalization()
+        {
             LocalizationManager.UpdateSources();
             var translation_csv = m_AssetBundle.LoadAsset<TextAsset>("translation");
             // Remove garbage
@@ -58,37 +87,13 @@ namespace RCG2_L10n
             LocalizationManager.Sources[0].mLanguages[9].Code = "ru";
             LocalizationManager.LocalizeAll(true);
             LoggerInstance.Msg("Updated translation");
+        }
 
-            //TMP_ResourceManager
-            UpdateFonts();
-
+        private void PatchHarmony()
+        {
             HarmonyInstance.PatchAll(typeof(RCG.UI.Screens.UI_CellPhone_Settings));
             HarmonyInstance.PatchAll(typeof(RCG.UI.Screens.UI_Settings));
             LoggerInstance.Msg("Harmony patched");
-        }
-
-        public override void OnSceneWasInitialized(int buildIndex, string sceneName)
-        {
-            LoggerInstance.Msg($"Scene {sceneName} with build index {buildIndex} has been loaded!");
-            UpdateFonts();
-        }
-
-        private void UpdateFonts()
-        {
-            TMP_FontAsset[] fonts = Resources.FindObjectsOfTypeAll<TMP_FontAsset>();
-            foreach (var font in fonts)
-            {
-                LoggerInstance.Msg($"Found font: {font.name}");
-                if (fontsDictionary.ContainsKey(font.name) && !fontsDictionary[font.name].Replaced)
-                {
-                    // Some fallback fonts fave thier fallbacks, so we insert ours before
-                    font.fallbackFontAssetTable.Insert(0, fontsDictionary[font.name].FailbackFont);
-                    var temp = fontsDictionary[font.name];
-                    temp.Replaced = true;
-                    fontsDictionary[font.name] = temp;
-                    LoggerInstance.Msg($"Added failback {fontsDictionary[font.name].FailbackFont.name} to {font.name}");
-                }
-            }
         }
 
     }

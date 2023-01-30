@@ -33,13 +33,13 @@
   <ItemGroup>
     <Reference Include="0Harmony, Version=2.9.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>/home/winterheart/.local/share/Steam/steamapps/common/River City Girls 2/MelonLoader/0Harmony.dll</HintPath>
+      <HintPath>external\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>/home/winterheart/.local/share/Steam/steamapps/common/River City Girls 2/RCG2_Data/Managed/Assembly-CSharp.dll</HintPath>
+      <HintPath>external\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="MelonLoader">
-      <HintPath>/home/winterheart/.local/share/Steam/steamapps/common/River City Girls 2/MelonLoader/MelonLoader.dll</HintPath>
+      <HintPath>external\MelonLoader.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -51,22 +51,17 @@
     <Reference Include="System.Xml" />
     <Reference Include="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>/home/winterheart/.local/share/Steam/steamapps/common/River City Girls 2/RCG2_Data/Managed/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>/home/winterheart/.local/share/Steam/steamapps/common/River City Girls 2/RCG2_Data/Managed/UnityEngine.dll</HintPath>
+      <HintPath>external\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule">
-      <HintPath>/home/winterheart/.local/share/Steam/steamapps/common/River City Girls 2/RCG2_Data/Managed/UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>external\UnityEngine.AssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>/home/winterheart/.local/share/Steam/steamapps/common/River City Girls 2/RCG2_Data/Managed/UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>external\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FontReplacement.cs" />
     <Compile Include="L10nMod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
