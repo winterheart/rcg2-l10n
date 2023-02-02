@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
-"PO-Revision-Date: 2023-01-29 05:55+0300\n"
+"PO-Revision-Date: 2023-02-01 23:42+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -9528,7 +9528,7 @@ msgstr "Секретная область Океанских холмов"
 #. オーシャンハイツ 船着き場
 msgctxt "World_6_Shipyard_NAME"
 msgid "Shipyard"
-msgstr ""
+msgstr "Верфи"
 
 #. オーシャンハイツ仲見世通り 遊歩道
 msgctxt "World_6_ThemePark_NAME"

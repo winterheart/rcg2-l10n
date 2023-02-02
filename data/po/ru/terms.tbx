@@ -927,6 +927,30 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="azamat_h._hackimov-77">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>williams</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>уильямс</term>
+          </tig>
+        </langSet>
+      </termEntry>
+    <termEntry id="azamat_h._hackimov-78">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>rch</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>СРС</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>
