@@ -1,4 +1,5 @@
 .idea
+.vs
 __pycache__
 bin/
 obj/
