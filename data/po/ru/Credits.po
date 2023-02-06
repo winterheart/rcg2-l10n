@@ -4,25 +4,30 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
-"PO-Revision-Date: 2023-01-14 18:40+0300\n"
+"PO-Revision-Date: 2023-02-02 04:05+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 #. Additional Production
 msgctxt "LBL_ADDITIONAL_PRODUCTION_TITLE"
 msgid "Additional Production"
-msgstr "Дополнительное производство"
+msgstr ""
+"Дополнительное\n"
+"производство"
 
 #. Additional Programming
 msgctxt "LBL_ADDITIONAL_PROGRAMMER_TITLE"
 msgid "Additional Programming"
-msgstr "Дополнительное программирование"
+msgstr ""
+"Дополнительное\n"
+"программирование"
 
 #. Additional Design
 msgctxt "LBL_ADDTLDESIGN"
@@ -42,7 +47,7 @@ msgstr "Менеджер подразделения"
 #. Chinese Translation
 msgctxt "LBL_ARCASIA_CNZHLOC"
 msgid "Chinese Translation"
-msgstr "Перевод на китайский язык"
+msgstr "Перевод на китайский"
 
 #. Finance
 msgctxt "LBL_ARCASIA_FINANCE"
@@ -52,7 +57,7 @@ msgstr "Финансы"
 #. Korean Translation
 msgctxt "LBL_ARCASIA_KORLOC"
 msgid "Korean Translation"
-msgstr "Перевод на корейский язык"
+msgstr "Перевод на корейский"
 
 #. Marketing Team
 msgctxt "LBL_ARCASIA_MARKETINGTEAM"
@@ -69,7 +74,7 @@ msgctxt "LBL_ARCPUB"
 msgid "PUBLISHING"
 msgstr "ИЗДАТЕЛЬСТВО"
 
-#. ARC SYSTEM WORKS 
+#. ARC SYSTEM WORKS
 #. Asia Branch
 msgctxt "LBL_ARC_ASIA"
 msgid ""
@@ -264,7 +269,7 @@ msgctxt "LBL_PR_MANAGER_TITLE"
 msgid "Communications Officer"
 msgstr "Связь с общественностью"
 
-#. Published by Arc System 
+#. Published by Arc System
 #. Works Co.,Ltd.
 msgctxt "LBL_PUBLISHED_BY_ARC"
 msgid ""
@@ -279,7 +284,7 @@ msgctxt "LBL_PUBLISHED_BY_WF"
 msgid "Published by WayForward"
 msgstr "Опубликовано WayForward"
 
-#. Director of Biz Dev and 
+#. Director of Biz Dev and
 #. Publishing
 msgctxt "LBL_PUBLISHING_HEAD_TITLE"
 msgid ""
@@ -289,7 +294,7 @@ msgstr ""
 "Директор по бизнесу и\n"
 "издательству"
 
-#. Quality Assurance 
+#. Quality Assurance
 #. Manager
 msgctxt "LBL_QA_MANAGER_TITLE"
 msgid ""
@@ -304,7 +309,7 @@ msgctxt "LBL_QA_TESTER_TITLE"
 msgid "Quality Assurance Testers"
 msgstr "Тестеры контроля качества"
 
-#. RCG1 Voice Actors 
+#. RCG1 Voice Actors
 #. (Shopkeepers) - English
 msgctxt "LBL_RCG1_SHOP_VA"
 msgid ""
@@ -324,7 +329,7 @@ msgctxt "LBL_SONGS_TITLE"
 msgid "Songs"
 msgstr "Песни"
 
-#. WayForward Special 
+#. WayForward Special
 #. Thanks
 msgctxt "LBL_SPECIAL_THANKS_TITLE"
 msgid ""
@@ -334,7 +339,7 @@ msgstr ""
 "Особая благодарность\n"
 "WayForward"
 
-#. Intro Animation 
+#. Intro Animation
 #. Storyboards
 msgctxt "LBL_STORYBOARD_ARTIST_TITLE"
 msgid ""
@@ -362,7 +367,9 @@ msgstr "Тиран-повелитель"
 #. Lead UI Designer
 msgctxt "LBL_UI_DIRECTOR_TITLE"
 msgid "Lead UI Designer"
-msgstr "Ведущий дизайнер интерфейсов"
+msgstr ""
+"Ведущий дизайнер\n"
+"интерфейсов"
 
 #. UI Designers
 msgctxt "LBL_UI_MENU_ARTIST_TITLE"
@@ -372,22 +379,30 @@ msgstr "Дизайнеры интерфейсов"
 #. Visual Effects Artists
 msgctxt "LBL_VFX_ARTIST_TITLE"
 msgid "Visual Effects Artists"
-msgstr "Художники по визуальным эффектам"
+msgstr ""
+"Художники\n"
+"по визуальным эффектам"
 
 #. Lead Visual Effects Artist
 msgctxt "LBL_VFX_DIRECTOR_TITLE"
 msgid "Lead Visual Effects Artist"
-msgstr "Ведущий художник по визуальным эффектам"
+msgstr ""
+"Ведущий художник\n"
+"по визуальным эффектам"
 
 #. Voice Actors - Japanese
 msgctxt "LBL_VOICE_ACTOR_JP"
 msgid "Voice Actors - Japanese"
-msgstr "Актёры озвучивания (японский)"
+msgstr ""
+"Актёры озвучивания\n"
+"(японский)"
 
 #. Voice Actors - English
 msgctxt "LBL_VOICE_ACTOR_TITLE"
 msgid "Voice Actors - English"
-msgstr "Актёры озвучивания (английский)"
+msgstr ""
+"Актёры озвучивания\n"
+"(английский)"
 
 #. VO Casting and Production
 msgctxt "LBL_VO_CASTING_JP"
@@ -397,7 +412,7 @@ msgstr "Кастинг и производство"
 #. VO Casting and Direction
 msgctxt "LBL_VO_CASTING_TITLE"
 msgid "VO Casting and Direction"
-msgstr "Кастинг и руководство озвучивания"
+msgstr "Кастинг и руководство"
 
 #. VO Recording Facilities
 msgctxt "LBL_VO_FACILITIES"

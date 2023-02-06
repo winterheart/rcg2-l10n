@@ -951,6 +951,18 @@
           </tig>
         </langSet>
       </termEntry>
+    <termEntry id="azamat_h._hackimov-79">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>skullmageddon</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>черепогеддон</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
     </text>
 </martif>

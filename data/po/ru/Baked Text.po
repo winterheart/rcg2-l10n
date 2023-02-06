@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
-"PO-Revision-Date: 2023-01-29 00:40+0300\n"
+"PO-Revision-Date: 2023-02-05 21:29+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -23,7 +23,7 @@ msgstr "3... 2... 1... Вперёд!"
 #. Block Rocking Badass
 msgctxt "Block Rocking Badass"
 msgid "Block Rocking Badass"
-msgstr ""
+msgstr "Качающая кварталы задира"
 
 #. Character Select
 msgctxt "Character Select"
@@ -38,7 +38,7 @@ msgstr "Криминальный повелитель"
 #. Fabulous Celebrity Chef
 msgctxt "Fabulous Celebrity Chef"
 msgid "Fabulous Celebrity Chef"
-msgstr "Знаменитый шеф-повар"
+msgstr "Легендарный шеф-повар"
 
 #. ファイルを選択する
 msgctxt "File Select"
@@ -118,32 +118,32 @@ msgstr "ui_titleLogo"
 #. Influencer Extraordinaire
 msgctxt "Influencer Extraordinaire"
 msgid "Influencer Extraordinaire"
-msgstr ""
+msgstr "Экстраординарная инфлюэнсерша"
 
 #. Input Code
 msgctxt "Input Code"
 msgid "Input Code"
-msgstr ""
+msgstr "Ввод кода"
 
 #. Introducing, The Lethal...
 msgctxt "Introducing, The Lethal..."
 msgid "Introducing, The Lethal..."
-msgstr ""
+msgstr "Представляем: Смертельный..."
 
 #. Join
 msgctxt "Join"
 msgid "Join"
-msgstr ""
+msgstr "Подключение"
 
 #. Join Game?
 msgctxt "Join Game?"
 msgid "Join Game?"
-msgstr ""
+msgstr "Подключиться?"
 
 #. Lobby
 msgctxt "Lobby"
 msgid "Lobby"
-msgstr ""
+msgstr "Лобби"
 
 #. Options
 msgctxt "Options"
@@ -153,12 +153,12 @@ msgstr "Параметры"
 #. Ready
 msgctxt "Ready"
 msgid "Ready"
-msgstr ""
+msgstr "Вперёд"
 
 #. Sabu Family: Rich Boy Yakuza
 msgctxt "Sabu Family: Rich Boy Yakuza"
 msgid "Sabu Family: Rich Boy Yakuza"
-msgstr ""
+msgstr "Семья Сабу: якузда-мажор"
 
 msgctxt "Skip"
 msgid "Skip"
@@ -167,17 +167,17 @@ msgstr "Пропуск"
 #. Spellbound Brawler
 msgctxt "Spellbound Brawler"
 msgid "Spellbound Brawler"
-msgstr ""
+msgstr "Зачарованная воительница"
 
 #. Start
 msgctxt "Start"
 msgid "Start"
-msgstr ""
+msgstr "Старт"
 
 #. Swap with Me?
 msgctxt "Swap with Me?"
 msgid "Swap with Me?"
-msgstr ""
+msgstr "Поменяться?"
 
 #. リトライ?
 msgctxt "Try Again? (MINIGAME)"

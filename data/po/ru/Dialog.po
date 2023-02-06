@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-17 03:12\n"
-"PO-Revision-Date: 2023-02-02 02:47+0300\n"
+"PO-Revision-Date: 2023-02-05 13:47+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -508,41 +508,45 @@ msgstr "Идём в торговый центр, купим игру, и сра�
 #. いますぐってのは勘弁な… なんか腹が気持ちわりぃし…
 msgctxt "Passive012-02_Kunio"
 msgid "Maybe without the FAST part? My stomach doesn't feel so good."
-msgstr "Должен признаться, я немного проголодался..."
+msgstr "Может, без «СРАЗУ»? У меня в желудке урчит."
 
 #. ソッコーは無理かも… なんかお腹気持ち悪い…
 msgctxt "Passive012-02_Kyoko"
 msgid "Ooof, can we maybe not do the FAST part? My tummy doesn't feel so hot."
-msgstr "Сразу не получится... Я умираю от голода..."
+msgstr "Оу-у-у, может, без «СРАЗУ»... У меня в живот совсем пустой."
 
 #. すぐにってのは難しいかも。どうも胃の調子が悪くてね…
 msgctxt "Passive012-02_Marian"
 msgid "Maybe without the FAST part? My stomach doesn't feel so good."
-msgstr "Стоило сразу сказать. Я немного проголодалась."
+msgstr "Может, без «СРАЗУ»? У меня в желудке урчит."
 
 #. すぐってのはやめとかない？ なんかお腹気持ち悪いし…
 msgctxt "Passive012-02_Provie"
 msgid "Maybe without the FAST part? My stomach doesn't feel so good."
-msgstr "Можно сделать небольшую остановку? У меня в животе урчит..."
+msgstr "Может, без «СРАЗУ»? У меня в желудке урчит."
 
 #. すぐは無理かもしれねぇ。腹が気持ち悪ぃ…
 msgctxt "Passive012-02_Riki"
 msgid "Maybe without the FAST part? My stomach doesn't feel so good."
-msgstr "Сразу не получится. Я зверски голоден."
+msgstr "Может, без «СРАЗУ»? У меня в желудке урчит."
 
 #. ああ、オレも… 2ヵ月もソファに座りっぱなしだったのはまずかったか… これまでの経験値が水の泡だ…
 msgctxt "Passive012-03_Kunio"
 msgid ""
 "Yeah, mine either. Maybe we shouldn't have sat on the couch for 2 months "
 "straight. Ooof, my previous XP..."
-msgstr "И я тоже... Два месяца на диване даром не даются..."
+msgstr ""
+"Да, и у меня. Не следовало сидеть на диване два месяца подряд. О-ох, мой "
+"ОП..."
 
 #. 私もだよ。2ヶ月もソファに座りっぱなしだったからね。これまでの経験値も台無しだ…
 msgctxt "Passive012-03_Marian"
 msgid ""
 "Yeah, mine either. Maybe we shouldn't have sat on the couch for 2 months "
 "straight. Ooof, my previous XP..."
-msgstr "И я тоже. За два месяца сидения на диване я растеряла всю свою форму."
+msgstr ""
+"Да, и у меня. Не следовало сидеть на диване два месяца подряд. О-ох, мой "
+"ОП..."
 
 #. 実はあたしも。2ヶ月もソファに座りっぱなしだったからね。経験値たまってないし…
 msgctxt "Passive012-03_Misako"
@@ -550,14 +554,17 @@ msgid ""
 "Yeah, mine either. Maybe we shouldn't have sat on the couch for 2 months "
 "straight. Ooof, my previous XP..."
 msgstr ""
-"Ага, и я тоже. Я просидела на диване целых два месяца. Совсем не в форме."
+"Да, и у меня. Не следовало сидеть на диване два месяца подряд. О-ох, мой "
+"ОП..."
 
 #. うん、ウチも… 2ヵ月もソファに座りっぱなしだったしね… これまでの経験値が水の泡じゃん…
 msgctxt "Passive012-03_Provie"
 msgid ""
 "Yeah, mine either. Maybe we shouldn't have sat on the couch for 2 months "
 "straight. Ooof, my previous XP..."
-msgstr "Ага, я два месяца просидела на диване... Совершенно не в форме..."
+msgstr ""
+"Да, и у меня. Не следовало сидеть на диване два месяца подряд. О-ох, мой "
+"ОП..."
 
 #. 2ヵ月も座りっぱなしだったのはまずかったか… これまでの経験値が水の泡だ。
 msgctxt "Passive012-03_Riki"
@@ -565,32 +572,33 @@ msgid ""
 "Yeah, mine either. Maybe we shouldn't have sat on the couch for 2 months "
 "straight. Ooof, my previous XP..."
 msgstr ""
-"Не нужно было сидеть на диване два месяца... Я теперь никуда не гожусь."
+"Да, и у меня. Не следовало сидеть на диване два месяца подряд. О-ох, мой "
+"ОП..."
 
 #. ゼリーナチョビーンズも食いすぎたかもな。
 msgctxt "Passive012-04_Kunio"
 msgid "Or ate all that junk food."
-msgstr "А я, кажется, объелся желейными бобами."
+msgstr "И не есть вредную пищу."
 
 #. それかジェリーナチョビーンズの食べすぎ…
 msgctxt "Passive012-04_Kyoko"
 msgid "Or ate all that junk food."
-msgstr "Не нужно было есть столько желейных бобов..."
+msgstr "И не есть вредную пищу."
 
 #. それかジェリーナチョビーンズの食べすぎかな。
 msgctxt "Passive012-04_Marian"
 msgid "Or ate all that junk food."
-msgstr "Похоже, я объелась желейными бобами."
+msgstr "И не есть вредную пищу."
 
 #. ゼリーナチョビーンズも食べすぎたかも。
 msgctxt "Passive012-04_Provie"
 msgid "Or ate all that junk food."
-msgstr "Кажется, я объелась желейными бобами."
+msgstr "И не есть вредную пищу."
 
 #. それかナチョゼリービーンズを食いすぎたか。
 msgctxt "Passive012-04_Riki"
 msgid "Or ate all that junk food."
-msgstr "Или я съел слишком много желейных бобов?"
+msgstr "И не есть вредную пищу."
 
 #. ケンカのやり方すら忘れちまったな。イチから勉強し直すとするか。
 msgctxt "Passive012-05_Kunio"
@@ -602,19 +610,19 @@ msgstr "Я даже забыл, как драться. Придётся учит
 msgctxt "Passive012-05_Marian"
 msgid ""
 "I can't even remember how to fight. Guess we'll have to relearn everything."
-msgstr "Я не помню, как драться. Придётся учиться заново."
+msgstr "Я даже забыла, как драться. Придётся учиться всему заново."
 
 #. どうやって戦うんだっけ？ 一からベンキョーし直さないと。
 msgctxt "Passive012-05_Misako"
 msgid ""
 "I can't even remember how to fight. Guess we'll have to relearn everything."
-msgstr "Как правильно драться? Придётся учиться сначала."
+msgstr "Я даже забыла, как драться. Придётся учиться всему заново."
 
 #. ケンカのやり方も忘れちゃったし。イチから勉強しなおそっか。
 msgctxt "Passive012-05_Provie"
 msgid ""
 "I can't even remember how to fight. Guess we'll have to relearn everything."
-msgstr "Я забыла, как драться. Придётся учиться всему заново."
+msgstr "Я даже забыла, как драться. Придётся учиться всему заново."
 
 #. ケンカのやり方も忘れちまったな。イチから勉強し直すか。
 msgctxt "Passive012-05_Riki"
@@ -625,38 +633,38 @@ msgstr "Я не забыл, как драться. Придётся учитьс
 #. 勉強ぉ？ 退学になったのにまだ勉強しなきゃなんねぇのか？
 msgctxt "Passive012-06_Kunio"
 msgid "LEARN? Ugh, didn't we get expelled so we don't HAVE to learn anymore?"
-msgstr "УЧИТЬСЯ? Да я школу бросил, и всё равно приходится учиться?"
+msgstr "УЧИТЬСЯ? Нас ведь исключили, почему нам ОПЯТЬ нужно учиться?"
 
 #. ベンキョー？ 学校やめたんだから、もう勉強なんかいいじゃん…
 msgctxt "Passive012-06_Kyoko"
 msgid "LEARN? Ugh, didn't we get expelled so we don't HAVE to learn anymore?"
-msgstr "УЧИТЬСЯ? Я бросила школу не для того, чтобы опять учиться..."
+msgstr "УЧИТЬСЯ? Нас ведь исключили, почему нам ОПЯТЬ нужно учиться?"
 
 #. 勉強？ そんなの私とはもう無縁だと思ってたんだけどね…
 msgctxt "Passive012-06_Marian"
 msgid "LEARN? Ugh, didn't we get expelled so we don't HAVE to learn anymore?"
-msgstr "УЧИТЬСЯ? Я думала, меня это не касается..."
+msgstr "УЧИТЬСЯ? Нас ведь исключили, почему нам ОПЯТЬ нужно учиться?"
 
 #. 勉強ぉ～？ 退学になったのにまだ勉強しなきゃなんないの？
 msgctxt "Passive012-06_Provie"
 msgid "LEARN? Ugh, didn't we get expelled so we don't HAVE to learn anymore?"
-msgstr "УЧИТЬСЯ? Меня исключили из школы, и я всё равно должна учиться?"
+msgstr "УЧИТЬСЯ? Нас ведь исключили, почему нам ОПЯТЬ нужно учиться?"
 
 #. 勉強？ 自習するってのか？
 msgctxt "Passive012-06_Riki"
 msgid "LEARN? Ugh, didn't we get expelled so we don't HAVE to learn anymore?"
-msgstr "УЧИТЬСЯ? Ты собираешься учиться?"
+msgstr "УЧИТЬСЯ? Нас ведь исключили, почему нам ОПЯТЬ нужно учиться?"
 
 #. おい！あいつらが家から出てきたぞ！
 msgctxt "Passive012A-01_Bully"
 msgid "Hey, those chumps finally decided to show their faces again."
-msgstr "Эй! Они вышли из дома!"
+msgstr "Эй! Эти макаки наконец-то решили вновь высунуть свой нос."
 
 #. お前らには懸賞金がかかってるんだ！みんなやるぞ！
 msgctxt "Passive012A-02_Bully"
 msgid ""
 "We were all paid good money to make sure you don't get in the way again!"
-msgstr "Нас ждёт награда! Вперёд, ребята!"
+msgstr "Нужно отрабатывать деньги, не дайте им выйти на улицу!"
 
 #. ここはまだ通れねぇな。
 msgctxt "Passive014-01_Kunio"
@@ -696,17 +704,17 @@ msgstr "Я могу разнести ворота ударом ноги."
 #. 私ならこのくらい壊せるよ。
 msgctxt "Passive014-02_Marian"
 msgid "I could attack my way through the gate."
-msgstr "Можно разломать ворота."
+msgstr "Я могу разнести ворота."
 
 #. 吹っ飛ばしてやろうか。
 msgctxt "Passive014-02_Provie"
 msgid "I could attack my way through the gate."
-msgstr "Давай разнесём ворота."
+msgstr "Я могу разнести ворота."
 
 #. オレが吹っ飛ばしてやろうか。
 msgctxt "Passive014-02_Riki"
 msgid "I could attack my way through the gate."
-msgstr "Может, разломать ворота?"
+msgstr "Я могу разнести ворота."
 
 #. やり方覚えてんのか？
 msgctxt "Passive014-03_Kunio"
@@ -716,57 +724,57 @@ msgstr "Ты помнишь, как это делать?"
 #. やり方覚えてるの？
 msgctxt "Passive014-03_Marian"
 msgid "Do you remember how to do that?"
-msgstr "А ты помнишь, как?"
+msgstr "Ты помнишь, как это делать?"
 
 #. やり方覚えてんの？
 msgctxt "Passive014-03_Misako"
 msgid "Do you remember how to do that?"
-msgstr "А ты помнишь, как?"
+msgstr "Ты помнишь, как это делать?"
 
 #. やり方覚えてんの？
 msgctxt "Passive014-03_Provie"
 msgid "Do you remember how to do that?"
-msgstr "А ты помнишь, как?"
+msgstr "Ты помнишь, как это делать?"
 
 #. やり方覚えてんのか？
 msgctxt "Passive014-03_Riki"
 msgid "Do you remember how to do that?"
-msgstr "А ты помнишь, как?"
+msgstr "Ты помнишь, как это делать?"
 
 #. あんまり。
 msgctxt "Passive014-04_Kunio"
 msgid "Not really."
-msgstr "Не совсем."
+msgstr "Нет, не помню."
 
 #. 覚えてない。
 msgctxt "Passive014-04_Kyoko"
 msgid "Nope."
-msgstr "Нет, не помню."
+msgstr "Неа."
 
 #. 実はあんまり。
 msgctxt "Passive014-04_Marian"
 msgid "Not really."
-msgstr "Нет, не очень."
+msgstr "Нет, не помню."
 
 #. あんまり。
 msgctxt "Passive014-04_Provie"
 msgid "Not really."
-msgstr "Не совсем."
+msgstr "Нет, не помню."
 
 #. ぼちぼち。
 msgctxt "Passive014-04_Riki"
 msgid "Not really."
-msgstr "Забыл."
+msgstr "Нет, не помню."
 
 #. じゃあまた後にしようぜ。
 msgctxt "Passive014-05_Kunio"
 msgid "Let's come back later."
-msgstr "Тогда вернёмся попозже."
+msgstr "Тогда давай отложим на потом."
 
 #. 後で戻ってくるしかないね。
 msgctxt "Passive014-05_Marian"
 msgid "Let's come back later."
-msgstr "Ничего не остаётся, как вернуться потом."
+msgstr "Тогда давай отложим на потом."
 
 #. 後回しにしよ。
 msgctxt "Passive014-05_Misako"
@@ -776,68 +784,68 @@ msgstr "Тогда давай отложим на потом."
 #. じゃあまた後にしよ。
 msgctxt "Passive014-05_Provie"
 msgid "Let's come back later."
-msgstr "Вернёмся позже."
+msgstr "Тогда давай отложим на потом."
 
 #. また後にするか。
 msgctxt "Passive014-05_Riki"
 msgid "Let's come back later."
-msgstr "Может, позже?"
+msgstr "Тогда давай отложим на потом."
 
 #. ヤクザがうじゃうじゃいるな。いつもの週末より多いぞ。
 msgctxt "Passive015-01_Kunio"
 msgid ""
 "There sure are a lot of yakuza in here. Even more than a typical weekend."
-msgstr "Тут так много якудза, даже больше, чем обычно."
+msgstr "Тут так много якудза. Даже больше, чем в выходные."
 
 #. ヤクザだらけだ… 週末の人出以上だよ。
 msgctxt "Passive015-01_Marian"
 msgid ""
 "There sure are a lot of yakuza in here. Even more than a typical weekend."
-msgstr "Здесь полно якузда... Даже больше, чем в выходные."
+msgstr "Тут так много якудза. Даже больше, чем в выходные."
 
 #. ヤクザだらけじゃん。これ、いつもの週末の何倍？
 msgctxt "Passive015-01_Misako"
 msgid ""
 "There sure are a helluva lot of yakuza in here. Even more than a typical "
 "weekend."
-msgstr "Здесь полно якудза. Сегодня что, выходной?"
+msgstr "Тут просто куча якудза. Даже больше, чем в выходные."
 
 #. ここめっちゃヤクザいるじゃん。週末より多くない？
 msgctxt "Passive015-01_Provie"
 msgid ""
 "There sure are a lot of yakuza in here. Even more than a typical weekend."
-msgstr "Здесь так много якудза. Сегодня выходной?"
+msgstr "Тут так много якудза. Даже больше, чем в выходные."
 
 #. 何だよ、このヤクザの数は。週末より多いぞ。
 msgctxt "Passive015-01_Riki"
 msgid ""
 "There sure are a lot of yakuza in here. Even more than a typical weekend."
-msgstr "Сколько здесь якудза? Больше, чем в выходные."
+msgstr "Тут так много якудза. Даже больше, чем в выходные."
 
 #. 今日ってバーゲンの日だったか？
 msgctxt "Passive015-02_Kunio"
 msgid "Maybe there's a sale. Is it Black Friday?"
-msgstr "Может быть, сегодня распродажа?"
+msgstr "Может быть, сегодня распродажа? Или Чёрная Пятница?"
 
 #. セールやってるのかも！ バーゲンの日ってこんな感じじゃない？？
 msgctxt "Passive015-02_Kyoko"
 msgid "Maybe there's a sale. Is it Black Friday?"
-msgstr "Должно быть, сегодня распродажа! Разве не так это обычно выглядит?"
+msgstr "Может быть, сегодня распродажа? Или Чёрная Пятница?"
 
 #. セールでもやってるのかな？ バーゲン日並みだね。
 msgctxt "Passive015-02_Marian"
 msgid "Maybe there's a sale. Is it Black Friday?"
-msgstr "Может, сегодня день скидок?"
+msgstr "Может быть, сегодня распродажа? Или Чёрная Пятница?"
 
 #. 今日ってバーゲンの日だっけ？
 msgctxt "Passive015-02_Provie"
 msgid "Maybe there's a sale. Is it Black Friday?"
-msgstr "Сегодня день скидок?"
+msgstr "Может быть, сегодня распродажа? Или Чёрная Пятница?"
 
 #. 今日は安売りか何かか？
 msgctxt "Passive015-02_Riki"
 msgid "Maybe there's a sale. Is it Black Friday?"
-msgstr "Может, сегодня скидки или что-то того?"
+msgstr "Может быть, сегодня распродажа? Или Чёрная Пятница?"
 
 #. 買い物には行かねぇからな。目当てのゲーム買ってさっさと帰るぞ。
 msgctxt "Passive015-03_Kunio"
@@ -845,8 +853,8 @@ msgid ""
 "We're NOT going shopping right now. We're here for ONE video game, then back "
 "home."
 msgstr ""
-"Я не собираюсь ходить по магазинам. Нам нужно купить только ОДНУ игру и "
-"вернуться домой."
+"Мы НЕ пойдём по магазинам. Мы пришли сюда для того, чтобы купить только ОДНУ "
+"игру и вернуться домой."
 
 #. 今は見て回ってる時間はないよ。ゲームを買ったらすぐ帰るんだから。
 msgctxt "Passive015-03_Marian"
@@ -854,8 +862,8 @@ msgid ""
 "We're NOT going shopping right now. We're here for ONE video game, then back "
 "home."
 msgstr ""
-"У меня нет времени ходить по магазинам. Как только купим игру, сразу пойдём "
-"домой."
+"Мы НЕ пойдём по магазинам. Мы пришли сюда для того, чтобы купить только ОДНУ "
+"игру и вернуться домой."
 
 #. 見て回りたいとか言わないでよね。ゲーム1本買ってすぐ帰るって言ったでしょ。
 msgctxt "Passive015-03_Misako"
@@ -863,8 +871,8 @@ msgid ""
 "We're NOT going shopping right now. We're here for ONE video game, then back "
 "home."
 msgstr ""
-"Только не говори мне, хочешь прогуляться. Мы сюда пришли только за ОДНОЙ "
-"игрой и сразу назад, помнишь?"
+"Мы НЕ пойдём по магазинам. Мы пришли сюда для того, чтобы купить только ОДНУ "
+"игру и вернуться домой."
 
 #. 見て回ってる時間とかないし。目当てのゲーム買ったらさっさと帰るよ。
 msgctxt "Passive015-03_Provie"
@@ -872,140 +880,152 @@ msgid ""
 "We're NOT going shopping right now. We're here for ONE video game, then back "
 "home."
 msgstr ""
-"У меня нет времени ходить по магазинам. Как только купим игру, сразу пойдём "
-"домой."
+"Мы НЕ пойдём по магазинам. Мы пришли сюда для того, чтобы купить только ОДНУ "
+"игру и вернуться домой."
 
 #. 買い物には行かねぇぞ。目当てのゲーム買ってさっさと帰るからな。
 msgctxt "Passive015-03_Riki"
 msgid ""
 "We're NOT going shopping right now. We're here for ONE video game, then back "
 "home."
-msgstr "Я не пойду ни по каким магазинам. Только куплю игру и сразу домой."
+msgstr ""
+"Мы НЕ пойдём по магазинам. Мы пришли сюда для того, чтобы купить только ОДНУ "
+"игру и вернуться домой."
 
 #. ファッション意識高めようぜ。
 msgctxt "Passive015-04_Kunio"
 msgid "Fashion doesn't just happen, you know. You have to WORK at it."
-msgstr "Нужно быть в курсе моды."
+msgstr "Знаешь ли, модным просто так не становишься. Нужно РАБОТАТЬ над этим."
 
 #. ファッション意識高めなきゃ！
 msgctxt "Passive015-04_Kyoko"
 msgid "Fashion doesn't just happen, you know. You have to WORK at it."
-msgstr "Но мы должны быть в курсе моды!"
+msgstr "Знаешь ли, модным просто так не становишься. Нужно РАБОТАТЬ над этим."
 
 #. トレーニング意識高めないと。
 msgctxt "Passive015-04_Marian"
 msgid "Fashion doesn't just happen, you know. You have to WORK at it."
-msgstr "Нужно узнать побольше про тренировки."
+msgstr "Знаешь ли, модным просто так не становишься. Нужно РАБОТАТЬ над этим."
 
 #. ファッション意識高めてこーよ。
 msgctxt "Passive015-04_Provie"
 msgid "Fashion doesn't just happen, you know. You have to WORK at it."
-msgstr "Нужно быть в курсе моды."
+msgstr "Знаешь ли, модным просто так не становишься. Нужно РАБОТАТЬ над этим."
 
 #. もっとオシャレも意識してみろよ。
 msgctxt "Passive015-04_Riki"
 msgid "Fashion doesn't just happen, you know. You have to WORK at it."
-msgstr "Нужно поддерживать модный стиль."
+msgstr "Знаешь ли, модным просто так не становишься. Нужно РАБОТАТЬ над этим."
 
 #. 今はヤクザを意識しろよ。
 msgctxt "Passive015-05_Kunio"
 msgid "For now, try WORKING at clobbering these henchmen with me."
-msgstr "Якудза пока никуда не делись."
+msgstr ""
+"На данный момент нам следует ПОРАБОТАТЬ над приспешниками, что повисли на "
+"мне."
 
 #. 今はヤクザを意識して。
 msgctxt "Passive015-05_Marian"
 msgid "For now, try WORKING at clobbering these henchmen with me."
-msgstr "Мы пока не разобрались с якудза."
+msgstr ""
+"На данный момент нам следует ПОРАБОТАТЬ над приспешниками, что повисли на "
+"мне."
 
 #. 今意識すんのはヤクザ！
 msgctxt "Passive015-05_Misako"
 msgid "For now, try WORKING at clobbering these henchmen with me."
-msgstr "Якудза всё ещё в сознании!"
+msgstr ""
+"На данный момент нам следует ПОРАБОТАТЬ над приспешниками, что повисли на "
+"мне."
 
 #. 今はヤクザへの意識高めて。
 msgctxt "Passive015-05_Provie"
 msgid "For now, try WORKING at clobbering these henchmen with me."
-msgstr "Но якудза ещё никуда не делись."
+msgstr ""
+"На данный момент нам следует ПОРАБОТАТЬ над приспешниками, что повисли на "
+"мне."
 
 #. 今はヤクザを意識しろって。
 msgctxt "Passive015-05_Riki"
 msgid "For now, try WORKING at clobbering these henchmen with me."
-msgstr "Сначала нужно разобраться с якудза."
+msgstr ""
+"На данный момент нам следует ПОРАБОТАТЬ над приспешниками, что повисли на "
+"мне."
 
 #. へえへえ。
 msgctxt "Passive015-06_Kunio"
 msgid "Yeah, okay."
-msgstr "Ну да."
+msgstr "А, ну хорошо."
 
 #. はぁーい。
 msgctxt "Passive015-06_Kyoko"
 msgid "Yeah, okay."
-msgstr "А, ну да."
+msgstr "А, ну хорошо."
 
 #. ああ、そうだったね。
 msgctxt "Passive015-06_Marian"
 msgid "Yeah, okay."
-msgstr "Да, верно."
+msgstr "А, ну хорошо."
 
 #. はいはい。
 msgctxt "Passive015-06_Provie"
 msgid "Yeah, okay."
-msgstr "Да, точно."
+msgstr "А, ну хорошо."
 
 #. それもそうだな。
 msgctxt "Passive015-06_Riki"
 msgid "Yeah, okay."
-msgstr "Это тоже верно."
+msgstr "А, ну хорошо."
 
 #. よし、ゲーム屋に行くぞ！
 msgctxt "Passive018-01_Kunio"
 msgid "Next stop, the video game store!"
-msgstr "А теперь в видеоигровой магазин!"
+msgstr "А теперь в магазин видеоигр!"
 
 #. ゲーム屋はもうすぐだよ。
 msgctxt "Passive018-01_Marian"
 msgid "Next stop, the video game store!"
-msgstr "Видеоигровой магазин скоро откроется."
+msgstr "А теперь в магазин видеоигр!"
 
 #. テレビゲーム屋まであとちょっとじゃん！
 msgctxt "Passive018-01_Misako"
 msgid "Next stop, the video game store!"
-msgstr "До магазина видеоигр ещё немного!"
+msgstr "А теперь в магазин видеоигр!"
 
 #. よし、ゲーム屋に行くよ！
 msgctxt "Passive018-01_Provie"
 msgid "Next stop, the video game store!"
-msgstr "Ладно, а теперь в магазин видеоигр!"
+msgstr "А теперь в магазин видеоигр!"
 
 #. ゲーム屋に行こうぜ。
 msgctxt "Passive018-01_Riki"
 msgid "Next stop, the video game store!"
-msgstr "Пошли в магазин видеоигр."
+msgstr "А теперь в магазин видеоигр!"
 
 #. おい見ろよ、映画館で話題のアレ上映してるぞ。
 msgctxt "Passive018-02_Kunio"
 msgid "Wait... look what's playing at the movie theater."
-msgstr "Эй, смотри, в кинотеатре идёт новый фильм."
+msgstr "Эй... Смотри, в кинотеатре идёт новый фильм."
 
 #. あっ映画館だ！ 何やってるか見よーよー！
 msgctxt "Passive018-02_Kyoko"
 msgid "OMG, look what's playing at the movie theater!"
-msgstr "О, смотри, кинотеатр! Давай зайдём!"
+msgstr "УХ ТЫ, смотри, в кинотеатре идёт новый фильм!"
 
 #. あっと… 映画って今何やってるんだっけ…
 msgctxt "Passive018-02_Marian"
 msgid "Wait... look what's playing at the movie theater."
-msgstr "О, кино... Интересно, что сейчас крутят..."
+msgstr "Эй... Смотри, в кинотеатре идёт новый фильм."
 
 #. ちょっと待って、映画館で話題のアレ上映してるんだけど。
 msgctxt "Passive018-02_Provie"
 msgid "Wait... look what's playing at the movie theater."
-msgstr "Постой, в кино показывают новый фильм."
+msgstr "Эй... Смотри, в кинотеатре идёт новый фильм."
 
 #. おい、映画館で話題のやつ上映してんぞ。
 msgctxt "Passive018-02_Riki"
 msgid "Wait... look what's playing at the movie theater."
-msgstr "В кинотеатре новый фильм про крутых парней."
+msgstr "Эй... Смотри, в кинотеатре идёт новый фильм."
 
 #. んなもん見てる暇は…
 msgctxt "Passive018-03_Kunio"
@@ -1015,27 +1035,27 @@ msgstr "Нет времени смотреть..."
 #. 映画館に行ってる場合じゃ―
 msgctxt "Passive018-03_Marian"
 msgid "We really shouldn't..."
-msgstr "Только не в кино..."
+msgstr "Нет времени смотреть..."
 
 #. 映画館に行ってる場合じゃ―
 msgctxt "Passive018-03_Misako"
 msgid "We really shouldn't..."
-msgstr "Только не в кино..."
+msgstr "Нет времени смотреть..."
 
 #. いやそんなの見てる暇…
 msgctxt "Passive018-03_Provie"
 msgid "We really shouldn't..."
-msgstr "Нет-нет-нет-нет..."
+msgstr "Нет времени смотреть..."
 
 #. そんなもん見てる暇は…
 msgctxt "Passive018-03_Riki"
 msgid "We really shouldn't..."
-msgstr "У нас нет времени на это..."
+msgstr "Нет времени смотреть..."
 
 #. いいだろちょっとぐらい…
 msgctxt "Passive018-04_Kunio"
 msgid "Come on..."
-msgstr "Да ладно, всего на пару минут..."
+msgstr "Ну давай..."
 
 #. ねっねっ？ いいよねっ？
 msgctxt "Passive018-04_Kyoko"
@@ -1045,47 +1065,47 @@ msgstr "Ну пожа-а-а-алуйста?"
 #. 少しだけだからさ。
 msgctxt "Passive018-04_Marian"
 msgid "Come on..."
-msgstr "Хоть на немного."
+msgstr "Ну давай..."
 
 #. えー。いいじゃん…
 msgctxt "Passive018-04_Provie"
 msgid "Come on..."
-msgstr "Ну, пожалуйста..."
+msgstr "Ну давай..."
 
 #. 少しだけならいいだろ。
 msgctxt "Passive018-04_Riki"
 msgid "Come on..."
-msgstr "Хоть немного."
+msgstr "Ну давай..."
 
 #. はぁ、しゃーねーな、ゲーム屋は映画見てからにするか。
 msgctxt "Passive018-05_Kunio"
 msgid "Okay, next stop, a movie. THEN the video game store."
-msgstr "Ладно, но потом сразу в магазин."
+msgstr "Ладно. Сходим в кино, но потом - СРАЗУ в магазин видеоигр."
 
 #. わかったよ。映画館に行ったら、今度こそゲーム屋だからね。
 msgctxt "Passive018-05_Marian"
 msgid "Okay, next stop, a movie. THEN the video game store."
-msgstr "Ладно. Сходим в кино, но потом - сразу в магазин."
+msgstr "Ладно. Сходим в кино, но потом - СРАЗУ в магазин видеоигр."
 
 #. はぁ… じゃあ先に映画館ね。言っとくけど今回だけだから。
 msgctxt "Passive018-05_Misako"
 msgid "Okay, next stop, a movie. THEN the video game store."
-msgstr "Ну ладно... пойдём в кино. Но только в этот раз."
+msgstr "Ладно. Сходим в кино, но потом - СРАЗУ в магазин видеоигр."
 
 #. あーもう、わかった。じゃあ映画見てからのゲーム屋ね。
 msgctxt "Passive018-05_Provie"
 msgid "Okay, next stop, a movie. THEN the video game store."
-msgstr "Ну ладно. Но после фильма пойдём в магазин."
+msgstr "Ладно. Сходим в кино, но потом - СРАЗУ в магазин видеоигр."
 
 #. まったく… わかったよ。ゲーム屋は映画の後だな。
 msgctxt "Passive018-05_Riki"
 msgid "Okay, next stop, a movie. THEN the video game store."
-msgstr "Ладно, но после кино - сразу в магазин."
+msgstr "Ладно. Сходим в кино, но потом - СРАЗУ в магазин видеоигр."
 
 #. おっしゃ。
 msgctxt "Passive018-06_Kunio"
 msgid "Great."
-msgstr "Конечно!"
+msgstr "Отлично."
 
 #. やったー！
 msgctxt "Passive018-06_Kyoko"
@@ -1095,17 +1115,17 @@ msgstr "Ура!"
 #. もちろん。
 msgctxt "Passive018-06_Marian"
 msgid "Great."
-msgstr "Конечно."
+msgstr "Отлично."
 
 #. よっしゃ。
 msgctxt "Passive018-06_Provie"
 msgid "Great."
-msgstr "Хорошо."
+msgstr "Отлично."
 
 #. やりぃ。
 msgctxt "Passive018-06_Riki"
 msgid "Great."
-msgstr "Так и сделаем."
+msgstr "Отлично."
 
 #. CUT
 msgctxt "Passive018B-01_Misako"
@@ -1155,52 +1175,52 @@ msgstr "CUT"
 #. あのときケンを止めたのってだれだったんだろうな？
 msgctxt "Passive027-01_Kunio"
 msgid "So who do you think it was that stopped Ken from killing us?"
-msgstr "Как думаешь, почему в прошлый раз Кен не покончил с нами?"
+msgstr "Как думаешь, кто не дал Кену убить нас?"
 
 #. そういえば、あのときあいつの邪魔したのってだれだったんだろ？
 msgctxt "Passive027-01_Kyoko"
 msgid "So who do you think it was that stopped Ken from killing us?"
-msgstr "Интересно, кто в прошлый раз оказался на пути Кена?"
+msgstr "Как думаешь, кто не дал Кену убить нас?"
 
 #. そういえば、あのときあの男の邪魔をしたのは誰だったんだろうね。
 msgctxt "Passive027-01_Marian"
 msgid "So who do you think it was that stopped Ken from killing us?"
-msgstr "Любопытно, кто тогда встал на пути Кена."
+msgstr "Как думаешь, кто не дал Кену убить нас?"
 
 #. あのときケンを止めたのってだれだったんだろうね？
 msgctxt "Passive027-01_Provie"
 msgid "So who do you think it was that stopped Ken from killing us?"
-msgstr "Интересно, кто тогда остановил Кена?"
+msgstr "Как думаешь, кто не дал Кену убить нас?"
 
 #. あのときケンを止めたのはだれだったんだろうな？
 msgctxt "Passive027-01_Riki"
 msgid "So who do you think it was that stopped Ken from killing us?"
-msgstr "Интересно, кто тогда остановил Кена?"
+msgstr "Как думаешь, кто не дал Кену убить нас?"
 
 #. そのうちわかるだろ。
 msgctxt "Passive027-02_Kunio"
 msgid "Guess we'll find out soon enough."
-msgstr "Скоро узнаем."
+msgstr "Думаю, мы скоро это выясним."
 
 #. じきにわかると思うよ。
 msgctxt "Passive027-02_Marian"
 msgid "Guess we'll find out soon enough."
-msgstr "Я думаю, мы скоро это выясним."
+msgstr "Думаю, мы скоро это выясним."
 
 #. そのうちわかるんじゃない？
 msgctxt "Passive027-02_Misako"
 msgid "Guess we'll find out soon enough."
-msgstr "Скоро узнаем, наверно?"
+msgstr "Думаю, мы скоро это выясним."
 
 #. そのうちわかるでしょ。
 msgctxt "Passive027-02_Provie"
 msgid "Guess we'll find out soon enough."
-msgstr "Очень скоро мы это узнаем."
+msgstr "Думаю, мы скоро это выясним."
 
 #. そのうちわかんだろ。
 msgctxt "Passive027-02_Riki"
 msgid "Guess we'll find out soon enough."
-msgstr "Скоро узнаем."
+msgstr "Думаю, мы скоро это выясним."
 
 #. どうした？ 浮かない顔だな。
 msgctxt "Passive030-01_Kunio"
@@ -12974,37 +12994,34 @@ msgctxt "Portrait004-05_Megumi"
 msgid ""
 "Hmm. Hurry to your desk. And watch yourselves. I'll be keeping a knife on "
 "you."
-msgstr "Х-м-м. Хорошо, садитесь за парту. И следите за собой. "
+msgstr ""
+"Х-м-м. Хорошо, садитесь за парту. И ведите себя тихо. У меня нет времени вас "
+"лечить."
 
 #. それって「目を離さない」の間違いじゃ？
-#, fuzzy
 msgctxt "Portrait004-06_Kunio"
 msgid "Don't you mean EYE?"
-msgstr "Ты хотел сказать «на дверь»?"
+msgstr "Вы хотели сказать «учить»?"
 
 #. 目を離さないの間違いじゃ…
-#, fuzzy
 msgctxt "Portrait004-06_Kyoko"
 msgid "Don't you mean EYE?"
-msgstr "Ты хотел сказать «на дверь»?"
+msgstr "Вы хотели сказать «учить»?"
 
 #. 目を離さないということですか？
-#, fuzzy
 msgctxt "Portrait004-06_Marian"
 msgid "Don't you mean EYE?"
-msgstr "Ты хотел сказать «на дверь»?"
+msgstr "Вы хотели сказать «учить»?"
 
 #. それって「目を離さない」の間違いじゃん？
-#, fuzzy
 msgctxt "Portrait004-06_Provie"
 msgid "Don't you mean EYE?"
-msgstr "Ты хотел сказать «на дверь»?"
+msgstr "Вы хотели сказать «учить»?"
 
 #. 目を離さないって言いたいのか？
-#, fuzzy
 msgctxt "Portrait004-06_Riki"
 msgid "Don't you mean EYE?"
-msgstr "Ты хотел сказать «на дверь»?"
+msgstr "Вы хотели сказать «учить»?"
 
 #. 何？ 私に口答えかしら？ 放課後、校長室でじっくり話し合った方がよさそうね。
 msgctxt "Portrait004-07_Megumi"
@@ -13012,6 +13029,8 @@ msgid ""
 "That's what I said. Are you questioning me? Perhaps this would be best-"
 "discussed after hours in the Principal's office."
 msgstr ""
+"Я сказала то, что сказала. Или вы сомневаетесь в моих словах? Возможно, это "
+"стоит обсудить в кабинете директора после уроков?"
 
 #. い、いや、大丈夫。たぶんこいつの耳に何か詰まってるんだ。
 msgctxt "Portrait004-08_Kunio"
@@ -14352,7 +14371,7 @@ msgstr ""
 #. 何言ってんのかさっぱりだ…
 msgctxt "Portrait016-12_Kunio"
 msgid "I don't understand what any of that is."
-msgstr "Я не ничего не понял."
+msgstr "Я не ничего из этого не понял."
 
 #. んー、あんまわかんないや。
 msgctxt "Portrait016-12_Kyoko"
@@ -14362,17 +14381,17 @@ msgstr "Я поняла от силы три слова."
 #. 何を言ってるのかさっぱりだよ…
 msgctxt "Portrait016-12_Marian"
 msgid "I don't understand what any of that is."
-msgstr "Я не ничего не поняла."
+msgstr "Я не ничего из этого не поняла."
 
 #. 何言ってるのか全然わかんないんだけど！
 msgctxt "Portrait016-12_Provie"
 msgid "I don't understand what any of that is."
-msgstr "Я не ничего не поняла."
+msgstr "Я не ничего из этого не поняла."
 
 #. 面白そうだ、覚えておくよ。
 msgctxt "Portrait016-12_Riki"
 msgid "I don't understand what any of that is."
-msgstr "Я не ничего не понял."
+msgstr "Я не ничего из этого не понял."
 
 #. まあいっか。テレビゲーム屋さんならモールの反対側にあるわ。場所送っとくね。
 msgctxt "Portrait016-13_Kaori"
@@ -14582,7 +14601,7 @@ msgstr "Не знал, что у нас есть мэр."
 msgctxt "Portrait021-08_Ken"
 msgid ""
 "He's not the MAYOR. He's the head of the Sanwakai criminal organization."
-msgstr "Он не МЭР. Он глава криминальной организации Санвакай."
+msgstr "Он не МЭР. Он - глава криминальной организации Санвакай."
 
 #. 自分のことを犯罪者って呼ぶのはどうなんだよ？
 msgctxt "Portrait021-09_Kunio"
@@ -14612,22 +14631,22 @@ msgstr "Разве преступники не должны скрывать, ч
 #. オレらはダテや酔狂でヤクザやってるわけじゃないんでな。
 msgctxt "Portrait021-10_Ken"
 msgid "Eh, I'm not one for pomp and circumstances."
-msgstr ""
+msgstr "Хе, я не поклонник клише и тропов."
 
 #. そうか？
 msgctxt "Portrait021-11_Kunio"
 msgid "Could have fooled me."
-msgstr ""
+msgstr "Чуть меня не провёл."
 
 #. パテや水餃子？
 msgctxt "Portrait021-11_Kyoko"
 msgid "Pom poms and circus dances?"
-msgstr ""
+msgstr "Клещей и трёпов?"
 
 #. そうは思えないけど。
 msgctxt "Portrait021-11_Marian"
 msgid "Could have fooled me."
-msgstr ""
+msgstr "Чуть меня не провёл."
 
 #. CHARA SUB LINE
 msgctxt "Portrait021-11_Misako"
@@ -14637,12 +14656,12 @@ msgstr "CHARA SUB LINE"
 #. そうなの？
 msgctxt "Portrait021-11_Provie"
 msgid "Could have fooled me."
-msgstr ""
+msgstr "Чуть меня не провёл."
 
 #. だからどうした？
 msgctxt "Portrait021-11_Riki"
 msgid "Could have fooled me."
-msgstr ""
+msgstr "Чуть меня не провёл."
 
 #. お前らはオレの姉貴をボコボコにして、うちにドロを塗った。
 msgctxt "Portrait021-12_Ken"
@@ -16096,9 +16115,9 @@ msgid ""
 "Yeah, that ain't happening. Know why? Cause it's my JOB to get every last "
 "bag off the truck and INTO that vault. And I ALWAYS get the job done."
 msgstr ""
-"Ага, только этого не случиться. Знаете, почему? Потому что моя РАБОТА "
-"состоит в том, чтобы перетащить все до единого мешки из фургона в сейф. А я "
-"ВСЕГДА выполняю свою работу."
+"Ага, только этого не случится. Знаете, почему? Потому что моя РАБОТА состоит "
+"в том, чтобы перетащить все до единого мешки из фургона в сейф. А я ВСЕГДА "
+"выполняю свою работу."
 
 #. タワーの一件は？
 msgctxt "Portrait031-08_Kunio"
@@ -22440,57 +22459,57 @@ msgstr "Замолкни!"
 #. 打ち解けんのに時間かかりそうだな。
 msgctxt "Portrait101-09_Kunio"
 msgid "She might take a bit to warm up to us."
-msgstr ""
+msgstr "Похоже, нужно некоторое время, чтобы добиться её расположения."
 
 #. やっぱちょっと警戒されてる…
 msgctxt "Portrait101-09_Kyoko"
 msgid "She might take a bit to warm up to us."
-msgstr ""
+msgstr "Похоже, нужно некоторое время, чтобы добиться её расположения."
 
 #. 警戒されてるねえ。
 msgctxt "Portrait101-09_Marian"
 msgid "She might take a bit to warm up to us."
-msgstr ""
+msgstr "Похоже, нужно некоторое время, чтобы добиться её расположения."
 
 #. 打ち解けるのに時間かかりそー。
 msgctxt "Portrait101-09_Provie"
 msgid "She might take a bit to warm up to us."
-msgstr ""
+msgstr "Похоже, нужно некоторое время, чтобы добиться её расположения."
 
 #. 嫌われるまでが早かったな。
 msgctxt "Portrait101-09_Riki"
 msgid "She might take a bit to warm up to us."
-msgstr ""
+msgstr "Похоже, нужно некоторое время, чтобы добиться её расположения."
 
 #. オレら仲良くなりにくいオーラでも出てんのか？
 msgctxt "Portrait101-10_Kunio"
 msgid "We tend to have that effect on people."
-msgstr ""
+msgstr "Может, вокруг нас какая-то плохая аура?"
 
 #. よくあることだよ。
 msgctxt "Portrait101-10_Marian"
 msgid "We tend to have that effect on people."
-msgstr ""
+msgstr "Может, вокруг нас какая-то плохая аура?"
 
 #. いつものことじゃん。
 msgctxt "Portrait101-10_Misako"
 msgid "We tend to have that effect on people."
-msgstr ""
+msgstr "Может, вокруг нас какая-то плохая аура?"
 
 #. ウチらそんなに怖がらせるオーラでも出てる？
 msgctxt "Portrait101-10_Provie"
 msgid "We tend to have that effect on people."
-msgstr ""
+msgstr "Может, вокруг нас какая-то плохая аура?"
 
 #. いつものことだろ。
 msgctxt "Portrait101-10_Riki"
 msgid "We tend to have that effect on people."
-msgstr ""
+msgstr "Может, вокруг нас какая-то плохая аура?"
 
 #. オレらはヤクザじゃねぇよ。それどころかあいつらをシメて回ってるぞ。
 msgctxt "Portrait101-11_Kunio"
 msgid "We're not with the yakuza. In fact, we're also fighting them."
-msgstr ""
+msgstr "Мы не заодно с якудза. На самом деле, мы боремся с ними."
 
 #. ちょっとぉー！ あたしたちヤクザじゃないのに！？ むしろヤクザと戦ってるんだよ！
 msgctxt "Portrait101-11_Kyoko"
@@ -22498,240 +22517,233 @@ msgid ""
 "You've got it wrong! We're not with the yakuza. In fact, we're also fighting "
 "them."
 msgstr ""
+"Ты всё не так подумала! Мы не заодно с якудза. На самом деле, мы боремся с "
+"ними."
 
 #. 私たちはヤクザと戦ってる側だってのに。
 msgctxt "Portrait101-11_Marian"
 msgid "We're not with the yakuza. In fact, we're also fighting them."
-msgstr ""
+msgstr "Мы не заодно с якудза. На самом деле, мы боремся с ними."
 
 #. ウチらはヤクザじゃないよ。それどころかあいつらをこらしめて回ってるし。
 msgctxt "Portrait101-11_Provie"
 msgid "We're not with the yakuza. In fact, we're also fighting them."
-msgstr ""
+msgstr "Мы не заодно с якудза. На самом деле, мы боремся с ними."
 
 #. オレたちはヤクザじゃない。それどこかあいつらの敵だ。
 msgctxt "Portrait101-11_Riki"
 msgid "We're not with the yakuza. In fact, we're also fighting them."
-msgstr ""
+msgstr "Мы не заодно с якудза. На самом деле, мы боремся с ними."
 
 #. ああ。つまりオレらは味方同士ってこった。ここはひとつ手を組まねぇか？
 msgctxt "Portrait101-12_Kunio"
 msgid "Right. That basically puts us on the same side. We should team up."
-msgstr ""
+msgstr "Верно. Это значит, что мы на одной стороне. Нам нужно объединиться."
 
 #. そう、あんたとも味方同士ってわけだ。だから手を組まない？
 msgctxt "Portrait101-12_Marian"
 msgid "Right. That basically puts us on the same side. We should team up."
-msgstr ""
+msgstr "Верно. Это значит, что мы на одной стороне. Нам нужно объединиться."
 
 #. そうそう。…ねぇ、あんたとあたしたちは味方みたいなもんなの。だから手ぇ組まない？
 msgctxt "Portrait101-12_Misako"
 msgid "Right. In fact, that kinda puts us on the same side. We should team up!"
-msgstr ""
+msgstr "Верно. На самом деле, мы на одной стороне. Нам нужно объединиться!"
 
 #. そう、つまりウチらは味方同士っていうか、同じプルーヴィ同士だから手を組まない？
 msgctxt "Portrait101-12_Provie"
 msgid "Right. That basically puts us on the same side. We should team up."
-msgstr ""
+msgstr "Верно. Это значит, что мы на одной стороне. Нам нужно объединиться."
 
 #. 要するに味方同士だ、戦えるなら仲間にならないか？
 msgctxt "Portrait101-12_Riki"
 msgid "Right. That basically puts us on the same side. We should team up."
-msgstr ""
+msgstr "Верно. Это значит, что мы на одной стороне. Нам нужно объединиться."
 
 #. 乗ってくれそうか？
 msgctxt "Portrait101-13_Kunio"
 msgid "Is it working?"
-msgstr ""
+msgstr "Сработало?"
 
 #. 大丈夫そ？
 msgctxt "Portrait101-13_Kyoko"
 msgid "Is it working?"
-msgstr ""
+msgstr "Сработало?"
 
 #. 乗ってくれるかな？
 msgctxt "Portrait101-13_Marian"
 msgid "Is it working?"
-msgstr ""
+msgstr "Сработало?"
 
 #. 上手くいってる？
 msgctxt "Portrait101-13_Provie"
 msgid "Is it working?"
-msgstr ""
+msgstr "Сработало?"
 
 #. 上手くいきそうか？
 msgctxt "Portrait101-13_Riki"
 msgid "Is it working?"
-msgstr ""
+msgstr "Сработало?"
 
 #. わかんねぇな。顔はまだ怒ってっけど。
 msgctxt "Portrait101-14_Kunio"
 msgid "I can't tell. She still looks pretty intense."
-msgstr ""
+msgstr "Не знаю. Она по-прежнему выглядит напряжённо."
 
 #. どうだろう。まだ表情は険しいね。
 msgctxt "Portrait101-14_Marian"
 msgid "I can't tell. She still looks pretty intense."
-msgstr ""
+msgstr "Не знаю. Она по-прежнему выглядит напряжённо."
 
 #. さあ。あいつ、まだ険しい顔してるし。
 msgctxt "Portrait101-14_Misako"
 msgid "I can't tell. She still looks pretty intense."
-msgstr ""
+msgstr "Не знаю. Она по-прежнему выглядит напряжённо."
 
 #. わかんない。顔はまだ怒ってるけど。
 msgctxt "Portrait101-14_Provie"
 msgid "I can't tell. She still looks pretty intense."
-msgstr ""
+msgstr "Не знаю. Она по-прежнему выглядит напряжённо."
 
 #. どうだろうな。かなり怖い顔してるが。
 msgctxt "Portrait101-14_Riki"
 msgid "I can't tell. She still looks pretty intense."
-msgstr ""
+msgstr "Не знаю. Она по-прежнему выглядит напряжённо."
 
 #. あの顔が普通なんじゃねぇのか？
 msgctxt "Portrait101-15_Kunio"
 msgid "Maybe that's just her standard expression."
-msgstr ""
+msgstr "Может быть, это её обычное состояние."
 
 #. もともとそんな顔なんじゃない？
 msgctxt "Portrait101-15_Kyoko"
 msgid "Maybe that's just her standard expression."
-msgstr ""
+msgstr "Может быть, это её обычное состояние."
 
 #. もともとそんな顔なのかもよ。
 msgctxt "Portrait101-15_Marian"
 msgid "Maybe that's just her standard expression."
-msgstr ""
+msgstr "Может быть, это её обычное состояние."
 
 #. いつもあんな顔だから大丈夫。
 msgctxt "Portrait101-15_Provie"
 msgid "Maybe that's just her standard expression."
-msgstr ""
+msgstr "Может быть, это её обычное состояние."
 
 #. たぶん、そういう顔なんだよ。
 msgctxt "Portrait101-15_Riki"
 msgid "Maybe that's just her standard expression."
-msgstr ""
+msgstr "Может быть, это её обычное состояние."
 
 #. よしわかった。私が決めた。お前らはヤクザだ！ダンスにきたついでに…死ね！
 msgctxt "Portrait101-16_Provie"
 msgid "All right, you yakuza scum. You came to dance but be prepared to DIE!"
-msgstr ""
+msgstr "Ну всё, отбросы якудза. Вы пришли на танец, но здесь вас ждёт СМЕРТЬ!"
 
 #. ほらな、オレら悪いヤツらじゃなかっただろ？
-#, fuzzy
 msgctxt "Portrait103-01_Kunio"
 msgid "See? I told you we weren't the bad guys."
-msgstr "Видишь? Я же говорил, что мы не потерялись."
+msgstr "Видишь? Я же говорил, что мы не из плохих ребят."
 
 #. いい？ 私たちはあんたの敵じゃないの。
-#, fuzzy
 msgctxt "Portrait103-01_Marian"
 msgid "See? I told you we weren't the bad guys."
-msgstr "Видишь? Я же говорил, что мы не потерялись."
+msgstr "Видишь? Я же говорила, что мы не из плохих ребят."
 
 #. わかった？ あたしたちは悪いヤツとは違うの！
-#, fuzzy
 msgctxt "Portrait103-01_Misako"
 msgid "SEE? Told you we weren't the bad guys!"
-msgstr "Видишь? Я же говорил, что мы не потерялись."
+msgstr "ВИДИШЬ? Я же говорила, что мы не из плохих ребят!"
 
 #. ね？ ウチら悪者じゃなかったでしょ。
-#, fuzzy
 msgctxt "Portrait103-01_Provie"
 msgid "See? I told you we weren't the bad guys."
-msgstr "Видишь? Я же говорил, что мы не потерялись."
+msgstr "Видишь? Я же говорила, что мы не из плохих ребят."
 
 #. だから悪党とは違うって言っただろ。
-#, fuzzy
 msgctxt "Portrait103-01_Riki"
 msgid "See? I told you we weren't the bad guys."
-msgstr "Видишь? Я же говорил, что мы не потерялись."
+msgstr "Видишь? Я же говорил, что мы не из плохих ребят."
 
 #. でも殴り合いは大好きなんだろ。
 msgctxt "Portrait103-02_Provie"
 msgid "That doesn't prove anything, other than you like fighting."
-msgstr ""
+msgstr "Это не доказывает ничего, кроме того, что вы любите драться."
 
 #. あとダンスもな。ダンスといえば…
 msgctxt "Portrait103-03_Kunio"
 msgid "And dancing. Speaking of..."
-msgstr ""
+msgstr "И танцевать. Кстати говоря..."
 
 #. あとダンスもね！ そういえばさー…
 msgctxt "Portrait103-03_Kyoko"
 msgid "And dancing. Speaking of..."
-msgstr ""
+msgstr "И танцевать. Кстати говоря..."
 
 #. ダンスも好きだよ。ダンスと言えば…
 msgctxt "Portrait103-03_Marian"
 msgid "And dancing. Speaking of..."
-msgstr ""
+msgstr "И танцевать. Кстати говоря..."
 
 #. あとダンスもね。ダンスといえば…
 msgctxt "Portrait103-03_Provie"
 msgid "And dancing. Speaking of..."
-msgstr ""
+msgstr "И танцевать. Кстати говоря..."
 
 #. まぁな。ダンスは好きだが、、そういえばダンスと言えば…
 msgctxt "Portrait103-03_Riki"
 msgid "And dancing. Speaking of..."
-msgstr ""
+msgstr "И танцевать. Кстати говоря..."
 
 #. あとにしろ。
 msgctxt "Portrait103-04_Kunio"
 msgid "Not the time."
-msgstr ""
+msgstr "Сейчас не время."
 
 #. 今はそれどころじゃないよ。
 msgctxt "Portrait103-04_Marian"
 msgid "Not the time."
-msgstr ""
+msgstr "Сейчас не время."
 
 #. 後にして。
 msgctxt "Portrait103-04_Misako"
 msgid "NOT the time."
-msgstr ""
+msgstr "Сейчас не время."
 
 #. あとにして。
 msgctxt "Portrait103-04_Provie"
 msgid "Not the time."
-msgstr ""
+msgstr "Сейчас не время."
 
 #. 後にしろよ。
 msgctxt "Portrait103-04_Riki"
 msgid "Not the time."
-msgstr ""
+msgstr "Сейчас не время."
 
 #. はぁ… つまんねぇの。
-#, fuzzy
 msgctxt "Portrait103-05_Kunio"
 msgid "Sigh... it's never the time."
-msgstr "Эх... они никогда не хотят."
+msgstr "Эх... никогда нет времени."
 
 #. ぶぅー…
 msgctxt "Portrait103-05_Kyoko"
 msgid "Shoot."
-msgstr ""
+msgstr "Чёрт."
 
 #. はぁ… それもそうか。
-#, fuzzy
 msgctxt "Portrait103-05_Marian"
 msgid "Sigh... it's never the time."
-msgstr "Эх... они никогда не хотят."
+msgstr "Эх... никогда нет времени."
 
 #. ええー… つまんないの。
-#, fuzzy
 msgctxt "Portrait103-05_Provie"
 msgid "Sigh... it's never the time."
-msgstr "Эх... они никогда не хотят."
+msgstr "Эх... никогда нет времени."
 
 #. …そうだな。
-#, fuzzy
 msgctxt "Portrait103-05_Riki"
 msgid "Sigh... it's never the time."
-msgstr "Эх... они никогда не хотят."
+msgstr "Эх... никогда нет времени."
 
 #. まぁ、あんたたちの戦い方見た感じ、この辺のヤクザとは無関係みたいだね。
 msgctxt "Portrait103-06_Provie"
@@ -22739,6 +22751,8 @@ msgid ""
 "Well yeah, I can tell from your fighting style, you got nothing to do with "
 "these yakuza goons I been busting up recently."
 msgstr ""
+"Ну да, судя по вашему стилю боя, бандиты якудза, с которыми я разобралась, "
+"вам и в подмётки не сравнятся."
 
 #. ウチはプルーヴィ。
 msgctxt "Portrait103-07_Provie"
@@ -23223,66 +23237,70 @@ msgid ""
 "embarrassing info to shut them up. I dunno if it's related to Ken and Chris, "
 "but that was my next stop. They hacked my account this morning."
 msgstr ""
+"Похоже, компанию Технос захватили активисты соцсетей. Они взламывают "
+"аккаунты людей и публикуют о них постыдную информацию, чтобы заставить их "
+"замолчать. Не знаю, связано ли это с Кеном и Крис, но я собиралась туда "
+"наведаться. Утром они взломали и мой аккаунт."
 
 #. 一緒に行くぞ！
 msgctxt "Portrait103-33_Kunio"
 msgid "Let us come with you!"
-msgstr ""
+msgstr "Пойдём с нами!"
 
 #. 私たちも行くよ。
 msgctxt "Portrait103-33_Marian"
 msgid "Let us come with you!"
-msgstr ""
+msgstr "Пойдём с нами!"
 
 #. あたしたちも行く。
 msgctxt "Portrait103-33_Misako"
 msgid "Let us come with you!"
-msgstr ""
+msgstr "Пойдём с нами!"
 
 #. 一緒に行くよ。
 msgctxt "Portrait103-33_Provie"
 msgid "Let us come with you!"
-msgstr ""
+msgstr "Пойдём с нами!"
 
 #. オレたちも行くぞ。
 msgctxt "Portrait103-33_Riki"
 msgid "Let us come with you!"
-msgstr ""
+msgstr "Пойдём с нами!"
 
 #. 一人で行くつもりだったんだけど。
 msgctxt "Portrait103-34_Provie"
 msgid "I dunno, I'm more into the solo thing..."
-msgstr ""
+msgstr "Не знаю, мне больше по душе в одиночку..."
 
 #. そりゃひとりより大勢の方が心強いだろ。
 msgctxt "Portrait103-35_Kunio"
 msgid "But 3 is better than 2, that's basic math."
-msgstr ""
+msgstr "Но три лучше чем два, это же основы математики."
 
 #. ひとりより3人の方がいいって！
 msgctxt "Portrait103-35_Kyoko"
 msgid "But 3 is better than 2! That's just math."
-msgstr ""
+msgstr "Но три лучше чем два! Это же основы математики."
 
 #. 味方は多い方がいいだろう？
 msgctxt "Portrait103-35_Marian"
 msgid "But 3 is better than 2, that's basic math."
-msgstr ""
+msgstr "Но три лучше чем два, это же основы математики."
 
 #. ひとりで行くより大勢で行った方がいいじゃん。
 msgctxt "Portrait103-35_Provie"
 msgid "But 3 is better than 2, that's basic math."
-msgstr ""
+msgstr "Но три лучше чем два, это же основы математики."
 
 #. ひとりより大勢の方が数で有利だ。
 msgctxt "Portrait103-35_Riki"
 msgid "But 3 is better than 2, that's basic math."
-msgstr ""
+msgstr "Но три лучше чем два, это же основы математики."
 
 #. まぁ、それも一理あるかもね。
 msgctxt "Portrait103-36_Provie"
 msgid "Heh, well not sure I can argue with that."
-msgstr ""
+msgstr "Ха, вряд ли я могу с этим поспорить."
 
 #. クリスを見つけ出して、一緒にあのケンって野郎をぶっ飛ばそうぜ。
 msgctxt "Portrait103-37_Kunio"
@@ -23492,57 +23510,57 @@ msgstr "Тройняшки."
 msgctxt "Portrait104-09_Jack"
 msgid ""
 "My name's Jack. And there ain't no way in hell you're getting inside here."
-msgstr ""
+msgstr "Меня зовут Джек. И вы ни за что на свете не попадёте внутрь."
 
 #. それ、ダンスゲームやらされるパターンだろ？
 msgctxt "Portrait104-10_Kunio"
 msgid "Let me guess, unless we get a high score at some dance game?"
-msgstr ""
+msgstr "Дай-ка угадаю, пока мы не установим рекорд в танцевальной видеоигре?"
 
 #. ダンスゲームでトップ5に入れとか言うんでしょ？
 msgctxt "Portrait104-10_Marian"
 msgid "Let me guess, unless we get a high score at some dance game?"
-msgstr ""
+msgstr "Дай-ка угадаю, пока мы не установим рекорд в танцевальной видеоигре?"
 
 #. ダンスのゲームでトップ5入ってこいとか言うんでしょ？
 msgctxt "Portrait104-10_Misako"
 msgid "Let me guess, unless we get a high score at some dance game?"
-msgstr ""
+msgstr "Дай-ка угадаю, пока мы не установим рекорд в танцевальной видеоигре?"
 
 #. それってダンスゲームやらされるパターンっしょ？
 msgctxt "Portrait104-10_Provie"
 msgid "Let me guess, unless we get a high score at some dance game?"
-msgstr ""
+msgstr "Дай-ка угадаю, пока мы не установим рекорд в танцевальной видеоигре?"
 
 #. ダンスゲームをやってこいって言うんだろ？
 msgctxt "Portrait104-10_Riki"
 msgid "Let me guess, unless we get a high score at some dance game?"
-msgstr ""
+msgstr "Дай-ка угадаю, пока мы не установим рекорд в танцевальной видеоигре?"
 
 #. それならもうやったぞ。
 msgctxt "Portrait104-11_Kunio"
 msgid "Because we already did that."
-msgstr ""
+msgstr "Потому что мы уже это сделали."
 
 #. それならもう終わったよ！
 msgctxt "Portrait104-11_Kyoko"
 msgid "Cause we already did that, sucka!"
-msgstr ""
+msgstr "Потому что мы уже это сделали, неудачник!"
 
 #. それならもうやってきたよ。
 msgctxt "Portrait104-11_Marian"
 msgid "Because we already did that."
-msgstr ""
+msgstr "Потому что мы уже это сделали."
 
 #. それならもうやったよ。
 msgctxt "Portrait104-11_Provie"
 msgid "Because we already did that."
-msgstr ""
+msgstr "Потому что мы уже это сделали."
 
 #. それならもうやったぜ。
 msgctxt "Portrait104-11_Riki"
 msgid "Because we already did that."
-msgstr ""
+msgstr "Потому что мы уже это сделали."
 
 #. ゲーム？ 違う、オレの仕事はここに入る権限のないヤツを追い返すことだ。わかったらとっとと帰れ！
 msgctxt "Portrait104-12_Jack"
@@ -23550,56 +23568,63 @@ msgid ""
 "What? No, you ain't getting in because it's my JOB to prevent ANYONE "
 "unauthorized from getting inside the complex. So BEAT IT!"
 msgstr ""
+"Чего? Нет, вы ни за что не попадёте потому, что это моя РАБОТА - не давать "
+"НИКОМУ попасть внутрь здания. Так что ИСЧЕЗНИТЕ!"
 
 #. ちぇっ、オレらのハイスコア自慢してやろうと思ったのによ。
 msgctxt "Portrait104-13_Kunio"
 msgid "Hmmm... thought he'd be impressed by our top dancing score."
 msgstr ""
+"Хм-м-м... я считал, что он будет впечатлён нашим танцевальным рекордом."
 
 #. えーっ… あたしのスコア見て感動してくれると思ったのに。
 msgctxt "Portrait104-13_Kyoko"
 msgid "Hmmm... thought he'd be impressed by our top dancing score."
 msgstr ""
+"Хм-м-м... я считала, что он будет впечатлён нашим танцевальным рекордом."
 
 #. 何だ、私たちのスコアにひれ伏すかと思ったのに。
 msgctxt "Portrait104-13_Marian"
 msgid "Hmmm... thought he'd be impressed by our top dancing score."
 msgstr ""
+"Хм-м-м... я считала, что он будет впечатлён нашим танцевальным рекордом."
 
 #. えー、ウチらのハイスコア自慢してやろうと思ったのに。
 msgctxt "Portrait104-13_Provie"
 msgid "Hmmm... thought he'd be impressed by our top dancing score."
 msgstr ""
+"Хм-м-м... я считала, что он будет впечатлён нашим танцевальным рекордом."
 
 #. せっかくハイスコア取ったのに。
 msgctxt "Portrait104-13_Riki"
 msgid "Hmmm... thought he'd be impressed by our top dancing score."
 msgstr ""
+"Хм-м-м... я считал, что он будет впечатлён нашим танцевальным рекордом."
 
 #. がんばって練習したのになぁ。まぁいいや、また後で戻ってこよーぜ。
 msgctxt "Portrait104-14_Kunio"
 msgid "We did train pretty hard. Oh well, let's come back later."
-msgstr ""
+msgstr "А мы ведь так старались. Ладно, придём в следующий раз."
 
 #. たくさん練習したのにね。まぁまた後で来よう。
 msgctxt "Portrait104-14_Marian"
 msgid "We did train pretty hard. Oh well, let's come back later."
-msgstr ""
+msgstr "А мы ведь так старались. Ладно, придём в следующий раз."
 
 #. めっちゃ練習したじゃんね。まぁいいや、後でまた来よ。
 msgctxt "Portrait104-14_Misako"
 msgid "We did train pretty hard. Oh well, let's come back later."
-msgstr ""
+msgstr "А мы ведь так старались. Ладно, придём в следующий раз."
 
 #. がんばって練習したってのにねー。まぁいいや、また後で戻ってこよ。
 msgctxt "Portrait104-14_Provie"
 msgid "We did train pretty hard. Oh well, let's come back later."
-msgstr ""
+msgstr "А мы ведь так старались. Ладно, придём в следующий раз."
 
 #. まぁいい、また後で戻ってくるか。
 msgctxt "Portrait104-14_Riki"
 msgid "We did train pretty hard. Oh well, let's come back later."
-msgstr ""
+msgstr "А мы ведь так старались. Ладно, придём в следующий раз."
 
 #. 二度と来るな！
 msgctxt "Portrait104-15_Jack"
@@ -23707,7 +23732,7 @@ msgid ""
 "I follow you on ALL the social media feeds. NOBODY'S got moves like you do, "
 "Provie."
 msgstr ""
-"Я подписался на ВСЕ твои ленты в соцсети. НИКТО не умеет танцевать, как ты "
+"Я подписался на ВСЕ твои ленты в соцсети. НИКТО не умеет танцевать, как ты, "
 "Пруви."
 
 #. うん、そうだね。じゃあ中に入れてもらえる？
@@ -27204,27 +27229,27 @@ msgstr "Ладно, всё-таки довольно миленькая."
 #. ありがとな、サブコ！ よし、通気口を探しに行くぞ、ビーブー！
 msgctxt "Portrait166-29_Kunio"
 msgid "Thanks, Sabuko! C'mon, BeeBoo! Let's go find that air vent."
-msgstr "Спасибо, Сабуко! Идём Бибу! Поищем воздушный канал."
+msgstr "Спасибо, Сабуко! Идём, Бибу! Поищем воздушный канал."
 
 #. サブコありがと！ 行くよっ、ビーブー！ まずは通気口探さないと。
 msgctxt "Portrait166-29_Kyoko"
 msgid "Thanks, Sabuko! C'mon, BeeBoo! Let's go find that air vent."
-msgstr "Спасибо, Сабуко! Идём Бибу! Поищем воздушный канал."
+msgstr "Спасибо, Сабуко! Идём, Бибу! Поищем воздушный канал."
 
 #. サブコありがとう。よし、通気口を探しに行こうか、ビーブー。
 msgctxt "Portrait166-29_Marian"
 msgid "Thanks, Sabuko! C'mon, BeeBoo! Let's go find that air vent."
-msgstr "Спасибо, Сабуко! Идём Бибу! Поищем воздушный канал."
+msgstr "Спасибо, Сабуко! Идём, Бибу! Поищем воздушный канал."
 
 #. ありがとサブコ！ よし、通気口を探しに行くよ、ビーブー！
 msgctxt "Portrait166-29_Provie"
 msgid "Thanks, Sabuko! C'mon, BeeBoo! Let's go find that air vent."
-msgstr "Спасибо, Сабуко! Идём Бибу! Поищем воздушный канал."
+msgstr "Спасибо, Сабуко! Идём, Бибу! Поищем воздушный канал."
 
 #. ありがとよ、サブコ。通気口を探しに行こうぜ、ビーブー。
 msgctxt "Portrait166-29_Riki"
 msgid "Thanks, Sabuko! C'mon, BeeBoo! Let's go find that air vent."
-msgstr "Спасибо, Сабуко! Идём Бибу! Поищем воздушный канал."
+msgstr "Спасибо, Сабуко! Идём, Бибу! Поищем воздушный канал."
 
 #. 使いすぎたんだな？
 msgctxt "Portrait178-01_Sabuko"
@@ -33885,56 +33910,56 @@ msgstr "ТАЙНА!"
 #. サブコじゃねぇか！ またお役立ち情報教えてくれんのか？
 msgctxt "Portrait300-01_Kunio"
 msgid "Hey, it's Sabuko again! Got some more tips for us?"
-msgstr ""
+msgstr "Эй, Сабуко, снова ты! Ещё какие-нибудь подсказки для нас?"
 
 #. サブコか。またアドバイスでもしに来たの？
 msgctxt "Portrait300-01_Marian"
 msgid "Hey, it's Sabuko again! Got some more tips for us?"
-msgstr ""
+msgstr "Эй, Сабуко, снова ты! Ещё какие-нибудь подсказки для нас?"
 
 #. お、サブコじゃん。またアドバイスでもしに来たの？
 msgctxt "Portrait300-01_Misako"
 msgid "Hey, it's Sabuko again! Got some more tips for us?"
-msgstr ""
+msgstr "Эй, Сабуко, снова ты! Ещё какие-нибудь подсказки для нас?"
 
 #. サブコ！ またお役立ち情報教えてくれるの？
 msgctxt "Portrait300-01_Provie"
 msgid "Hey, it's Sabuko again! Got some more tips for us?"
-msgstr ""
+msgstr "Эй, Сабуко, снова ты! Ещё какие-нибудь подсказки для нас?"
 
 #. サブコか。また何か情報をくれるのか？
 msgctxt "Portrait300-01_Riki"
 msgid "Hey, it's Sabuko again! Got some more tips for us?"
-msgstr ""
+msgstr "Эй, Сабуко, снова ты! Ещё какие-нибудь подсказки для нас?"
 
 #. 正直、おまえにはかなり助けられてるからな。
 msgctxt "Portrait300-02_Kunio"
 msgid ""
 "Yeah, I have to admit, you have been pretty helpful this whole adventure."
-msgstr ""
+msgstr "Ага, должен признаться, ты очень сильно помогла в этом приключении."
 
 #. あんたにはすっごくお世話になったよね。
 msgctxt "Portrait300-02_Kyoko"
 msgid "Yeah, I gotta admit, you have been REALLY helpful this whole adventure."
-msgstr ""
+msgstr "Ага, должна признаться, ты ОЧЕНЬ сильно помогла в этом приключении."
 
 #. 実際、あんたにはかなり世話になってるよね。
 msgctxt "Portrait300-02_Marian"
 msgid ""
 "Yeah, I have to admit, you have been pretty helpful this whole adventure."
-msgstr ""
+msgstr "Ага, должна признаться, ты очень сильно помогла в этом приключении."
 
 #. 正直、あんたにはほんとに助けられてるからさー。
 msgctxt "Portrait300-02_Provie"
 msgid ""
 "Yeah, I have to admit, you have been pretty helpful this whole adventure."
-msgstr ""
+msgstr "Ага, должна признаться, ты очень сильно помогла в этом приключении."
 
 #. 正直、あんたにはかなり助けられてんな。
 msgctxt "Portrait300-02_Riki"
 msgid ""
 "Yeah, I have to admit, you have been pretty helpful this whole adventure."
-msgstr ""
+msgstr "Ага, должен признаться, ты очень сильно помогла в этом приключении."
 
 #. ミサコたちに窓から蹴り出されて、父ちゃんの組もめちゃくちゃにされたってのにな。
 msgctxt "Portrait300-03_Kunio"
@@ -33942,6 +33967,8 @@ msgid ""
 "Never expected that, considering we shamed you, kicked you out a window, and "
 "destroyed your father's criminal empire."
 msgstr ""
+"Что удивляет, если вспомнить, как мы тебя пристыдили, выкинули в окно и "
+"разрушили криминальную империю твоего отца."
 
 #. 最初会った時はふたりで窓から蹴り出して、三和会もメチャクチャにしたっていうのにさ。
 msgctxt "Portrait300-03_Marian"
@@ -33949,6 +33976,8 @@ msgid ""
 "Never expected that, considering we shamed you, kicked you out a window, and "
 "destroyed your father's criminal empire."
 msgstr ""
+"Что удивляет, если вспомнить, как мы тебя пристыдили, выкинули в окно и "
+"разрушили криминальную империю твоего отца."
 
 #. 意外だよね。最初会った時はふたりで窓から蹴り出して、三和会もメチャクチャにしたってのに。
 msgctxt "Portrait300-03_Misako"
@@ -33956,6 +33985,8 @@ msgid ""
 "Never expected that, considering we shamed you, kicked you out a window, and "
 "destroyed your father's criminal empire."
 msgstr ""
+"Что удивляет, если вспомнить, как мы тебя пристыдили, выкинули в окно и "
+"разрушили криминальную империю твоего отца."
 
 #. ミサコたちに窓から蹴り出されて、お父さんの組もめちゃくちゃにされたってのにね。
 msgctxt "Portrait300-03_Provie"
@@ -33963,6 +33994,8 @@ msgid ""
 "Never expected that, considering we shamed you, kicked you out a window, and "
 "destroyed your father's criminal empire."
 msgstr ""
+"Что удивляет, если вспомнить, как мы тебя пристыдили, выкинули в окно и "
+"разрушили криминальную империю твоего отца."
 
 #. キョーコたちに窓から蹴り出されて父親の組もめちゃくちゃにされたことを考えたら、意外だが。
 msgctxt "Portrait300-03_Riki"
@@ -33970,101 +34003,93 @@ msgid ""
 "Never expected that, considering we shamed you, kicked you out a window, and "
 "destroyed your father's criminal empire."
 msgstr ""
+"Что удивляет, если вспомнить, как мы тебя пристыдили, выкинули в окно и "
+"разрушили криминальную империю твоего отца."
 
 #. クックック…
 msgctxt "Portrait300-04_Sabuko"
 msgid "Hehehehe..."
-msgstr ""
+msgstr "Хе-хе-хе..."
 
 #. ど、どうしたんだよ、悪役みてぇな笑い方して。
-#, fuzzy
 msgctxt "Portrait300-05_Kunio"
 msgid "Wait, is that an evil laugh? I thought she was good now."
-msgstr "Постой, где мы сейчас? Я думал, что мы направляемся в Центр города."
+msgstr "Постой, это что, дьявольский смех? Я думал, что теперь она хорошая."
 
 #. ちょっと、何その嫌な笑い方？ 味方になったんじゃなかったの？
-#, fuzzy
 msgctxt "Portrait300-05_Kyoko"
 msgid "Wait, is that an evil laugh? I thought she was good now."
-msgstr "Постой, где мы сейчас? Я думал, что мы направляемся в Центр города."
+msgstr "Постой, это что, дьявольский смех? Я думала, что теперь она хорошая."
 
 #. いや、何その笑い方？ 正義の味方とは思えないよ。
-#, fuzzy
 msgctxt "Portrait300-05_Marian"
 msgid "Wait, is that an evil laugh? I thought she was good now."
-msgstr "Постой, где мы сейчас? Я думал, что мы направляемся в Центр города."
+msgstr "Постой, это что, дьявольский смех? Я думала, что теперь она хорошая."
 
 #. どしたの、悪役みたいな笑い方して。
-#, fuzzy
 msgctxt "Portrait300-05_Provie"
 msgid "Wait, is that an evil laugh? I thought she was good now."
-msgstr "Постой, где мы сейчас? Я думал, что мы направляемся в Центр города."
+msgstr "Постой, это что, дьявольский смех? Я думала, что теперь она хорошая."
 
 #. なんだ、急に悪役みてぇな笑い方して。
-#, fuzzy
 msgctxt "Portrait300-05_Riki"
 msgid "Wait, is that an evil laugh? I thought she was good now."
-msgstr "Постой, где мы сейчас? Я думал, что мы направляемся в Центр города."
+msgstr "Постой, это что, дьявольский смех? Я думал, что теперь она хорошая."
 
 #. 完全に悪役の笑い方だったな。
 msgctxt "Portrait300-06_Kunio"
 msgid "Definitely an evil laugh."
-msgstr ""
+msgstr "Это определённо был дьявольский смех."
 
 #. 敵にしか見えないね。
 msgctxt "Portrait300-06_Marian"
 msgid "Definitely an evil laugh."
-msgstr ""
+msgstr "Это определённо был дьявольский смех."
 
 #. 完全に敵の笑い方じゃん。
 msgctxt "Portrait300-06_Misako"
 msgid "Definitely an evil laugh."
-msgstr ""
+msgstr "Это определённо был дьявольский смех."
 
 #. 完全に悪役の笑い方だったね。
 msgctxt "Portrait300-06_Provie"
 msgid "Definitely an evil laugh."
-msgstr ""
+msgstr "Это определённо был дьявольский смех."
 
 #. どう聞いても悪役の笑い方だったな。
 msgctxt "Portrait300-06_Riki"
 msgid "Definitely an evil laugh."
-msgstr ""
+msgstr "Это определённо был дьявольский смех."
 
 #. バカめ。お前たちはずっと利用されてたんだよ。
 msgctxt "Portrait300-07_Sabuko"
 msgid "You fools. I've been using you this entire time."
-msgstr ""
+msgstr "Глупцы, я использовала вас всё это время."
 
 #. 何だと？
-#, fuzzy
 msgctxt "Portrait300-08_Kunio"
 msgid "Well THAT'S not very nice."
-msgstr "Это не очень красиво."
+msgstr "А это СОВСЕМ не красиво."
 
 #. はぁ～？
-#, fuzzy
 msgctxt "Portrait300-08_Kyoko"
 msgid "Well THAT'S not very nice."
-msgstr "Это не очень красиво."
+msgstr "А это СОВСЕМ не красиво."
 
 #. 何だって？
-#, fuzzy
 msgctxt "Portrait300-08_Marian"
 msgid "Well THAT'S not very nice."
-msgstr "Это не очень красиво."
+msgstr "А это СОВСЕМ не красиво."
 
 #. ひどいこと言うね。
-#, fuzzy
 msgctxt "Portrait300-08_Provie"
 msgid "Well THAT'S not very nice."
-msgstr "Это не очень красиво."
+msgstr "А это СОВСЕМ не красиво."
 
 #. 何だと？ どうやって？
-#, fuzzy
 msgctxt "Portrait300-08_Riki"
 msgid "Well THAT'S not very nice."
-msgstr "Это не очень красиво."
+msgstr "А это СОВСЕМ не красиво."
 
 #. お前らに父さんは倒せない。ほんの少し引っかき回して、私の義弟のケンに恥をかかせるだけが精々さ。
 msgctxt "Portrait300-09_Sabuko"
@@ -34072,6 +34097,9 @@ msgid ""
 "You never had any hope of defeating my father, or our yakuza empire. All you "
 "did was cause some minor annoyance and make my step-brother Ken look bad."
 msgstr ""
+"У вас нет ни единого шанса победить моего отца и уничтожить нашу империю. "
+"Всё, что вы сделали - лишь причинили небольшие затруднения и выставили моего "
+"сводного братика Кена в плохом свете."
 
 #. 魔法係とSNS係と食事係を雇おうだなんて父さんに吹き込んだのはケンだった。結局蛇足だったことが証明されたがな。
 msgctxt "Portrait300-10_Sabuko"
@@ -34079,56 +34107,55 @@ msgid ""
 "He was the one who convinced my father we needed experts in magic, social "
 "media, and FOOD. All superfluous!"
 msgstr ""
+"Ведь это именно он уговорил моего отца в том, что нам нужны специалисты в "
+"области магии, социальных сетей и КУЛИНАРИИ. Всё это чрезмерно!"
 
 #. 「蛇足」ってのは「余計なこと」って意味だぞ。
 msgctxt "Portrait300-11_Kunio"
 msgid "That means unnecessary."
-msgstr ""
+msgstr "Она сказала «не нужно»."
 
 #. いらないってことだよ。
 msgctxt "Portrait300-11_Marian"
 msgid "That means unnecessary."
-msgstr ""
+msgstr "Она сказала «не нужно»."
 
 #. 「蛇足」っていうのは「余計なこと」って意味。
 msgctxt "Portrait300-11_Misako"
 msgid "That means unnecessary."
-msgstr ""
+msgstr "Она сказала «не нужно»."
 
 #. 「蛇足」ってのは「余計なこと」って意味だよ。
 msgctxt "Portrait300-11_Provie"
 msgid "That means unnecessary."
-msgstr ""
+msgstr "Она сказала «не нужно»."
 
 #. 「蛇足」ってのは「余計なこと」って意味だぜ。
 msgctxt "Portrait300-11_Riki"
 msgid "That means unnecessary."
-msgstr ""
+msgstr "Она сказала «не нужно»."
 
 #. なるほどな。
 msgctxt "Portrait300-12_Kunio"
 msgid "Thanks."
-msgstr ""
+msgstr "Спасибо."
 
 #. ありがと、ちょうど聞こうと思ってた。
 msgctxt "Portrait300-12_Kyoko"
 msgid "Thanks."
-msgstr ""
+msgstr "Спасибо."
 
 #. だろうね。
-#, fuzzy
 msgctxt "Portrait300-12_Marian"
 msgid "I'm aware."
 msgstr "Я знаю."
 
 #. 言われなくてもわかってるし。
-#, fuzzy
 msgctxt "Portrait300-12_Provie"
 msgid "I'm aware."
 msgstr "Я знаю."
 
 #. 言われなくてもわかってるっての。
-#, fuzzy
 msgctxt "Portrait300-12_Riki"
 msgid "I'm aware."
 msgstr "Я знаю."
@@ -34140,81 +34167,84 @@ msgid ""
 "everthing Ken developed is in ashes, Father will accept ME back as his top "
 "soldier."
 msgstr ""
+"Всё, что нам нужно для поддержания нашей империи, - это кровь и месть. И "
+"теперь, когда созданное Кеном обратилось в прах, отец наконец признает, что "
+"Я - самый лучший боец."
 
 #. 普通にうまい計画だな。
 msgctxt "Portrait300-14_Kunio"
 msgid "That's actually a pretty great plan, I have to say."
-msgstr ""
+msgstr "Признаться, это довольно хитроумный план."
 
 #. 策士だねえ。
 msgctxt "Portrait300-14_Marian"
 msgid "That's actually a pretty great plan, I have to say."
-msgstr ""
+msgstr "Признаться, это довольно хитроумный план."
 
 #. 全部計画通り、ってわけか。
 msgctxt "Portrait300-14_Misako"
 msgid "That's actually a pretty great plan, I gotta say."
-msgstr ""
+msgstr "Признаться, это довольно хитроумный план."
 
 #. よくそんなこと考えるね。
 msgctxt "Portrait300-14_Provie"
 msgid "That's actually a pretty great plan, I have to say."
-msgstr ""
+msgstr "Признаться, это довольно хитроумный план."
 
 #. あんたの計画通りってわけか。
 msgctxt "Portrait300-14_Riki"
 msgid "That's actually a pretty great plan, I have to say."
-msgstr ""
+msgstr "Признаться, это довольно хитроумный план."
 
 #. ああ、怒る気もしねぇ。ケンはまあ自業自得だ。
 msgctxt "Portrait300-15_Kunio"
 msgid "Yeah, I'm not even mad. Plus that Ken guy is a complete idiot."
-msgstr ""
+msgstr "Ага, я даже не злюсь из-за него. К тому же, этот Кен - полный кретин."
 
 #. 一周回ってソンケーするよね。ケンのヤツ、完全にかませ犬じゃん。
 msgctxt "Portrait300-15_Kyoko"
 msgid "Yeah, I'm not even mad. Plus that Ken guy is a total tool."
-msgstr ""
+msgstr "Ага, я даже не злюсь из-за него. К тому же, этот Кен - круглый дурак."
 
 #. 別に怒っちゃいないよ。ケンの奴はどうしようもないバカだし。
 msgctxt "Portrait300-15_Marian"
 msgid "Yeah, I'm not even mad. Plus that Ken guy is a complete idiot."
-msgstr ""
+msgstr "Ага, я даже не злюсь из-за него. К тому же, этот Кен - полный кретин."
 
 #. うん、怒る気も起きないよ。ケンがマジでかませ犬でウケるし。
 msgctxt "Portrait300-15_Provie"
 msgid "Yeah, I'm not even mad. Plus that Ken guy is a complete idiot."
-msgstr ""
+msgstr "Ага, я даже не злюсь из-за него. К тому же, этот Кен - полный кретин."
 
 #. ああ、怒る気も起きねぇ。それにしてもケンの野郎、かませ犬だな。
 msgctxt "Portrait300-15_Riki"
 msgid "Yeah, I'm not even mad. Plus that Ken guy is a complete idiot."
-msgstr ""
+msgstr "Ага, я даже не злюсь из-за него. К тому же, этот Кен - полный кретин."
 
 #. それでもてめぇらの計画は止めるけどな。
 msgctxt "Portrait300-16_Kunio"
 msgid "We're still going to beat you and your dad, though."
-msgstr ""
+msgstr "Однако, мы всё ещё собираемся побить тебя и твоего отца."
 
 #. でもあんたとサブは倒させてもらう。
 msgctxt "Portrait300-16_Marian"
 msgid "We're still going to beat you and your dad, though."
-msgstr ""
+msgstr "Однако, мы всё ещё собираемся побить тебя и твоего отца."
 
 #. まぁ、あんたとサブは倒させてもらうけど。
 msgctxt "Portrait300-16_Misako"
 msgid "We're still gonna beat you and your dad, though."
-msgstr ""
+msgstr "Однако, мы всё ещё собираемся побить тебя и твоего отца."
 
 #. それでもあんたとサブはぶっ飛ばすけど。
 msgctxt "Portrait300-16_Provie"
 msgid "We're still going to beat you and your dad, though."
-msgstr ""
+msgstr "Однако, мы всё ещё собираемся побить тебя и твоего отца."
 
 #. だとしても、あんたたちはぶっ飛ばすがな。
 msgctxt "Portrait300-16_Riki"
 msgid "We're still going to beat you and your dad, though."
-msgstr ""
+msgstr "Однако, мы всё ещё собираемся побить тебя и твоего отца."
 
 #. 諦めな。父さんはずっとお前らみたいな自信過剰なチンピラを倒してきた。足元にも及ばないさ。
 msgctxt "Portrait300-17_Sabuko"
@@ -34223,6 +34253,8 @@ msgid ""
 "insurgents like yourselves. You won't make it past the first floor of our "
 "tower."
 msgstr ""
+"Это вряд ли. Мой отец построил нашу империю на костях таких самонадеянных "
+"оборванцев, как вы. Вы даже не поднимитесь выше первого этажа нашей башни."
 
 #. だが念のため、お前らが追ってこれないよう街中に細工をしておいた。
 msgctxt "Portrait300-18_Sabuko"
@@ -34230,6 +34262,8 @@ msgid ""
 "But just to ensure you don't follow me, I've rigged a little surprise for "
 "you around town."
 msgstr ""
+"Но, чтобы вы последовали за мной, я приготовила несколько небольших "
+"сюрпризов для вас в городе."
 
 #. 部下に命令して、お前らの親友に爆弾を仕掛けたんだ。
 msgctxt "Portrait300-19_Sabuko"
@@ -34237,56 +34271,58 @@ msgid ""
 "My men have strapped explosives to several of your closest friends. I "
 "believe you call them... BFFs?"
 msgstr ""
+"Мои люди заминировали ваших друзей. Кажется, вы называете их... «лучшими "
+"друзьями на свете»?"
 
 #. 爆弾？？ 万が一爆発したらどうすんだよ！
 msgctxt "Portrait300-20_Kunio"
 msgid "Explosives?? But that'll make them EXPLODE!"
-msgstr ""
+msgstr "Заминировали?! Но ведь это значит, что они ВЗОРВУТСЯ!"
 
 #. 爆弾！？ そんなことしたら危ないじゃん！？
 msgctxt "Portrait300-20_Kyoko"
 msgid "Explosives?? But that'll make them EXPLODE!"
-msgstr ""
+msgstr "Заминировали?! Но ведь это значит, что они ВЗОРВУТСЯ!"
 
 #. 爆弾！？ 正気か？
 msgctxt "Portrait300-20_Marian"
 msgid "Explosives?? But that'll make them EXPLODE!"
-msgstr ""
+msgstr "Заминировали?! Но ведь это значит, что они ВЗОРВУТСЯ!"
 
 #. 爆弾？？ 万が一爆発したら大変じゃん！
 msgctxt "Portrait300-20_Provie"
 msgid "Explosives?? But that'll make them EXPLODE!"
-msgstr ""
+msgstr "Заминировали?! Но ведь это значит, что они ВЗОРВУТСЯ!"
 
 #. 爆弾だと？ もし爆発したらどうするつもりだ？
 msgctxt "Portrait300-20_Riki"
 msgid "Explosives?? But that'll make them EXPLODE!"
-msgstr ""
+msgstr "Заминировали?! Но ведь это значит, что они ВЗОРВУТСЯ!"
 
 #. そういう脅しなんだろうよ。
 msgctxt "Portrait300-21_Kunio"
 msgid "I'm pretty sure that's the idea."
-msgstr ""
+msgstr "Уверен, в этом и есть вся суть."
 
 #. それが狙いってことかい。
 msgctxt "Portrait300-21_Marian"
 msgid "I'm pretty sure that's the idea."
-msgstr ""
+msgstr "Уверена, в этом и есть вся суть."
 
 #. ザ・悪役って感じ。
 msgctxt "Portrait300-21_Misako"
 msgid "Pretty sure that's the idea."
-msgstr ""
+msgstr "Уверена, в этом и есть вся суть."
 
 #. そういう脅しなんでしょ。
 msgctxt "Portrait300-21_Provie"
 msgid "I'm pretty sure that's the idea."
-msgstr ""
+msgstr "Уверена, в этом и есть вся суть."
 
 #. そういう脅しだろ。
 msgctxt "Portrait300-21_Riki"
 msgid "I'm pretty sure that's the idea."
-msgstr ""
+msgstr "Уверен, в этом и есть вся суть."
 
 #. 急いだらどうだ？ 制限時間はもうすぐだぞ。一緒に遊ぶオトモダチがいなくなってもいいのか？
 msgctxt "Portrait300-22_Sabuko"
@@ -34294,56 +34330,58 @@ msgid ""
 "You'd better hurry. You don't have much time before the counter reaches zero "
 "and you've got fewer friends to rent movies and chill with."
 msgstr ""
+"Вам лучше поторопиться. Времени так мало, а когда таймер дойдёт до нуля, у "
+"вас останется намного меньше друзей."
 
 #. 汚ぇ手使いやがって！
 msgctxt "Portrait300-23_Kunio"
 msgid "That's not how you say that."
-msgstr ""
+msgstr "Это так низко."
 
 #. 卑怯な奴だね。
 msgctxt "Portrait300-23_Marian"
 msgid "That's not how you say that."
-msgstr ""
+msgstr "Это так низко."
 
 #. 好き放題言いやがって。
 msgctxt "Portrait300-23_Misako"
 msgid "That's not how you say that."
-msgstr ""
+msgstr "Это так низко."
 
 #. 卑怯じゃん、そんなの！
 msgctxt "Portrait300-23_Provie"
 msgid "That's not how you say that."
-msgstr ""
+msgstr "Это так низко."
 
 #. 汚ぇ手を使いやがる。
 msgctxt "Portrait300-23_Riki"
 msgid "That's not how you say that."
-msgstr ""
+msgstr "Это так низко."
 
 #. てめぇ、恥ずかしくねぇのかよ！
 msgctxt "Portrait300-24_Kunio"
 msgid "Yeah, you're totally embarrassing yourself now."
-msgstr ""
+msgstr "Да, тебе должно быть стыдно."
 
 #. こんなことして恥ずかしくないわけ？
 msgctxt "Portrait300-24_Kyoko"
 msgid "Yeah, you're totally embarrassing yourself now."
-msgstr ""
+msgstr "Да, тебе должно быть стыдно."
 
 #. こんなことして恥ずかしくないの？
 msgctxt "Portrait300-24_Marian"
 msgid "Yeah, you're totally embarrassing yourself now."
-msgstr ""
+msgstr "Да, тебе должно быть стыдно."
 
 #. あんた恥ずかしくないわけ？
 msgctxt "Portrait300-24_Provie"
 msgid "Yeah, you're totally embarrassing yourself now."
-msgstr ""
+msgstr "Да, тебе должно быть стыдно."
 
 #. 恥ずかしくねぇのか。
 msgctxt "Portrait300-24_Riki"
 msgid "Yeah, you're totally embarrassing yourself now."
-msgstr ""
+msgstr "Да, тебе должно быть стыдно."
 
 #. 元気でな。そのしょぼい脳ミソじゃ何を言っても無駄かもしれないが、もう二度と私たちには関わるな。
 msgctxt "Portrait300-25_Sabuko"
@@ -34351,6 +34389,8 @@ msgid ""
 "Goodbye. And if you've got any brain cells left in those dented heads, "
 "you'll stay away from me, my family, and our empire."
 msgstr ""
+"Прощайте. И если у вас осталась хоть капелька мозгов в ваших отбитых "
+"головах, то держитесь подальше от меня, моей семьи и нашей империи."
 
 #. おっ、ゴミ山にいたあいつだ！
 msgctxt "Portrait304-01_Kunio"
@@ -34380,277 +34420,276 @@ msgstr "Эй, это же тот парень со свалки!"
 #. サブコの言うダチってかなり範囲が広そうだな。
 msgctxt "Portrait304-02_Kunio"
 msgid "Looks like Sabuko was using the word \"friends\" loosely."
-msgstr ""
+msgstr "Похоже, Сабуко слабо понимает смысл слова «друзья»."
 
 #. サブコ、友達の意味がわかってないんじゃ…
 msgctxt "Portrait304-02_Marian"
 msgid "Looks like Sabuko was using the word \"friends\" loosely."
-msgstr ""
+msgstr "Похоже, Сабуко слабо понимает смысл слова «друзья»."
 
 #. サブコ、友達って意味わかってんのかな。
 msgctxt "Portrait304-02_Misako"
 msgid "Looks like Sabuko was using the word \"friends\" loosely."
-msgstr ""
+msgstr "Похоже, Сабуко слабо понимает смысл слова «друзья»."
 
 #. サブコの言う友達ってかなり範囲が広そう。
 msgctxt "Portrait304-02_Provie"
 msgid "Looks like Sabuko was using the word \"friends\" loosely."
-msgstr ""
+msgstr "Похоже, Сабуко слабо понимает смысл слова «друзья»."
 
 #. サブコの言うダチってのはかなり範囲が広いな。
 msgctxt "Portrait304-02_Riki"
 msgid "Looks like Sabuko was using the word \"friends\" loosely."
-msgstr ""
+msgstr "Похоже, Сабуко слабо понимает смысл слова «друзья»."
 
 #. やあ元気かい？ パーティーに行くところ？ それともこの爆弾外しに来てくれたのかな？
 msgctxt "Portrait304-03_???"
 msgid "Oh hey there! You two come to party or to get this bomb off my chest?"
 msgstr ""
+"О, привет! Вы пришли, чтобы устроить на вечеринку или чтобы снять с меня эту "
+"бомбу?"
 
 #. どう考えても爆弾処理だろ。
 msgctxt "Portrait304-04_Kunio"
 msgid "Definitely the second one."
-msgstr ""
+msgstr "Определённо второй вариант."
 
 #. こんな時にパーティーなんか行くわけないじゃん。
 msgctxt "Portrait304-04_Kyoko"
 msgid "Definitely the second one."
-msgstr ""
+msgstr "Определённо второй вариант."
 
 #. パーティーに行くように見える？
 msgctxt "Portrait304-04_Marian"
 msgid "Definitely the second one."
-msgstr ""
+msgstr "Определённо второй вариант."
 
 #. いや、どう考えても爆弾処理でしょ。
 msgctxt "Portrait304-04_Provie"
 msgid "Definitely the second one."
-msgstr ""
+msgstr "Определённо второй вариант."
 
 #. 聞かなくてもわかるだろ。
 msgctxt "Portrait304-04_Riki"
 msgid "Definitely the second one."
-msgstr ""
+msgstr "Определённо второй вариант."
 
 #. それもそうか。その前に… オレの名前当ててみてよ！
 msgctxt "Portrait304-05_???"
 msgid "Sure thing. But first... ya gotta guess my name!"
-msgstr ""
+msgstr "Отлично. Но сначала... вам придётся угадать моё имя!"
 
 #. 爆弾は外したぞ。じゃあな。
 msgctxt "Portrait304-06_Kunio"
 msgid "Bomb's off, let's go."
-msgstr ""
+msgstr "Бомба снята, уходим."
 
 #. はい、もう取ったよ。じゃあね。
 msgctxt "Portrait304-06_Marian"
 msgid "Bomb's off, let's go."
-msgstr ""
+msgstr "Бомба снята, уходим."
 
 #. はい、もう取ったよ。じゃ。
 msgctxt "Portrait304-06_Misako"
 msgid "Bomb's off, let's go."
-msgstr ""
+msgstr "Бомба снята, уходим."
 
 #. 爆弾は外したよ。じゃね。
 msgctxt "Portrait304-06_Provie"
 msgid "Bomb's off, let's go."
-msgstr ""
+msgstr "Бомба снята, уходим."
 
 #. 爆弾は外した。行くぞ。
 msgctxt "Portrait304-06_Riki"
 msgid "Bomb's off, let's go."
-msgstr ""
+msgstr "Бомба снята, уходим."
 
 #. だれかよくわかんねぇけどじゃあな。
 msgctxt "Portrait304-07_Kunio"
 msgid "See you later, whoever you are."
-msgstr ""
+msgstr "Ещё увидимся, как тебя там ни звали."
 
 #. またねー、だれかさん。
 msgctxt "Portrait304-07_Kyoko"
 msgid "See you later, whoever you are."
-msgstr ""
+msgstr "Ещё увидимся, как тебя там ни звали."
 
 #. またね、誰かさん。
 msgctxt "Portrait304-07_Marian"
 msgid "See you later, whoever you are."
-msgstr ""
+msgstr "Ещё увидимся, как тебя там ни звали."
 
 #. だれか知らないけどじゃあね。
 msgctxt "Portrait304-07_Provie"
 msgid "See you later, whoever you are."
-msgstr ""
+msgstr "Ещё увидимся, как тебя там ни звали."
 
 #. だれかは知らねぇが、じゃあな。
 msgctxt "Portrait304-07_Riki"
 msgid "See you later, whoever you are."
-msgstr ""
+msgstr "Ещё увидимся, как тебя там ни звали."
 
 #. 停電してた時のパンクなヤツか。
 msgctxt "Portrait305-01_Kunio"
 msgid "It's that weird punk guy from the blackouts."
-msgstr ""
+msgstr "Это тот странный парень с отключением света."
 
 #. 停電の時のパンク男だ。
 msgctxt "Portrait305-01_Marian"
 msgid "It's that weird punk guy from the blackouts."
-msgstr ""
+msgstr "Это тот странный парень с отключением света."
 
 #. 停電の時のパンクヤローだ。
 msgctxt "Portrait305-01_Misako"
 msgid "It's that weird punk guy from the blackouts."
-msgstr ""
+msgstr "Это тот странный парень с отключением света."
 
 #. 停電してた時のパンク男じゃん。
 msgctxt "Portrait305-01_Provie"
 msgid "It's that weird punk guy from the blackouts."
-msgstr ""
+msgstr "Это тот странный парень с отключением света."
 
 #. 停電してた時のパンクなヤツか。
 msgctxt "Portrait305-01_Riki"
 msgid "It's that weird punk guy from the blackouts."
-msgstr ""
+msgstr "Это тот странный парень с отключением света."
 
 #. サブコのやつ、だれがオレらのダチなのか把握してないだろ。
 msgctxt "Portrait305-02_Kunio"
 msgid "I don't think Sabuko knows who our friends actually are."
-msgstr ""
+msgstr "Видимо, Сабуко вообще не знает, кто на самом деле наши друзья."
 
 #. サブコ、だれがあたしたちの友達かわかってないでしょ。
 msgctxt "Portrait305-02_Kyoko"
 msgid "I don't think Sabuko knows who our friends actually are."
-msgstr ""
+msgstr "Видимо, Сабуко вообще не знает, кто на самом деле наши друзья."
 
 #. サブコの奴、ほんとは誰が友達なのか把握してないんだろうね。
 msgctxt "Portrait305-02_Marian"
 msgid "I don't think Sabuko knows who our friends actually are."
-msgstr ""
+msgstr "Видимо, Сабуко вообще не знает, кто на самом деле наши друзья."
 
 #. サブコ、ウチらの友達がだれなのか把握できてないんじゃね？
 msgctxt "Portrait305-02_Provie"
 msgid "I don't think Sabuko knows who our friends actually are."
-msgstr ""
+msgstr "Видимо, Сабуко вообще не знает, кто на самом деле наши друзья."
 
 #. サブコ、適当な人間に爆弾を付けたな。
 msgctxt "Portrait305-02_Riki"
 msgid "I don't think Sabuko knows who our friends actually are."
-msgstr ""
+msgstr "Видимо, Сабуко вообще не знает, кто на самом деле наши друзья."
 
 #. 明らかにな。
 msgctxt "Portrait305-03_Kunio"
 msgid "Clearly."
-msgstr ""
+msgstr "Точно."
 
 #. 間違いない。
 msgctxt "Portrait305-03_Marian"
 msgid "Clearly."
-msgstr ""
+msgstr "Точно."
 
 #. 絶対わかってないね。
 msgctxt "Portrait305-03_Misako"
 msgid "Clearly."
-msgstr ""
+msgstr "Точно."
 
 #. 明らかにね。
 msgctxt "Portrait305-03_Provie"
 msgid "Clearly."
-msgstr ""
+msgstr "Точно."
 
 #. 間違いねぇな。
 msgctxt "Portrait305-03_Riki"
 msgid "Clearly."
-msgstr ""
+msgstr "Точно."
 
 #. オ、オレのこと助けに来てくれたんだろ！？
 msgctxt "Portrait305-04_Williams"
 msgid "Oh, h-hey there! You came to save me, right?"
-msgstr ""
+msgstr "О, привет! Пришли спасти меня, д-да?"
 
 #. どうだろうな。おまえならどうするよ。
 msgctxt "Portrait305-05_Kunio"
 msgid "I guess so. What do you think?"
-msgstr ""
+msgstr "Похоже, что так. Что думаешь?"
 
 #. そうなるのかな？ ね、どう思う？
 msgctxt "Portrait305-05_Kyoko"
 msgid "I guess so. What do you think?"
-msgstr ""
+msgstr "Похоже, что так. Что думаешь?"
 
 #. さあね。あんたはどう思う？
 msgctxt "Portrait305-05_Marian"
 msgid "I guess so. What do you think?"
-msgstr ""
+msgstr "Похоже, что так. Что думаешь?"
 
 #. さぁね。あんたならどうする？
 msgctxt "Portrait305-05_Provie"
 msgid "I guess so. What do you think?"
-msgstr ""
+msgstr "Похоже, что так. Что думаешь?"
 
 #. さぁな。おまえならどうする？
 msgctxt "Portrait305-05_Riki"
 msgid "I guess so. What do you think?"
-msgstr ""
+msgstr "Похоже, что так. Что думаешь?"
 
 #. まぁ、全員助けた方がいいのかもしれねぇが…
 msgctxt "Portrait305-06_Kunio"
 msgid "Maybe we don't need to save EVERYONE."
-msgstr ""
+msgstr "Может, нам не стоит пытаться спасти ВСЕХ."
 
 #. 全員を助けなくてもいいんじゃないかな。
 msgctxt "Portrait305-06_Marian"
 msgid "Maybe we don't need to save EVERYONE."
-msgstr ""
+msgstr "Может, нам не стоит пытаться спасти ВСЕХ."
 
 #. 別に全員助けなくてもいいんじゃない？
 msgctxt "Portrait305-06_Misako"
 msgid "Maybe we don't need to save EVERYONE."
-msgstr ""
+msgstr "Может, нам не стоит пытаться спасти ВСЕХ."
 
 #. まぁ、全員は助けなくてもいいんじゃね？
 msgctxt "Portrait305-06_Provie"
 msgid "Maybe we don't need to save EVERYONE."
-msgstr ""
+msgstr "Может, нам не стоит пытаться спасти ВСЕХ."
 
 #. 別に全員助けなくてもいいだろ。
 msgctxt "Portrait305-06_Riki"
 msgid "Maybe we don't need to save EVERYONE."
-msgstr ""
+msgstr "Может, нам не стоит пытаться спасти ВСЕХ."
 
 #. じょ、冗談きついぞ… なあ、これ外してくれたら礼はするから。
 msgctxt "Portrait305-07_Williams"
 msgid "F-funny. C'mon, get this thing off me, and I'll give you some loot."
 msgstr ""
+"Ха-ха, с-смешно. Да ладно, снимите с меня эту штуковину, и я дам кое-что "
+"взамен."
 
 #. しゃーねーな…
-#, fuzzy
 msgctxt "Portrait305-08_Kunio"
 msgid "Sigh, I guess..."
-msgstr "Эх..."
+msgstr "Эх, ну ладно..."
 
 #. わかったわかった…
-#, fuzzy
 msgctxt "Portrait305-08_Marian"
 msgid "Sigh, I guess..."
-msgstr "Эх..."
+msgstr "Эх, ну ладно..."
 
 #. はぁ、わかったよ…
-#, fuzzy
 msgctxt "Portrait305-08_Misako"
 msgid "Sigh, I guess..."
-msgstr "Эх..."
+msgstr "Эх, ну ладно..."
 
 #. はぁ、しょうがないな…
-#, fuzzy
 msgctxt "Portrait305-08_Provie"
 msgid "Sigh, I guess..."
-msgstr "Эх..."
+msgstr "Эх, ну ладно..."
 
 #. はぁ… やれやれ。
-#, fuzzy
 msgctxt "Portrait305-08_Riki"
 msgid "Sigh, I guess..."
-msgstr "Эх..."
+msgstr "Эх, ну ладно..."
 
 #. ミホコだ。
 msgctxt "Portrait306-01_Kunio"
@@ -34685,52 +34724,52 @@ msgstr "Эй, помогите мне! Пожалуйста!"
 #. 気が進まねぇな…
 msgctxt "Portrait306-03_Kunio"
 msgid "This is maybe one we can skip."
-msgstr ""
+msgstr "Её можно пропустить."
 
 #. さ、次行こ。
 msgctxt "Portrait306-03_Marian"
 msgid "This is maybe one we can skip."
-msgstr ""
+msgstr "Её можно пропустить."
 
 #. こいつは飛ばしていいでしょ。
 msgctxt "Portrait306-03_Misako"
 msgid "This is definitely one we can skip."
-msgstr ""
+msgstr "Её определённо следует пропустить."
 
 #. こいつは飛ばしていいね。
 msgctxt "Portrait306-03_Provie"
 msgid "This is maybe one we can skip."
-msgstr ""
+msgstr "Её можно пропустить."
 
 #. 次行っていいか？
 msgctxt "Portrait306-03_Riki"
 msgid "This is maybe one we can skip."
-msgstr ""
+msgstr "Её можно пропустить."
 
 #. まぁそう言うなよ。
 msgctxt "Portrait306-04_Kunio"
 msgid "Be nice."
-msgstr ""
+msgstr "Не вредничай."
 
 #. だめ！
 msgctxt "Portrait306-04_Kyoko"
 msgid "Be nice!"
-msgstr ""
+msgstr "Не вредничай!"
 
 #. だめだよ。
 msgctxt "Portrait306-04_Marian"
 msgid "Be nice."
-msgstr ""
+msgstr "Не вредничай."
 
 #. 冷たいこと言うなって。
 msgctxt "Portrait306-04_Provie"
 msgid "Be nice."
-msgstr ""
+msgstr "Не вредничай."
 
 #. そう言うなって。
 msgctxt "Portrait306-04_Riki"
 msgid "Be nice."
-msgstr ""
+msgstr "Не вредничай."
 
 #. ね、ネコカフェに行ったのが間違いだったの！ わんちゃんを見捨てちゃったからぁ～！
 msgctxt "Portrait306-05_Mihoko"
@@ -34738,6 +34777,8 @@ msgid ""
 "I-I never should've gone to the cat cafe! I knew it was a mistake. I never "
 "should've turned my back on adorable little doggos."
 msgstr ""
+"Не следовало открывать кошачье кафе! Так и знала, что это ошибка. Я предала "
+"своих любимых собачек!"
 
 #. だから悪い人に捕まって爆弾なんかつけられちゃったんだ！ アタシは悪い子だもん！ わんちゃんがふわふわですっごくかわいいってこと忘れちゃったんだもの！
 msgctxt "Portrait306-06_Mihoko"
@@ -34745,6 +34786,8 @@ msgid ""
 "That's when they grabbed me and put this bomb on me. And I deserve it! "
 "Everyone knows dogs are the cutest and fluffiest and best friends ever!"
 msgstr ""
+"Из-за это меня и схватили и повесили на меня бомбу! Я это заслужила! Все "
+"знают, что собаки - самые милые и пушистые, самые лучшие друзья на свете!"
 
 #. モリー・マクマフィン… ごめんなさい！ 今度はちゃんとかわいがるから！
 msgctxt "Portrait306-07_Mihoko"
@@ -34753,87 +34796,88 @@ msgid ""
 "home and love you and squeeze you, if I can just get out of this situation "
 "without dying!"
 msgstr ""
+"Ох, Молли Макмаффин, прости меня! Мамочка заберёт тебя назад домой и будет "
+"обнимать крепко-крепко, если только выживет!"
 
 #. もうその話終わるか？
 msgctxt "Portrait306-08_Kunio"
 msgid "You can stop talking now."
-msgstr ""
+msgstr "Можешь хоть немного помолчать?"
 
 #. ちょっと静かにしてくれない？
 msgctxt "Portrait306-08_Marian"
 msgid "You can stop talking now."
-msgstr ""
+msgstr "Можешь хоть немного помолчать?"
 
 #. うるさいっての。
-#, fuzzy
 msgctxt "Portrait306-08_Misako"
 msgid "Will you stop your yapping?"
-msgstr "Ты вступишь в нашу банду?"
+msgstr "Ты не могла бы хоть на немного заткнуться?"
 
 #. もう黙ってくんない？
 msgctxt "Portrait306-08_Provie"
 msgid "You can stop talking now."
-msgstr ""
+msgstr "Можешь хоть немного помолчать?"
 
 #. 話は終わりか？
 msgctxt "Portrait306-08_Riki"
 msgid "You can stop talking now."
-msgstr ""
+msgstr "Можешь хоть немного помолчать?"
 
 #. 爆弾ならとっくに外したぞ。
 msgctxt "Portrait306-09_Kunio"
 msgid "We removed your bomb two minutes ago."
-msgstr ""
+msgstr "Мы сняли с тебя бомбу две минуты назад."
 
 #. 爆弾ならとっくに外してるよー。
 msgctxt "Portrait306-09_Kyoko"
 msgid "We removed your bomb like two minutes ago."
-msgstr ""
+msgstr "Мы сняли с тебя бомбу две минуты назад."
 
 #. 爆弾ならもう外したよ。
 msgctxt "Portrait306-09_Marian"
 msgid "We removed your bomb two minutes ago."
-msgstr ""
+msgstr "Мы сняли с тебя бомбу две минуты назад."
 
 #. 爆弾ならとっくに外したよ。
 msgctxt "Portrait306-09_Provie"
 msgid "We removed your bomb two minutes ago."
-msgstr ""
+msgstr "Мы сняли с тебя бомбу две минуты назад."
 
 #. 爆弾はとっくに外したぜ。
 msgctxt "Portrait306-09_Riki"
 msgid "We removed your bomb two minutes ago."
-msgstr ""
+msgstr "Мы сняли с тебя бомбу две минуты назад."
 
 #. あ、ありがとー！ ふたりはアタシの親友だもんね！
 msgctxt "Portrait306-10_Mihoko"
 msgid "Th-thank you! It's so nice to have BFFs like you two."
-msgstr ""
+msgstr "С-спасибо! Вы самые лучшие друзья на свете!"
 
 #. お、おう… そうだな。それじゃな。
 msgctxt "Portrait306-11_Kunio"
 msgid "Uh... yeah, sure. Anyway, see ya."
-msgstr ""
+msgstr "Э-э... Ну да, конечно. Ладно, пока."
 
 #. そ、そうだね。じゃあね。
 msgctxt "Portrait306-11_Marian"
 msgid "Uh... yeah, sure. Anyway, see ya."
-msgstr ""
+msgstr "Э-э... Ну да, конечно. Ладно, пока."
 
 #. は？ まぁいいや。じゃあね。
 msgctxt "Portrait306-11_Misako"
 msgid "Uh... yeah, sure. Anyway, see ya."
-msgstr ""
+msgstr "Э-э... Ну да, конечно. Ладно, пока."
 
 #. いや… うん。それじゃあね。
 msgctxt "Portrait306-11_Provie"
 msgid "Uh... yeah, sure. Anyway, see ya."
-msgstr ""
+msgstr "Э-э... Ну да, конечно. Ладно, пока."
 
 #. …ああ。それじゃあな。
 msgctxt "Portrait306-11_Riki"
 msgid "Uh... yeah, sure. Anyway, see ya."
-msgstr ""
+msgstr "Э-э... Ну да, конечно. Ладно, пока."
 
 #. じゃあな、ミホコ！
 msgctxt "Portrait306-12_Kunio"
@@ -34865,7 +34909,7 @@ msgctxt "Portrait307-01_Sonny Lee"
 msgid ""
 "Over here! I'm so glad you got here in time. They've got me wired up real "
 "good."
-msgstr ""
+msgstr "Эй, сюда! Как я рад, что вы пришли. Они меня хорошо меня обложили."
 
 #. だれだこいつ？
 msgctxt "Portrait307-02_Kunio"
@@ -34920,7 +34964,7 @@ msgstr "Уверен, мы его никогда не встречали."
 #. オレはソニー・リー、ダブルドラゴンの三男だよ！
 msgctxt "Portrait307-04_Sonny Lee"
 msgid "What? It's me, Sonny Lee. The third Double Dragon brother?"
-msgstr "Что? Это же я Сонни Ли. Третий брат Двойных Драконов?"
+msgstr "Что? Это же я, Сонни Ли. Третий брат Двойных Драконов?"
 
 #. 3兄弟だったのか？
 msgctxt "Portrait307-05_Kunio"
@@ -35009,62 +35053,63 @@ msgstr "Вообще-то, это именно то и значит."
 #. とにかく、爆弾は外しといたぞ。じゃあな。
 msgctxt "Portrait307-09_Kunio"
 msgid "Anyway, your bomb's off now. Have a nice life."
-msgstr ""
+msgstr "В любом случае, бомба снята. Живи себе дальше."
 
 #. とにかく、爆弾は外したよ。よくわかんないけどがんばってねー。
 msgctxt "Portrait307-09_Kyoko"
 msgid "Anyway, bomb's off. Have a nice life doing whatever you do."
 msgstr ""
+"В любом случае, бомба снята. Продолжай заниматься тем, чем ты занимался."
 
 #. 爆弾は外したよ。まぁがんばりな。
 msgctxt "Portrait307-09_Marian"
 msgid "Anyway, your bomb's off now. Have a nice life."
-msgstr ""
+msgstr "В любом случае, бомба снята. Живи себе дальше."
 
 #. とにかく爆弾は外したよ。そんじゃね。
 msgctxt "Portrait307-09_Provie"
 msgid "Anyway, your bomb's off now. Have a nice life."
-msgstr ""
+msgstr "В любом случае, бомба снята. Живи себе дальше."
 
 #. とにかく爆弾は外したぞ。じゃあな。
 msgctxt "Portrait307-09_Riki"
 msgid "Anyway, your bomb's off now. Have a nice life."
-msgstr ""
+msgstr "В любом случае, бомба снята. Живи себе дальше."
 
 #. トップ目指して戦ってみせるよ！
 msgctxt "Portrait307-10_Sonny Lee"
 msgid "I'm gonna fight my way to the top, that's what!"
-msgstr ""
+msgstr "Я собираюсь пробиться к вершине, вот что!"
 
 #. ま、がんばれよ。それじゃ。
 msgctxt "Portrait307-11_Kunio"
 msgid "I doubt it. See ya."
-msgstr ""
+msgstr "Ну, это вряд ли. Пока."
 
 #. 何言ってんだか。じゃあまた。
 msgctxt "Portrait307-11_Marian"
 msgid "I doubt it. See ya."
-msgstr ""
+msgstr "Ну, это вряд ли. Пока."
 
 #. 好きにすれば。じゃあね。
 msgctxt "Portrait307-11_Misako"
 msgid "Doubt it. See ya."
-msgstr ""
+msgstr "Ну, это вряд ли. Пока."
 
 #. 無理だと思う。じゃあね。
 msgctxt "Portrait307-11_Provie"
 msgid "I doubt it. See ya."
-msgstr ""
+msgstr "Ну, это вряд ли. Пока."
 
 #. ああがんばれよ。じゃあな。
 msgctxt "Portrait307-11_Riki"
 msgid "I doubt it. See ya."
-msgstr ""
+msgstr "Ну, это вряд ли. Пока."
 
 #. にへへへへ、来てくれると思ってたヨ。
 msgctxt "Portrait308-01_Skullmageddon"
 msgid "Nyehehehe, I knew you'd come!"
-msgstr ""
+msgstr "Муа-ха-ха-ха, я знал, что вы придёте!"
 
 #. 金のネコで世話になったガイコツ店員じゃねぇか。
 msgctxt "Portrait308-02_Kunio"
@@ -35094,27 +35139,27 @@ msgstr "Это тот продавец-скелет, с золотым кото�
 #. ゴーストペッパーもな。
 msgctxt "Portrait308-03_Kunio"
 msgid "And the actual ghost peppers."
-msgstr "И жгучие перцы."
+msgstr "И жгучими перцами."
 
 #. こんな形で再会するとはね。
 msgctxt "Portrait308-03_Marian"
 msgid "And the actual ghost peppers."
-msgstr "И жгучие перцы."
+msgstr "И жгучими перцами."
 
 #. ゴーストペッパーの時もね。
 msgctxt "Portrait308-03_Misako"
 msgid "And the actual ghost peppers."
-msgstr "И жгучие перцы."
+msgstr "И жгучими перцами."
 
 #. あとゴーストペッパーもね。
 msgctxt "Portrait308-03_Provie"
 msgid "And the actual ghost peppers."
-msgstr "И жгучие перцы."
+msgstr "И жгучими перцами."
 
 #. ゴーストペッパーもだ。
 msgctxt "Portrait308-03_Riki"
 msgid "And the actual ghost peppers."
-msgstr "И жгучие перцы."
+msgstr "И жгучими перцами."
 
 #. 助けに来てくれたお礼に、来週の火曜から1週間、うちの全商品を5%割引にしてあげよう。
 msgctxt "Portrait308-04_Skullmageddon"
@@ -35122,116 +35167,121 @@ msgid ""
 "Thank you both for saving me! I'll give you a 5% discount on anything in my "
 "shop, valid for one week, starting next Tuesday."
 msgstr ""
+"Спасибо вам, что спасли меня! Даю пятипроцентную скидку на все покупки в "
+"моём магазине, предложение действует в течение недели, начиная со следующего "
+"вторника."
 
 #. おまえなら自力でロープから抜け出せたんじゃねぇのか？
 msgctxt "Portrait308-05_Kunio"
 msgid "Can't you just wiggle out of those ropes?"
-msgstr ""
+msgstr "А разве ты не можешь просто сбросить эти верёвки?"
 
 #. あんたならロープも抜けられるんじゃないの？
 msgctxt "Portrait308-05_Marian"
 msgid "Can't you just wiggle out of those ropes?"
-msgstr ""
+msgstr "А разве ты не можешь просто сбросить эти верёвки?"
 
 #. てかあんたならこんなロープ抜けれんじゃないの？
 msgctxt "Portrait308-05_Misako"
 msgid "Can't you just wiggle out of those ropes?"
-msgstr ""
+msgstr "А разве ты не можешь просто сбросить эти верёвки?"
 
 #. あんたなら自力でロープから抜け出せたんじゃないの？
 msgctxt "Portrait308-05_Provie"
 msgid "Can't you just wiggle out of those ropes?"
-msgstr ""
+msgstr "А разве ты не можешь просто сбросить эти верёвки?"
 
 #. あんたなら自力で抜け出せるだろ？
 msgctxt "Portrait308-05_Riki"
 msgid "Can't you just wiggle out of those ropes?"
-msgstr ""
+msgstr "А разве ты не можешь просто сбросить эти верёвки?"
 
 #. 皮もねぇし。
 msgctxt "Portrait308-06_Kunio"
 msgid "Yeah, it's not like you have any skin."
-msgstr ""
+msgstr "Да, у тебя же даже нет кожи."
 
 #. たしかに。皮ないし。
 msgctxt "Portrait308-06_Kyoko"
 msgid "Yeah, it's not like you have any skin."
-msgstr ""
+msgstr "Да, у тебя же даже нет кожи."
 
 #. 皮ないしね。
 msgctxt "Portrait308-06_Marian"
 msgid "Yeah, it's not like you have any skin."
-msgstr ""
+msgstr "Да, у тебя же даже нет кожи."
 
 #. 皮とかないしね。
 msgctxt "Portrait308-06_Provie"
 msgid "Yeah, it's not like you have any skin."
-msgstr ""
+msgstr "Да, у тебя же даже нет кожи."
 
 #. 皮もねぇしな。
 msgctxt "Portrait308-06_Riki"
 msgid "Yeah, it's not like you have any skin."
-msgstr ""
+msgstr "Да, у тебя же даже нет кожи."
 
 #. 失礼ナ！ 上っ面で人を判断するのは感心しないぞ。
 msgctxt "Portrait308-07_Skullmageddon"
 msgid "Rude! You don't see me judging you on YOUR epidermis."
-msgstr ""
+msgstr "Грубо! Ведь я не сужу вас по ВАШЕМУ внешнему кожному покрову."
 
 #. 上っ面がねぇから言ったんだけどよ…
 msgctxt "Portrait308-08_Kunio"
 msgid "Because we have one."
-msgstr ""
+msgstr "Потому что он у нас есть."
 
 #. 上っ面ないでしょあんた。
 msgctxt "Portrait308-08_Marian"
 msgid "Because we have one."
-msgstr ""
+msgstr "Потому что он у нас есть."
 
 #. 上っ面が無いから言ったんだけどな。
 msgctxt "Portrait308-08_Misako"
 msgid "Because we have one."
-msgstr ""
+msgstr "Потому что он у нас есть."
 
 #. 上っ面がないから言ったんだけど。
 msgctxt "Portrait308-08_Provie"
 msgid "Because we have one."
-msgstr ""
+msgstr "Потому что он у нас есть."
 
 #. 上っ面がねぇから言ったんだが。
 msgctxt "Portrait308-08_Riki"
 msgid "Because we have one."
-msgstr ""
+msgstr "Потому что он у нас есть."
 
 #. まぁとにかく、これでもう大丈夫だ。それじゃあな。
 msgctxt "Portrait308-09_Kunio"
 msgid "Anyway, you're free now. See you around, bone daddy."
-msgstr ""
+msgstr "Ладно, ты свободен. Ещё увидимся, костяшка."
 
 #. まぁ爆弾は取ってあげたよ。じゃあねー。
 msgctxt "Portrait308-09_Kyoko"
 msgid "Anyway, you're free now. See you around, Boney."
-msgstr ""
+msgstr "Ладно, ты свободен. Ещё увидимся, костяшка."
 
 #. 爆弾は取ったよ。じゃあね。
 msgctxt "Portrait308-09_Marian"
 msgid "Anyway, you're free now. See you around, bone daddy."
-msgstr ""
+msgstr "Ладно, ты свободен. Ещё увидимся, костяшка."
 
 #. とりあえず、これでもう大丈夫だから。それじゃあね。
 msgctxt "Portrait308-09_Provie"
 msgid "Anyway, you're free now. See you around, bone daddy."
-msgstr ""
+msgstr "Ладно, ты свободен. Ещё увидимся, костяшка."
 
 #. とにかく、爆弾は外したぞ。それじゃあ。
 msgctxt "Portrait308-09_Riki"
 msgid "Anyway, you're free now. See you around, bone daddy."
-msgstr ""
+msgstr "Ладно, ты свободен. Ещё увидимся, костяшка."
 
 #. にへへへへ、これでまた価格破壊し放題だ！
 msgctxt "Portrait308-10_Skullmageddon"
 msgid "Nyehehehe, Skullmageddon is free again to wage war on high prices!"
 msgstr ""
+"Муа-ха-ха, Черепогеддон вновь на свободе и готов сражаться на войне с "
+"высокими ценами!"
 
 #. クニコだ！
 msgctxt "Portrait309-01_Kunio"
@@ -35262,117 +35312,122 @@ msgstr "Это Кунико!"
 msgctxt "Portrait309-02_Kunio"
 msgid "Wow, one of our very best friends in the world. How did she know?"
 msgstr ""
+"Ух ты, это же один из наших самых лучших друзей на свете. Откуда она узнала?"
 
 #. 親友だったっけ…？
 msgctxt "Portrait309-02_Marian"
 msgid "Wow, one of our very best friends in the world. How did she know?"
 msgstr ""
+"Ух ты, это же один из наших самых лучших друзей на свете. Откуда она узнала?"
 
 #. はぁ、あたしらの知らないとこで親友が増えてんじゃん。
 msgctxt "Portrait309-02_Misako"
 msgid "Oh boy, another one of our very best friends in the whole dang world."
-msgstr ""
+msgstr "Ого, это же один из наших самых лучших друзей на всём чёртовом свете."
 
 #. 当たり前のように爆弾付いてんじゃん…
 msgctxt "Portrait309-02_Provie"
 msgid "Wow, one of our very best friends in the world. How did she know?"
 msgstr ""
+"Ух ты, это же один из наших самых лучших друзей на свете. Откуда она узнала?"
 
 #. 当たり前のように爆弾付いてんじゃねぇか…
 msgctxt "Portrait309-02_Riki"
 msgid "Wow, one of our very best friends in the world. How did she know?"
 msgstr ""
+"Ух ты, это же один из наших самых лучших друзей на свете. Откуда она узнала?"
 
 #. あっ、ふたりとも。どしたの？
-#, fuzzy
 msgctxt "Portrait309-03_Kuniko"
 msgid "Oh hey, it's you two. What's up?"
-msgstr "Эй, смотри, это Хибари! Как дела?"
+msgstr "О, привет. Как дела?"
 
 #. その胸の爆弾外しに来たぞ。
 msgctxt "Portrait309-04_Kunio"
 msgid "We're here to get that bomb off your chest."
-msgstr ""
+msgstr "Мы пришли, чтобы снять с тебя бомбу."
 
 #. その胸の爆弾を取りに来たんだよ。
 msgctxt "Portrait309-04_Marian"
 msgid "We're here to get that bomb off your chest."
-msgstr ""
+msgstr "Мы пришли, чтобы снять с тебя бомбу."
 
 #. その胸の爆弾取りに来たんだよ！
 msgctxt "Portrait309-04_Misako"
 msgid "We're here to get that bomb off your chest!"
-msgstr ""
+msgstr "Мы пришли, чтобы снять с тебя бомбу!"
 
 #. その胸の爆弾を外しに来たんだよ。
 msgctxt "Portrait309-04_Provie"
 msgid "We're here to get that bomb off your chest."
-msgstr ""
+msgstr "Мы пришли, чтобы снять с тебя бомбу."
 
 #. その胸の爆弾を外しに来たんだよ。
 msgctxt "Portrait309-04_Riki"
 msgid "We're here to get that bomb off your chest."
-msgstr ""
+msgstr "Мы пришли, чтобы снять с тебя бомбу."
 
 #. えっウソ、爆弾ついてる？
 msgctxt "Portrait309-05_Kuniko"
 msgid "There's a bomb on my chest?"
-msgstr ""
+msgstr "Разве на мне бомба?"
 
 #. 気付いてなかったのかよ？
 msgctxt "Portrait309-06_Kunio"
 msgid "You didn't notice?"
-msgstr ""
+msgstr "А ты не её не замечаешь?"
 
 #. 気付いてなかったの？？
 msgctxt "Portrait309-06_Kyoko"
 msgid "Yeah, you didn't notice??"
-msgstr ""
+msgstr "Ну да, разве ты её не замечаешь?!"
 
 #. 気付いてなかったの？
 msgctxt "Portrait309-06_Marian"
 msgid "You didn't notice?"
-msgstr ""
+msgstr "А ты не её не замечаешь?"
 
 #. 気付いてなかったの？
 msgctxt "Portrait309-06_Provie"
 msgid "You didn't notice?"
-msgstr ""
+msgstr "А ты не её не замечаешь?"
 
 #. 気付いてなかったのか？
 msgctxt "Portrait309-06_Riki"
 msgid "You didn't notice?"
-msgstr ""
+msgstr "А ты не её не замечаешь?"
 
 #. うん、来週の炊き出しとEDMフェスの準備で忙しくって。
 msgctxt "Portrait309-07_Kuniko"
 msgid "Sorry, I was too busy planning next week's Food Drive and EDM Festival."
 msgstr ""
+"Извините, я была слишком занята планированием поставок продовольствия и "
+"проведением фестиваля электронной музыки."
 
 #. そのふたつ、全然関係なさそうだが。
 msgctxt "Portrait309-08_Kunio"
 msgid "Those things sound unconnected."
-msgstr ""
+msgstr "Что-то я не вижу между ними никакой связи."
 
 #. その2つって関係ある？
 msgctxt "Portrait309-08_Marian"
 msgid "Those things sound unconnected."
-msgstr ""
+msgstr "Что-то я не вижу между ними никакой связи."
 
 #. そのふたつ関係なくね？
 msgctxt "Portrait309-08_Misako"
 msgid "Those things sound unconnected."
-msgstr ""
+msgstr "Что-то я не вижу между ними никакой связи."
 
 #. そのふたつって全然関係なさそうだけど。
 msgctxt "Portrait309-08_Provie"
 msgid "Those things sound unconnected."
-msgstr ""
+msgstr "Что-то я не вижу между ними никакой связи."
 
 #. そのふたつ、関係なさそうだが。
 msgctxt "Portrait309-08_Riki"
 msgid "Those things sound unconnected."
-msgstr ""
+msgstr "Что-то я не вижу между ними никакой связи."
 
 #. アリアリだよ！
 #. ミュージシャンって寄付が生き甲斐みたいなもんだし。あと、使わなくなった原子力発電所を熱帯雨林の保護地区にするための募金もしてるよ。進路指導の先生びっくりするだろうなー。
@@ -35382,62 +35437,71 @@ msgid ""
 "raising money to convert local abandoned nuclear plants into rainforest "
 "preserves. My college guidance counselor is gonna FLIP."
 msgstr ""
+"Что ты, музыканты только и думают о том, как накормить голодных! А ещё мы "
+"собираем деньги, чтобы превратить заброшенные атомные электростанции в "
+"заповедники тропических лесов. От такого мой наставник в колледже просто "
+"РЕХНЁТСЯ."
 
 #. まぁとにかく、爆弾は外しといたぞ。これでイベントまでに死ぬ心配はないな。
 msgctxt "Portrait309-10_Kunio"
 msgid "Well, we removed your bomb, so now you won't die before your big event."
 msgstr ""
+"Ну, мы сняли с тебя бомбу, так что ты не умрёшь до того, как начнётся твой "
+"фестиваль."
 
 #. 爆弾取ったよ。イベント前に死んじゃうところだったね。
 msgctxt "Portrait309-10_Kyoko"
 msgid ""
 "Yeah, well we removed your bomb, so now you won't die before your big event."
 msgstr ""
+"Ну, мы сняли с тебя бомбу, так что ты не умрёшь до того, как начнётся твой "
+"фестиваль."
 
 #. はい、爆弾取ったよ。イベント前に死なずに済んだね。
 msgctxt "Portrait309-10_Marian"
 msgid "Well, we removed your bomb, so now you won't die before your big event."
 msgstr ""
+"Ну, мы сняли с тебя бомбу, так что ты не умрёшь до того, как начнётся твой "
+"фестиваль."
 
 #. まぁ爆弾は外しといたから、これでイベント前に死ぬ心配はないね。
 msgctxt "Portrait309-10_Provie"
 msgid "Well, we removed your bomb, so now you won't die before your big event."
 msgstr ""
+"Ну, мы сняли с тебя бомбу, так что ты не умрёшь до того, как начнётся твой "
+"фестиваль."
 
 #. 爆弾は外したぞ。これでイベントまでに死ぬことはねぇな。
 msgctxt "Portrait309-10_Riki"
 msgid "Well, we removed your bomb, so now you won't die before your big event."
 msgstr ""
+"Ну, мы сняли с тебя бомбу, так что ты не умрёшь до того, как начнётся твой "
+"фестиваль."
 
 #. 感謝しろよな。
-#, fuzzy
 msgctxt "Portrait309-11_Kunio"
 msgid "You're welcome."
-msgstr "Пожалуйста."
+msgstr "Всегда пожалуйста."
 
 #. 礼くらい言いな。
-#, fuzzy
 msgctxt "Portrait309-11_Marian"
 msgid "You're welcome."
-msgstr "Пожалуйста."
+msgstr "Всегда пожалуйста."
 
 #. マジ感謝してよね。
-#, fuzzy
 msgctxt "Portrait309-11_Misako"
 msgid "You're welcome."
-msgstr "Пожалуйста."
+msgstr "Всегда пожалуйста."
 
 #. 感謝してよね。
-#, fuzzy
 msgctxt "Portrait309-11_Provie"
 msgid "You're welcome."
-msgstr "Пожалуйста."
+msgstr "Всегда пожалуйста."
 
 #. 礼くらい言えよな。
-#, fuzzy
 msgctxt "Portrait309-11_Riki"
 msgid "You're welcome."
-msgstr "Пожалуйста."
+msgstr "Всегда пожалуйста."
 
 #. うん、そーする。ねぇ、レッドベルベットとティラミス、どっちがEDMと熱帯雨林のイメージに合ってると思う？
 msgctxt "Portrait309-12_Kuniko"
@@ -35445,6 +35509,8 @@ msgid ""
 "Yeah huh, got it. What sort of cake says EDM and rainforests better - red "
 "velvet or tiramisu?"
 msgstr ""
+"Ага, хорошо. Как думаете, какие пирожные лучше подойдут к электронной музыке "
+"и тропическим лесам - «красный бархат» или тирамису?"
 
 #. またな、クニコ。
 msgctxt "Portrait309-13_Kunio"
@@ -35477,60 +35543,59 @@ msgid "Later, Kuniko."
 msgstr "Пока, Кунико!"
 
 #. おふたりさーん！
-#, fuzzy
 msgctxt "Portrait310-01_Kozuki"
 msgid "Hey, it's you two!"
-msgstr "О, ПРИВЕТ! Это вы!"
+msgstr "Эй, это вы!"
 
 #. コウヅキ、三和会タワーには入れたのか？
 msgctxt "Portrait310-02_Kunio"
 msgid "Kozuki, did you ever get into Sanwakai Tower?"
-msgstr ""
+msgstr "Ты проникла в Башню Санвакай, Кодзуки?"
 
 #. コウヅキ！ タワー入れたの？
 msgctxt "Portrait310-02_Kyoko"
 msgid "Kozuki! Did you ever get into Sanwakai Tower?"
-msgstr ""
+msgstr "Кодзуки! Ты попала в Башню Санвакай?"
 
 #. コウヅキ。タワーには入れたの？
 msgctxt "Portrait310-02_Marian"
 msgid "Kozuki, did you ever get into Sanwakai Tower?"
-msgstr ""
+msgstr "Ты проникла в Башню Санвакай, Кодзуки?"
 
 #. コウヅキ、三和会タワーには入れたの？
 msgctxt "Portrait310-02_Provie"
 msgid "Kozuki, did you ever get into Sanwakai Tower?"
-msgstr ""
+msgstr "Ты проникла в Башню Санвакай, Кодзуки?"
 
 #. コウヅキ、タワーには入れたのか？
 msgctxt "Portrait310-02_Riki"
 msgid "Kozuki, did you ever get into Sanwakai Tower?"
-msgstr ""
+msgstr "Ты проникла в Башню Санвакай, Кодзуки?"
 
 #. オレらは今向かってるところだ。
 msgctxt "Portrait310-03_Kunio"
 msgid "We're headed there right now ourselves."
-msgstr ""
+msgstr "Мы отправляемся туда прямо сейчас."
 
 #. こっちはこれから入るところさ。
 msgctxt "Portrait310-03_Marian"
 msgid "We're headed there right now ourselves."
-msgstr ""
+msgstr "Мы отправляемся туда прямо сейчас."
 
 #. あたしたちはこれから入るとこ。
 msgctxt "Portrait310-03_Misako"
 msgid "We're headed there right now ourselves."
-msgstr ""
+msgstr "Мы отправляемся туда прямо сейчас."
 
 #. ウチら今向かってるところなんだけど。
 msgctxt "Portrait310-03_Provie"
 msgid "We're headed there right now ourselves."
-msgstr ""
+msgstr "Мы отправляемся туда прямо сейчас."
 
 #. オレたちは今向かってるところだ。
 msgctxt "Portrait310-03_Riki"
 msgid "We're headed there right now ourselves."
-msgstr ""
+msgstr "Мы отправляемся туда прямо сейчас."
 
 #. あたしもまだなんだけど、タワーの前にいた警備の人がいないから今チャンスだよ！ 潜入してショーゲキ報道しちゃう！
 msgctxt "Portrait310-04_Kozuki"
@@ -35538,36 +35603,38 @@ msgid ""
 "Not yet, but apparently those guards have all left the street in front of "
 "the tower, so now's my best shot to get in there and break this story."
 msgstr ""
+"Пока нет, но сейчас у меня открылась отличная возможность проникнуть туда "
+"для моей статьи, ведь больше никто не охраняет улицу у входа в башню."
 
 #. がんばれよ。殺されねぇようにな。
 msgctxt "Portrait310-05_Kunio"
 msgid "Good luck, try not to get killed."
-msgstr ""
+msgstr "Удачи, постарайся не убиться."
 
 #. 気をつけて。
 msgctxt "Portrait310-05_Marian"
 msgid "Good luck, try not to get killed."
-msgstr ""
+msgstr "Удачи, постарайся не убиться."
 
 #. 殺されないようにね。
 msgctxt "Portrait310-05_Misako"
 msgid "Good luck, try not to get killed."
-msgstr ""
+msgstr "Удачи, постарайся не убиться."
 
 #. がんばりなよ、殺されない程度に。
 msgctxt "Portrait310-05_Provie"
 msgid "Good luck, try not to get killed."
-msgstr ""
+msgstr "Удачи, постарайся не убиться."
 
 #. 殺されない程度にしろよ。
 msgctxt "Portrait310-05_Riki"
 msgid "Good luck, try not to get killed."
-msgstr ""
+msgstr "Удачи, постарайся не убиться."
 
 #. そっちもね！
 msgctxt "Portrait310-06_Kozuki"
 msgid "You too!"
-msgstr ""
+msgstr "И вам тоже!"
 
 #. CUT
 msgctxt "Portrait310-07_Misako"
@@ -35595,57 +35662,59 @@ msgid ""
 "I never thought it would come to this, but I'm willing to do whatever it "
 "takes to defend my family and my empire. Even if it means..."
 msgstr ""
+"Не думал, что придётся дойти до такого, я сделаю всё ради защиты семьи и "
+"империи. Даже если это значит..."
 
 #. だれだおまえ？
 msgctxt "Portrait326-02_Kunio"
 msgid "Who's the glowing dude? And why is he super ripped?"
-msgstr ""
+msgstr "Кто этот светящийся чувак? И почему он выглядит так потрепанным?"
 
 #. あんただれ？
 msgctxt "Portrait326-02_Kyoko"
 msgid "Who's the glowing dude? And why is he, like, super ripped?"
-msgstr ""
+msgstr "Кто этот светящийся чувак? И почему он такой потрепанный?"
 
 #. あんた誰？
 msgctxt "Portrait326-02_Marian"
 msgid "Who's the glowing dude? And why is he super ripped?"
-msgstr ""
+msgstr "Кто этот светящийся чувак? И почему он выглядит так потрепанным?"
 
 #. あんただれ？
 msgctxt "Portrait326-02_Provie"
 msgid "Who's the glowing dude? And why is he super ripped?"
-msgstr ""
+msgstr "Кто этот светящийся чувак? И почему он выглядит так потрепанным?"
 
 #. だれだこいつ。
 msgctxt "Portrait326-02_Riki"
 msgid "Who's the glowing dude? And why is he super ripped?"
-msgstr ""
+msgstr "Кто этот светящийся чувак? И почему он выглядит так потрепанным?"
 
 #. サブみてぇだけど、てめぇはぶっ飛ばしてやる！
 msgctxt "Portrait326-03_Kunio"
 msgid "I think it's Sabu. But augmented by something..."
-msgstr ""
+msgstr "Кажется, это Сабу. Только чем-то накачен..."
 
 #. サブだろうね。あんたをぶっ倒しに来た！
 msgctxt "Portrait326-03_Marian"
 msgid "I think it's Sabu. But augmented by something..."
-msgstr ""
+msgstr "Кажется, это Сабу. Только чем-то накачен..."
 
 #. サブだろうね。めっちゃ荒れてんじゃん。
 msgctxt "Portrait326-03_Misako"
 msgid ""
 "I think it's Sabu. But, like, jacked up on coffee or magic or something."
-msgstr ""
+msgstr "Кажется, это Сабу. Только накачен чем-то, типа кофе или магией."
 
 #. サブみたいだけど、あんたはぶっ飛ばしてやる！
 msgctxt "Portrait326-03_Provie"
 msgid "I think it's Sabu. But augmented by something..."
-msgstr ""
+msgstr "Кажется, это Сабу. Только чем-то накачен..."
 
 #. サブみてぇだな。おまえをぶっ飛ばしに来た！
 msgctxt "Portrait326-03_Riki"
 msgid "I think it's Sabu. But augmented by something..."
-msgstr ""
+msgstr "Кажется, это Сабу. Только чем-то накачен..."
 
 #. 何を言っても無駄だ。こいつを取り込むことでオレの力は何倍にもふくれ上がる
 msgctxt "Portrait326-04_Sabu"
@@ -35653,90 +35722,93 @@ msgid ""
 "Your words have no effect on me. With this serum in my veins, my strength "
 "has been magnified to such a magnitude that - "
 msgstr ""
+"Ваши слова ничего не значат. С этой сывороткой моя сила выросла до такой "
+"степени, что..."
 
 #. そうは見えねぇけどな。
 msgctxt "Portrait326-05_Kunio"
 msgid "Maybe he's using the dark arts, like Yamada?"
-msgstr ""
+msgstr "Может, он использует тёмные искусства, как Ямада?"
 
 #. そうは見えないかな…
 msgctxt "Portrait326-05_Kyoko"
 msgid "You think it's the dark arts? Like that creepy Yamada kid?"
-msgstr ""
+msgstr "Может, это тёмные искусства? Как у того жуткого Ямады?"
 
 #. そうは見えないけど。
 msgctxt "Portrait326-05_Marian"
 msgid "Maybe he's using the dark arts, like Yamada?"
-msgstr ""
+msgstr "Может, он использует тёмные искусства, как Ямада?"
 
 #. そうは見えないけど。
 msgctxt "Portrait326-05_Provie"
 msgid "Maybe he's using the dark arts, like Yamada?"
-msgstr ""
+msgstr "Может, он использует тёмные искусства, как Ямада?"
 
 #. そうは見えないな。
 msgctxt "Portrait326-05_Riki"
 msgid "Maybe he's using the dark arts, like Yamada?"
-msgstr ""
+msgstr "Может, он использует тёмные искусства, как Ямада?"
 
 #. てかひとりでこんなとこ座り込んで何してんだ？
 msgctxt "Portrait326-06_Kunio"
 msgid ""
 "I'm not sure. But it's definitely distracting. Maybe it's an old person "
 "thing."
-msgstr ""
+msgstr "Я не уверен. Но это определённо отвлекает. Может, всё дело в старости."
 
 #. それより、こんな暗いとこで座り込んで何してたんだ？
 msgctxt "Portrait326-06_Marian"
 msgid ""
 "I'm not sure. But it's definitely distracting. Maybe it's an old person "
 "thing."
-msgstr ""
+msgstr "Я не уверен. Но это определённо отвлекает. Может, всё дело в старости."
 
 #. こんなとこで何してんの？
 msgctxt "Portrait326-06_Misako"
 msgid ""
 "Hey yeah, maybe. Unless it's just some old person thing. He is pretty old."
 msgstr ""
+"Ну да, может быть. Если только дело не в старости. А он достаточно старый."
 
 #. てかひとりでこんなところに座り込んで何してんの？
 msgctxt "Portrait326-06_Provie"
 msgid ""
 "I'm not sure. But it's definitely distracting. Maybe it's an old person "
 "thing."
-msgstr ""
+msgstr "Я не уверен. Но это определённо отвлекает. Может, всё дело в старости."
 
 #. ひとりでこんなとこ座り込んで何やってた？
 msgctxt "Portrait326-06_Riki"
 msgid ""
 "I'm not sure. But it's definitely distracting. Maybe it's an old person "
 "thing."
-msgstr ""
+msgstr "Я не уверен. Но это определённо отвлекает. Может, всё дело в старости."
 
 #. あのダンスゲームだな。
 msgctxt "Portrait326-07_Kunio"
 msgid "Old people glow with magic?"
-msgstr ""
+msgstr "Старики светятся магией?"
 
 #. あっ、あのゲームじゃない！？
 msgctxt "Portrait326-07_Kyoko"
 msgid "Old people glow with magic?"
-msgstr ""
+msgstr "Старики светятся магией?"
 
 #. オタクの趣味だろ。気にしなくていいって。
 msgctxt "Portrait326-07_Marian"
 msgid "Old people glow with magic?"
-msgstr ""
+msgstr "Старики светятся магией?"
 
 #. パソコンオタクの趣味っしょ、無視無視。
 msgctxt "Portrait326-07_Provie"
 msgid "Old people glow with magic?"
-msgstr ""
+msgstr "Старики светятся магией?"
 
 #. あのダンスゲームか。
 msgctxt "Portrait326-07_Riki"
 msgid "Old people glow with magic?"
-msgstr ""
+msgstr "Старики светятся магией?"
 
 #. 計画の全貌を知りたくないのか？ かなり考えたんだ、2分あれば話は済む。
 msgctxt "Portrait326-08_Sabu"
@@ -35744,141 +35816,143 @@ msgid ""
 "Excuse me! I'm trying to tell you about my master plan. It's very "
 "impressive, if you'd just listen for two minutes."
 msgstr ""
+"Прошу прощения! Но я тут пытаюсь разъяснить свой злодейский замысел. Если "
+"послушаете его пару минут, то признаете, что он очень впечатляющий."
 
 #. 何かややこしそうだな。
 msgctxt "Portrait326-09_Kunio"
 msgid "It might be special effects, like in the movies."
-msgstr ""
+msgstr "Может, это спецэффекты, как в фильмах."
 
 #. なにー？ 疲れるの嫌なんだけど。
 msgctxt "Portrait326-09_Kyoko"
 msgid "I bet it's special effects! Like in the movies."
-msgstr ""
+msgstr "Спорим, это спецэффекты! Как в фильмах."
 
 #. 疲れるようなのは御免だよ。
 msgctxt "Portrait326-09_Marian"
 msgid "It might be special effects, like in the movies."
-msgstr ""
+msgstr "Может, это спецэффекты, как в фильмах."
 
 #. やだね。めんどくさそうだし。
 msgctxt "Portrait326-09_Provie"
 msgid "It might be special effects, like in the movies."
-msgstr ""
+msgstr "Может, это спецэффекты, как в фильмах."
 
 #. いきなりなんだよ。
 msgctxt "Portrait326-09_Riki"
 msgid "It might be special effects, like in the movies."
-msgstr ""
+msgstr "Может, это спецэффекты, как в фильмах."
 
 #. とっとと始めるぞ、このゴミ野郎が。
 msgctxt "Portrait326-10_Kunio"
 msgid "I saw a movie once. Lots of stuff did glow in it."
-msgstr ""
+msgstr "Как-то раз я смотрел фильм. Там много чего светилось."
 
 #. さっさと始めよう。来い、ゴミ男！
 msgctxt "Portrait326-10_Marian"
 msgid "I saw a movie once. Lots of stuff did glow in it."
-msgstr ""
+msgstr "Как-то раз я смотрела фильм. Там много чего светилось."
 
 #. いいからさっさと始めるよ、ゴミ男！
 msgctxt "Portrait326-10_Misako"
 msgid "Oh yeah! I saw a movie once. All kinds of stuff glowed in it."
-msgstr ""
+msgstr "О, да! как-то раз я смотрела фильм. Там куча всего светилась."
 
 #. もうとっとと始めるよ、このゴミ男め。
 msgctxt "Portrait326-10_Provie"
 msgid "I saw a movie once. Lots of stuff did glow in it."
-msgstr ""
+msgstr "Как-то раз я смотрела фильм. Там много чего светилось."
 
 #. とっとと始めるぞ、このゴミ野郎。
 msgctxt "Portrait326-10_Riki"
 msgid "I saw a movie once. Lots of stuff did glow in it."
-msgstr ""
+msgstr "Как-то раз я смотрел фильм. Там много чего светилось."
 
 #. そうか。ならば行くぞ。
 msgctxt "Portrait326-11_Sabu"
 msgid "Oh fine, whatever. Let's just get this over with..."
-msgstr ""
+msgstr "Ладно, неважно. Просто покончим с этим..."
 
 #. あ、ありえん！ オレを止められる者などいないのだ！
 msgctxt "Portrait329-01_Sabu"
 msgid "No, this is impossible! I am unstoppable."
-msgstr ""
+msgstr "Нет, это невозможно! Я неостановим."
 
 #. 残念だったな、サブ。
 msgctxt "Portrait329-02_Kunio"
 msgid "Well clearly, that's not true."
-msgstr ""
+msgstr "Очевидно же, что это не так."
 
 #. 止められちゃってるけど。
 msgctxt "Portrait329-02_Kyoko"
 msgid "Well clearly, that's not true."
-msgstr ""
+msgstr "Очевидно же, что это не так."
 
 #. そうはいかないよ。
 msgctxt "Portrait329-02_Marian"
 msgid "Well clearly, that's not true."
-msgstr ""
+msgstr "Очевидно же, что это не так."
 
 #. 残念だったね、サブ。
 msgctxt "Portrait329-02_Provie"
 msgid "Well clearly, that's not true."
-msgstr ""
+msgstr "Очевидно же, что это не так."
 
 #. 今まさに止められたな。
 msgctxt "Portrait329-02_Riki"
 msgid "Well clearly, that's not true."
-msgstr ""
+msgstr "Очевидно же, что это не так."
 
 #. 薬の効果も切れてきてるみてぇだな。
 msgctxt "Portrait329-03_Kunio"
 msgid "At least that serum seems to be wearing off."
-msgstr ""
+msgstr "По крайней мере, сыворотка понемногу выветрилась."
 
 #. その血清の効果も切れてきてるみたいだしね。
 msgctxt "Portrait329-03_Marian"
 msgid "At least that serum seems to be wearing off."
-msgstr ""
+msgstr "По крайней мере, сыворотка понемногу выветрилась."
 
 #. 血清の効果も切れてきてるみたいだし。
 msgctxt "Portrait329-03_Misako"
 msgid "At least that serum seems to be wearing off."
-msgstr ""
+msgstr "По крайней мере, сыворотка понемногу выветрилась."
 
 #. 血清の効果も切れてきてるみたいだし。
 msgctxt "Portrait329-03_Provie"
 msgid "At least that serum seems to be wearing off."
-msgstr ""
+msgstr "По крайней мере, сыворотка понемногу выветрилась."
 
 #. 血清の効果も切れてきてるみてぇだ。
 msgctxt "Portrait329-03_Riki"
 msgid "At least that serum seems to be wearing off."
-msgstr ""
+msgstr "По крайней мере, сыворотка понемногу выветрилась."
 
 #. ああ、見た目もちょっとマシになったな。
 msgctxt "Portrait329-04_Kunio"
 msgid "Yeah, you look a lot less glowy now, Sabu."
-msgstr ""
+msgstr "Ага, кажется, ты теперь не так сильно светишься, Сабу."
 
 #. うん、大分元通りになってきたね。
 msgctxt "Portrait329-04_Kyoko"
 msgid "Yeah, you look a lot less glowy now, Mr. Sabu."
-msgstr ""
+msgstr "Ага, кажется, ты теперь не так сильно светишься, Сабу."
 
 #. ああ、見た目もマシになってきたかな。
 msgctxt "Portrait329-04_Marian"
 msgid "Yeah, you look a lot less glowy now, Sabu."
-msgstr ""
+msgstr "Ага, кажется, ты теперь не так сильно светишься, Сабу."
 
 #. そうそう、見た目もちょっとマシになったね。
 msgctxt "Portrait329-04_Provie"
 msgid "Yeah, you look a lot less glowy now, Sabu."
-msgstr ""
+msgstr "Ага, кажется, ты теперь не так сильно светишься, Сабу."
 
 #. ああ、見た目も多少マシになったな。
 msgctxt "Portrait329-04_Riki"
 msgid "Yeah, you look a lot less glowy now, Sabu."
-msgstr ""
+msgstr "Да, отлично сказано."
 
 #. …計画はまだ序の口に過ぎない。オレの人生を懸けて、お前も、お前の大切な人間もすべて滅ぼしてやる。
 msgctxt "Portrait329-05_Sabu"
@@ -35886,61 +35960,63 @@ msgid ""
 "This is just the beginning. I will make it my life's mission to destroy you, "
 "your friends, and everyone you've ever loved."
 msgstr ""
+"Это только начало. Клянусь, я жизнь положу, чтобы уничтожить вас, ваших "
+"друзей и всех, кто вас любит."
 
 #. お前の母親の住所も既に割り出してあるのだ。
 msgctxt "Portrait329-06_Sabu"
 msgid "I know where you live. I know where your mother lives."
-msgstr ""
+msgstr "Я знаю, где вы живёте. Я знаю, где живут ваши мамы."
 
 #. オレでも母ちゃんの住所言えねぇのに。
 msgctxt "Portrait329-07_Kunio"
 msgid "Even I don't know where my mother lives."
-msgstr ""
+msgstr "Даже я не знаю, где моя мать."
 
 #. ママに手ぇ出すんじゃねぇぞ！？
 msgctxt "Portrait329-07_Kyoko"
 msgid "WHAT'D HE SAY ABOUT MY MOMMA??"
-msgstr ""
+msgstr "ЧТО ТЫ СКАЗАЛ ПРО МОЮ МАМУ?"
 
 #. 私でも母さんの居場所は知らないのに。
 msgctxt "Portrait329-07_Marian"
 msgid "Even I don't know where my mother lives."
-msgstr ""
+msgstr "Даже я не знаю, где моя мать."
 
 #. ウチですら母さんがどこに住んでんのか知らないのに。
 msgctxt "Portrait329-07_Provie"
 msgid "Even I don't know where my mother lives."
-msgstr ""
+msgstr "Даже я не знаю, где моя мать."
 
 #. オレでも知らねぇぞ。
 msgctxt "Portrait329-07_Riki"
 msgid "Even I don't know where my mother lives."
-msgstr ""
+msgstr "Даже я не знаю, где моя мать."
 
 #. もうとっとと決着つけるぞ。
 msgctxt "Portrait329-08_Kunio"
 msgid "Let's get this over with."
-msgstr ""
+msgstr "Покончим с этим."
 
 #. さっさとけり付けるよ。
 msgctxt "Portrait329-08_Marian"
 msgid "Let's get this over with."
-msgstr ""
+msgstr "Покончим с этим."
 
 #. これで終わらせてやる。
 msgctxt "Portrait329-08_Misako"
 msgid "Let's get this over with."
-msgstr ""
+msgstr "Покончим с этим."
 
 #. もう早く決着をつけよ。
 msgctxt "Portrait329-08_Provie"
 msgid "Let's get this over with."
-msgstr ""
+msgstr "Покончим с этим."
 
 #. もういい。決着つけようぜ。
 msgctxt "Portrait329-08_Riki"
 msgid "Let's get this over with."
-msgstr ""
+msgstr "Покончим с этим."
 
 #. ここであったが百年目。組を壊滅させたじゃじゃ馬どもめ。
 msgctxt "Portrait337-01_Sabu"
@@ -35948,150 +36024,153 @@ msgid ""
 "So, at last we meet. The meddlesome teens who have made a mockery of my "
 "entire organization."
 msgstr ""
+"Наконец-то мы встретились. Назойливые подростки, что выставили на посмешище "
+"всю мою организацию."
 
 #. 百年目？ さっき会っただろ。
 msgctxt "Portrait337-02_Kunio"
 msgid "At last? Didn't we just fight you?"
-msgstr ""
+msgstr "Наконец-то? Разве мы только что не сражались с тобой?"
 
 #. 百年目？ さっき会わなかった？
 msgctxt "Portrait337-02_Marian"
 msgid "At last? Didn't we just fight you?"
-msgstr ""
+msgstr "Наконец-то? Разве мы только что не сражались с тобой?"
 
 #. 百年目？ いや、さっき会ったじゃん。
 msgctxt "Portrait337-02_Misako"
 msgid "At last? Didn't we just fight you?"
-msgstr ""
+msgstr "Наконец-то? Разве мы только что не сражались с тобой?"
 
 #. 百年目？ さっき会ったじゃん。
 msgctxt "Portrait337-02_Provie"
 msgid "At last? Didn't we just fight you?"
-msgstr ""
+msgstr "Наконец-то? Разве мы только что не сражались с тобой?"
 
 #. 百年目？ さっき会ったじゃねぇか。
 msgctxt "Portrait337-02_Riki"
 msgid "At last? Didn't we just fight you?"
-msgstr ""
+msgstr "Наконец-то? Разве мы только что не сражались с тобой?"
 
 #. ああ、てめぇを屋根からぶっ飛ばしただろ！ ヘリにぶつかった衝撃で忘れちまったか？
 msgctxt "Portrait337-03_Kunio"
 msgid ""
 "Yeah, we punched you through the roof! You hit the helicopter, remember?"
 msgstr ""
+"Да, мы выбросили тебя через крышу! Ты ещё ударился о вертолёт, помнишь?"
 
 #. そーだよ、あたしたちのパンチで屋根突き破ってヘリにぶつかってたじゃん！ 忘れたの？
 msgctxt "Portrait337-03_Kyoko"
 msgid ""
 "Yeah, we punched you through the roof! You hit the helicopter, remember?"
 msgstr ""
+"Да, мы выбросили тебя через крышу! Ты ещё ударился о вертолёт, помнишь?"
 
 #. 私たちのパンチで屋根を突き破ってヘリにぶつかってたよね。忘れたっての？
 msgctxt "Portrait337-03_Marian"
 msgid ""
 "Yeah, we punched you through the roof! You hit the helicopter, remember?"
 msgstr ""
+"Да, мы выбросили тебя через крышу! Ты ещё ударился о вертолёт, помнишь?"
 
 #. そうそう、屋根からぶっ飛ばしたじゃん！ ヘリにぶつかった衝撃で忘れた？
 msgctxt "Portrait337-03_Provie"
 msgid ""
 "Yeah, we punched you through the roof! You hit the helicopter, remember?"
 msgstr ""
+"Да, мы выбросили тебя через крышу! Ты ещё ударился о вертолёт, помнишь?"
 
 #. ああ、屋根からぶっ飛ばしたな。ヘリにぶつかった衝撃で忘れたのか？
 msgctxt "Portrait337-03_Riki"
 msgid ""
 "Yeah, we punched you through the roof! You hit the helicopter, remember?"
 msgstr ""
+"Да, мы выбросили тебя через крышу! Ты ещё ударился о вертолёт, помнишь?"
 
 #. いやーあれは最高だったな。
 msgctxt "Portrait337-04_Kunio"
 msgid "That was pretty crazy."
-msgstr ""
+msgstr "Это было так круто."
 
 #. あれは傑作だったね。
 msgctxt "Portrait337-04_Marian"
 msgid "That was pretty crazy."
-msgstr ""
+msgstr "Это было так круто."
 
 #. あれサイコーだったわ。
 msgctxt "Portrait337-04_Misako"
 msgid "That was pretty crazy."
-msgstr ""
+msgstr "Это было так круто."
 
 #. いやーあれは最高だったわ。
 msgctxt "Portrait337-04_Provie"
 msgid "That was pretty crazy."
-msgstr ""
+msgstr "Это было так круто."
 
 #. あれはなかなか見物だった。
 msgctxt "Portrait337-04_Riki"
 msgid "That was pretty crazy."
-msgstr ""
+msgstr "Это было так круто."
 
 #. 何を言っている？ バカなことを言っていると世間から浮くぞ。
 msgctxt "Portrait337-05_Sabu"
 msgid "I have no idea what you're referring to, but your jokes are obnoxious."
-msgstr ""
+msgstr "Не знаю, о чём это вы толкуете, шутки у вас отвратительны."
 
 #. それはどうだろうな、オレら人気者だからな。
 msgctxt "Portrait337-06_Kunio"
 msgid "I don't know, people seem to like us."
-msgstr ""
+msgstr "Ну не знаю, обычно мы нравимся людям."
 
 #. それはどうかなー？ あたしたち大人気なんだからね。
 msgctxt "Portrait337-06_Kyoko"
 msgid "I dunno, people seem to like us."
-msgstr ""
+msgstr "Ну не знаю, обычно мы нравимся людям."
 
 #. どうかな？ 私たちは人気者なんだよ。
 msgctxt "Portrait337-06_Marian"
 msgid "I don't know, people seem to like us."
-msgstr ""
+msgstr "Ну не знаю, обычно мы нравимся людям."
 
 #. そうれはどうだろ、ウチら人気者みたいだけど。
 msgctxt "Portrait337-06_Provie"
 msgid "I don't know, people seem to like us."
-msgstr ""
+msgstr "Ну не знаю, обычно мы нравимся людям."
 
 #. それはどうだろうな、オレたち人気があるみてぇだぞ。
 msgctxt "Portrait337-06_Riki"
 msgid "I don't know, people seem to like us."
-msgstr ""
+msgstr "Ну не знаю, обычно мы нравимся людям."
 
 #. ファンアート見たことねぇのかよ？
-#, fuzzy
 msgctxt "Portrait337-07_Kunio"
 msgid "Haven't you seen all the fan art?"
-msgstr "Как тебе это удалось?"
+msgstr "Вот ты видел фанарт по нам?"
 
 #. ファンアート見たことない？
-#, fuzzy
 msgctxt "Portrait337-07_Marian"
 msgid "Haven't you seen all the fan art?"
-msgstr "Как тебе это удалось?"
+msgstr "Вот ты видел фанарт по нам?"
 
 #. あんたファンアート見たことないの？
 msgctxt "Portrait337-07_Misako"
 msgid "Yeah, haven't you seen all the fan art?"
-msgstr ""
+msgstr "Да, разве ты не видел фанарт по нам?"
 
 #. ファンアート見たことないの？
-#, fuzzy
 msgctxt "Portrait337-07_Provie"
 msgid "Haven't you seen all the fan art?"
-msgstr "Как тебе это удалось?"
+msgstr "Вот ты видел фанарт по нам?"
 
 #. ファンアートもあるらしいしな。
-#, fuzzy
 msgctxt "Portrait337-07_Riki"
 msgid "Haven't you seen all the fan art?"
-msgstr "Как тебе это удалось?"
+msgstr "Вот ты видел фанарт по нам?"
 
 #. 親父、こいつら半殺しにしちまっていいか？？
 msgctxt "Portrait337-08_Ken"
 msgid "You want me to rip their heads off, Dad??"
-msgstr ""
+msgstr "Пап, хочешь, я оторву им головы?!"
 
 #. げっ、おまえもいたのかよ。てことはお守もどっかに隠れてんのか？
 msgctxt "Portrait337-09_Kunio"
@@ -36099,6 +36178,8 @@ msgid ""
 "THIS guy's back, too? Sigh, don't you have a bodyguard somewhere to hide "
 "behind?"
 msgstr ""
+"И ЭТОТ парень тоже вернулся? Разве у тебя нет телохранителя, за которым "
+"можно спрятаться, а?"
 
 #. こいつもいたんだ。ってことはどこかにボディガードもいるのかな？
 msgctxt "Portrait337-09_Marian"
@@ -36106,6 +36187,8 @@ msgid ""
 "THIS guy's back, too? Sigh, don't you have a bodyguard somewhere to hide "
 "behind?"
 msgstr ""
+"И ЭТОТ парень тоже вернулся? Разве у тебя нет телохранителя, за которым "
+"можно спрятаться, а?"
 
 #. こいつもいんのかよ。どうせボディーガードに守ってもらうんだろ？
 msgctxt "Portrait337-09_Misako"
@@ -36113,6 +36196,8 @@ msgid ""
 "THIS guy's back, too? Ugh, don't you have a bodyguard somewhere to hide "
 "behind?"
 msgstr ""
+"И ЭТОТ парень тоже вернулся? Разве у тебя нет телохранителя, за которым "
+"можно спрятаться, а?"
 
 #. うわっ、あんたもいたの？ てことは護衛もどっかに隠れてるんじゃない？
 msgctxt "Portrait337-09_Provie"
@@ -36120,6 +36205,8 @@ msgid ""
 "THIS guy's back, too? Sigh, don't you have a bodyguard somewhere to hide "
 "behind?"
 msgstr ""
+"И ЭТОТ парень тоже вернулся? Разве у тебя нет телохранителя, за которым "
+"можно спрятаться, а?"
 
 #. おまえもいたのか。なら護衛もどっかに隠れてんのか？
 msgctxt "Portrait337-09_Riki"
@@ -36127,151 +36214,163 @@ msgid ""
 "THIS guy's back, too? Sigh, don't you have a bodyguard somewhere to hide "
 "behind?"
 msgstr ""
+"И ЭТОТ парень тоже вернулся? Разве у тебя нет телохранителя, за которым "
+"можно спрятаться, а?"
 
 #. 私に任せてくれ。この場を丸く収めよう。
 msgctxt "Portrait337-10_Sabuko"
 msgid "Perhaps I can assist in resolving this predicament..."
-msgstr ""
+msgstr "Возможно, я помогу в решении этой затруднительной ситуации..."
 
 #. マジか！ ありがとな、サブコ！
 msgctxt "Portrait337-11_Kunio"
 msgid "Finally! Thanks, Sabuko."
-msgstr ""
+msgstr "Наконец-то! Спасибо, Сабуко."
 
 #. ほんと！？ 助かるー！
 msgctxt "Portrait337-11_Kyoko"
 msgid "Finally! Thanks, Sabuko."
-msgstr ""
+msgstr "Наконец-то! Спасибо, Сабуко."
 
 #. サブコさっすが。
 msgctxt "Portrait337-11_Marian"
 msgid "Finally! Thanks, Sabuko."
-msgstr ""
+msgstr "Наконец-то! Спасибо, Сабуко."
 
 #. ほんと！？ サブコありがと！
 msgctxt "Portrait337-11_Provie"
 msgid "Finally! Thanks, Sabuko."
-msgstr ""
+msgstr "Наконец-то! Спасибо, Сабуко."
 
 #. 本当か。任せるぞ、サブコ。
 msgctxt "Portrait337-11_Riki"
 msgid "Finally! Thanks, Sabuko."
-msgstr ""
+msgstr "Наконец-то! Спасибо, Сабуко."
 
 #. …この小娘どもを叩き切ることでな。
 msgctxt "Portrait337-12_Sabuko"
 msgid "...by separating their heads from their necks with my blade."
-msgstr ""
+msgstr "...путём отсечения их голов от шеи с помощью моего клинка."
 
 #. ああもう訳わかんねーよ。どういう状況だこれ？
 msgctxt "Portrait337-13_Kunio"
 msgid "Okay, I'm confused now. What's going on?"
-msgstr ""
+msgstr "Так, я совсем запутался. Что происходит?"
 
 #. 訳がわからない… どうなってるんだ？
 msgctxt "Portrait337-13_Marian"
 msgid "Okay, I'm confused now. What's going on?"
-msgstr ""
+msgstr "Так, я совсем запуталась. Что происходит?"
 
 #. は？ 意味わかんない… マジでどうなってんの？
 msgctxt "Portrait337-13_Misako"
 msgid "Okay, I'm seriously confused now. What's going on?"
-msgstr ""
+msgstr "Так, вот теперь я серьёзно запуталась. Что происходит?"
 
 #. もう無理、完全に訳わかんない。これどういう状況？
 msgctxt "Portrait337-13_Provie"
 msgid "Okay, I'm confused now. What's going on?"
-msgstr ""
+msgstr "Так, я совсем запуталась. Что происходит?"
 
 #. 訳がわからねぇ… どういう状況だ、これは？
 msgctxt "Portrait337-13_Riki"
 msgid "Okay, I'm confused now. What's going on?"
-msgstr ""
+msgstr "Так, я совсем запутался. Что происходит?"
 
 #. 別の世界線ってことじゃねぇか？
 msgctxt "Portrait337-14_Kunio"
 msgid "I think they're going for some kind of alternate reality thing?"
-msgstr ""
+msgstr "Может, они устроили что-то типа альтернативной реальности?"
 
 #. これって別の世界線だったりする？
 msgctxt "Portrait337-14_Kyoko"
 msgid "I think they're going for some kinda alternate reality thing?"
-msgstr ""
+msgstr "Может, они устроили что-то типа альтернативной реальности?"
 
 #. 世界線が違うとか？
 msgctxt "Portrait337-14_Marian"
 msgid "I think they're going for some kind of alternate reality thing?"
-msgstr ""
+msgstr "Может, они устроили что-то типа альтернативной реальности?"
 
 #. 別の世界線ってことじゃね？
 msgctxt "Portrait337-14_Provie"
 msgid "I think they're going for some kind of alternate reality thing?"
-msgstr ""
+msgstr "Может, они устроили что-то типа альтернативной реальности?"
 
 #. 別の世界線ってことじゃねぇか？
 msgctxt "Portrait337-14_Riki"
 msgid "I think they're going for some kind of alternate reality thing?"
-msgstr ""
+msgstr "Может, они устроили что-то типа альтернативной реальности?"
 
 #. 黙れ。
 msgctxt "Portrait337-15_Sabu"
 msgid "Silence."
-msgstr ""
+msgstr "Тихо."
 
 #. サブとのラスボス戦もなかったことになってんのか？
 msgctxt "Portrait337-16_Kunio"
 msgid "Oh, like the final boss battle against Sabu never happened?"
-msgstr ""
+msgstr "О, типа, финальной битвы против босса Сабу не будет?"
 
 #. サブとのラスボス戦がなかった世界線、とか。
 msgctxt "Portrait337-16_Kyoko"
 msgid "Oh, like the final boss battle against Sabu never happened?"
-msgstr ""
+msgstr "О, типа, финальной битвы против босса Сабу не будет?"
 
 #. サブとのボス戦がなかったことになってる？
 msgctxt "Portrait337-16_Marian"
 msgid "Oh, like the final boss battle against Sabu never happened?"
-msgstr ""
+msgstr "О, типа, финальной битвы против босса Сабу не будет?"
 
 #. サブとのラスボス戦なかったことになってる？
 msgctxt "Portrait337-16_Provie"
 msgid "Oh, like the final boss battle against Sabu never happened?"
-msgstr ""
+msgstr "О, типа, финальной битвы против босса Сабу не будет?"
 
 #. サブとのラスボス戦もなかったことになってんのか？
 msgctxt "Portrait337-16_Riki"
 msgid "Oh, like the final boss battle against Sabu never happened?"
-msgstr ""
+msgstr "О, типа, финальной битвы против босса Сабу не будет?"
 
 #. そもそも出会ってないとかか？ 雑に締めてきたなー。
 msgctxt "Portrait337-17_Kunio"
 msgid "Or we never met them? Kind of a clumsy way to wrap things up, though."
 msgstr ""
+"А может, мы их и вовсе не встретим? Довольно-таки неуклюжий способ всё "
+"закончить."
 
 #. こいつらに会ったこともなかったとか？ 何とも締まらない終わり方だね…
 msgctxt "Portrait337-17_Marian"
 msgid "Or we never met them? Kind of a clumsy way to wrap things up, though."
 msgstr ""
+"А может, мы их и вовсе не встретим? Довольно-таки неуклюжий способ всё "
+"закончить."
 
 #. こいつらに会ったことがない世界線、とか？ 何この締まらない終わり方…
 msgctxt "Portrait337-17_Misako"
 msgid "Or we never met them? Kind of a clumsy way to wrap things up, though."
 msgstr ""
+"А может, мы их и вовсе не встретим? Довольно-таки неуклюжий способ всё "
+"закончить."
 
 #. そもそも出会ってないんじゃ？ 雑に締めてきたねー。
 msgctxt "Portrait337-17_Provie"
 msgid "Or we never met them? Kind of a clumsy way to wrap things up, though."
 msgstr ""
+"А может, мы их и вовсе не встретим? Довольно-таки неуклюжий способ всё "
+"закончить."
 
 #. 出会ってすらいねぇみてぇだな。雑な締め方だ。
 msgctxt "Portrait337-17_Riki"
 msgid "Or we never met them? Kind of a clumsy way to wrap things up, though."
 msgstr ""
+"А может, мы их и вовсе не встретим? Довольно-таки неуклюжий способ всё "
+"закончить."
 
 #. 口を慎め。
 msgctxt "Portrait337-18_Sabu"
 msgid "Stop talking."
-msgstr ""
+msgstr "Хватит болтать."
 
 #. 前作と一緒じゃねぇか？ 隠しエンディングとかメタ発言とか。
 msgctxt "Portrait337-19_Kunio"
@@ -36279,6 +36378,8 @@ msgid ""
 "Isn't that a little derivative of the first game? Secret alternate ending, "
 "fourth wall breaking, yadda yadda?"
 msgstr ""
+"Это же почти не отличается от первой игры? Секретная альтернативная "
+"концовка, ломание четвёртой стены, бла-бла-бла?"
 
 #. 前作の二番煎じになってない？ 隠しエンディングとかメタ展開とか、そういうの？
 msgctxt "Portrait337-19_Kyoko"
@@ -36286,6 +36387,8 @@ msgid ""
 "Isn't that a little derivative of the first game? Secret alternate ending, "
 "fourth wall breaking, yadda yadda?"
 msgstr ""
+"Это же почти не отличается от первой игры? Секретная альтернативная "
+"концовка, ломание четвёртой стены, бла-бла-бла?"
 
 #. 前作の二番煎じになってない？ 隠しエンディングとか、メタ展開とか。
 msgctxt "Portrait337-19_Marian"
@@ -36293,6 +36396,8 @@ msgid ""
 "Isn't that a little derivative of the first game? Secret alternate ending, "
 "fourth wall breaking, yadda yadda?"
 msgstr ""
+"Это же почти не отличается от первой игры? Секретная альтернативная "
+"концовка, ломание четвёртой стены, бла-бла-бла?"
 
 #. 何か前作と一緒じゃね？ 隠しエンディングとか、メタ発言とか。
 msgctxt "Portrait337-19_Provie"
@@ -36300,6 +36405,8 @@ msgid ""
 "Isn't that a little derivative of the first game? Secret alternate ending, "
 "fourth wall breaking, yadda yadda?"
 msgstr ""
+"Это же почти не отличается от первой игры? Секретная альтернативная "
+"концовка, ломание четвёртой стены, бла-бла-бла?"
 
 #. 前作と一緒じゃねぇか？ 隠しエンディングといいメタ発言といい。
 msgctxt "Portrait337-19_Riki"
@@ -36307,31 +36414,33 @@ msgid ""
 "Isn't that a little derivative of the first game? Secret alternate ending, "
 "fourth wall breaking, yadda yadda?"
 msgstr ""
+"Это же почти не отличается от первой игры? Секретная альтернативная "
+"концовка, ломание четвёртой стены, бла-бла-бла?"
 
 #. アクションゲーだし、だれもそこまでストーリー気にしてねぇだろうけどよ…
 msgctxt "Portrait337-20_Kunio"
 msgid "Eh, it's a brawler. Nobody cares about the story."
-msgstr ""
+msgstr "Эй, это же файтинг. До сюжета нет никому никакого дела."
 
 #. どうせベルトアクションゲーだし、ストーリーなんて誰も気にしてないよ。
 msgctxt "Portrait337-20_Marian"
 msgid "Eh, it's a brawler. Nobody cares about the story."
-msgstr ""
+msgstr "Эй, это же файтинг. До сюжета нет никому никакого дела."
 
 #. どうせアクションゲーだし、ストーリーのつじつまとかは二の次なんじゃない？
 msgctxt "Portrait337-20_Misako"
 msgid "Eh, it's a brawler. Nobody cares about the story."
-msgstr ""
+msgstr "Эй, это же файтинг. До сюжета нет никому никакого дела."
 
 #. アクションゲーのストーリーなんてだれもそこまで求めてないっしょ。
 msgctxt "Portrait337-20_Provie"
 msgid "Eh, it's a brawler. Nobody cares about the story."
-msgstr ""
+msgstr "Эй, это же файтинг. До сюжета нет никому никакого дела."
 
 #. アクションゲームにストーリー性は求めてねぇってか？
 msgctxt "Portrait337-20_Riki"
 msgid "Eh, it's a brawler. Nobody cares about the story."
-msgstr ""
+msgstr "Эй, это же файтинг. До сюжета нет никому никакого дела."
 
 #. 黙れ！ オレたちに盾突いたことを後悔しながら死ぬんだな。
 msgctxt "Portrait337-21_Sabu"
@@ -36339,96 +36448,93 @@ msgid ""
 "QUIET! You will show the great Sabu and his family some RESPECT before you "
 "die."
 msgstr ""
+"МОЛЧАТЬ! Я заставлю вас уважать великого Сабу и его семью перед тем, как вы "
+"умрёте!"
 
 #. 親父、こいつら殺していいか？
 msgctxt "Portrait337-22_Ken"
 msgid "Can I kill 'em, Dad?"
-msgstr ""
+msgstr "Можно мен убить их, пап?"
 
 #. おまえにできんのか？
 msgctxt "Portrait337-23_Kunio"
 msgid "I don't know... CAN you, Kenneth?"
-msgstr ""
+msgstr "Ну не знаю даже... А ты СМОЖЕШЬ, Кеннет?"
 
 #. あんたにそんなことできるの？
 msgctxt "Portrait337-23_Marian"
 msgid "I don't know... CAN you, Kenneth?"
-msgstr ""
+msgstr "Ну не знаю даже... А ты СМОЖЕШЬ, Кеннет?"
 
 #. あんたにそんなことできんの？
 msgctxt "Portrait337-23_Misako"
 msgid "I dunno... CAN you, Kenneth?"
-msgstr ""
+msgstr "Ну не знаю даже... А ты СМОЖЕШЬ, Кеннет?"
 
 #. あんたにできるの？
 msgctxt "Portrait337-23_Provie"
 msgid "I don't know... CAN you, Kenneth?"
-msgstr ""
+msgstr "Ну не знаю даже... А ты СМОЖЕШЬ, Кеннет?"
 
 #. フン… おまえにできんのか？
 msgctxt "Portrait337-23_Riki"
 msgid "I don't know... CAN you, Kenneth?"
-msgstr ""
+msgstr "Ну не знаю даже... А ты СМОЖЕШЬ, Кеннет?"
 
 #. 挑発するねぇ。
 msgctxt "Portrait337-24_Kunio"
 msgid "Oooh, sick burn."
-msgstr ""
+msgstr "О-о-о, отлично сказано."
 
 #. ムリムリ。
 msgctxt "Portrait337-24_Kyoko"
 msgid "Oooh, sick burn."
-msgstr ""
+msgstr "О-о-о, отлично сказано."
 
 #. できないだろうね。
 msgctxt "Portrait337-24_Marian"
 msgid "Oooh, sick burn."
-msgstr ""
+msgstr "О-о-о, отлично сказано."
 
 #. 無理っしょ。
 msgctxt "Portrait337-24_Provie"
 msgid "Oooh, sick burn."
-msgstr ""
+msgstr "О-о-о, отлично сказано."
 
 #. いい挑発だ。
 msgctxt "Portrait337-24_Riki"
 msgid "Oooh, sick burn."
-msgstr ""
+msgstr "О-о-о, отлично сказано."
 
 #. 無理だからな。
-#, fuzzy
 msgctxt "Portrait337-25_Kunio"
 msgid "Right?"
-msgstr "Точно."
+msgstr "Правда?"
 
 #. 諦めな。
-#, fuzzy
 msgctxt "Portrait337-25_Marian"
 msgid "Right?"
-msgstr "Точно."
+msgstr "Правда?"
 
 #. 諦めな。
-#, fuzzy
 msgctxt "Portrait337-25_Misako"
 msgid "Right?"
-msgstr "Точно."
+msgstr "Правда?"
 
 #. 諦めなって。
-#, fuzzy
 msgctxt "Portrait337-25_Provie"
 msgid "Right?"
-msgstr "Точно."
+msgstr "Правда?"
 
 #. 諦めろ。
-#, fuzzy
 msgctxt "Portrait337-25_Riki"
 msgid "Right?"
-msgstr "Точно."
+msgstr "Правда?"
 
 #. さっさと片付けるぞ。家族の絆を見せつけてやれ！
 msgctxt "Portrait337-26_Sabuko"
 msgid "Let's get this over with. SABU CLAN, ATTACK!"
-msgstr ""
+msgstr "Закончим с этим. В АТАКУ, КЛАН САБУ!"
 
 #. ありえない！ チンピラ女子高生ふたりに敗れるなんて… どうして？
 msgctxt "Portrait338-01_Sabuko"
@@ -36891,97 +36997,98 @@ msgstr "Согласен. Обожаю эту песню."
 #. 覚悟は出来てんのか？
 msgctxt "PortraitHH01A-01_Sol Badguy"
 msgid "So I heard you could use a hand. How much you payin?"
-msgstr ""
+msgstr "Как я слышал, вам нужна помощь. Сколько вы готовы заплатить?"
 
 #. しゃあねぇな
 msgctxt "PortraitHH01C-01_Sol Badguy"
 msgid "Alright, it's a deal. Hope you got plenty of World-Dollars handy."
-msgstr ""
+msgstr "Ладно, по рукам. Надеюсь, у вас достаточно денег."
 
 #. 賞金稼ぎ再開アル！
 msgctxt "PortraitHH02A-01_Jam"
 msgid ""
 "Aiya, you look so scrawny! You better hire me to protect you so you don't "
 "die."
-msgstr ""
+msgstr "Айя, вы такие тощие! Наймите меня для защиты, так вы не умрёте."
 
 #. じゃんじゃんいくアルヨ！
 msgctxt "PortraitHH02C-01_Jam"
 msgid "It's a deal. Time to make some money!"
-msgstr ""
+msgstr "По рукам. Пора заработать немного деньжат!"
 
 #. ワオワオ！超カワイイ！ナチョス持ってる？持ってない？ねえねえカセットテープって知ってる？？
 msgctxt "PortraitHH03A-01_Kebako"
 msgid "Hey there, you look pretty cool! Got any nachos? No? How about a VCR?"
-msgstr ""
+msgstr "Эй, приветики, выглядите потрясно! Есть начос? Нет? А видеоплеер?"
 
 #. 私が全部ぶっ飛ばしてあげる！
 msgctxt "PortraitHH03C-01_Kebako"
 msgid "I'ma help you blow stuff up! Let's go!"
-msgstr ""
+msgstr "Я помогу вам разнести всё вокруг! Вперёд!"
 
 #. Hey！何見てるのさ。お困りなら手伝ってあげるよ。
 msgctxt "PortraitHH04A-01_Chris"
 msgid "What're YOU looking at? Need some help, buddy?"
-msgstr ""
+msgstr "На что это ТЫ уставился? Помощь нужна, дружок?"
 
 #. これで安心だね。
 msgctxt "PortraitHH04C-01_Chris"
 msgid "Alright, you seem like okay folk. Let's head out."
-msgstr ""
+msgstr "Ну ладно, вроде вы правильные ребята. Погнали."
 
 #. スパーリングの相棒を探してるのかい？
 msgctxt "PortraitHH05A-01_Paul"
 msgid "Hey buddy, you looking for a sparring partner? I'm your guy."
-msgstr ""
+msgstr "Эй, приятель, нужен спарринг-партнёр? Я - то что надо."
 
 #. このためにずっと練習してきたんだぜ！
 msgctxt "PortraitHH05C-01_Paul"
 msgid "I been training for this my whole life!"
-msgstr ""
+msgstr "Я тренировался ради этого всю свою жизнь!"
 
 #. どうした？トラブルでも探しているのか？それともオレの方か？
 msgctxt "PortraitHH06A-01_Wes"
 msgid "Sup? You looking for trouble? Cause it's got a way of finding me."
-msgstr ""
+msgstr "Чё? На проблемы нарываешься? Потому что именно так можно меня найти."
 
 #. ラッキーだと思ったほうがいい。普段、オレは誰とも組まないからな。
 msgctxt "PortraitHH06C-01_Wes"
 msgid "Count yourself lucky. I don't join up with just anyone."
-msgstr ""
+msgstr "Считайте, что вам повезло. Обычно я не веду дел с первыми встречными."
 
 #. よぉ、おまぬけさん！オレとジュニアがお前を助けてやるぜ。お前はイイヤツだって言ってるしな。
 msgctxt "PortraitHH07A-01_Berzerker"
 msgid ""
 "Alright, twerps, me 'n Junior here will help you out. He seems to think "
 "you're good people. (happy baby noises)"
-msgstr ""
+msgstr "Ладно, придурки, мы с младшим вам поможем. Вы ему понравились."
 
 #. じゃあまたな、泣き虫ちゃん！
 msgctxt "PortraitHH07C-01_Berzerker"
 msgid "Later, dweebs. (baby coos)"
-msgstr ""
+msgstr "Пока, неудачники."
 
 #. 見つけてくれてありがとう。ココはオレの生まれた場所。
 msgctxt "PortraitHH08A-01_Classic RCR Kunio"
 msgid ""
 "Hey there, good thing you found me. I know these streets better than anyone."
-msgstr ""
+msgstr "Эй, привет. Хорошо, что нашли меня. Я знаю эти улицы как никто другой."
 
 #. 一緒にこないか？…少しだけかもしれないが。
 msgctxt "PortraitHH08C-01_Classic RCR Kunio"
 msgid "Join up with you? As if... well, maybe just for a little while."
 msgstr ""
+"Присоединиться к вам? Как какой-то... а, ладно, всё равно делать нечего."
 
 #. おう、何か手伝うぜ。
 msgctxt "PortraitHH09A-01_Classic RCR Riki"
 msgid "Greetings. Do you require my assistance for something?"
-msgstr ""
+msgstr "Приветствую. Нужна помощь?"
 
 #. それなら一緒に行くか、二人ならうまくやれる。
 msgctxt "PortraitHH09C-01_Classic RCR Riki"
 msgid "Well then, I guess I'll join you. Together I'm sure we'll do very well."
-msgstr ""
+msgstr "Ну хорошо, пожалуй, я присоединюсь к вам. Вместе мы многое совершим."
 
 #. あぁ、ダサくて汚い喧嘩オタクさんたち。いつもどうやって私を見つけてるの？
 msgctxt "PortraitHH10A-01_Hibari"
@@ -36989,33 +37096,36 @@ msgid ""
 "Oh dear, another fashion-impaired brawler. How does your type always seem to "
 "find me?"
 msgstr ""
+"О боже, ещё один безвкусный хулиган. Почему подобные тебе постоянно приходят "
+"ко мне?"
 
 #. いいわよ、あなたを手伝うわ…それにしてもひどいファッションセンス！
 msgctxt "PortraitHH10C-01_Hibari"
 msgid ""
 "Fine, I will help you with your fight... and your terrible fashion sense."
-msgstr ""
+msgstr "Хорошо, я помогу вам... Несмотря на отвратительный вкус."
 
 #. クールなファンだな！アンコールまで待っててくれ！
 msgctxt "PortraitHH11A-01_NOIZE"
 msgid "Aww geez, more fans. Can't you wait til the afterparty to bug me?"
-msgstr ""
+msgstr "Ох, ещё фанаты. Не можете дождаться афтерпати, чтобы досаждать мне?"
 
 #. ベストを尽くしたいのなら…ロックンロールだ！
 msgctxt "PortraitHH11C-01_NOIZE"
 msgid "You want the best, you GOT her! Let's rock!"
-msgstr ""
+msgstr "Если вы хотите лучшего, то вы это получите! Зажжём!"
 
 #. ヨゥヨゥ、凹んだ顔面ならすぐに用意してやろうか?
 msgctxt "PortraitHH12A-01_Abobo"
 msgid "Oh, hey. I'm guessing you need someone's face punched in, huh?"
-msgstr ""
+msgstr "О, привет. Кажется, вам нужен кое-то для набивания морд, а?"
 
 #. 金を寄越すなら選り好みはしないぜ！全員、捻り潰してやる！
 msgctxt "PortraitHH12C-01_Abobo"
 msgid ""
 "Alright, I ain't picky, your money's good with me. Let's go crack some heads."
 msgstr ""
+"Лады, я не привередливый, деньги карман не тянут. Разобьём парочку голов."
 
 #. さあ！買うか？出ていくか？
 msgctxt "SHOP01-01"
@@ -37307,10 +37417,11 @@ msgctxt "SHOP05-10"
 msgid "I hope we meet again on the path of our lives..."
 msgstr "Надеюсь, пути наших жизней снова пересекутся..."
 
+# Королева пышек
 #. お金があるなら入店しなさい…さもなくば出て行きなさい。
 msgctxt "SHOP06-01"
 msgid "Enter if ye have wealth, otherwise... BEGONE!"
-msgstr "Входите, если есть деньжата, иначе... УБИРАЙТЕСЬ!"
+msgstr "Входите, если есть богаты, иначе... УБИРАЙТЕСЬ!"
 
 #. はぁ…入口に鍵を用意しないと。
 msgctxt "SHOP06-02"
@@ -38134,12 +38245,12 @@ msgstr "Забота о себе суперважна, чуваки! Заход�
 #. どうしたんだい！ほら入って！
 msgctxt "SHOP22-01"
 msgid "Hey, what's up? Get on in here."
-msgstr ""
+msgstr "Эй, как дела? Заходите."
 
 #. もしかしてお客さん？
 msgctxt "SHOP22-02"
 msgid "Customers, huh? How can I help ya?"
-msgstr ""
+msgstr "Ха, покупатели? Чем могу помочь?"
 
 #. いいね。
 msgctxt "SHOP22-03"
@@ -38234,7 +38345,7 @@ msgstr "Заходите в любое время."
 #. ゲッチャーゲーム! / ライトヒア!
 msgctxt "SHOP24-01"
 msgid "Getcher games! / Right here!"
-msgstr ""
+msgstr "Твоя игра! / Прямо здесь!"
 
 #. ビービービー! / テレビゲームはここだよ!
 msgctxt "SHOP24-02"

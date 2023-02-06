@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
-"PO-Revision-Date: 2023-02-01 23:42+0300\n"
+"PO-Revision-Date: 2023-02-05 14:28+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.08.3\n"
+"X-Generator: Lokalize 23.03.70\n"
 
 #. 左右の移動（スティック）
 msgctxt "ActionNamePS5_LeftStick_Horizontal"
@@ -1714,12 +1714,12 @@ msgstr "ВПЕРЁД!"
 #. ホストが新たな仲間をアンロック！
 msgctxt "Character_Unlock_Client_Main"
 msgid "You helped your friend unlock"
-msgstr ""
+msgstr "Вы помогли своему другу разблокировать"
 
 #. （次はホストになって手伝ってもらおう）
 msgctxt "Character_Unlock_Client_Sub"
 msgid "(now beat her yourself!)"
-msgstr ""
+msgstr "(а теперь победите её сами!)"
 
 #. IS READY TO FIGHT
 msgctxt "Character_Unlock_Host_Main"
@@ -2439,10 +2439,11 @@ msgctxt "EQUIP_NAME_SIGN_NECKLACE"
 msgid "Sign Necklace"
 msgstr "Ожерелье со знаком"
 
+# ?
 #. スピードランナー
 msgctxt "EQUIP_NAME_SPEED_RUNNERS"
 msgid "Speed Runners"
-msgstr ""
+msgstr "Скороходы"
 
 #. スパイクグローブ
 msgctxt "EQUIP_NAME_SPIKED_KNUCKLES"
@@ -4369,7 +4370,7 @@ msgstr "Вы были выброшены из этой игры."
 #. 長押し
 msgctxt "LBL_BUTTON_CHARGE"
 msgid "Hold"
-msgstr "Удерживать"
+msgstr "Зажать"
 
 #. 短押し
 msgctxt "LBL_BUTTON_RAPIDLY"
@@ -4517,7 +4518,7 @@ msgstr "Кувырок"
 #. エアキャンセル
 msgctxt "MOVE_NAME_AIR_CANCEL"
 msgid "Air Cancel"
-msgstr ""
+msgstr "Разрыв в воздухе"
 
 #. エアクロス
 msgctxt "MOVE_NAME_AIR_CROSS"
@@ -4527,7 +4528,7 @@ msgstr "Кросс в прыжке"
 #. エアパンケーキ
 msgctxt "MOVE_NAME_AIR_PANCAKE"
 msgid "Air Pancake"
-msgstr ""
+msgstr "Удар с небес"
 
 #. エア石畳キス
 msgctxt "MOVE_NAME_AIR_PAVEMENT_SMOOCH"
@@ -4537,7 +4538,7 @@ msgstr "Удар о мостовую в воздухе"
 #. エアスプリットキック
 msgctxt "MOVE_NAME_AIR_SPLITKICK"
 msgid "Air Splitkick"
-msgstr ""
+msgstr "Шпагат в воздухе"
 
 #. バックフリップ
 msgctxt "MOVE_NAME_BACKFLIP"
@@ -4552,22 +4553,23 @@ msgstr "Обратное сальто"
 #. バックハンドスプリング
 msgctxt "MOVE_NAME_BACKHAND_SPRING"
 msgid "Backhand Spring"
-msgstr ""
+msgstr "Вертушка на ладонях"
 
 #. オリンピックスピン
 msgctxt "MOVE_NAME_BACKPACK_SWING"
 msgid "Olympic Spin"
-msgstr ""
+msgstr "Олимпийский молот"
 
+# движение в брейкдансе
 #. バックスピン
 msgctxt "MOVE_NAME_BACKSPIN"
 msgid "Backspin"
-msgstr ""
+msgstr "Бэк-спин"
 
 #. 左バックチョップ
 msgctxt "MOVE_NAME_BACK_CHOP"
 msgid "Left Back Chop"
-msgstr ""
+msgstr "Левый рубящий удар"
 
 #. バック三日月蹴り
 msgctxt "MOVE_NAME_BACK_CRESCENT_KICK"
@@ -4582,12 +4584,12 @@ msgstr "Удар локтем назад"
 #. スピンバックフィスト
 msgctxt "MOVE_NAME_BACK_FIST"
 msgid "Spin Back Fist"
-msgstr ""
+msgstr "Бэкфист в развороте"
 
 #. バックハンドキック
 msgctxt "MOVE_NAME_BACK_HAND_SPRING"
 msgid "Back Hand Spring"
-msgstr ""
+msgstr "Удар из стойки на руках"
 
 #. バックスプリットキック
 msgctxt "MOVE_NAME_BACK_SPLIT_KICK"
@@ -4602,7 +4604,7 @@ msgstr "Задний апперкот"
 #. バレットキック
 msgctxt "MOVE_NAME_BALLET_KICK"
 msgid "Ballet Kick"
-msgstr ""
+msgstr "Балетное па"
 
 #. オーバーヘッドキック
 msgctxt "MOVE_NAME_BICYCLE_KICK"
@@ -4622,7 +4624,7 @@ msgstr "Бумбокс"
 #. ボルダーホルダー
 msgctxt "MOVE_NAME_BOULDER_HOLDER"
 msgid "Boulder Holder"
-msgstr ""
+msgstr "Крепкое объятие"
 
 #. バウンサースロー
 msgctxt "MOVE_NAME_BOUNCER_THROW"
@@ -4632,12 +4634,12 @@ msgstr "Бросок вышибалы"
 #. ブリックブレイカー
 msgctxt "MOVE_NAME_BRICK_BREAKER"
 msgid "Brick Breaker"
-msgstr ""
+msgstr "Крушитель кирпичей"
 
 #. プロペラキック
 msgctxt "MOVE_NAME_BROKEN_PROPELLER"
 msgid "Broken Propeller"
-msgstr ""
+msgstr "Сломанный пропеллер"
 
 #. ブルースバックハンド
 msgctxt "MOVE_NAME_BRUCE_BACKHAND"
@@ -4647,12 +4649,12 @@ msgstr "Подача Брюса"
 #. ボム！
 msgctxt "MOVE_NAME_BUMP"
 msgid "Bump"
-msgstr ""
+msgstr "Удар пятой точкой"
 
 #. バタフライキック
 msgctxt "MOVE_NAME_BUTTERFLY_KICK"
 msgid "Butterfly Kick"
-msgstr ""
+msgstr "Удар бабочки"
 
 #. ヒップアタック
 msgctxt "MOVE_NAME_BUTT_BUMP"
@@ -4662,12 +4664,12 @@ msgstr "Спиной вперёд"
 #. カルーセルトス
 msgctxt "MOVE_NAME_CAROUSEL_TOSS"
 msgid "Carousel Toss"
-msgstr ""
+msgstr "Бросок с карусели"
 
 #. 横側転蹴り
 msgctxt "MOVE_NAME_CARTWHEEL"
 msgid "Cartwheel"
-msgstr ""
+msgstr "Колесо"
 
 #. カリスマキック
 msgctxt "MOVE_NAME_CHARISMA_CHECK"
@@ -4692,12 +4694,12 @@ msgstr "Стойка болельщиц"
 #. サーカスフリップ
 msgctxt "MOVE_NAME_CIRCUS_FLIP"
 msgid "Circus Flip"
-msgstr ""
+msgstr "Цирковое сальто"
 
 #. サーカストス
 msgctxt "MOVE_NAME_CIRCUS_TOSS"
 msgid "Circus Toss"
-msgstr ""
+msgstr "Цирковой бросок"
 
 #. クリンチニーキック
 msgctxt "MOVE_NAME_CLINCH_KNEES"
@@ -4712,12 +4714,13 @@ msgstr "Размашистый удар рукой"
 #. コードブレイカー
 msgctxt "MOVE_NAME_CODE_BREAKER"
 msgid "Code Breaker"
-msgstr ""
+msgstr "Крушитель"
 
+# движение брейкданса
 #. コインドロップ
 msgctxt "MOVE_NAME_COIN_DROP"
 msgid "Coin Drop"
-msgstr ""
+msgstr "Коин дроп"
 
 #. キメキメヘアー
 msgctxt "MOVE_NAME_COMBING_HAIR"
@@ -4737,7 +4740,7 @@ msgstr "Кросс справа"
 #. クロスチョップ
 msgctxt "MOVE_NAME_CROSSBODY_CHECK"
 msgid "Crossbody Check"
-msgstr ""
+msgstr "Взгляд через плечо"
 
 #. 軽打！
 msgctxt "MOVE_NAME_DAB"
@@ -4747,7 +4750,7 @@ msgstr "Дэб!"
 #. ダイブキック
 msgctxt "MOVE_NAME_DIVE_KICK"
 msgid "Dive Kick"
-msgstr ""
+msgstr "Выпад ногами"
 
 #. ドッジ
 msgctxt "MOVE_NAME_DODGE"
@@ -4757,7 +4760,7 @@ msgstr "Уворот"
 #. バックフリップエスケープ
 msgctxt "MOVE_NAME_DONKEY_KICK"
 msgid "Backflip Escape"
-msgstr ""
+msgstr "Уворот через сальто"
 
 #. ダブルドロップキック
 msgctxt "MOVE_NAME_DOUBLE_DROPKICK"
@@ -4767,7 +4770,7 @@ msgstr "Двойной дропкик"
 #. ダブルスラッシュキック
 msgctxt "MOVE_NAME_DOUBLE_SLASH_KICK"
 msgid "Double Slash Kick"
-msgstr ""
+msgstr "Двойной слэш"
 
 #. マッハキック
 msgctxt "MOVE_NAME_DRAGON_FEET"
@@ -4777,7 +4780,7 @@ msgstr "Лапы дракона"
 #. ドロップエルボー
 msgctxt "MOVE_NAME_DROP_ELBOW"
 msgid "Drop Elbow"
-msgstr ""
+msgstr "Удар локтем"
 
 #. ドロップキック
 msgctxt "MOVE_NAME_DROP_KICK"
@@ -4792,7 +4795,7 @@ msgstr "Укус"
 #. エルボーピストン
 msgctxt "MOVE_NAME_ELBOW_PISTON"
 msgid "Elbow Piston"
-msgstr ""
+msgstr "Локтем сверху"
 
 #. エルボースマッシュ
 msgctxt "MOVE_NAME_ELBOW_SMASH"
@@ -4804,10 +4807,11 @@ msgctxt "MOVE_NAME_FATAL_STEPS"
 msgid "Fatal Steps"
 msgstr "Смертельные шаги"
 
+# движение в брейкдансе
 #. フレア
 msgctxt "MOVE_NAME_FLARE"
 msgid "Flare"
-msgstr ""
+msgstr "Флай"
 
 #. フリップキック
 msgctxt "MOVE_NAME_FLIP_KICK"
@@ -4847,7 +4851,7 @@ msgstr "Немецкий суплекс"
 #. グラマーショット
 msgctxt "MOVE_NAME_GLAMOUR_SHOT"
 msgid "Glamour Shot"
-msgstr ""
+msgstr "Гламурное фото"
 
 #. ゴールキーパーパンチ
 msgctxt "MOVE_NAME_GOALIE_PUNCH"
@@ -4857,17 +4861,17 @@ msgstr "Вратарский удар"
 #. ヘッドバット
 msgctxt "MOVE_NAME_GRAB_HEADBUTT"
 msgid "Grab Headbutt"
-msgstr ""
+msgstr "Удар головой"
 
 #. つかみバックヒールキック
 msgctxt "MOVE_NAME_GRAB_HEEL_KICK"
 msgid "Grab Back Heel Kick"
-msgstr ""
+msgstr "Удар пяткой с захватом"
 
 #. グラブ・ニー
 msgctxt "MOVE_NAME_GRAB_KNEE"
 msgid "Grab Knee"
-msgstr ""
+msgstr "Захват за колено"
 
 #. マウント踏みつけ
 msgctxt "MOVE_NAME_GROUND_STOMP"
@@ -4907,7 +4911,7 @@ msgstr "Удар головой"
 #. ヘッドスライド
 msgctxt "MOVE_NAME_HEAD_SLIDE"
 msgid "Head Slide"
-msgstr ""
+msgstr "Скольжение головой"
 
 #. ヘッドストンピング
 msgctxt "MOVE_NAME_HEAD_STOMP"
@@ -4917,17 +4921,17 @@ msgstr "Припечатывание по голове"
 #. ハートビートパンチ
 msgctxt "MOVE_NAME_HEARTBEAT"
 msgid "Heartbeat"
-msgstr ""
+msgstr "Сердечный ритм"
 
 #. ヘヴィアッパーカット
 msgctxt "MOVE_NAME_HEAVY_UPPERCUT"
 msgid "Heavy Uppercut"
-msgstr ""
+msgstr "Мощный апперкот"
 
 #. バックヒールキック
 msgctxt "MOVE_NAME_HEEL_KICK"
 msgid "Back Heel Kick"
-msgstr ""
+msgstr "Удар пяткой"
 
 #. ハイエルボー
 msgctxt "MOVE_NAME_HIGH_ELBOW"
@@ -4947,12 +4951,12 @@ msgstr "Хук"
 #. 倒立フックキック
 msgctxt "MOVE_NAME_HOOK_KICK"
 msgid "Handstand Hook Kick"
-msgstr ""
+msgstr "Хук-кик из стойки"
 
 #. ホップニー
 msgctxt "MOVE_NAME_HOP_KNEE"
 msgid "Hop Knee"
-msgstr "Удар коленом в прыжке"
+msgstr "Удар коленом под дых"
 
 #. 熱血パンチ
 msgctxt "MOVE_NAME_HOT_BLOODED_PUNCH"
@@ -4977,7 +4981,7 @@ msgstr "Джеб"
 #. ジュエルパンチ
 msgctxt "MOVE_NAME_JEWEL_PUNCH"
 msgid "Jewel Punch"
-msgstr ""
+msgstr "Удар по самому важному"
 
 #. ジャンプ水平キック
 msgctxt "MOVE_NAME_JUMP_180_KICK"
@@ -4987,7 +4991,7 @@ msgstr "Прыжок в развороте на 180"
 #. ジャンプチョップ
 msgctxt "MOVE_NAME_JUMP_CHOP"
 msgid "Jump Chop"
-msgstr ""
+msgstr "Рубящий удар в прыжке"
 
 #. ジャンプダブルパンチ
 msgctxt "MOVE_NAME_JUMP_DOUBLE_PUNCH"
@@ -5007,7 +5011,7 @@ msgstr "Серповидный удар"
 #. ハンマーヘッド
 msgctxt "MOVE_NAME_JUMP_HAMMER"
 msgid "Hammer Head"
-msgstr ""
+msgstr "Костолом"
 
 #. ジャンプヘッドバット
 msgctxt "MOVE_NAME_JUMP_HEADBUTT"
@@ -5037,7 +5041,7 @@ msgstr "Удар ногой в прыжке"
 #. ジャンプハンマー
 msgctxt "MOVE_NAME_JUMP_SWING_PUNCH"
 msgid "Jump Swing Punch"
-msgstr ""
+msgstr "Свинг в прыжке"
 
 #. ジャンプツイストキック
 msgctxt "MOVE_NAME_JUMP_TWIST_KICK"
@@ -5052,7 +5056,7 @@ msgstr "Бросок"
 #. KOカッター
 msgctxt "MOVE_NAME_KO_CUTTER"
 msgid "KO Cutter"
-msgstr ""
+msgstr "Нокаутирующий удар"
 
 #. KOアッパーカット
 msgctxt "MOVE_NAME_KO_UPPERCUT"
@@ -5072,42 +5076,42 @@ msgstr "Левый удар кулаком"
 #. リフトオフコンボ
 msgctxt "MOVE_NAME_LIFT_OFF_COMB"
 msgid "Lift Off Comb"
-msgstr ""
+msgstr "Гребень на подъёме"
 
 #. リフトオフキック
 msgctxt "MOVE_NAME_LIFT_OFF_DONKEY_KICK"
 msgid "Lift Off Donkey Kick"
-msgstr ""
+msgstr "Подъём с ослиного пинка"
 
 #. リフトオフゲイナー
 msgctxt "MOVE_NAME_LIFT_OFF_GAINER"
 msgid "Lift Off Gainer"
-msgstr ""
+msgstr "Подъём с подбросом"
 
 #. ゲイザーリフトオフ
 msgctxt "MOVE_NAME_LIFT_OFF_GEYSER"
 msgid "Geyser Lift Off"
-msgstr ""
+msgstr "Выброс гейзера"
 
 #. リフトオフアッパー
 msgctxt "MOVE_NAME_LIFT_OFF_HEADBUTT"
 msgid "Lift Off Uppercut"
-msgstr ""
+msgstr "Подъём с апперкота"
 
 #. リフトオフヘッドバット
 msgctxt "MOVE_NAME_LIFT_OFF_LAUNCHER"
 msgid "Lift Off Headbutt"
-msgstr ""
+msgstr "Подъём с удара головой"
 
 #. ライガードロップ
 msgctxt "MOVE_NAME_LIGER_DROP"
 msgid "Liger Drop"
-msgstr ""
+msgstr "Выпад Лигера"
 
 #. リフティングライダー
 msgctxt "MOVE_NAME_LIGHTNING_RIDER"
 msgid "Lightning Rider"
-msgstr ""
+msgstr "Оседлавший молнию"
 
 #. フラットキック
 msgctxt "MOVE_NAME_LOW_KICK"
@@ -5117,17 +5121,17 @@ msgstr "Лоу-кик"
 #. マインドメルド
 msgctxt "MOVE_NAME_MIND_MELD"
 msgid "Mind Meld"
-msgstr ""
+msgstr "Слияние разумов"
 
 #. マッハキック
 msgctxt "MOVE_NAME_MJ_KICK"
 msgid "MJ Kick"
-msgstr ""
+msgstr "Удар Майкла Джексона"
 
 #. マッハキック
 msgctxt "MOVE_NAME_MK_KICK"
 msgid "MK Kick"
-msgstr ""
+msgstr "Маховый удар ногой"
 
 #. モンゴリアンチョップ
 msgctxt "MOVE_NAME_MONGOLIAN_CHOP"
@@ -5157,7 +5161,7 @@ msgstr "Каменный кулак"
 #. パシフィックスラム
 msgctxt "MOVE_NAME_PACIFIC_SLAM"
 msgid "Pacific Slam"
-msgstr ""
+msgstr "Тихоокеанский слэм"
 
 #. パームスラスト
 msgctxt "MOVE_NAME_PALM_THRUST"
@@ -5167,7 +5171,7 @@ msgstr "Выпад ладонью"
 #. パーティクラッシャー
 msgctxt "MOVE_NAME_PARTY_CRASHER"
 msgid "Party Crasher"
-msgstr ""
+msgstr "Кайфолом"
 
 #. 石畳キス
 msgctxt "MOVE_NAME_PAVEMENT_SMOOCH"
@@ -5202,7 +5206,7 @@ msgstr "Удар в затылок"
 #. リバースドンキー
 msgctxt "MOVE_NAME_REVERSE_DONKEY"
 msgid "Reverse Donkey"
-msgstr ""
+msgstr "Обратный выпад ногами"
 
 #. 右クロス
 msgctxt "MOVE_NAME_RIGHT_CROSS"
@@ -5232,12 +5236,12 @@ msgstr "Круговой удар ногой"
 #. ランニングジャブ
 msgctxt "MOVE_NAME_RUNNING_JAB"
 msgid "Running Jab"
-msgstr ""
+msgstr "Джеб на бегу"
 
 #. ランニングパンチ
 msgctxt "MOVE_NAME_RUNNING_RABBIT"
 msgid "Running Rabbit"
-msgstr ""
+msgstr "Наскок с разбега"
 
 #. サウナタオル
 msgctxt "MOVE_NAME_SAUNA_TOWEL"
@@ -5262,12 +5266,12 @@ msgstr "Боковой удар головой"
 #. スカイカッター
 msgctxt "MOVE_NAME_SKY_CUTTER"
 msgid "Sky-Cutter"
-msgstr ""
+msgstr "Удар до небес"
 
 #. スライドウェイ
 msgctxt "MOVE_NAME_SLIDEWAYZ"
 msgid "Slidewayz"
-msgstr ""
+msgstr "Скольжение"
 
 #. スライディング
 msgctxt "MOVE_NAME_SLIDE_TACKLE"
@@ -5277,7 +5281,7 @@ msgstr "Подкат"
 #. 右スナップキック
 msgctxt "MOVE_NAME_SNAP_KICK"
 msgid "Right Snap Kick"
-msgstr ""
+msgstr "Резкий удар правой"
 
 #. サッカーチャージ
 msgctxt "MOVE_NAME_SOCCER_CHARGE"
@@ -5292,7 +5296,7 @@ msgstr "Удар по мячу"
 #. スピンサイクル
 msgctxt "MOVE_NAME_SPIN_CYCLE"
 msgid "Spin Cycle"
-msgstr ""
+msgstr "Вертушка на голове"
 
 #. スピンキック
 msgctxt "MOVE_NAME_SPIN_KICK"
@@ -5307,7 +5311,7 @@ msgstr "Спиральный апперкот"
 #. スピンスプリットキック
 msgctxt "MOVE_NAME_SPLIT_KICK"
 msgid "Spin Split Kick"
-msgstr ""
+msgstr "Крутящий сплит-кик"
 
 #. マッハパンチ
 msgctxt "MOVE_NAME_STONE_HANDS"
@@ -5347,7 +5351,7 @@ msgstr "Подсечка"
 #. スウィートロール
 msgctxt "MOVE_NAME_SWEET_ROLL"
 msgid "Sweet Roll"
-msgstr ""
+msgstr "Сладкий рулет"
 
 #. テーブルフリップ
 msgctxt "MOVE_NAME_TABLE_FLIP"
@@ -5362,7 +5366,7 @@ msgstr "Бросок покрышкой"
 #. ツイスティングニー
 msgctxt "MOVE_NAME_TWISTING_KNEE"
 msgid "Twisting Knee"
-msgstr ""
+msgstr "Удар коленом"
 
 #. アッパーカット
 msgctxt "MOVE_NAME_UPPERCUT"
@@ -5372,7 +5376,7 @@ msgstr "Апперкот"
 #. ベンディング
 msgctxt "MOVE_NAME_VENTING"
 msgid "Venting"
-msgstr ""
+msgstr "Продувка"
 
 #. ダイビングレシーブ
 msgctxt "MOVE_NAME_VOLLEYBALL_SAVE"
@@ -5392,12 +5396,12 @@ msgstr "Волейбольная подача"
 #. ウェーブスラップ
 msgctxt "MOVE_NAME_WAVE_SLAP"
 msgid "Wave Slap"
-msgstr ""
+msgstr "Удар с волны"
 
 #. ウェブスター
 msgctxt "MOVE_NAME_WEBSTER"
 msgid "Webster"
-msgstr ""
+msgstr "Вебстер"
 
 #. 空中技
 msgctxt "MOVE_TYPE_AERIAL"
@@ -6004,8 +6008,8 @@ msgstr "Коллин"
 msgctxt "Recruit_Cheerleader_Linnea_DESC"
 msgid "These cheerful girls are agile and love to dodge your advances."
 msgstr ""
-"Стремительная болельщица. Бои очень важны для получения титула Мисс Высшей "
-"школы Ривер-сити."
+"Стремительная болельщица. Бои очень важны для получения титула «Мисс Старшая "
+"школа Ривер-сити»."
 
 #. リネア
 msgctxt "Recruit_Cheerleader_Linnea_NAME"
@@ -6636,7 +6640,7 @@ msgstr "Сэйрай"
 #. リバーシティにいる高校生。メガネが合っていないため本が読めない。
 msgctxt "Recruit_SchoolGirl_Hannah_DESC"
 msgid "If you are not part of their clique, you are part of their problem."
-msgstr "Ученица Высшей школы Ривер-сити. Очки не подходят для чтения."
+msgstr "Ученица Старшей школы Ривер-сити. Очки не подходят для чтения."
 
 #. キム
 msgctxt "Recruit_SchoolGirl_Hannah_NAME"
@@ -6646,7 +6650,7 @@ msgstr "Ким"
 #. リバーシティにいる高校生。ネコが好き。
 msgctxt "Recruit_SchoolGirl_Hinata_DESC"
 msgid "If you are not part of their clique, you are part of their problem."
-msgstr "Ученица Высшей школы Ривер-сити. Любит кошек."
+msgstr "Ученица Старшей школы Ривер-сити. Любит кошек."
 
 #. ヒナタ
 msgctxt "Recruit_SchoolGirl_Hinata_NAME"
@@ -6657,7 +6661,8 @@ msgstr "Хината"
 msgctxt "Recruit_SchoolGirl_Ichika_DESC"
 msgid "If you are not part of their clique, you are part of their problem."
 msgstr ""
-"Ученица Высшей школы Ривер-сити. Если вы не в её классе, значит вы противник."
+"Ученица Старшей школы Ривер-сити. Если вы не в её классе, значит вы "
+"противник."
 
 #. イチカ
 msgctxt "Recruit_SchoolGirl_Ichika_NAME"
@@ -6677,7 +6682,7 @@ msgstr "Нен"
 #. リバーシティにいる高校生。比較的おとなしめの服装だが、最も攻撃的な性格をしている。
 msgctxt "Recruit_SchoolGirl_Reina_DESC"
 msgid "If you are not part of their clique, you are part of their problem."
-msgstr "Ученица Высшей школы Ривер-сити. Одета скромно, но очень агрессивна."
+msgstr "Ученица Старшей школы Ривер-сити. Одета скромно, но очень агрессивна."
 
 #. レイナ
 msgctxt "Recruit_SchoolGirl_Reina_NAME"
@@ -6688,7 +6693,7 @@ msgstr "Рейна"
 msgctxt "Recruit_SchoolGirl_Vesper_DESC"
 msgid "She tried a seance one night with her friends. It didn't end well."
 msgstr ""
-"Ученица Высшей школы Ривер-сити. Однажды с подругами призвала злых духов и "
+"Ученица Старшей школы Ривер-сити. Однажды с подругами призвала злых духов и "
 "стала одержимой."
 
 #. ヴェスパー
@@ -7994,7 +7999,7 @@ msgstr ""
 #. GAME OVER
 msgctxt "UI_GameOver_Header"
 msgid "GAME OVER"
-msgstr "ИГРА ОКОНЧЕНА"
+msgstr "КОНЕЦ ИГРЫ"
 
 #. 最後に訪れた隠れ家からリスタートする。
 #. 所持金を失わないが進行中のクエストは最初からになる。
@@ -8147,12 +8152,12 @@ msgstr "Блэр и Карамелька"
 #. ブレイバ
 msgctxt "UI_ShopKeeper_Braver"
 msgid "Braver"
-msgstr ""
+msgstr "Брэвер"
 
 #. フルノーヴァ
 msgctxt "UI_ShopKeeper_Bullova"
 msgid "Bullova"
-msgstr ""
+msgstr "Буллова"
 
 #. チャド
 msgctxt "UI_ShopKeeper_Chad"
@@ -8585,10 +8590,9 @@ msgid "Cancel"
 msgstr "Отмена"
 
 #. 決定
-#, fuzzy
 msgctxt "VOCAB_Confirm"
 msgid "Confirm"
-msgstr "Подтверждение"
+msgstr "Да"
 
 #. バッグ
 msgctxt "VOCAB_Inventory"
@@ -8903,7 +8907,7 @@ msgstr "Крыша школы"
 #. リバーシティ高校 秘密の部屋
 msgctxt "World_1_SecretAreaSchool_NAME"
 msgid "School Secret Area"
-msgstr "Секретная область школы"
+msgstr "Тайная комната школы"
 
 #. リバーシティ高校 教師休憩部屋
 msgctxt "World_1_TeachersLounge_NAME"
@@ -8968,7 +8972,7 @@ msgstr "Главные ворота С.Ш.Р.С."
 #. 奇妙なホテル 廊下
 msgctxt "World_2_Hallway_NAME"
 msgid "Mysterious Hallway"
-msgstr ""
+msgstr "Таинственный коридор"
 
 #. キョウコの部屋（ベランダ）
 msgctxt "World_2_KyokosBalcony_NAME"
@@ -9033,12 +9037,12 @@ msgstr "Подземная парковка"
 #. キャピトル川 河川敷
 msgctxt "World_2_RiversideRestArea_NAME"
 msgid "Riverside Rest Area"
-msgstr ""
+msgstr "Прибрежная зона отдыха"
 
 #. クロスタウン 秘密の部屋
 msgctxt "World_2_SecretArea_NAME"
 msgid "Crosstown Secret Area"
-msgstr "Секретная область Кросстауна"
+msgstr "Тайная комната Кросстауна"
 
 #. ネオンモール スポーツショップ
 msgctxt "World_2_SportsStore_NAME"
@@ -9123,7 +9127,7 @@ msgstr "Ночной клуб Веса"
 #. ラックスコーヒー前 広場
 msgctxt "World_3_OutdoorCafe_NAME"
 msgid "Outdoor Plaza"
-msgstr ""
+msgstr "Открытая площадь"
 
 #. ポーンショップ
 msgctxt "World_3_PawnShop_NAME"
@@ -9148,7 +9152,7 @@ msgstr "Робоклуб"
 #. アップタウン 秘密の部屋
 msgctxt "World_3_SecretArea_NAME"
 msgid "Uptown Secret Area"
-msgstr "Секретная область Пригорода"
+msgstr "Тайная комната Пригорода"
 
 #. ヨコシン横丁
 msgctxt "World_3_ShoppingAlley_NAME"
@@ -9253,7 +9257,7 @@ msgstr "Собачий парк"
 #. ダウンタウン 秘密の部屋
 msgctxt "World_4_SecretArea_NAME"
 msgid "Downtown Secret Area"
-msgstr "Секретная область Центра города"
+msgstr "Тайная комната Центра города"
 
 #. マッドマックス通り
 msgctxt "World_4_Skidrow_NAME"
@@ -9368,7 +9372,7 @@ msgstr "Ветхая хижина"
 #. フラットアイアンズ 秘密の部屋
 msgctxt "World_5_SecretArea_NAME"
 msgid "Flatirons Secret Area"
-msgstr "Секретная область Нагорья"
+msgstr "Тайная комната Нагорья"
 
 #. スケルトンマーケット
 msgctxt "World_5_SkeletonMarket_NAME"
@@ -9433,7 +9437,7 @@ msgstr "Океанариум"
 #. サンドダラードライブ
 msgctxt "World_6_BeachHomes_NAME"
 msgid "Sand Dollar Drive"
-msgstr ""
+msgstr "Сэнд-доллар драйв"
 
 #. オーシャンハイツ仲見世通り
 msgctxt "World_6_BeachStorefront_NAME"
@@ -9498,7 +9502,7 @@ msgstr "Кухня Примо"
 #. プリモラウンジ ロビー
 msgctxt "World_6_PrimosLobby_NAME"
 msgid "Primo's Lobby"
-msgstr "Вестибюль ресторана"
+msgstr "Вестибюль Примо"
 
 #. プリモラウンジ 放送スタジオ
 msgctxt "World_6_PrimosStudio_NAME"
@@ -9508,12 +9512,12 @@ msgstr "Студия Примо"
 #. リバーシシティ海水浴場 広場
 msgctxt "World_6_PublicPark_NAME"
 msgid "Beach Plaza"
-msgstr ""
+msgstr "Пляжная площадь"
 
 #. オーシャンハイツ水族館 トイレ
 msgctxt "World_6_Restroom_NAME"
 msgid "Plaza Restroom"
-msgstr ""
+msgstr "Пляжный туалет"
 
 #. リバーシティ海水浴場 砂の城
 msgctxt "World_6_SandCastle_NAME"
@@ -9523,7 +9527,7 @@ msgstr "Песчаный замок"
 #. オーシャンハイツ 秘密の部屋
 msgctxt "World_6_SecretAreaOceanHeights_NAME"
 msgid "Ocean Heights Secret Area"
-msgstr "Секретная область Океанских холмов"
+msgstr "Тайная комната Океанских холмов"
 
 #. オーシャンハイツ 船着き場
 msgctxt "World_6_Shipyard_NAME"
@@ -9533,7 +9537,7 @@ msgstr "Верфи"
 #. オーシャンハイツ仲見世通り 遊歩道
 msgctxt "World_6_ThemePark_NAME"
 msgid "Boardwalk"
-msgstr ""
+msgstr "Пешеходная улица"
 
 #. テクノス
 msgctxt "World_7"
@@ -9618,12 +9622,12 @@ msgstr "Склад роботов"
 #. テクノス 秘密の部屋
 msgctxt "World_7_SecretArea_NAME"
 msgid "Technos Secret Area"
-msgstr "Секретная область Техноса"
+msgstr "Тайная комната Техноса"
 
 #. テクノスビル 中枢
 msgctxt "World_7_SkyNeedle_NAME"
 msgid "Sky Spire"
-msgstr ""
+msgstr "Шпиль"
 
 #. テクノスビル 機材倉庫
 msgctxt "World_7_StorageCloset_NAME"
@@ -9643,7 +9647,7 @@ msgstr "Башня Санвакай"
 #. 地下施設 パーティルーム
 msgctxt "World_8_Balcony_NAME"
 msgid "Party Room"
-msgstr ""
+msgstr "Зал для вечеринок"
 
 #. 三和会タワー カジノ
 msgctxt "World_8_Casino_NAME"
@@ -9688,7 +9692,7 @@ msgstr "Логово Сабу"
 #. 三和会タワー秘密の部屋
 msgctxt "World_8_SecretArea_NAME"
 msgid "Sanwakai Tower Secret Area"
-msgstr "Секретная область башни Санвакай"
+msgstr "Тайная комната Башни Санвакай"
 
 #. 秘密のエレベーターリフト
 msgctxt "World_8_SecretElevatorLift_NAME"
