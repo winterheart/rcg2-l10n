@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
-"PO-Revision-Date: 2023-02-05 14:28+0300\n"
+"PO-Revision-Date: 2023-02-07 17:32+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 23.03.70\n"
+"X-Generator: Lokalize 22.08.3\n"
 
 #. 左右の移動（スティック）
 msgctxt "ActionNamePS5_LeftStick_Horizontal"
@@ -3950,7 +3950,7 @@ msgstr "Карандаши номер 2"
 #. たこさんウィンナー
 msgctxt "ITEM_NAME_OCTOPUS_HOTDOG"
 msgid "Octopus Hotdog"
-msgstr "Сосиска Такосан"
+msgstr "Сосиски Такосан"
 
 #. Get Off My Lawn
 msgctxt "ITEM_NAME_OFF_LAWN"
@@ -9582,7 +9582,7 @@ msgstr "Опенспейс"
 #. テクノスビル エレベーター
 msgctxt "World_7_Elevator_Spaceneedle_NAME"
 msgid "Technos Elevator"
-msgstr "Элеватор в Технос"
+msgstr "Лифт в Технос"
 
 #. テクノスビル 正門
 msgctxt "World_7_Gate_NAME"

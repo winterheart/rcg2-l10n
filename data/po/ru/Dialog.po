@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-17 03:12\n"
-"PO-Revision-Date: 2023-02-05 13:47+0300\n"
+"PO-Revision-Date: 2023-02-07 18:13+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 23.03.70\n"
+"X-Generator: Lokalize 22.08.3\n"
 
 #. くたばれ、ガキども！
 msgctxt "BossTauntB01-01"
@@ -5175,27 +5175,27 @@ msgstr "Ещё один. Они такие милые, как думаешь?"
 #. 幽霊が憑いてるんだぞ？
 msgctxt "Passive133-02_Kunio"
 msgid "And HAUNTED. Don't forget that part."
-msgstr "А ещё они ОДЕРЖИМЫ."
+msgstr "А ещё они ОДЕРЖИМЫ. Не забывай про это."
 
 #. いやいや、でもオバケなんでしょ？
 msgctxt "Passive133-02_Kyoko"
 msgid "And HAUNTED. Don't forget that part."
-msgstr "А ещё они ОДЕРЖИМЫ."
+msgstr "А ещё они ОДЕРЖИМЫ. Не забывай про это."
 
 #. それ幽霊が取り憑いてるんだよ？
 msgctxt "Passive133-02_Marian"
 msgid "And HAUNTED. Don't forget that part."
-msgstr "А ещё они ОДЕРЖИМЫ."
+msgstr "А ещё они ОДЕРЖИМЫ. Не забывай про это."
 
 #. 幽霊が憑いてるのに？
 msgctxt "Passive133-02_Provie"
 msgid "And HAUNTED. Don't forget that part."
-msgstr "А ещё они ОДЕРЖИМЫ."
+msgstr "А ещё они ОДЕРЖИМЫ. Не забывай про это."
 
 #. それ幽霊が憑いてんだからな。
 msgctxt "Passive133-02_Riki"
 msgid "And HAUNTED. Don't forget that part."
-msgstr "А ещё они ОДЕРЖИМЫ."
+msgstr "А ещё они ОДЕРЖИМЫ. Не забывай про это."
 
 #. 取ったぞ！ ほら、持っといてくれよ。オレ辛いの苦手だからよ。
 msgctxt "Passive134-01_Kunio"
@@ -17747,7 +17747,7 @@ msgstr "Я СКАЗАЛА, НЕТ!"
 #. 聞きたくないっつってんの！
 msgctxt "Portrait048-07_Provie"
 msgid "I said NOT REALLY."
-msgstr "Я сказал, НЕ ОЧЕНЬ."
+msgstr "Я сказала, НЕ ОЧЕНЬ."
 
 #. 話を聞けよ！
 msgctxt "Portrait048-07_Riki"
@@ -18091,17 +18091,17 @@ msgstr "Звучит отлично, хотя я всегда спокоен."
 #. ばっちい！ おねんねはしたいけどさ。
 msgctxt "Portrait051-02_Kyoko"
 msgid "That sounds filthy. Though I could use a nap."
-msgstr "Звучит отлично, хотя я всегда спокоен."
+msgstr "Звучит отлично, хотя я всегда спокойна."
 
 #. 昼寝は悪くないけど、ここじゃあ嫌だね。
 msgctxt "Portrait051-02_Marian"
 msgid "That sounds filthy. Though I could use a nap."
-msgstr "Звучит отлично, хотя я всегда спокоен."
+msgstr "Звучит отлично, хотя я всегда спокойна."
 
 #. えー、汚ね。お昼寝すんのは悪くないけど。
 msgctxt "Portrait051-02_Provie"
 msgid "That sounds filthy. Though I could use a nap."
-msgstr "Звучит отлично, хотя я всегда спокоен."
+msgstr "Звучит отлично, хотя я всегда спокойна."
 
 #. 昼寝するのは悪くないが。
 msgctxt "Portrait051-02_Riki"
@@ -19404,7 +19404,7 @@ msgstr "А, ну... Ладно!"
 #. どきな。そのガキどもを片付ける。
 msgctxt "Portrait062-14_Marian"
 msgid "Step aside. I'll take care of these pesky teenagers."
-msgstr "Разойдитесь. Сейчас я разберусь с этими нахальными подростками."
+msgstr "В сторону. Сейчас я разберусь с этими нахальными подростками."
 
 #. お客様は神様じゃなかったのかよ？
 msgctxt "Portrait062-15_Kunio"
@@ -19526,27 +19526,27 @@ msgstr "А, чёрт, заклятье развеялось. Разделимс�
 #. オレがこの手でバラバラにしてやろうか！
 msgctxt "Portrait064-03_Kunio"
 msgid "I'll split you! In half, I mean!"
-msgstr "Я сейчас разделю вас на одинаковые половинки!"
+msgstr "Я сейчас разделю тебя на одинаковые половинки!"
 
 #. 私がこの手でバラバラにしてやろうか！？
 msgctxt "Portrait064-03_Marian"
 msgid "I'll split you! In half, I mean!"
-msgstr "Я сейчас разделю вас на одинаковые половинки!"
+msgstr "Я сейчас разделю тебя на одинаковые половинки!"
 
 #. あたしがこの手でバラバラにしてやろうか！？
 msgctxt "Portrait064-03_Misako"
 msgid "I'll split you! In half, I mean!"
-msgstr "Я сейчас разделю вас на одинаковые половинки!"
+msgstr "Я сейчас разделю тебя на одинаковые половинки!"
 
 #. ウチがこの手でバラバラにしてやろうか！？
 msgctxt "Portrait064-03_Provie"
 msgid "I'll split you! In half, I mean!"
-msgstr "Я сейчас разделю вас на одинаковые половинки!"
+msgstr "Я сейчас разделю тебя на одинаковые половинки!"
 
 #. オレがバラバラにしてやろうか。
 msgctxt "Portrait064-03_Riki"
 msgid "I'll split you! In half, I mean!"
-msgstr "Я сейчас разделю вас на одинаковые половинки!"
+msgstr "Я сейчас разделю тебя на одинаковые половинки!"
 
 #. 大丈夫か？ えっと…
 msgctxt "Portrait064-04_Kunio"
@@ -19782,7 +19782,7 @@ msgstr "Да, а то у нас уже была проблема с повтор
 #. で、気が付いたときにはあんたたちに頭を蹴られてたってわけ。
 msgctxt "Portrait066-01_Marian"
 msgid "The next thing I knew, I was here with you two, getting my head kicked."
-msgstr "Последнее, что я помню, это как вы дали мне по голове."
+msgstr "Следующее, что я помню, это как вы дали мне по голове."
 
 #. それはマジで悪かった。
 msgctxt "Portrait066-02_Kunio"
@@ -24457,8 +24457,8 @@ msgid ""
 "But she taught me a real lesson, I can still feel her fist in my gut. Ooooh, "
 "indigestion..."
 msgstr ""
-"Но она преподала мне ценный урок. Я до сих пор чувствую удар её кулака по "
-"животу. О-о-ох, как потом болел желудок..."
+"Но она преподала мне ценный урок. Я до сих пор чувствую её удар в живот. О-о-"
+"ох, как потом болел желудок..."
 
 #. それでマリアンに魔法かけたのか？
 msgctxt "Portrait129-14_Kunio"
@@ -25147,7 +25147,7 @@ msgstr "Да, но кто?"
 #. だれの依頼だ？
 msgctxt "Portrait146-10_Riki"
 msgid "Yeah, but by who?"
-msgstr "Да, но?"
+msgstr "Да, но кто?"
 
 #. はぁ… わかったよ。ちょっと昔の話からしないといけないな…
 msgctxt "Portrait146-11_Blaire"
@@ -28834,8 +28834,8 @@ msgid ""
 "Already have. Though you should consider posting this fight in your feed. "
 "I'm not even embarrassed. You two are the next big thing in River City."
 msgstr ""
-"Уже. Вам стоит запостить эту битву в своей ленте. Мне даже за него не "
-"стыдно. Вы - следующий большой хит в Ривер-сити."
+"Уже. Вам стоит запостить эту битву в своей ленте. Мне даже за неё не стыдно. "
+"Вы - следующий большой хит в Ривер-сити."
 
 #. どのボタン押せばいいんだ？
 msgctxt "Portrait206-04_Kunio"
@@ -37029,7 +37029,7 @@ msgstr "Я помогу вам разнести всё вокруг! Вперё�
 #. Hey！何見てるのさ。お困りなら手伝ってあげるよ。
 msgctxt "PortraitHH04A-01_Chris"
 msgid "What're YOU looking at? Need some help, buddy?"
-msgstr "На что это ТЫ уставился? Помощь нужна, дружок?"
+msgstr "На что это ТЫ пялишься? Помощь нужна, дружок?"
 
 #. これで安心だね。
 msgctxt "PortraitHH04C-01_Chris"
@@ -37576,7 +37576,7 @@ msgstr "Или покупайте, или проваливайте."
 #. お金を落としていってね…そしたら今日は呪わなくて済むかも。
 msgctxt "SHOP09-02"
 msgid "Show me the green and I might not curse you today."
-msgstr "Покажите мне бабки, и сегодня я может не прокляну вас."
+msgstr "Покажите мне наличку, и сегодня я, может, не прокляну вас."
 
 #. アンタにしては良い買い物。
 msgctxt "SHOP09-03"
