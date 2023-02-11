@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
-"PO-Revision-Date: 2023-02-07 17:32+0300\n"
+"PO-Revision-Date: 2023-02-08 21:37+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -2753,7 +2753,7 @@ msgstr "Черепок @numb_skull"
 #. ソル=バッドガイ @ImmoralFlame
 msgctxt "HonkrCharacterName_Sol"
 msgid "Sol Badguy @ImmoralFlame"
-msgstr "Плохой парень Сол @ImmoralFlame"
+msgstr "Сол Бэдгай @ImmoralFlame"
 
 #. ソニー・リー @best_B_R_O
 msgctxt "HonkrCharacterName_Sonny"
@@ -6187,6 +6187,7 @@ msgctxt "Recruit_Jam_DESC"
 msgid "She really needs money if she's going to open up her restaurant."
 msgstr "Если она хочет открыть свой ресторан, то деньги ей очень пригодятся."
 
+# Персонаж Guilty Gear
 #. 蔵土縁 紗夢
 msgctxt "Recruit_Jam_NAME"
 msgid "Jam Kuradoberi"
@@ -6707,10 +6708,11 @@ msgid ""
 "A living legend. The first gear. Sadly, legend-status doesn't pay bills."
 msgstr "Суровый и ленивый. Он немногословен и говорит только по существу."
 
+# Персонаж Guilty Gear
 #. ソル=バッドガイ
 msgctxt "Recruit_SolBadguy_NAME"
 msgid "Sol Badguy"
-msgstr "Плохой парень Сол"
+msgstr "Сол Бэдгай"
 
 #. リバーシティのプロレスラー。手足は筋肉質で短いが、その分俊敏ではある。
 msgctxt "Recruit_Tigerman_Aurelien_DESC"

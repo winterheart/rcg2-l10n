@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-01-17 03:12\n"
-"PO-Revision-Date: 2023-02-07 18:13+0300\n"
+"PO-Revision-Date: 2023-02-08 17:36+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -31667,17 +31667,17 @@ msgstr "Э-э, я ведь уже сказал, я Блэр, таинствен�
 #. ワタシは魔女だよ？ そんなの許されると―
 msgctxt "Portrait250-15_Marian"
 msgid "Uh, I already said, I am Blaire, mystical witch of the..."
-msgstr "Э-э, я ведь уже сказал, я Блэр, таинственная ведьма из..."
+msgstr "Э-э, я ведь уже сказала, я Блэр, таинственная ведьма из..."
 
 #. ワタシは魔女だって言ったよね？ そんなの許されると―
 msgctxt "Portrait250-15_Misako"
 msgid "Uh, I already said, I am Blaire, mystical witch of the..."
-msgstr "Э-э, я ведь уже сказал, я Блэр, таинственная ведьма из..."
+msgstr "Э-э, я ведь уже сказала, я Блэр, таинственная ведьма из..."
 
 #. いや、ウチは魔女のブレアだってさっき―
 msgctxt "Portrait250-15_Provie"
 msgid "Uh, I already said, I am Blaire, mystical witch of the..."
-msgstr "Э-э, я ведь уже сказал, я Блэр, таинственная ведьма из..."
+msgstr "Э-э, я ведь уже сказала, я Блэр, таинственная ведьма из..."
 
 #. だからオレは魔女のブレアだとさっき―
 msgctxt "Portrait250-15_Riki"
@@ -33538,7 +33538,7 @@ msgstr "Это кабинет директора. Нам сюда можно?"
 #. よくないぞ。ここには謎が隠されている！
 msgctxt "Portrait289-02_Mr. K"
 msgid "Of course! For there is MYSTERY afoot!"
-msgstr "Странно. Здесь скрыта какая-то ТАЙНА!"
+msgstr "Конечно! Ибо здесь есть какая-то ТАЙНА!"
 
 #. あれが校長か？ B級映画の主人公みてぇだけど。
 msgctxt "Portrait289-03_Kunio"
@@ -33633,7 +33633,7 @@ msgstr "Возможно... Но я уже купил домен на «Мист
 #. まぁそれはいい、オレの考えた謎を解いてみろ！ 解けたら報酬もやるぞ。
 msgctxt "Portrait289-09_Mr. K"
 msgid "Solve my mystery! And you two will be rewarded."
-msgstr "Ладно, попробуйте разгадать мною ТАЙНУ! Вас будет ждать награда."
+msgstr "Решите мой тайну! Вас будет ждать награда."
 
 #. 何だこいつ…
 msgctxt "Portrait289-10_Kunio"
@@ -33688,7 +33688,7 @@ msgstr "Мы вообще-то заняты, но давайте попробу�
 #. 謎解きスタート！
 msgctxt "Portrait289-12_Mr. K"
 msgid "MYSTERY!"
-msgstr "ТАЙНА ЖДЁТ!"
+msgstr "ТАЙНА!"
 
 #. 最初の謎、解けたぞ。
 msgctxt "Portrait291-01_Kunio"
@@ -37801,7 +37801,7 @@ msgstr "Никаких возвратов."
 #. 爆発はしないはずです。
 msgctxt "SHOP13-07"
 msgid "I'm pretty sure that won't explode."
-msgstr "Я почти уверен, что оно не взорвётся."
+msgstr "Я почти уверен, что он не взорвётся."
 
 #. とても素晴らしい買い物だと思います。
 msgctxt "SHOP13-08"
