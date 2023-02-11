@@ -21,7 +21,7 @@ using RCG2_L10n;
 [assembly: AssemblyCopyright("Copyright © 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: MelonInfo(typeof(L10nMod), "River City Girls 2 Localization Mod", "1.0.0", "Azamat H. Hackimov", "https://github.com/winterheart/RCG2_L10n")]
+[assembly: MelonInfo(typeof(L10nMod), "River City Girls 2 Localization Mod", "1.0.0", "Azamat H. Hackimov", "https://github.com/winterheart/rcg2-l10n")]
 [assembly: MelonGame("WayForward Technologies", "River City Girls 2")]
 
 // Setting ComVisible to false makes the types in this assembly not visible

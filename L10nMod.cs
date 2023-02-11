@@ -39,6 +39,7 @@ namespace RCG2_L10n
                 { "DotGothic16-Regular SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("TerminusTTF SDF") },
                 { "LiberationSans SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("LiberationSansRU SDF") },
                 { "FugazOne-Regular SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("Lobster-Regular SDF") },
+                { "Sriracha-Regular SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("Sriracha Cyrillic SDF") },
 
                 { "NotoSansJP-Black SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Black SDF") },
                 { "NotoSansJP-Bold SDF", m_AssetBundle.LoadAsset<TMP_FontAsset>("NotoSans-Bold SDF") },
@@ -75,7 +76,7 @@ namespace RCG2_L10n
                     font.fallbackFontAssetTable.Insert(0, m_FontsDictionary[font.name]);
                     // Push it into static
                     m_FontsReplaced.Add(font);
-                    // LoggerInstance.Msg($"Added failback {m_FontsDictionary[font.name].name} to {font.name}");
+                    // LoggerInstance.Msg($"Added fallback {m_FontsDictionary[font.name].name} to {font.name}");
                 }
             }
             Resources.UnloadUnusedAssets();
