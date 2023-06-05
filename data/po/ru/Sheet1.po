@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-06-05 20:53\n"
+"POT-Creation-Date: 2023-06-06 00:18\n"
 "PO-Revision-Date: 2023-06-05 23:44+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
-"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.12.3\n"
 
 #. 左右の移動（スティック）
@@ -135,7 +135,7 @@ msgctxt "ActionName_Y"
 msgid "Heavy Attack"
 msgstr "Сильный удар"
 
-#. アークシステムワークス【リバーシティガールズ２】
+#. アークシステムワークス【リバーシティガールズ２】 
 #. エンドユーザー向けライセンス契約
 #.
 #. 最終更新日：2022年10月27日
@@ -298,7 +298,7 @@ msgstr "Сильный удар"
 #. (1) アークシステムワークスの過失に起因する死亡または人身傷害、
 #. (2) アークシステムワークスによる詐欺または欺まん的不実表示、
 #. (3) アークシステムワークスによる故意行為または重過失、
-#. (4) 本件ゲームの利用に起因する有形動産の滅失または損傷、および
+#. (4) 本件ゲームの利用に起因する有形動産の滅失または損傷、および 
 #. (5) 他の何らかの責任のうちその制限または排除が適用法上許されないもの。
 #. アークシステムワークスによる軽過失、通常の過失または本契約に基づく本質的義務の違反の場合、アークシステムワークスの責任は、お客様に生じた予見可能な直接損害に限定されるものとします。いかなる場合も、本件ゲームの利用もしくは利用不能または本契約に起因または関連するアークシステムワークスの責任の総額は、契約、保証、過失、製造物責任、厳格責任、知的財産侵害その他のいかなる理論に基づくものであるかを問わず、100ドル、またはこれを上回る場合においてはお客様による本件ゲームの利用のためにお客様からアークシステムワークスに支払われた金額を上限とします。本第17条は、お客様の居住地における法律上で契約による制限が許されていないいかなる強制的または法定の保証も、制限するものではありません。
 #.
@@ -2841,8 +2841,8 @@ msgid ""
 "Unable to join this room. Please check the number of players it was created "
 "for."
 msgstr ""
-"Невозможно присоединиться к этой комнате. Проверьте, под какое количество"
-" игроков она создавалась."
+"Невозможно присоединиться к этой комнате. Проверьте, под какое количество "
+"игроков она создавалась."
 
 #. クロスプレイ
 msgctxt "HostJoinScreen_Crossplay"
@@ -7519,7 +7519,7 @@ msgctxt "Ticker_Ryuichi_NAME"
 msgid "Ryuichi"
 msgstr "Рюити"
 
-#. リュウイチ&リュウジ
+#. リュウイチ&リュウジ 
 msgctxt "Ticker_Ryuji Ryuichi_NAME"
 msgid "Ryuji & Ryuichi"
 msgstr "Рюдзи и Рюити"
@@ -9085,7 +9085,7 @@ msgctxt "World_2_SportsStore_NAME"
 msgid "Sports Store"
 msgstr "Спортивный магазин"
 
-#. ネオンモール 1Fフロア
+#. ネオンモール 1Fフロア 
 msgctxt "World_2_StoreEntrances_NAME"
 msgid "Store Entrances"
 msgstr "Вход в магазин"
@@ -9764,10 +9764,6 @@ msgstr "Комната для допросов"
 msgctxt "World_8_YakuzaTraining_NAME"
 msgid "Yakuza Training Room"
 msgstr "Тренировочный зал якудза"
-
-#~ msgctxt "Language_Russian"
-#~ msgid "Russian"
-#~ msgstr "Русский"
 
 #~ msgctxt "PleaseDisableCrossplay"
 #~ msgid "Please disable crossplay to join this server."
