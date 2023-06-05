@@ -114,8 +114,10 @@ class Rcg2Translation:
             po = pofile(po_file)
 
             for entry in po:
+                if entry.obsolete:
+                    continue
                 csv_entry = next(item for item in self.content if item[LANG_KEY] == csv_root_key.value + "/" + entry.msgctxt)
-                if not entry.obsolete and entry.translated() and "fuzzy" not in entry.flags:
+                if entry.translated() and "fuzzy" not in entry.flags:
                     csv_entry[language] = entry.msgstr
                 else:
                     if csv_entry[language] == "":
