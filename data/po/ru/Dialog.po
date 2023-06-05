@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-06-05 20:53\n"
+"POT-Creation-Date: 2023-06-06 00:18\n"
 "PO-Revision-Date: 2023-06-05 23:53+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
@@ -11,8 +11,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
-"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.12.3\n"
 
 #. くたばれ、ガキども！
@@ -1487,7 +1487,7 @@ msgctxt "Passive033-03_Kunio"
 msgid "You think too much."
 msgstr "Ты слишком много думаешь."
 
-#. 気にしなくてもいいんじゃない？
+#. 気にしなくてもいいんじゃない？ 
 msgctxt "Passive033-03_Marian"
 msgid "You think too much."
 msgstr "Ты слишком много думаешь."
@@ -7188,7 +7188,7 @@ msgctxt "Passive181-01_Misako"
 msgid "There's the fan, time to fire it up!"
 msgstr "Вот и вентилятор, пора его раскрутить!"
 
-#. あれがファンだ！
+#. あれがファンだ！ 
 msgctxt "Passive181-01_Provie"
 msgid "There's the fan, time to fire it up!"
 msgstr "Вот и вентилятор, пора его раскрутить!"
@@ -7328,28 +7328,28 @@ msgctxt "Passive182-02_Riki"
 msgid "Yeah, these people are clearly NOT using their abilities for good."
 msgstr "Ага, эти люди ОПРЕДЕЛЁННО не используют свои знания во благо."
 
-#. 何だこれ？
+#. 何だこれ？ 
 msgctxt "Passive183-01_Kunio"
 msgid "What's going on? This room looks like a glitchy Old West or something."
 msgstr "Что такое? Эта комната похожа на глючный Дикий запад."
 
-#. わっ！ なになに？
+#. わっ！ なになに？ 
 msgctxt "Passive183-01_Kyoko"
 msgid ""
 "WAH! What's going on? This room looks like a glitchy Old West or something!"
 msgstr "АЙ! Что такое? Эта комната похожа на глючный Дикий запад!"
 
-#. どうなってんだ？
+#. どうなってんだ？ 
 msgctxt "Passive183-01_Marian"
 msgid "What's going on? This room looks like a glitchy Old West or something."
 msgstr "Что такое? Эта комната похожа на глючный Дикий запад."
 
-#. なにこれ？
+#. なにこれ？ 
 msgctxt "Passive183-01_Provie"
 msgid "What's going on? This room looks like a glitchy Old West or something."
 msgstr "Что такое? Эта комната похожа на глючный Дикий запад."
 
-#. 何だこれ？
+#. 何だこれ？ 
 msgctxt "Passive183-01_Riki"
 msgid "What's going on? This room looks like a glitchy Old West or something."
 msgstr "Что такое? Эта комната похожа на глючный Дикий запад."
@@ -12560,8 +12560,7 @@ msgstr "РАССКАЖИТЕ НАМ!!!"
 msgctxt "Passive403-05_ProfessorCroc"
 msgid ""
 "Little too "
-"hot…                                                                         "
-"                                               "
+"hot…                                                                                                                        "
 msgstr "Чуточку потише..."
 
 #. 走って逃げる事ができない場合は、外骨格を柔らかくするための武器を持つ事がオススメだ。名前を呼び上げてもらえるかな。
@@ -14918,7 +14917,7 @@ msgctxt "Portrait021-23_Riki"
 msgid "Exactly."
 msgstr "Именно."
 
-#. と、とにかく、お前らを抹殺する親父の壮大な計画は、すでに動き出してるのさ…
+#. と、とにかく、お前らを抹殺する親父の壮大な計画は、すでに動き出してるのさ… 
 msgctxt "Portrait021-24_Ken"
 msgid ""
 "Anyway... NOW it's time to kill you both. Per my, uh, father's plan. Which "
@@ -15706,7 +15705,7 @@ msgstr ""
 "И спасибо за то, что остановила своего брата. Даже несмотря на то, что он "
 "похож на меня."
 
-#. あ、あのとき弟くんの邪魔してくれてありがとね！
+#. あ、あのとき弟くんの邪魔してくれてありがとね！ 
 msgctxt "Portrait028-16_Kyoko"
 msgid "Also, thanks for stopping your brother."
 msgstr "И спасибо за то, что остановила своего брата."
@@ -28754,9 +28753,9 @@ msgid ""
 "End message. Add font glitterati, shade 233-magenta, filter, uh... Nostalgia-"
 "Baby. Mm-hmm. Launch, send. Okay, now where were we?"
 msgstr ""
-"Конец сообщения. Добавить блестящий шрифт, тень 233-магента, фильтр, э-э-э"
-" «Крошка Ностальгия». М-м-хм. Закончить, отправить. Так, на чём мы"
-" остановились?"
+"Конец сообщения. Добавить блестящий шрифт, тень 233-магента, фильтр, э-э-э "
+"«Крошка Ностальгия». М-м-хм. Закончить, отправить. Так, на чём мы "
+"остановились?"
 
 #. 腹立ってくるな…
 msgctxt "Portrait204-13_Kunio"

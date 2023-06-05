@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-06-05 20:53\n"
-"PO-Revision-Date: 2023-06-05 20:53\n"
+"POT-Creation-Date: 2023-06-06 00:18\n"
+"PO-Revision-Date: 2023-06-06 00:18\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -3702,9 +3702,9 @@ msgctxt "Language_Korean"
 msgid "Korean"
 msgstr ""
 
-#. CUT
+#. Russian
 msgctxt "Language_Russian"
-msgid "CUT"
+msgid "Russian"
 msgstr ""
 
 #. スペイン語
