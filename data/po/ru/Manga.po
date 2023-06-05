@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
+"POT-Creation-Date: 2023-06-05 20:53\n"
 "PO-Revision-Date: 2023-01-30 04:09+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
@@ -165,7 +165,7 @@ msgctxt "Manga_01_24"
 msgid "I might even take a selfie to commemorate the moment."
 msgstr "Я даже сделаю селфи, чтобы запечатлеть этот момент."
 
-#. サブコを連れてきたぜ、親父！
+#. サブコを連れてきたぜ、親父！ 
 msgctxt "Manga_01_25"
 msgid "Here she is, Pop!"
 msgstr "Вот и она, папа!"
@@ -215,7 +215,7 @@ msgctxt "Manga_01_34"
 msgid "Is what your brother says true?"
 msgstr "Это правда, что сказал твой брат?"
 
-#. オレたち一族の…
+#. オレたち一族の… 
 msgctxt "Manga_01_35"
 msgid "Did you bring SHAME on our family?"
 msgstr "Неужели ты принесла ПОЗОР нашей семье?"
@@ -245,7 +245,7 @@ msgctxt "Manga_01_40"
 msgid "It's time to take matters back into my own hands."
 msgstr "Пора снова взять всё в свои руки."
 
-#. あっはっは、さっすが親父！
+#. あっはっは、さっすが親父！ 
 msgctxt "Manga_01_41"
 msgid "OHOHOHO, man, that was epic!"
 msgstr "О-ХО-ХО-ХО, чувак, это было так эпично!"
@@ -306,7 +306,7 @@ msgstr ""
 "Ушей! Промеж ваших ушей! Вы же только что говорили про уши, и туда я вас "
 "собираюсь застрелить."
 
-#. 耳だよ、耳間！
+#. 耳だよ、耳間！ 
 msgctxt "Manga_02_08a"
 msgid "Ears! Between your ears!"
 msgstr "Ушей! Промеж ваших ушей!"
@@ -361,7 +361,7 @@ msgctxt "Manga_02_17"
 msgid "Guess we're headed back to North Ravine lane."
 msgstr "Похоже, нам нужно вернуться обратно в Северный Овражный переулок."
 
-#. リバーシティには数年前、ふたりの男と一緒に来たんだ…
+#. リバーシティには数年前、ふたりの男と一緒に来たんだ… 
 msgctxt "Manga_03_01"
 msgid ""
 "I came to River City a few years ago with my... close friends, Billy and "
@@ -872,7 +872,7 @@ msgctxt "Manga_05_09"
 msgid "Yeah! We beat you both up before, and we can do it again!"
 msgstr "Да! Мы и раньше били вас обоих, и теперь можем это повторить!"
 
-#. もうお前らにやられはしない…
+#. もうお前らにやられはしない… 
 msgctxt "Manga_05_10"
 msgid ""
 "I feel confident that I could best you both in battle with minimal effort. "

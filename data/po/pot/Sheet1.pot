@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-01-17 03:12\n"
-"PO-Revision-Date: 2023-01-17 03:12\n"
+"POT-Creation-Date: 2023-06-05 20:53\n"
+"PO-Revision-Date: 2023-06-05 20:53\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -547,8 +547,13 @@ msgctxt "BlockList_FooterMsg"
 msgid "View blocked players."
 msgstr ""
 
-#. プレイヤー {0} はゲームからブロックされました。
+#. プレイヤー はゲームからブロックされました。
 msgctxt "BlockList_HasBeenBlocked"
+msgid "Player has been blocked."
+msgstr ""
+
+#. プレイヤー {0} はゲームからブロックされました。
+msgctxt "BlockList_HasBeenBlockedSpecific"
 msgid "{0} has been blocked."
 msgstr ""
 
@@ -780,6 +785,16 @@ msgstr ""
 #. 隠れ家限定
 msgctxt "Cellphone_Settings_Hideout"
 msgid "HIDEOUT ONLY"
+msgstr ""
+
+#. ホストのみ
+msgctxt "Cellphone_Settings_HostOnly"
+msgid "HOST ONLY"
+msgstr ""
+
+#. ロックされています
+msgctxt "Cellphone_Settings_Locked"
+msgid "LOCKED"
 msgstr ""
 
 #. 装備しているアクセサリを確認する。
@@ -1317,6 +1332,11 @@ msgctxt "ControlRemap_ResetToDefaultPrompt"
 msgid "Reset to default"
 msgstr ""
 
+#. エンドロール
+msgctxt "Credits"
+msgid "Credits"
+msgstr ""
+
 #. 敵をふっとばすと体力が回復する。
 msgctxt "EQUIP_DESC_ATHLETIC_BOTTOM"
 msgid "Regain health when carrying enemies."
@@ -1747,6 +1767,11 @@ msgctxt "FooterPrompt_Start"
 msgid "Start"
 msgstr ""
 
+#. ゲームは満席です。
+msgctxt "GameIsFull"
+msgid "Game is full."
+msgstr ""
+
 #. {0}を押してください
 msgctxt "Game_Join"
 msgid "Press {0}"
@@ -2025,6 +2050,13 @@ msgstr ""
 #. 依頼リスト
 msgctxt "Honkr_Page_Objectives"
 msgid "Objectives"
+msgstr ""
+
+#. ゲームに参加できませんでした。ゲームの人数設定を確認してください。
+msgctxt "HostJoinPlayersMismatch"
+msgid ""
+"Unable to join this room. Please check the number of players it was created "
+"for."
 msgstr ""
 
 #. クロスプレイ
@@ -3670,9 +3702,9 @@ msgctxt "Language_Korean"
 msgid "Korean"
 msgstr ""
 
-#. Russian
+#. CUT
 msgctxt "Language_Russian"
-msgid "Russian"
+msgid "CUT"
 msgstr ""
 
 #. スペイン語
@@ -4666,7 +4698,7 @@ msgctxt "MainMenuScreen_FooterMsg_Settings"
 msgid "Change game settings."
 msgstr ""
 
-#. ゲームスタート
+#. オフラインプレイ
 msgctxt "MainMenuScreen_LocalPlay"
 msgid "Local Play"
 msgstr ""
@@ -4897,10 +4929,7 @@ msgctxt "PlayerNumberDisplay"
 msgid "Player {0}"
 msgstr ""
 
-msgctxt "PleaseDisableCrossplay"
-msgid "Please disable crossplay to join this server."
-msgstr ""
-
+#. このサーバーに参加するには、クロスプレイ機能を有効にしてください
 msgctxt "PleaseEnableCrossplay"
 msgid "Please enable crossplay to join this server."
 msgstr ""
@@ -4995,7 +5024,7 @@ msgstr ""
 
 #. 賄賂を払う人間よりも堕落している警察署長。こいつが真のラスボスかもしれない。
 msgctxt "Recruit_BadCop_Fujimoto_DESC"
-msgid "The chief of police is even more corrupted than the people paying him."
+msgid "The chief of police is even more corrupt than the people paying him."
 msgstr ""
 
 #. フジモト
@@ -5090,7 +5119,7 @@ msgstr ""
 #. サイバネティックな猫型ロボット。日本のアニメから得たヒントでボディはスマートに制作された。
 msgctxt "Recruit_CATS_CH-424_DESC"
 msgid ""
-"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes, and "
+"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes and "
 "lasers."
 msgstr ""
 
@@ -5123,7 +5152,7 @@ msgstr ""
 #. サイバネティックな猫型ロボット。原宿を意識したこのモデルは可愛すぎたためリバーシティ限定となった。
 msgctxt "Recruit_CATS_K4Y-L1_DESC"
 msgid ""
-"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes, and "
+"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes and "
 "lasers."
 msgstr ""
 
@@ -5135,7 +5164,7 @@ msgstr ""
 #. サイバネティックな猫型ロボット。攻撃的なトゲは笑顔で誤魔化している。
 msgctxt "Recruit_CATS_KLR-4_DESC"
 msgid ""
-"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes, and "
+"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes and "
 "lasers."
 msgstr ""
 
@@ -5147,7 +5176,7 @@ msgstr ""
 #. サイバネティックな猫型ロボット。シャイなヤツほど攻撃性が高まる。
 msgctxt "Recruit_CATS_M3-G4N_DESC"
 msgid ""
-"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes, and "
+"The Cybernetic Autonomous Tactical Soldier is inspired by cat cafes and "
 "lasers."
 msgstr ""
 
@@ -5269,7 +5298,7 @@ msgstr ""
 
 #. 未来から送られてきたロボットっぽくデザインされたロボット。
 msgctxt "Recruit_Cyborg_64-RC14_DESC"
-msgid "Giant robots from the future disguised as giant robot looking humans."
+msgid "Giant robots from the future disguised as giant robot-looking humans."
 msgstr ""
 
 #. 64-RC14
@@ -5279,7 +5308,7 @@ msgstr ""
 
 #. 未来から送られてきた設定のロボット。皮膚の部分はネズミに食べられた。
 msgctxt "Recruit_Cyborg_CH-R15_DESC"
-msgid "Giant robots from the future disguised as giant robot looking humans."
+msgid "Giant robots from the future disguised as giant robot-looking humans."
 msgstr ""
 
 #. CH-R15
@@ -5289,7 +5318,7 @@ msgstr ""
 
 #. 未来からやってきた刺客。複数の武器を体に内蔵している。
 msgctxt "Recruit_Cyborg_D4-V1D_DESC"
-msgid "Giant robots from the future disguised as giant robot looking humans."
+msgid "Giant robots from the future disguised as giant robot-looking humans."
 msgstr ""
 
 #. D4-V1D
@@ -5320,7 +5349,7 @@ msgstr ""
 
 #. 未来から来たロボット。オーシャンハイツが楽しすぎてボディペイントと日光浴をしてしまった。
 msgctxt "Recruit_Cyborg_J4-M35_DESC"
-msgid "Giant robots from the future disguised as giant robot looking humans."
+msgid "Giant robots from the future disguised as giant robot-looking humans."
 msgstr ""
 
 #. J4-M35
@@ -5571,7 +5600,7 @@ msgstr ""
 
 #. 街中で喧嘩を売ってくるゴロツキ。カラフルなものが好き。
 msgctxt "Recruit_MaleThug_Davey_DESC"
-msgid "Low life miscreants who learned to fight on the streets."
+msgid "Low-life miscreants who learned to fight on the streets."
 msgstr ""
 
 #. デイヴィ
@@ -5591,7 +5620,7 @@ msgstr ""
 
 #. 街中で喧嘩を売ってくるゴロツキ。目には秘めた闘志が宿っている。
 msgctxt "Recruit_MaleThug_Georgios_DESC"
-msgid "Low life miscreants who learned to fight on the streets."
+msgid "Low-life miscreants who learned to fight on the streets."
 msgstr ""
 
 #. ジョルジオ
@@ -5601,7 +5630,7 @@ msgstr ""
 
 #. 街中で喧嘩を売ってくるゴロツキ。肩にかけた鎖は髪の毛に引っかかって取れなくなった。
 msgctxt "Recruit_MaleThug_Pete_DESC"
-msgid "Low life miscreants who learned to fight on the streets."
+msgid "Low-life miscreants who learned to fight on the streets."
 msgstr ""
 
 #. ピート
@@ -5611,7 +5640,7 @@ msgstr ""
 
 #. 街中で喧嘩を売ってくるゴロツキ。ツッパる事が漢の勲章だと思っている。
 msgctxt "Recruit_MaleThug_Rogers_DESC"
-msgid "Low life miscreants who learned to fight on the streets."
+msgid "Low-life miscreants who learned to fight on the streets."
 msgstr ""
 
 #. ロジャース
@@ -5642,7 +5671,7 @@ msgstr ""
 #. 別の次元からやってきたゴーゴン。すぐに帰る予定だったが、この場所がお気に入りになってしまった。
 msgctxt "Recruit_Martha_QueenEarthbreaker_DESC"
 msgid ""
-"A gorgon from another time and place but she finds she fits here just fine."
+"A Gorgon from another time and place, but she finds she fits here just fine."
 msgstr ""
 
 #. 地鳴らしの女神
@@ -5972,7 +6001,7 @@ msgstr ""
 
 #. 三和会の女ヤクザ。ナイフ投げの練習でサブの病院に行く事が多い。
 msgctxt "Recruit_YakuzaF_Akari_DESC"
-msgid "Sabu’s henchwomen are deadly with their knife throwing skills."
+msgid "Sabu’s henchwomen are deadly with their knife-throwing skills."
 msgstr ""
 
 #. アカリ
@@ -5982,7 +6011,7 @@ msgstr ""
 
 #. 三和会の女ヤクザ。サングラスが壊れていることに本人は気づいていない。
 msgctxt "Recruit_YakuzaF_Harumi_DESC"
-msgid "Sabu’s henchwomen are deadly with their knife throwing skills."
+msgid "Sabu’s henchwomen are deadly with their knife-throwing skills."
 msgstr ""
 
 #. ハルミ
@@ -5992,7 +6021,7 @@ msgstr ""
 
 #. 三和会の女ヤクザ。初任給でアップタウンの可愛い服を買った。
 msgctxt "Recruit_YakuzaF_Hideko_DESC"
-msgid "Sabu’s henchwomen are deadly with their knife throwing skills."
+msgid "Sabu’s henchwomen are deadly with their knife-throwing skills."
 msgstr ""
 
 #. ヒデコ
@@ -6002,7 +6031,7 @@ msgstr ""
 
 #. 三和会の女ヤクザ。拳銃よりも投げナイフが得意。
 msgctxt "Recruit_YakuzaF_Maiko_DESC"
-msgid "Sabu’s henchwomen are deadly with their knife throwing skills."
+msgid "Sabu’s henchwomen are deadly with their knife-throwing skills."
 msgstr ""
 
 #. マイコ
@@ -6013,7 +6042,7 @@ msgstr ""
 #. サブの右腕の女性ヤクザ。彼女のナイフは高校生だろうとバターのように滑らかに切り裂く。
 msgctxt "Recruit_YakuzaF_Momoe_DESC"
 msgid ""
-"Sabu’s right hand lady. Her knives can slice teenage girls like cafeteria "
+"Sabu’s right-hand lady. Her knives can slice teenage girls like cafeteria "
 "butter."
 msgstr ""
 
@@ -6098,7 +6127,7 @@ msgstr ""
 
 #. サブの左腕。サブ以外、誰も彼に逆らえない。
 msgctxt "Recruit_YakuzaMale_Masaaki_DESC"
-msgid "Sabu's very own left hand man. No one dares challenge his authority."
+msgid "Sabu's very own left-hand man. No one dares challenge his authority."
 msgstr ""
 
 #. マサアキ
@@ -6257,6 +6286,7 @@ msgctxt "SaveFileScreen_FooterMsg"
 msgid "Choose a file."
 msgstr ""
 
+#. サーバーでクロスプレイ機能が有効になっていません
 msgctxt "ServerHasCrossplayDisabled"
 msgid "Server does not have crossplay enabled."
 msgstr ""
@@ -7909,7 +7939,7 @@ msgctxt "World_1_Fighting101_NAME"
 msgid "Fighting 101"
 msgstr ""
 
-#. リバーシティ高校 事務
+#. リバーシティ高校 体育館
 msgctxt "World_1_GymBasketball_NAME"
 msgid "School Gym"
 msgstr ""
@@ -7934,12 +7964,12 @@ msgctxt "World_1_Propaganda_NAME"
 msgid "Propaganda Class"
 msgstr ""
 
-#. リバーシティ高校  居残り部屋
+#. リバーシティ高校 トイレ
 msgctxt "World_1_RestRoom_NAME"
 msgid "School Restroom"
 msgstr ""
 
-#. リバーシティ高校 トイレ
+#. リバーシティ高校 屋上
 msgctxt "World_1_Rooftop_NAME"
 msgid "School Rooftop"
 msgstr ""
