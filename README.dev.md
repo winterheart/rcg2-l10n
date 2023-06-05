@@ -26,6 +26,8 @@
 * `0Harmony.dll` (из `MelonLoader`)
 * `Assembly-CSharp.dll` (из `RCG2_Data/Managed`)
 * `MelonLoader.dll` (из `MelonLoader`)
+* `ScreenManager.Runtime.dll` (из `RCG2_Data/Managed`)
 * `Unity.TextMeshPro.dll` (из `RCG2_Data/Managed`)
 * `UnityEngine.AssetBudleModule.dll` (из `RCG2_Data/Managed`)
-* `UnityEngine.CoreModule.dll` (из `RCG2_Data/Managed`)
+* `UnityEngine.CoreModule.dll` (из `RCG2_Data/Managed`
+)
