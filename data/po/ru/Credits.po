@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-01-14 06:30:56.399086\n"
+"POT-Creation-Date: 2023-06-05 20:53\n"
 "PO-Revision-Date: 2023-02-02 04:05+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
@@ -74,7 +74,7 @@ msgctxt "LBL_ARCPUB"
 msgid "PUBLISHING"
 msgstr "ИЗДАТЕЛЬСТВО"
 
-#. ARC SYSTEM WORKS
+#. ARC SYSTEM WORKS 
 #. Asia Branch
 msgctxt "LBL_ARC_ASIA"
 msgid ""
@@ -269,7 +269,7 @@ msgctxt "LBL_PR_MANAGER_TITLE"
 msgid "Communications Officer"
 msgstr "Связь с общественностью"
 
-#. Published by Arc System
+#. Published by Arc System 
 #. Works Co.,Ltd.
 msgctxt "LBL_PUBLISHED_BY_ARC"
 msgid ""
@@ -284,7 +284,7 @@ msgctxt "LBL_PUBLISHED_BY_WF"
 msgid "Published by WayForward"
 msgstr "Опубликовано WayForward"
 
-#. Director of Biz Dev and
+#. Director of Biz Dev and 
 #. Publishing
 msgctxt "LBL_PUBLISHING_HEAD_TITLE"
 msgid ""
@@ -294,7 +294,7 @@ msgstr ""
 "Директор по бизнесу и\n"
 "издательству"
 
-#. Quality Assurance
+#. Quality Assurance 
 #. Manager
 msgctxt "LBL_QA_MANAGER_TITLE"
 msgid ""
@@ -309,7 +309,7 @@ msgctxt "LBL_QA_TESTER_TITLE"
 msgid "Quality Assurance Testers"
 msgstr "Тестеры контроля качества"
 
-#. RCG1 Voice Actors
+#. RCG1 Voice Actors 
 #. (Shopkeepers) - English
 msgctxt "LBL_RCG1_SHOP_VA"
 msgid ""
@@ -329,7 +329,7 @@ msgctxt "LBL_SONGS_TITLE"
 msgid "Songs"
 msgstr "Песни"
 
-#. WayForward Special
+#. WayForward Special 
 #. Thanks
 msgctxt "LBL_SPECIAL_THANKS_TITLE"
 msgid ""
@@ -339,7 +339,7 @@ msgstr ""
 "Особая благодарность\n"
 "WayForward"
 
-#. Intro Animation
+#. Intro Animation 
 #. Storyboards
 msgctxt "LBL_STORYBOARD_ARTIST_TITLE"
 msgid ""

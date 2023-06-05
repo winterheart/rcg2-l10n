@@ -3,17 +3,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-01-17 03:12\n"
-"PO-Revision-Date: 2023-02-08 17:36+0300\n"
+"POT-Creation-Date: 2023-06-05 20:53\n"
+"PO-Revision-Date: 2023-06-05 23:53+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.08.3\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<"
+"=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 22.12.3\n"
 
 #. くたばれ、ガキども！
 msgctxt "BossTauntB01-01"
@@ -1564,7 +1564,7 @@ msgstr "Ого, как он изменился. Стал менее, э-э-э...
 
 #. うっそ！ 変わりすぎでしょ。全然ないじゃん、あの―
 msgctxt "Passive045-03_Kyoko"
-msgid "Wow. It's, uh, different. A lot less, uh...."
+msgid "Wow. It's, uh, different. A lot less, uh..."
 msgstr "Ого, а он изменился. Стал менее, э-э-э...."
 
 #. 変わりすぎじゃないか… アレが全然ない…
@@ -12560,7 +12560,8 @@ msgstr "РАССКАЖИТЕ НАМ!!!"
 msgctxt "Passive403-05_ProfessorCroc"
 msgid ""
 "Little too "
-"hot…                                                                                                                        "
+"hot…                                                                         "
+"                                               "
 msgstr "Чуточку потише..."
 
 #. 走って逃げる事ができない場合は、外骨格を柔らかくするための武器を持つ事がオススメだ。名前を呼び上げてもらえるかな。
@@ -15516,7 +15517,7 @@ msgctxt "Portrait028-06_Marian"
 msgid "Hmmm... well, she's got me there."
 msgstr "Хм-м... Тут с ней не поспоришь."
 
-#. ええっと… 言うようにようになったじゃん。
+#. ええっと… 言うようになったじゃん。
 msgctxt "Portrait028-06_Misako"
 msgid "Yeah, well... dangit, she's got me there."
 msgstr "Да, но... Чёрт, тут с ней не поспоришь."
@@ -15613,7 +15614,7 @@ msgstr "Не говори ЕЙ это..."
 
 #. お前らには少しばかり恥をかかされたが…
 msgctxt "Portrait028-11_Sabuko"
-msgid "You two caused me some minor embaressment..."
+msgid "You two caused me some minor embarrassment..."
 msgstr "Вы вдвоём доставили мне небольшие неудобства..."
 
 #. 「少しばかり」？
@@ -16121,28 +16122,28 @@ msgstr ""
 
 #. タワーの一件は？
 msgctxt "Portrait031-08_Kunio"
-msgid "Like back at the tower?"
-msgstr "Прямо как тогда в башне?"
+msgid "Like back at the Tower?"
+msgstr "Прямо как тогда в Башне?"
 
 #. タワーでのことは？
 msgctxt "Portrait031-08_Kyoko"
-msgid "Like back at the tower?"
-msgstr "Прямо как тогда в башне?"
+msgid "Like back at the Tower?"
+msgstr "Прямо как тогда в Башне?"
 
 #. タワーの件はどう説明するのさ？
 msgctxt "Portrait031-08_Marian"
-msgid "Like back at the tower?"
-msgstr "Прямо как тогда в башне?"
+msgid "Like back at the Tower?"
+msgstr "Прямо как тогда в Башне?"
 
 #. タワーの一件は？
 msgctxt "Portrait031-08_Provie"
-msgid "Like back at the tower?"
-msgstr "Прямо как тогда в башне?"
+msgid "Like back at the Tower?"
+msgstr "Прямо как тогда в Башне?"
 
 #. タワーのこと忘れてるだろ。
 msgctxt "Portrait031-08_Riki"
-msgid "Like back at the tower?"
-msgstr "Прямо как тогда в башне?"
+msgid "Like back at the Tower?"
+msgstr "Прямо как тогда в Башне?"
 
 #. ぐぬぬ… あれは例外だ！
 msgctxt "Portrait031-09_Yakuza Henchman"
@@ -16422,7 +16423,7 @@ msgstr "Оно как-то связано с моей ногой на твоей
 msgctxt "Portrait034-12_Godai"
 msgid ""
 "Ahehehe, maybe later. Anyway, I'm working on a SECRET photography project. "
-"Howsabout you two take selfies of yourselves around town?"
+"Hows about you two take selfies of yourselves around town?"
 msgstr ""
 "А-ха-ха-ха, может, потом. В общем, я работаю над ТАЙНЫМ фотопроектом. Как "
 "насчёт того, чтобы вы вдвоём сделали несколько селфи на фоне пейзажей нашего "
@@ -16760,7 +16761,7 @@ msgid ""
 msgstr ""
 "Они буквально повсюду, очень раздражает. Как это вообще могло произойти?"
 
-#. あたしたちの街、勝手に変えやがって、、ヤクザの野郎どもまじでムカつく！
+#. そそ、何かよくないことが起きてるみたいでさ。
 msgctxt "Portrait036-10_Misako"
 msgid ""
 "These jerks are all over the city. It's really annoying. How did this even "
@@ -17545,7 +17546,7 @@ msgstr "CUT"
 msgctxt "Portrait046-22_Saotome"
 msgid ""
 "Fine. There's some mysterious woman with legendary abs who's taken over "
-"downtown. If you find her, maybe she can help you out."
+"Downtown. If you find her, maybe she can help you out."
 msgstr ""
 "Ну хорошо. Говорят, Центр города захватила какая-то таинственная женщина с "
 "легендарным прессом. Найдёте её - и, возможно, она вам поможет."
@@ -17578,10 +17579,10 @@ msgstr "А где именно в Центре?"
 #. バスケコートに行ってみな… ヤクザのチームが使ってることも多いが、その女が毎回追い払ってるぜ。
 msgctxt "Portrait046-24_Saotome"
 msgid ""
-"Try the basketball court. The local yakuza team usually plays there around "
+"Try the Basketball Court. The local yakuza team usually plays there around "
 "now, and she usually clears them out soon after."
 msgstr ""
-"Попробуйте баскетбольную площадку. Местные якудза часто играют там, а она "
+"Попробуйте Баскетбольную площадку. Местные якудза часто играют там, а она "
 "постоянно их оттуда выгоняет."
 
 #. サンキュ！ おまえ親切だな。
@@ -17866,9 +17867,9 @@ msgstr "Жду не дождусь услышать..."
 
 #. うんうん、その意気！ 本題だけど、君たちバスケコートに向かってるところだよね？
 msgctxt "Portrait048-14_Godai"
-msgid "That's the spirit! I see you're headed to the local basketball court."
+msgid "That's the spirit! I see you're headed to the local Basketball Court."
 msgstr ""
-"Вот это настрой! Я заметил, что вы направляетесь на баскетбольную площадку."
+"Вот это настрой! Я заметил, что вы направляетесь на Баскетбольную площадку."
 
 #. まぁな。
 msgctxt "Portrait048-15_Kunio"
@@ -18942,7 +18943,7 @@ msgstr "Ну не знаю. Просто ответь на вопрос."
 msgctxt "Portrait056-15_Williams"
 msgid ""
 "Here, I got a wrench. Take this and go fix the generators yourselves. "
-"There's three of em."
+"There's three of 'em."
 msgstr ""
 "У меня есть разводной ключ. Возьмите его и почините генераторы. Их всего три."
 
@@ -24454,7 +24455,7 @@ msgstr "Ну, в прошлом дела обычно делались так."
 #. あるとき、ついに反撃されてしまってネ、それからは誘拐はやめにしたヨ。食い込んだボディブローの感触がまだ忘れられない。うっ、思い出したらお腹の具合が…
 msgctxt "Portrait129-13_Skullmageddon"
 msgid ""
-"But she taught me a real lesson, I can still feel her fist in my gut. Ooooh, "
+"But she taught me a real lesson. I can still feel her fist in my gut. Ooooh, "
 "indigestion..."
 msgstr ""
 "Но она преподала мне ценный урок. Я до сих пор чувствую её удар в живот. О-о-"
@@ -24667,7 +24668,7 @@ msgstr "Ну, если учесть это, то..."
 #. で、用件は？ こっちは忙しいの。お金くれるってんなら話くらいは聞いてあげるけど。
 msgctxt "Portrait144-05_Blaire"
 msgid ""
-"Anyway, what do you want? I'm very busy. Unless you got cash, then I'm "
+"Anyway, what do you want? I'm very busy. Unless you've got cash, then I'm "
 "slightly less busy."
 msgstr ""
 "В любом случае, что вам нужно? Я очень занята. Но если у вас есть деньги, то "
@@ -25830,7 +25831,7 @@ msgstr ""
 
 #. だいせいか～い！
 msgctxt "Portrait154-02_Snap"
-msgid "Tis true, tis I!"
+msgid "'Tis true, 'tis I!"
 msgstr "Истинно так, аз есмь!"
 
 #. まさかずっとそのテンションじゃねぇよな？
@@ -27578,8 +27579,8 @@ msgstr "5-6-7-2-5-4."
 #. 確認しよう。…よし、ツイ子はバイオドームにいる。場所は地図を見な。
 msgctxt "Portrait189-04_Sabuko"
 msgid ""
-"Good. Let me check... okay, Tsuiko is in the Bio-Dome. It should be marked "
-"on your map."
+"Good. Let me check... Okay, Tsuiko is in the Biodome. It should be marked on "
+"your map."
 msgstr ""
 "Отлично. Сейчас проверю... Хорошо, Цуйко находится в Биосфере. Она отмечена "
 "на вашей карте."
@@ -27902,7 +27903,7 @@ msgstr "Возьми свои слова назад."
 #. わかったから今は急ぎな。ツイ子がバイオドームから移動したらどうするんだ。
 msgctxt "Portrait189-20_Sabuko"
 msgid ""
-"You'd better hurry. I don't know how long Tsuiko will remain in the Bio-Dome."
+"You'd better hurry. I don't know how long Tsuiko will remain in the Biodome."
 msgstr ""
 "Вам лучше поторопиться. Не знаю, насколько долго Цуйко будет находиться в "
 "Биосфере."
@@ -28372,27 +28373,27 @@ msgstr "Я жалею всякий раз, когда мы помогаем др
 
 #. ここがバイオドームとやらか？
 msgctxt "Portrait198-01_Kunio"
-msgid "Is this that Bio-Sphere place?"
+msgid "Is this that Biosphere place?"
 msgstr "Это и есть Биосфера?"
 
 #. ここがバイオドーム？
 msgctxt "Portrait198-01_Marian"
-msgid "Is this that Bio-Sphere place?"
+msgid "Is this that Biosphere place?"
 msgstr "Это и есть Биосфера?"
 
 #. ここがバイオドーム？
 msgctxt "Portrait198-01_Misako"
-msgid "Is this that Bio-Sphere place?"
+msgid "Is this that Biosphere place?"
 msgstr "Это и есть Биосфера?"
 
 #. ここがバイオドームとやら？
 msgctxt "Portrait198-01_Provie"
-msgid "Is this that Bio-Sphere place?"
+msgid "Is this that Biosphere place?"
 msgstr "Это и есть Биосфера?"
 
 #. ここがバイオドームか？
 msgctxt "Portrait198-01_Riki"
-msgid "Is this that Bio-Sphere place?"
+msgid "Is this that Biosphere place?"
 msgstr "Это и есть Биосфера?"
 
 #. みてぇだな。そこら中に植物あるし。
@@ -28551,7 +28552,7 @@ msgstr "Ну ладно, дамочка, ты взломала наши теле
 
 #. あんた、よくもウチらのスマホをハッキングしたね！
 msgctxt "Portrait204-01_Provie"
-msgid "Alright, lady, you hacked our phones to make us look like fools."
+msgid "Alright, lady, you hacked our phones and made us look like fools."
 msgstr "Ну ладно, дамочка, ты взломала наши телефоны и сделала из нас дураков."
 
 #. やっぱりあんたがハッキングの犯人か。
@@ -28714,7 +28715,7 @@ msgstr "Ну хорошо, начнём битву! Если только ты �
 #. あーもう、さっさと決着つけるよ！ あたしたちの強さに尻尾巻いて逃げるんじゃ―
 msgctxt "Portrait204-09_Misako"
 msgid ""
-"Okay then, so let's get this fight going! Unless you're afraid of a pair of -"
+"Okay then, let's get this fight going! Unless you're afraid of a pair of -"
 msgstr "Ну хорошо, начнём битву! Если только ты не боишься пару..."
 
 #. どうでもいい！とっととやるよ！ 今更怖いとか―
@@ -28726,7 +28727,7 @@ msgstr "Ну хорошо, начнём битву! Если только ты �
 #. もういい、とっととやんぞ。今更後悔しても―
 msgctxt "Portrait204-09_Riki"
 msgid ""
-"Okay then, so let's get this fight going! Unless you're afraid of a pair of -"
+"Okay then, let's get this fight going! Unless you're afraid of a pair of -"
 msgstr "Ну хорошо, начнём битву! Если только ты не боишься пару..."
 
 #. ちょっと待ってー、顔認証でメッセ送ってんの。ミスってレモンスパイスラテの注文したらあんた達のせいだからね。
@@ -28742,7 +28743,7 @@ msgstr ""
 msgctxt "Portrait204-11_Tsuiko"
 msgid ""
 "Record message. Tessa G. -- OMG GRL, that dress was HELLA blazin’. Flash-tag "
-"hot bumpin’, flash-tag whaaaaaaat? Catch you later at Devil-ees, booboo!"
+"hot bumpin’, flash-tag whaaaaaaat? Catch you later at Devil-ees, Booboo!"
 msgstr ""
 "Запись сообщения. Тесса Джи - «ОМГ подруга этот прикид просто КРАШ». Флэш-"
 "тег «горячийприкид», флэш-тег «чтооооооо». «Увидимся в Демонэссе, чмоки»!"
@@ -28751,10 +28752,11 @@ msgstr ""
 msgctxt "Portrait204-12_Tsuiko"
 msgid ""
 "End message. Add font glitterati, shade 233-magenta, filter, uh... Nostalgia-"
-"Baby. Launch, send. Okay, now where were we?"
+"Baby. Mm-hmm. Launch, send. Okay, now where were we?"
 msgstr ""
-"Конец сообщения. Добавить блестящий шрифт, тень 233-магента, фильтр, э-э-э "
-"«Крошка Ностальгия». Закончить, отправить. Так, на чём мы остановились?"
+"Конец сообщения. Добавить блестящий шрифт, тень 233-магента, фильтр, э-э-э"
+" «Крошка Ностальгия». М-м-хм. Закончить, отправить. Так, на чём мы"
+" остановились?"
 
 #. 腹立ってくるな…
 msgctxt "Portrait204-13_Kunio"
@@ -34164,7 +34166,7 @@ msgstr "Я знаю."
 msgctxt "Portrait300-13_Sabuko"
 msgid ""
 "All we need is blood and vengeance to fuel our dynasty. And now that "
-"everthing Ken developed is in ashes, Father will accept ME back as his top "
+"everything Ken developed is in ashes, Father will accept ME back as his top "
 "soldier."
 msgstr ""
 "Всё, что нам нужно для поддержания нашей империи, - это кровь и месть. И "
@@ -35601,10 +35603,10 @@ msgstr "Мы отправляемся туда прямо сейчас."
 msgctxt "Portrait310-04_Kozuki"
 msgid ""
 "Not yet, but apparently those guards have all left the street in front of "
-"the tower, so now's my best shot to get in there and break this story."
+"the Tower, so now's my best shot to get in there and break this story."
 msgstr ""
 "Пока нет, но сейчас у меня открылась отличная возможность проникнуть туда "
-"для моей статьи, ведь больше никто не охраняет улицу у входа в башню."
+"для моей статьи, ведь больше никто не охраняет улицу у входа в Башню."
 
 #. がんばれよ。殺されねぇようにな。
 msgctxt "Portrait310-05_Kunio"
@@ -36996,7 +36998,7 @@ msgstr "Согласен. Обожаю эту песню."
 
 #. 覚悟は出来てんのか？
 msgctxt "PortraitHH01A-01_Sol Badguy"
-msgid "So I heard you could use a hand. How much you payin?"
+msgid "So I heard you could use a hand. How much you payin'?"
 msgstr "Как я слышал, вам нужна помощь. Сколько вы готовы заплатить?"
 
 #. しゃあねぇな
