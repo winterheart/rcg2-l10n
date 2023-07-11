@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-06-06 00:18\n"
-"PO-Revision-Date: 2023-06-06 00:18\n"
+"POT-Creation-Date: 2023-07-11 13:06\n"
+"PO-Revision-Date: 2023-07-11 13:06\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -542,7 +542,7 @@ msgctxt "BlockList_ConfirmUnblockSpecific"
 msgid "Unblock {0}?"
 msgstr ""
 
-#. ブロックしたプレイヤーを閲覧する。
+#. ブロックしたプレイヤーを閲覧します。
 msgctxt "BlockList_FooterMsg"
 msgid "View blocked players."
 msgstr ""
@@ -672,7 +672,7 @@ msgctxt "Cellphone_Accessories_ConfirmUnequip"
 msgid "Unequip this item?"
 msgstr ""
 
-#. 装備しているアクセサリを確認する。
+#. 装備しているアクセサリを確認します。
 msgctxt "Cellphone_Accessories_FooterMsg"
 msgid "View and equip your accessories."
 msgstr ""
@@ -762,7 +762,7 @@ msgctxt "Cellphone_Home_Snapshot"
 msgid "Snapr"
 msgstr ""
 
-#. ホンカァを確認する。
+#. ホンカァを確認します。
 msgctxt "Cellphone_Honkr_FooterMsg"
 msgid "View Honkr posts."
 msgstr ""
@@ -772,12 +772,12 @@ msgctxt "Cellphone_Inventory_ConfirmUse"
 msgid "Consume this item?"
 msgstr ""
 
-#. インベントリからアイテムを使用する。
+#. インベントリからアイテムを使用します。
 msgctxt "Cellphone_Inventory_FooterMsg"
 msgid "Use items from your inventory."
 msgstr ""
 
-#. 取得した技を確認する。
+#. 取得した技を確認します。
 msgctxt "Cellphone_MovesList_FooterMsg"
 msgid "View your moves."
 msgstr ""
@@ -797,7 +797,7 @@ msgctxt "Cellphone_Settings_Locked"
 msgid "LOCKED"
 msgstr ""
 
-#. 装備しているアクセサリを確認する。
+#. 装備しているアクセサリを確認します。
 msgctxt "Cellphone_Snapr_FooterMsg"
 msgid "View Snapr posts."
 msgstr ""
@@ -952,7 +952,7 @@ msgctxt "Character_Unlock_Client_Main"
 msgid "You helped your friend unlock"
 msgstr ""
 
-#. （次はホストになって手伝ってもらおう）
+#. （ゲストはアンロックされません）
 msgctxt "Character_Unlock_Client_Sub"
 msgid "(now beat her yourself!)"
 msgstr ""
@@ -1312,7 +1312,7 @@ msgctxt "ControlRemap_FooterMsg_ChooseControl"
 msgid "Choose a control to remap."
 msgstr ""
 
-#. ボタン設定を変更するゲームパッドもしくはキーボードを選択してください。
+#. ボタン設定を変更するゲームパッド、もしくはキーボードを選択してください。
 msgctxt "ControlRemap_FooterMsg_ControllerType"
 msgid "Choose which controller type to remap."
 msgstr ""
@@ -1352,7 +1352,7 @@ msgctxt "EQUIP_DESC_BOMB_BRA"
 msgid "Thrown weapons might explode on impact."
 msgstr ""
 
-#. 走るスピードが速くなる
+#. 走るスピードが速くなる。
 msgctxt "EQUIP_DESC_BUNNY_BUTTON"
 msgid "Run way too fast."
 msgstr ""
@@ -1767,7 +1767,7 @@ msgctxt "FooterPrompt_Start"
 msgid "Start"
 msgstr ""
 
-#. ゲームは満席です。
+#. ルームが満員です
 msgctxt "GameIsFull"
 msgid "Game is full."
 msgstr ""
@@ -2052,7 +2052,7 @@ msgctxt "Honkr_Page_Objectives"
 msgid "Objectives"
 msgstr ""
 
-#. ゲームに参加できませんでした。ゲームの人数設定を確認してください。
+#. ゲームに参加できませんでした。ルームの人数設定を確認してください。
 msgctxt "HostJoinPlayersMismatch"
 msgid ""
 "Unable to join this room. Please check the number of players it was created "
@@ -2064,18 +2064,18 @@ msgctxt "HostJoinScreen_Crossplay"
 msgid "Crossplay"
 msgstr ""
 
-#. 異なるプラットフォームとマッチングするかどうかを選択してください。
+#. 異なるプラットフォームとマッチングするかを選択してください。
 msgctxt "HostJoinScreen_FooterMsg_Crossplay"
 msgid ""
 "Choose if you would like to play with players on different consoles or not."
 msgstr ""
 
-#. ホストで始める。
+#. ホストでゲームを開始します。
 msgctxt "HostJoinScreen_FooterMsg_Host"
 msgid "Host an online game."
 msgstr ""
 
-#. ゲストで参加する。
+#. ゲストでゲームに参加します。
 msgctxt "HostJoinScreen_FooterMsg_Join"
 msgid "Join an online game."
 msgstr ""
@@ -2220,7 +2220,7 @@ msgctxt "ITEM_DESC_BOBA_TEA"
 msgid "Replenish stamina {0} percent."
 msgstr ""
 
-#. お金を拾うと体力が回復
+#. お金を拾うと体力が回復する。
 msgctxt "ITEM_DESC_BOMB_BOTTOM"
 msgid "Grabbing money can heal your wounds."
 msgstr ""
@@ -2416,7 +2416,7 @@ msgctxt "ITEM_DESC_HEART_EARRINGS"
 msgid "Recruits' meters fill up faster."
 msgstr ""
 
-#. SPゲージが無限になる
+#. SPゲージが減少しなくなる。
 msgctxt "ITEM_DESC_HEART_REACTOR"
 msgid "This device gives you infinite special meter."
 msgstr ""
@@ -2511,7 +2511,7 @@ msgctxt "ITEM_DESC_MERV_SINGLE"
 msgid "Replenish stamina {0} percent."
 msgstr ""
 
-#. ときどき倒れた時に手榴弾を落とす
+#. ときどき倒れた時に手榴弾を落とす。
 msgctxt "ITEM_DESC_MILITARY_BELT"
 msgid "Chance of dropping a grenade when knocked down."
 msgstr ""
@@ -2631,7 +2631,7 @@ msgctxt "ITEM_DESC_RAVIOLI"
 msgid "Replenish stamina {0} percent."
 msgstr ""
 
-#. ピンチになると防御シールドを展開する
+#. ピンチになると防御シールドを展開する。
 msgctxt "ITEM_DESC_RIBBON_BRA"
 msgid "Get a defensive shield when close to defeat."
 msgstr ""
@@ -4683,17 +4683,17 @@ msgctxt "MOVE_TYPE_SPECIAL"
 msgid "Special"
 msgstr ""
 
-#. オフラインで始める。
+#. オフラインでゲームを開始します。
 msgctxt "MainMenuScreen_FooterMsg_LocalPlay"
 msgid "Start a local game."
 msgstr ""
 
-#. オンラインで始める。
+#. オンラインでゲームを開始します。
 msgctxt "MainMenuScreen_FooterMsg_OnlinePlay"
 msgid "Start or join an online game."
 msgstr ""
 
-#. ゲームの設定を変更する。
+#. ゲームの設定を変更します。
 msgctxt "MainMenuScreen_FooterMsg_Settings"
 msgid "Change game settings."
 msgstr ""
@@ -6271,22 +6271,22 @@ msgctxt "STORE_UNLOCKED_AT_LEVEL"
 msgid "Unlocked at Level"
 msgstr ""
 
-#. セーブデータを作成する。スロット
+#. このスロットに新たにセーブデータを作成しますか(
 msgctxt "SaveFileScreen_ConfirmCreate"
 msgid "Create save in slot"
 msgstr ""
 
-#. セーブデータを消去する。
+#. セーブデータを消去しますか(
 msgctxt "SaveFileScreen_ConfirmDelete"
 msgid "Delete save in slot"
 msgstr ""
 
-#. セーブデータを選ぶ。
+#. 選択したセーブデータでゲームを開始します。
 msgctxt "SaveFileScreen_FooterMsg"
 msgid "Choose a file."
 msgstr ""
 
-#. サーバーでクロスプレイ機能が有効になっていません
+#. クロスプレイ機能が有効になっていません
 msgctxt "ServerHasCrossplayDisabled"
 msgid "Server does not have crossplay enabled."
 msgstr ""
@@ -6296,7 +6296,7 @@ msgctxt "SettingScreen_ControllerMapping"
 msgid "Controller Mapping"
 msgstr ""
 
-#. ボタン設定の変更をする。
+#. ボタン設定の変更をします。
 msgctxt "SettingScreen_ControllerMapping_FooterMsg"
 msgid "Remap controls."
 msgstr ""
@@ -6306,7 +6306,7 @@ msgctxt "SettingScreen_Language"
 msgid "Language"
 msgstr ""
 
-#. 言語を切り替える。
+#. 表示するテキストの言語を切り替えます。
 msgctxt "SettingScreen_Language_FooterMsg"
 msgid "Change the game language."
 msgstr ""
@@ -6316,7 +6316,7 @@ msgctxt "SettingScreen_Music"
 msgid "Music"
 msgstr ""
 
-#. BGMのボリュームを調整する。
+#. BGMのボリュームを調整します。
 msgctxt "SettingScreen_Music_FooterMsg"
 msgid "Change music volume."
 msgstr ""
@@ -6326,7 +6326,7 @@ msgctxt "SettingScreen_PlayerIndicator"
 msgid "Player Indicator"
 msgstr ""
 
-#. プレイヤー強調表示の種類を選択する。
+#. プレイヤー強調表示に使うカーソルを切り替えます。
 msgctxt "SettingScreen_PlayerIndicator_FooterMsg"
 msgid "Choose the style of player indicator."
 msgstr ""
@@ -6341,7 +6341,7 @@ msgctxt "SettingScreen_SFX"
 msgid "SFX"
 msgstr ""
 
-#. SE音声のボリュームを調整する。
+#. SE音声のボリュームを調整します。
 msgctxt "SettingScreen_SFX_FooterMsg"
 msgid "Change sound effect volume."
 msgstr ""
@@ -6356,7 +6356,7 @@ msgctxt "SettingScreen_Subtitles"
 msgid "Subtitles"
 msgstr ""
 
-#. 字幕の言語を切り替える。
+#. 字幕の言語を切り替えます。
 msgctxt "SettingScreen_Subtitles_FooterMsg"
 msgid "Change the language of subtitles."
 msgstr ""
@@ -6366,7 +6366,7 @@ msgctxt "SettingScreen_TextSpeed"
 msgid "Text Speed"
 msgstr ""
 
-#. テキスト表示速度を調整する。
+#. テキスト表示速度を調整します。
 msgctxt "SettingScreen_TextSpeed_FooterMsg"
 msgid "Change the text speed."
 msgstr ""
@@ -6376,7 +6376,7 @@ msgctxt "SettingScreen_Vibration"
 msgid "Vibration"
 msgstr ""
 
-#. 振動のオン・オフを切り替える。
+#. 振動のオン・オフを切り替えます。
 msgctxt "SettingScreen_Vibration_FooterMsg"
 msgid "Set controller vibration on or off."
 msgstr ""
@@ -6386,7 +6386,7 @@ msgctxt "SettingScreen_Voice"
 msgid "Voice"
 msgstr ""
 
-#. ボイスのボリュームを調整する。
+#. ボイスのボリュームを調整します。
 msgctxt "SettingScreen_Voice_FooterMsg"
 msgid "Change voice volume."
 msgstr ""
@@ -6396,7 +6396,7 @@ msgctxt "SettingScreen_Voiceover"
 msgid "Voiceover"
 msgstr ""
 
-#. 音声の言語を切り替える。オンラインプレイではホストの設定が優先されます。
+#. 再生音声の言語を切り替えます。オンラインではホストの設定がゲームに適用されます。
 msgctxt "SettingScreen_Voiceover_FooterMsg"
 msgid "Change the voiceover langauge."
 msgstr ""
@@ -6411,7 +6411,7 @@ msgctxt "Setting_On"
 msgid "On"
 msgstr ""
 
-#. テキスト表示速度を調整する。
+#. テキスト表示速度を調整します。
 msgctxt "SettingsScreen_TextSpeed_FooterMsg"
 msgid "Change the text speed."
 msgstr ""
@@ -7839,7 +7839,7 @@ msgctxt "WEAPON_NAME_YOYO"
 msgid "Yoyo"
 msgstr ""
 
-#. ホストを待機中
+#. ホストを待っています。
 msgctxt "WaitingForHost"
 msgid "Waiting for Host"
 msgstr ""

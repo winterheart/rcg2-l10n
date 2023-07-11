@@ -1482,7 +1482,7 @@ msgctxt "Passive033-02_Riki"
 msgid "I wonder why Sabu is trying to take over the town?"
 msgstr "Интересно, почему Сабу хочет подмять под себя весь город?"
 
-#. ヤツのことは後でいいだろ。さっ、ゲーム買いにいこーぜ。
+#. ヤツのことは後でいいだろ。
 msgctxt "Passive033-03_Kunio"
 msgid "You think too much."
 msgstr "Ты слишком много думаешь."
@@ -5497,7 +5497,7 @@ msgctxt "Passive138-02_Provie"
 msgid "And dead. "
 msgstr "И смерть."
 
-#. ゴーストペッパーを盗もうとしてやがる！止めろ！
+#. 止めろ！
 msgctxt "Passive138-02_Riki"
 msgid "And dead. "
 msgstr "И смерть."
@@ -12620,7 +12620,7 @@ msgctxt "PassiveHH02B-01_Jam"
 msgid "Well are you going to hire me? Or keep paying for weaklings?"
 msgstr "Вы собираетесь нанять меня? Или будете платить дохлякам?"
 
-#. じゃんじゃんいくアルヨ！
+#. じゃんじゃんいくヨ！
 msgctxt "PassiveHH02C-01_Jam"
 msgid "It's a deal. Time to make some money!"
 msgstr "По рукам. Пора заработать немного деньжат!"
@@ -14857,7 +14857,7 @@ msgctxt "Portrait021-21_Riki"
 msgid "I don't even GO to that school."
 msgstr "Да я даже НЕ ХОЖУ в эту школу."
 
-#. 2ヵ月も勉強せずに遊べるのに、どこか屈辱的なんだよ。
+#. 2ヵ月も勉強せずに遊べるのに、どこが屈辱的なんだよ。
 msgctxt "Portrait021-22_Kunio"
 msgid ""
 "What's HUMILIATING about getting a 2-month vacation from books and learning?"
@@ -15581,7 +15581,7 @@ msgctxt "Portrait028-09_Provie"
 msgid "That's a relief. Cause we're pretty rusty on our training."
 msgstr "Какое облегчение. Видишь ли, мы немного не в форме."
 
-#. そうか、前ほど戦ってねぇからヤバかったぜ。
+#. そうか、前ほど戦えねぇからヤバかったぜ。
 msgctxt "Portrait028-09_Riki"
 msgid "That's a relief. Cause we're pretty rusty on our training."
 msgstr "Какое облегчение. Видишь ли, мы немного не в форме."
@@ -16483,7 +16483,7 @@ msgctxt "Portrait034-15_Riki"
 msgid "WHY, YOU CREEPY LITTLE SKUNK??"
 msgstr "ЗАЧЕМ, ТЫ, ЖУТКИЙ МАЛЕНЬКИЙ СКУНС!?"
 
-#. ご、ごめんごめん！お金は払うから！10枚撮ってきてくれればがっぽりだよ。
+#. ご、ごめんごめん！お金は払うから！撮ってきてくれればがっぽりだよ。
 msgctxt "Portrait034-16_Godai"
 msgid ""
 "F-for my project! Anyway, I'll give you a big prize! Snap PHOTOS of "
@@ -16582,7 +16582,7 @@ msgctxt "Portrait034-21_Marian"
 msgid "Why do we keep agreeing to stuff like this...?"
 msgstr "И почему мы постоянно соглашаемся на подобные вещи?.."
 
-#. 壊れてるけど。
+#. 何でこんなの引き受けちゃうんだろ。
 msgctxt "Portrait034-21_Misako"
 msgid "Why do we keep agreeing to stuff like this...?"
 msgstr "И почему мы постоянно соглашаемся на подобные вещи?.."
@@ -19081,7 +19081,7 @@ msgctxt "Portrait059-01_Riki"
 msgid "We fixed all those generators."
 msgstr "Мы починили все генераторы."
 
-#. 助かったぜ！地下鉄の停電は直ったし、行ってみるといいさ。
+#. 地下鉄の停電は直ったし、、
 msgctxt "Portrait059-02_Williams"
 msgid "Thanks. The subway should be lit up now. You can head on over."
 msgstr "Спасибо. На станции теперь горит свет. Вы сможете пройти дальше."
@@ -20802,7 +20802,7 @@ msgstr ""
 "Ладно. Выясним, откуда в туннеле появилось это тёмное заклинание, и "
 "попробуем его отменить."
 
-#. はぁ、通れない原因を突き止めてくればいいんだな？
+#. どうにかトンネルを通れるようにするか。
 msgctxt "Portrait074-18_Riki"
 msgid ""
 "Fine. We'll go figure out what's causing the dark tunnel spell and undo it."
@@ -22530,7 +22530,7 @@ msgctxt "Portrait101-11_Provie"
 msgid "We're not with the yakuza. In fact, we're also fighting them."
 msgstr "Мы не заодно с якудза. На самом деле, мы боремся с ними."
 
-#. オレたちはヤクザじゃない。それどこかあいつらの敵だ。
+#. オレたちはヤクザじゃない。それどころかあいつらの敵だ。
 msgctxt "Portrait101-11_Riki"
 msgid "We're not with the yakuza. In fact, we're also fighting them."
 msgstr "Мы не заодно с якудза. На самом деле, мы боремся с ними."
@@ -23229,7 +23229,7 @@ msgctxt "Portrait103-31_Riki"
 msgid "Sorry, what? I got distracted by these janky old photos of me."
 msgstr "Извини, что? Я отвлёкся на эти дерьмовые старые фотки со мной."
 
-#. テクノスって企業がヤクザの邪魔をするやつのSNSアカウントをハッキングして荒らしてるっぽい。ウチも被害者。クリスの誘拐と関係あるかはわからないけど、とにかく言ってみるつもりだよ。
+#. テクノスって企業がヤクザの邪魔をするやつのSNSアカウントをハッキングして荒らしてるっぽい。ウチも被害者。クリスの誘拐と関係あるかはわからないけど、とにかく行ってみるつもりだよ。
 msgctxt "Portrait103-32_Provie"
 msgid ""
 "Ever since that social media menace took over Technos, that place hasn't "
@@ -35717,7 +35717,7 @@ msgctxt "Portrait326-03_Riki"
 msgid "I think it's Sabu. But augmented by something..."
 msgstr "Кажется, это Сабу. Только чем-то накачен..."
 
-#. 何を言っても無駄だ。こいつを取り込むことでオレの力は何倍にもふくれ上がる
+#. 何を言っても無駄だ。こいつを身体に取り込むことでオレの力は何倍にもふくれ上がる
 msgctxt "Portrait326-04_Sabu"
 msgid ""
 "Your words have no effect on me. With this serum in my veins, my strength "

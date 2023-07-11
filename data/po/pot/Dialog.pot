@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-06-06 00:18\n"
-"PO-Revision-Date: 2023-06-06 00:18\n"
+"POT-Creation-Date: 2023-07-11 13:06\n"
+"PO-Revision-Date: 2023-07-11 13:06\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -1444,7 +1444,7 @@ msgctxt "Passive033-02_Riki"
 msgid "I wonder why Sabu is trying to take over the town?"
 msgstr ""
 
-#. ヤツのことは後でいいだろ。さっ、ゲーム買いにいこーぜ。
+#. ヤツのことは後でいいだろ。
 msgctxt "Passive033-03_Kunio"
 msgid "You think too much."
 msgstr ""
@@ -5364,7 +5364,7 @@ msgctxt "Passive138-02_Provie"
 msgid "And dead. "
 msgstr ""
 
-#. ゴーストペッパーを盗もうとしてやがる！止めろ！
+#. 止めろ！
 msgctxt "Passive138-02_Riki"
 msgid "And dead. "
 msgstr ""
@@ -12268,7 +12268,7 @@ msgctxt "PassiveHH02B-01_Jam"
 msgid "Well are you going to hire me? Or keep paying for weaklings?"
 msgstr ""
 
-#. じゃんじゃんいくアルヨ！
+#. じゃんじゃんいくヨ！
 msgctxt "PassiveHH02C-01_Jam"
 msgid "It's a deal. Time to make some money!"
 msgstr ""
@@ -14462,7 +14462,7 @@ msgctxt "Portrait021-21_Riki"
 msgid "I don't even GO to that school."
 msgstr ""
 
-#. 2ヵ月も勉強せずに遊べるのに、どこか屈辱的なんだよ。
+#. 2ヵ月も勉強せずに遊べるのに、どこが屈辱的なんだよ。
 msgctxt "Portrait021-22_Kunio"
 msgid ""
 "What's HUMILIATING about getting a 2-month vacation from books and learning?"
@@ -15150,7 +15150,7 @@ msgctxt "Portrait028-09_Provie"
 msgid "That's a relief. Cause we're pretty rusty on our training."
 msgstr ""
 
-#. そうか、前ほど戦ってねぇからヤバかったぜ。
+#. そうか、前ほど戦えねぇからヤバかったぜ。
 msgctxt "Portrait028-09_Riki"
 msgid "That's a relief. Cause we're pretty rusty on our training."
 msgstr ""
@@ -15993,7 +15993,7 @@ msgctxt "Portrait034-15_Riki"
 msgid "WHY, YOU CREEPY LITTLE SKUNK??"
 msgstr ""
 
-#. ご、ごめんごめん！お金は払うから！10枚撮ってきてくれればがっぽりだよ。
+#. ご、ごめんごめん！お金は払うから！撮ってきてくれればがっぽりだよ。
 msgctxt "Portrait034-16_Godai"
 msgid ""
 "F-for my project! Anyway, I'll give you a big prize! Snap PHOTOS of "
@@ -16090,7 +16090,7 @@ msgctxt "Portrait034-21_Marian"
 msgid "Why do we keep agreeing to stuff like this...?"
 msgstr ""
 
-#. 壊れてるけど。
+#. 何でこんなの引き受けちゃうんだろ。
 msgctxt "Portrait034-21_Misako"
 msgid "Why do we keep agreeing to stuff like this...?"
 msgstr ""
@@ -18531,7 +18531,7 @@ msgctxt "Portrait059-01_Riki"
 msgid "We fixed all those generators."
 msgstr ""
 
-#. 助かったぜ！地下鉄の停電は直ったし、行ってみるといいさ。
+#. 地下鉄の停電は直ったし、、
 msgctxt "Portrait059-02_Williams"
 msgid "Thanks. The subway should be lit up now. You can head on over."
 msgstr ""
@@ -20186,7 +20186,7 @@ msgid ""
 "Fine. We'll go figure out what's causing the dark tunnel spell and undo it."
 msgstr ""
 
-#. はぁ、通れない原因を突き止めてくればいいんだな？
+#. どうにかトンネルを通れるようにするか。
 msgctxt "Portrait074-18_Riki"
 msgid ""
 "Fine. We'll go figure out what's causing the dark tunnel spell and undo it."
@@ -21868,7 +21868,7 @@ msgctxt "Portrait101-11_Provie"
 msgid "We're not with the yakuza. In fact, we're also fighting them."
 msgstr ""
 
-#. オレたちはヤクザじゃない。それどこかあいつらの敵だ。
+#. オレたちはヤクザじゃない。それどころかあいつらの敵だ。
 msgctxt "Portrait101-11_Riki"
 msgid "We're not with the yakuza. In fact, we're also fighting them."
 msgstr ""
@@ -22557,7 +22557,7 @@ msgctxt "Portrait103-31_Riki"
 msgid "Sorry, what? I got distracted by these janky old photos of me."
 msgstr ""
 
-#. テクノスって企業がヤクザの邪魔をするやつのSNSアカウントをハッキングして荒らしてるっぽい。ウチも被害者。クリスの誘拐と関係あるかはわからないけど、とにかく言ってみるつもりだよ。
+#. テクノスって企業がヤクザの邪魔をするやつのSNSアカウントをハッキングして荒らしてるっぽい。ウチも被害者。クリスの誘拐と関係あるかはわからないけど、とにかく行ってみるつもりだよ。
 msgctxt "Portrait103-32_Provie"
 msgid ""
 "Ever since that social media menace took over Technos, that place hasn't "
@@ -34575,7 +34575,7 @@ msgctxt "Portrait326-03_Riki"
 msgid "I think it's Sabu. But augmented by something..."
 msgstr ""
 
-#. 何を言っても無駄だ。こいつを取り込むことでオレの力は何倍にもふくれ上がる
+#. 何を言っても無駄だ。こいつを身体に取り込むことでオレの力は何倍にもふくれ上がる
 msgctxt "Portrait326-04_Sabu"
 msgid ""
 "Your words have no effect on me. With this serum in my veins, my strength "
