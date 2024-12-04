@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-07-11 13:06\n"
-"PO-Revision-Date: 2023-07-11 13:06\n"
+"POT-Creation-Date: 2024-12-04 20:57\n"
+"PO-Revision-Date: 2024-12-04 20:57\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -76,6 +76,11 @@ msgstr ""
 #. 新しい親友のビーブーを使って、通風孔を通れるようにしよう。
 msgctxt "HonkrBeeboosBigDay"
 msgid "Use your new best friend Beeboo to make it through the air vents."
+msgstr ""
+
+#. 道場は任せたよ！ボロ！！
+msgctxt "HonkrBillyDefault"
+msgid "Please for the last time. It's Billy not Bimmy."
 msgstr ""
 
 #. 今はフラットアイアンズに戻って私を操ってた奴を見つけ出して、ボコボコにしてやりたいよ。
@@ -246,6 +251,11 @@ msgid ""
 "mainframe. hack it to get the code to tsuiko's office."
 msgstr ""
 
+#. 悪い奴は今更後悔しても遅いぜ！！
+msgctxt "HonkrJimmyDefault"
+msgid "Be aggressive! B E AGGRESSIVE!"
+msgstr ""
+
 #. ショッピングモールに来たら何でもあるわよ！ もし誰か居るなら、声をかけてね！美味しいもの買ってあげるから一緒にお話ししましょ！
 msgctxt "HonkrKaori"
 msgid ""
@@ -334,7 +344,7 @@ msgid ""
 "manicure yesterday? :( Beauty really is such a heavy burden to bear..."
 msgstr ""
 
-#. ヤクザのだれかが鍵持ってるかも。どんどん倒してこ。
+#. 敵を倒して鍵を手に入れよう。
 msgctxt "HonkrPrimoKeycards"
 msgid "C'mon, let's beat up more yakuza. One of them must have a key."
 msgstr ""
@@ -490,7 +500,7 @@ msgid ""
 " everyone to know Downtown and Uptown are open now."
 msgstr ""
 
-#. ちょっと、あたし達ゲーム買いに来たんだからね？
+#. ゲームを買いにショッピングモールへ。
 msgctxt "HonkrVideoGameStore"
 msgid "We're here for a video game, remember?"
 msgstr ""
@@ -503,7 +513,7 @@ msgid ""
 "sayin'~! #hinthint #nudgenudge"
 msgstr ""
 
-#. これであの積荷もちょちょいのちょいになってるよー！
+#. パワーアップした筋肉で積荷を積もう。
 msgctxt "HonkrYeetingAndReceiving"
 msgid "Hey, I bet we can lift those crates now!"
 msgstr ""

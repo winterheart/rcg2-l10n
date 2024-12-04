@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-07-11 13:06\n"
-"PO-Revision-Date: 2023-07-11 13:06\n"
+"POT-Creation-Date: 2024-12-04 20:57\n"
+"PO-Revision-Date: 2024-12-04 20:57\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -156,6 +156,11 @@ msgstr ""
 #. Director
 msgctxt "LBL_DIRECTOR_TITLE"
 msgid "Director"
+msgstr ""
+
+#. Double Dragon DLC Team
+msgctxt "LBL_DLC_TEAM_TITLE"
+msgid "Double Dragon DLC Team"
 msgstr ""
 
 #. Environment Artists

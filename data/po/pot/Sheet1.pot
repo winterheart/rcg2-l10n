@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-07-11 13:06\n"
-"PO-Revision-Date: 2023-07-11 13:06\n"
+"POT-Creation-Date: 2024-12-04 20:57\n"
+"PO-Revision-Date: 2024-12-04 20:57\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -957,6 +957,11 @@ msgctxt "Character_Unlock_Client_Sub"
 msgid "(now beat her yourself!)"
 msgstr ""
 
+#. 未開放
+msgctxt "Character_Unlock_DefeatPrompt"
+msgid "Defeat to Earn"
+msgstr ""
+
 #. IS READY TO FIGHT
 msgctxt "Character_Unlock_Host_Main"
 msgid "IS READY TO FIGHT"
@@ -965,6 +970,11 @@ msgstr ""
 #. （隠れ家で交代できるぞ）
 msgctxt "Character_Unlock_Host_Sub"
 msgid "(check your hideout)"
+msgstr ""
+
+#. DLCを購入する
+msgctxt "Character_Unlock_PurchasePrompt"
+msgid "Purchase DLC"
 msgstr ""
 
 #. GENIUS
@@ -1357,6 +1367,11 @@ msgctxt "EQUIP_DESC_BUNNY_BUTTON"
 msgid "Run way too fast."
 msgstr ""
 
+#. ジャンプ力とアイテムドロップ確率が上昇する。
+msgctxt "EQUIP_DESC_BUNNY_DAY"
+msgid "Bunny hops and more chance for snacks."
+msgstr ""
+
 #. ガードブレイクのチャージ時間が短くなる。
 msgctxt "EQUIP_DESC_CLOWN_MAKEUP"
 msgid "Refills Guard Break much faster, and something else."
@@ -1365,6 +1380,11 @@ msgstr ""
 #. 敵を倒した時に得られるお金が増加する。
 msgctxt "EQUIP_DESC_COIN_PURSE"
 msgid "Pick up more money from defeated enemies."
+msgstr ""
+
+#. 武器がすぐに破壊される代わりに、大ダメージを与えるようになる。
+msgctxt "EQUIP_DESC_EVERY_DAY"
+msgid "Weapons shatter and do massive damage."
 msgstr ""
 
 #. ヘヴィアタックのダメージが増加する。
@@ -1432,6 +1452,11 @@ msgctxt "EQUIP_DESC_LANTERN"
 msgid "This magical item might bring you back from the dead."
 msgstr ""
 
+#. 助っ人が倒されると体力が回復する。
+msgctxt "EQUIP_DESC_LOVE_DAY"
+msgid "Fallen recruits will refill your stamina."
+msgstr ""
+
 #. 男性に対するダメージが増加する。
 msgctxt "EQUIP_DESC_LOVE_LETTER"
 msgid "Do more damage to guys."
@@ -1460,6 +1485,11 @@ msgstr ""
 #. 武器の投擲速度が2倍になる。
 msgctxt "EQUIP_DESC_PADLOCK_BRA"
 msgid "Double the velocity of thrown weapons."
+msgstr ""
+
+#. 敵が花火のように吹っ飛ぶようになる。
+msgctxt "EQUIP_DESC_PATRIOT_DAY"
+msgid "Launch enemies for fireworks."
 msgstr ""
 
 #. 稀にガード時にペッパースプレーが守ってくれる。
@@ -1492,6 +1522,16 @@ msgctxt "EQUIP_DESC_SPIKED_KNUCKLES"
 msgid "Do more stun damage to enemies."
 msgstr ""
 
+#. 最後の敵はすぐに命乞いをするようになる。
+msgctxt "EQUIP_DESC_SPOOKY_DAY"
+msgid "Last enemy will start begging for mercy."
+msgstr ""
+
+#. ジャンプの落下速度が遅くなり、落下ダメージがなくなる。
+msgctxt "EQUIP_DESC_SUMMER_DAY"
+msgid "Floaty jumps and no pitfall damage."
+msgstr ""
+
 #. 最強になるが、最鈍になる。
 msgctxt "EQUIP_DESC_TANK_BUTTON"
 msgid "You are the strongest but the slowest."
@@ -1510,6 +1550,11 @@ msgstr ""
 #. 徐々に体力が減少してしまうが、敵を倒すと回復する。
 msgctxt "EQUIP_DESC_VAMPIRE_TEETH"
 msgid "Gradually lose ST, but gain ST by defeating enemies."
+msgstr ""
+
+#. 炎の攻撃に強くなり、体力が満タン時のみヘヴィアタックに凍結効果が突く。
+msgctxt "EQUIP_DESC_WINTER_DAY"
+msgid "Icy heavy attack at full ST. Immune to fire."
 msgstr ""
 
 #. 稀にヘヴィアタックが敵を炎上させる。
@@ -1552,6 +1597,11 @@ msgctxt "EQUIP_NAME_BUNNY_BUTTON"
 msgid "Bunny Button"
 msgstr ""
 
+#. ウサギのカチューシャ
+msgctxt "EQUIP_NAME_BUNNY_DAY"
+msgid "Bunny Ears"
+msgstr ""
+
 #. ピエロマスク
 msgctxt "EQUIP_NAME_CLOWN_MAKEUP"
 msgid "Clown Makeup"
@@ -1560,6 +1610,11 @@ msgstr ""
 #. 小銭入れ
 msgctxt "EQUIP_NAME_COIN_PURSE"
 msgid "Coin Purse"
+msgstr ""
+
+#. 野球グローブ
+msgctxt "EQUIP_NAME_EVERY_DAY"
+msgid "Baseball Gloves"
 msgstr ""
 
 #. アイシャドウ
@@ -1627,6 +1682,11 @@ msgctxt "EQUIP_NAME_LANTERN"
 msgid "Lantern"
 msgstr ""
 
+#. キューピッドの弓矢
+msgctxt "EQUIP_NAME_LOVE_DAY"
+msgid "Cupid’s Bow"
+msgstr ""
+
 #. ラブレター
 msgctxt "EQUIP_NAME_LOVE_LETTER"
 msgid "Love Letter"
@@ -1655,6 +1715,11 @@ msgstr ""
 #. 南京錠ブラジャー
 msgctxt "EQUIP_NAME_PADLOCK_BRA"
 msgid "Padlock Bra"
+msgstr ""
+
+#. パイロットなサングラス
+msgctxt "EQUIP_NAME_PATRIOT_DAY"
+msgid "Aviator Glasses"
 msgstr ""
 
 #. 唐辛子スプレー
@@ -1687,6 +1752,16 @@ msgctxt "EQUIP_NAME_SPIKED_KNUCKLES"
 msgid "Spiked Knuckles"
 msgstr ""
 
+#. 魔女のとんがり帽子
+msgctxt "EQUIP_NAME_SPOOKY_DAY"
+msgid "Witch’s Hat"
+msgstr ""
+
+#. 携帯パラソル
+msgctxt "EQUIP_NAME_SUMMER_DAY"
+msgid "Sunbrella"
+msgstr ""
+
 #. 戦車のボタン
 msgctxt "EQUIP_NAME_TANK_BUTTON"
 msgid "Tank Button"
@@ -1705,6 +1780,11 @@ msgstr ""
 #. 吸血鬼の八重歯
 msgctxt "EQUIP_NAME_VAMPIRE_TEETH"
 msgid "Vampire Teeth"
+msgstr ""
+
+#. 氷結手袋
+msgctxt "EQUIP_NAME_WINTER_DAY"
+msgid "Snow Mittens"
 msgstr ""
 
 #. 魔女の水筒
@@ -1802,6 +1882,11 @@ msgctxt "HonkrCharacterName_Berserker"
 msgid "Berserker @worldsbestdad1990"
 msgstr ""
 
+#. Billy @TheRealBimmy90
+msgctxt "HonkrCharacterName_Billy"
+msgid "Billy @TheRealBimmy90"
+msgstr ""
+
 #. ブレア @THATwitch
 msgctxt "HonkrCharacterName_Blaire"
 msgid "Blaire @THATwitch"
@@ -1845,6 +1930,11 @@ msgstr ""
 #. 蔵土縁 紗夢@kuradoberi
 msgctxt "HonkrCharacterName_Jam"
 msgid "Jam @kuradoberi"
+msgstr ""
+
+#. Jimmy @AngryBro87
+msgctxt "HonkrCharacterName_Jimmy"
+msgid "Jimmy @AngryBro87"
 msgstr ""
 
 #. カオリ @letshang
@@ -2306,6 +2396,11 @@ msgctxt "ITEM_DESC_DECO_NAILS"
 msgid "Combos can be therapeutic."
 msgstr ""
 
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_DLCLEEBROS_SONGTITLE"
+msgid "Cool new music for your hideout."
+msgstr ""
+
 #. 体力を{0}%回復する
 msgctxt "ITEM_DESC_DORAYAKI"
 msgid "Replenish stamina {0} percent."
@@ -2631,6 +2726,11 @@ msgctxt "ITEM_DESC_RAVIOLI"
 msgid "Replenish stamina {0} percent."
 msgstr ""
 
+#. 30秒間、助っ人が与えるダメージが2倍になる。
+msgctxt "ITEM_DESC_RECRUIT_GOOP"
+msgid "Double recruit damage for 30 seconds"
+msgstr ""
+
 #. ピンチになると防御シールドを展開する。
 msgctxt "ITEM_DESC_RIBBON_BRA"
 msgid "Get a defensive shield when close to defeat."
@@ -2699,6 +2799,16 @@ msgstr ""
 #. 体力を{0}%回復する
 msgctxt "ITEM_DESC_SPRINKLED"
 msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 5秒間、シールドを発生させる。
+msgctxt "ITEM_DESC_STRAWBERRY_SYRINGE"
+msgid "Shield for 5 seconds"
+msgstr ""
+
+#. 10秒間、与えるダメージが2倍になる。
+msgctxt "ITEM_DESC_SUGAR_PILLS"
+msgid "Double damage for 10 seconds"
 msgstr ""
 
 #. 体力を{0}%回復する
@@ -2799,6 +2909,11 @@ msgstr ""
 #. 体力を{0}%回復する
 msgctxt "ITEM_DESC_YUMMI_WORMS"
 msgid "Replenish stamina {0} percent."
+msgstr ""
+
+#. 仲間のゾンビを呼び出す。
+msgctxt "ITEM_DESC_ZOMBIE_SALVE"
+msgid "Conjures a friendly zombie."
 msgstr ""
 
 #. アロエジュース
@@ -2934,6 +3049,11 @@ msgstr ""
 #. キャラネイル
 msgctxt "ITEM_NAME_DECO_NAILS"
 msgid "Deco Nails"
+msgstr ""
+
+#. We're The Double Dragons
+msgctxt "ITEM_NAME_DLCLEEBROS_SONGTITLE"
+msgid "We're The Double Dragons"
 msgstr ""
 
 #. どら焼き
@@ -3276,6 +3396,11 @@ msgctxt "ITEM_NAME_RAVIOLI"
 msgid "Ravioli"
 msgstr ""
 
+#. 助っ人狂人剤
+msgctxt "ITEM_NAME_RECRUIT_GOOP"
+msgid "Recruit Goop"
+msgstr ""
+
 #. リボンブラ
 msgctxt "ITEM_NAME_RIBBON_BRA"
 msgid "Ribbon Bra"
@@ -3349,6 +3474,16 @@ msgstr ""
 #. ふりかけドーナッツ
 msgctxt "ITEM_NAME_SPRINKLED"
 msgid "Sprinkled"
+msgstr ""
+
+#. イチゴ注射器
+msgctxt "ITEM_NAME_STRAWBERRY_SYRINGE"
+msgid "Strawberry Syringe"
+msgstr ""
+
+#. シュガー薬
+msgctxt "ITEM_NAME_SUGAR_PILLS"
+msgid "Sugar Pills"
 msgstr ""
 
 #. サンデー
@@ -3561,6 +3696,11 @@ msgctxt "ITEM_NAME_YUMMI_WORMS"
 msgid "Yummi Worms"
 msgstr ""
 
+#. 緊急ゾンビ液
+msgctxt "ITEM_NAME_ZOMBIE_SALVE"
+msgid "Zombie Salve"
+msgstr ""
+
 #. フレンド
 msgctxt "JoinGameSubtext_Friends"
 msgid "FRIENDS"
@@ -3763,6 +3903,11 @@ msgctxt "MOVE_NAME_ACRO_FLIP"
 msgid "Acro Flip"
 msgstr ""
 
+#. 天雷龍爪拳
+msgctxt "MOVE_NAME_AIR_BRODUKEN"
+msgid "Air Broduken"
+msgstr ""
+
 #. エアキャンセル
 msgctxt "MOVE_NAME_AIR_CANCEL"
 msgid "Air Cancel"
@@ -3771,6 +3916,11 @@ msgstr ""
 #. エアクロス
 msgctxt "MOVE_NAME_AIR_CROSS"
 msgid "Air Cross"
+msgstr ""
+
+#. 嵐風脚
+msgctxt "MOVE_NAME_AIR_HURRICANE_KICK"
+msgid "Air Hurricane Kick"
 msgstr ""
 
 #. エアパンケーキ
@@ -3828,6 +3978,11 @@ msgctxt "MOVE_NAME_BACK_ELBOW"
 msgid "Back Elbow"
 msgstr ""
 
+#. 半月裏拳
+msgctxt "MOVE_NAME_BACK_ELBOW_SMASH"
+msgid "Back Elbow Smash"
+msgstr ""
+
 #. スピンバックフィスト
 msgctxt "MOVE_NAME_BACK_FIST"
 msgid "Spin Back Fist"
@@ -3836,6 +3991,11 @@ msgstr ""
 #. バックハンドキック
 msgctxt "MOVE_NAME_BACK_HAND_SPRING"
 msgid "Back Hand Spring"
+msgstr ""
+
+#. 後ろ蹴り上げ
+msgctxt "MOVE_NAME_BACK_KICK"
+msgid "Back Kick"
 msgstr ""
 
 #. バックスプリットキック
@@ -3878,14 +4038,44 @@ msgctxt "MOVE_NAME_BOUNCER_THROW"
 msgid "Bouncer Throw"
 msgstr ""
 
+#. 一本背負い飛ばし
+msgctxt "MOVE_NAME_BOUNCER_THROW_LEEBROS"
+msgid "Bouncer Throw"
+msgstr ""
+
 #. ブリックブレイカー
 msgctxt "MOVE_NAME_BRICK_BREAKER"
 msgid "Brick Breaker"
 msgstr ""
 
+#. 龍爪拳
+msgctxt "MOVE_NAME_BRODUKEN"
+msgid "Broduken"
+msgstr ""
+
+#. 天雷龍爪拳
+msgctxt "MOVE_NAME_BRODUKEN_IMPACT"
+msgid "Broduken Impact"
+msgstr ""
+
 #. プロペラキック
 msgctxt "MOVE_NAME_BROKEN_PROPELLER"
 msgid "Broken Propeller"
+msgstr ""
+
+#. 天殺龍神拳
+msgctxt "MOVE_NAME_BRO_COMBO"
+msgid "Bro Combo"
+msgstr ""
+
+#. 天殺龍神拳
+msgctxt "MOVE_NAME_BRO_RUSH"
+msgid "Bro Rush"
+msgstr ""
+
+#. 双龍狩り
+msgctxt "MOVE_NAME_BRO_TACKLE"
+msgid "Bro Tackle"
 msgstr ""
 
 #. ブルースバックハンド
@@ -4018,9 +4208,34 @@ msgctxt "MOVE_NAME_DOUBLE_SLASH_KICK"
 msgid "Double Slash Kick"
 msgstr ""
 
+#. 上段振り落とし
+msgctxt "MOVE_NAME_DRAGON_CHOP"
+msgid "Dragon Chop"
+msgstr ""
+
 #. マッハキック
 msgctxt "MOVE_NAME_DRAGON_FEET"
 msgid "Dragon Feet"
+msgstr ""
+
+#. 龍神脚・断切
+msgctxt "MOVE_NAME_DRAGON_FLIP"
+msgid "Dragon Flip"
+msgstr ""
+
+#. 不動嵐風脚
+msgctxt "MOVE_NAME_DRAGON_HURRICANE"
+msgid "Dragon Hurricane"
+msgstr ""
+
+#. 爆魔龍神脚
+msgctxt "MOVE_NAME_DRAGON_KICK"
+msgid "Dragon Kick"
+msgstr ""
+
+#. 雷拳
+msgctxt "MOVE_NAME_DRAGON_STINGER"
+msgid "Dragon Stinger"
 msgstr ""
 
 #. ドロップエルボー
@@ -4046,6 +4261,11 @@ msgstr ""
 #. エルボースマッシュ
 msgctxt "MOVE_NAME_ELBOW_SMASH"
 msgid "Elbow Smash"
+msgstr ""
+
+#. 順鈎突き
+msgctxt "MOVE_NAME_EXTRA_HEAVY_JAB"
+msgid "Extra Heavy Jab"
 msgstr ""
 
 #. ストンピング
@@ -4081,6 +4301,11 @@ msgstr ""
 #. 前蹴り
 msgctxt "MOVE_NAME_FRONTKICK"
 msgid "Front Kick"
+msgstr ""
+
+#. 逆蹴り
+msgctxt "MOVE_NAME_FRONT_SHOVE_KICK"
+msgid "Front Shove Kick"
 msgstr ""
 
 #. フルネルソンパンチ
@@ -4168,6 +4393,16 @@ msgctxt "MOVE_NAME_HEARTBEAT"
 msgid "Heartbeat"
 msgstr ""
 
+#. 逆鈎突き
+msgctxt "MOVE_NAME_HEAVY_CROSS"
+msgid "Heavy Cross"
+msgstr ""
+
+#. 順突き
+msgctxt "MOVE_NAME_HEAVY_JAB"
+msgid "Heavy Jab"
+msgstr ""
+
 #. ヘヴィアッパーカット
 msgctxt "MOVE_NAME_HEAVY_UPPERCUT"
 msgid "Heavy Uppercut"
@@ -4186,6 +4421,16 @@ msgstr ""
 #. 内臓キック
 msgctxt "MOVE_NAME_HIGH_KICK"
 msgid "High Kick"
+msgstr ""
+
+#. 半月斬り
+msgctxt "MOVE_NAME_HIGH_KICK_LEEBROS"
+msgid "High Kick"
+msgstr ""
+
+#. 上段振り蹴り
+msgctxt "MOVE_NAME_HIGH_ROUNDHOUSE"
+msgid "High Roundhouse"
 msgstr ""
 
 #. フック
@@ -4216,6 +4461,11 @@ msgstr ""
 #. クレーターパンチ
 msgctxt "MOVE_NAME_HURRICANE_KICK"
 msgid "Kunio Crater"
+msgstr ""
+
+#. 飯綱落とし
+msgctxt "MOVE_NAME_IZUNA_DROP"
+msgid "Izuna Drop"
 msgstr ""
 
 #. ジャブ
@@ -4281,6 +4531,21 @@ msgstr ""
 #. ジャンプキック
 msgctxt "MOVE_NAME_JUMP_KICK"
 msgid "Jump Kick"
+msgstr ""
+
+#. 空中前蹴り
+msgctxt "MOVE_NAME_JUMP_KICK_"
+msgid "Jump Kick"
+msgstr ""
+
+#. 空中地獄突き
+msgctxt "MOVE_NAME_JUMP_PUNCH"
+msgid "Jump Punch"
+msgstr ""
+
+#. 中断蹴り上げ
+msgctxt "MOVE_NAME_JUMP_SPIN_KICK"
+msgid "Jump Spin Kick"
 msgstr ""
 
 #. ジャンプハンマー
@@ -4368,6 +4633,11 @@ msgctxt "MOVE_NAME_MIND_MELD"
 msgid "Mind Meld"
 msgstr ""
 
+#. 反転背負い上げ
+msgctxt "MOVE_NAME_MISSION_THROW"
+msgid "Mission Throw"
+msgstr ""
+
 #. マッハキック
 msgctxt "MOVE_NAME_MJ_KICK"
 msgid "MJ Kick"
@@ -4381,6 +4651,11 @@ msgstr ""
 #. モンゴリアンチョップ
 msgctxt "MOVE_NAME_MONGOLIAN_CHOP"
 msgid "Mongolian Chop"
+msgstr ""
+
+#. 天雷波
+msgctxt "MOVE_NAME_MOONSAULT"
+msgid "Moonsault"
 msgstr ""
 
 #. マウントパンチ
@@ -4448,9 +4723,19 @@ msgctxt "MOVE_NAME_RABBIT_PUNCH"
 msgid "Rabbit Punch"
 msgstr ""
 
+#. 天雷脚
+msgctxt "MOVE_NAME_REBOUND_KICK"
+msgid "Rebound Kick"
+msgstr ""
+
 #. リバースドンキー
 msgctxt "MOVE_NAME_REVERSE_DONKEY"
 msgid "Reverse Donkey"
+msgstr ""
+
+#. 髄打ち
+msgctxt "MOVE_NAME_RIB_KICK"
+msgid "Rib Kick"
 msgstr ""
 
 #. 右クロス
@@ -4461,6 +4746,21 @@ msgstr ""
 #. 右パンチ
 msgctxt "MOVE_NAME_RIGHT_PUNCH"
 msgid "Right Punch"
+msgstr ""
+
+#. 嵐風脚
+msgctxt "MOVE_NAME_RISING_HURRICANE"
+msgid "Rising Hurricane"
+msgstr ""
+
+#. 不動嵐風脚
+msgctxt "MOVE_NAME_RISING_HURRICANE_KICK"
+msgid "Rising Hurricane Kick"
+msgstr ""
+
+#. 龍爪脚
+msgctxt "MOVE_NAME_RISING_KNEE"
+msgid "Rising Knee"
 msgstr ""
 
 #. ローリングパンチ
@@ -4478,9 +4778,19 @@ msgctxt "MOVE_NAME_ROUNDHOUSE_KICK"
 msgid "Roundhouse Kick"
 msgstr ""
 
+#. 叩きつけラリアット
+msgctxt "MOVE_NAME_RUNNING_CLOTHESELINE"
+msgid "Running Clothesline"
+msgstr ""
+
 #. ランニングジャブ
 msgctxt "MOVE_NAME_RUNNING_JAB"
 msgid "Running Jab"
+msgstr ""
+
+#. 十字足後ろ蹴り
+msgctxt "MOVE_NAME_RUNNING_KICK"
+msgid "Running Kick"
 msgstr ""
 
 #. ランニングパンチ
@@ -4505,6 +4815,11 @@ msgstr ""
 
 #. サイドヘッドバット
 msgctxt "MOVE_NAME_SIDE_HEADBUTT"
+msgid "Side Headbutt"
+msgstr ""
+
+#. 一点頭突き
+msgctxt "MOVE_NAME_SIDE_HEADBUTT_LEEBROS"
 msgid "Side Headbutt"
 msgstr ""
 
@@ -4538,6 +4853,11 @@ msgctxt "MOVE_NAME_SOCCER_KICK"
 msgid "Soccer Kick"
 msgstr ""
 
+#. 半月裏拳
+msgctxt "MOVE_NAME_SPIN_BACK_FIST"
+msgid "Spin Back Fist"
+msgstr ""
+
 #. スピンサイクル
 msgctxt "MOVE_NAME_SPIN_CYCLE"
 msgid "Spin Cycle"
@@ -4545,6 +4865,11 @@ msgstr ""
 
 #. スピンキック
 msgctxt "MOVE_NAME_SPIN_KICK"
+msgid "Spin Kick"
+msgstr ""
+
+#. 空中回し蹴り
+msgctxt "MOVE_NAME_SPIN_KICK_"
 msgid "Spin Kick"
 msgstr ""
 
@@ -4556,6 +4881,11 @@ msgstr ""
 #. スピンスプリットキック
 msgctxt "MOVE_NAME_SPLIT_KICK"
 msgid "Spin Split Kick"
+msgstr ""
+
+#. 上段前蹴り
+msgctxt "MOVE_NAME_STEP_KICK"
+msgid "Step Kick"
 msgstr ""
 
 #. マッハパンチ
@@ -4608,6 +4938,16 @@ msgctxt "MOVE_NAME_TIRE_SLAM"
 msgid "Tire Slam"
 msgstr ""
 
+#. 手刀鎖骨砕き
+msgctxt "MOVE_NAME_TOP_DOWN_ELBOW"
+msgid "Top Down Elbow"
+msgstr ""
+
+#. 切虎蹴り
+msgctxt "MOVE_NAME_TRIPLE_DRAGON"
+msgid "Triple Dragon"
+msgstr ""
+
 #. ツイスティングニー
 msgctxt "MOVE_NAME_TWISTING_KNEE"
 msgid "Twisting Knee"
@@ -4615,6 +4955,11 @@ msgstr ""
 
 #. アッパーカット
 msgctxt "MOVE_NAME_UPPERCUT"
+msgid "Uppercut"
+msgstr ""
+
+#. 天殺龍神翔
+msgctxt "MOVE_NAME_UPPERCUT_LEEBROS"
 msgid "Uppercut"
 msgstr ""
 
@@ -4681,6 +5026,11 @@ msgstr ""
 #. 特殊
 msgctxt "MOVE_TYPE_SPECIAL"
 msgid "Special"
+msgstr ""
+
+#. DLC
+msgctxt "MainMenuScreen_DLC"
+msgid "DLC"
 msgstr ""
 
 #. オフラインでゲームを開始します。
@@ -4964,6 +5314,16 @@ msgctxt "Press_Start"
 msgid "Press {0} to Play"
 msgstr ""
 
+#. 兄弟の青い方
+msgctxt "PrimoDelights_GuestSubtitle_Billy"
+msgid "The Blue One"
+msgstr ""
+
+#. 兄弟の赤い方
+msgctxt "PrimoDelights_GuestSubtitle_Jimmy"
+msgid "The Red One"
+msgstr ""
+
 #. 地元の高校生
 msgctxt "PrimoDelights_GuestSubtitle_Kunio"
 msgid "Local Idiot"
@@ -4976,7 +5336,7 @@ msgstr ""
 
 #. 地元？のショップ店員
 msgctxt "PrimoDelights_GuestSubtitle_Marian"
-msgid "Local Idiot"
+msgid "Local(?) Shopkeep"
 msgstr ""
 
 #. 地元の高校生
@@ -4986,7 +5346,7 @@ msgstr ""
 
 #. 地元？の高校生
 msgctxt "PrimoDelights_GuestSubtitle_Provie"
-msgid "Local Idiot"
+msgid "Local(?) High Schooler"
 msgstr ""
 
 #. 地元の高校生
@@ -6461,6 +6821,11 @@ msgctxt "Ticker_Beeboo_NAME"
 msgid "Beeboo"
 msgstr ""
 
+#. ビリー
+msgctxt "Ticker_Billy_NAME"
+msgid "Billy"
+msgstr ""
+
 #. ブレア
 msgctxt "Ticker_Blaire_NAME"
 msgid "Blaire"
@@ -6499,6 +6864,11 @@ msgstr ""
 #. ジャック
 msgctxt "Ticker_Jack_NAME"
 msgid "Jack"
+msgstr ""
+
+#. ジミー
+msgctxt "Ticker_Jimmy_NAME"
+msgid "Jimmy"
 msgstr ""
 
 #. カオリ
@@ -6950,6 +7320,18 @@ msgctxt "Tutorial_32_Title"
 msgid "Training Dojo!"
 msgstr ""
 
+#. 期間限定ショップでは年に数回、一部の商品が入れ替わります。新しい限定アイテムを定期的にチェックしてみてください！
+msgctxt "Tutorial_Seasonal_Body"
+msgid ""
+"This special seasonal shop cycles its available items several times a year. "
+"Check back regularly for new and exclusive items!"
+msgstr ""
+
+#. 新ショップ開店記念！
+msgctxt "Tutorial_Seasonal_Title"
+msgid "Seasons Greetings!"
+msgstr ""
+
 #. SWAP <size=30>WITH</size> ME?
 msgctxt "UI_CharacterSwap_Title"
 msgid "SWAP <size=30>WITH</size> ME?"
@@ -6973,6 +7355,48 @@ msgstr ""
 #. 引き受ける
 msgctxt "UI_Confirmation_StartQuest_Yes"
 msgid "Start"
+msgstr ""
+
+#. 購入
+msgctxt "UI_DLC_BuyNow"
+msgid "Available Now!"
+msgstr ""
+
+#. 伝説のダブルドラゴンが
+#. 道場を飛び出してリバーシティに繰り出す！
+msgctxt "UI_DLC_Description_1"
+msgid ""
+"The legendary Double Dragons, Billy and Jimmy Lee, are busting out of their "
+"dojos to hit the mean streets of River City! Let's go, bros!"
+msgstr ""
+
+#. 下記の無料コンテンツもお見逃しなく！
+#. <color=#6182f7>・季節限定ショップの「Season's Beatings」が開店</color>
+#. <color=#fe414e>・特殊なアイテムが勢揃いの「Devil's Candy」が開店</color>
+#. <color=#6182f7>・マルチカラーの追加 (同じキャラクターを選択可能に！)</color>
+msgctxt "UI_DLC_Description_2"
+msgid ""
+"Don't miss the NEW FREE content:\n"
+"<color=#6182f7> •  \"Season's Beatings\" seasonal shop</color>\n"
+"<color=#fe414e> •  \"Devil's Candy\" shop</color>\n"
+"<color=#6182f7> •  Downtown training dojo</color>\n"
+"<color=#fe414e> •  Double Dragon motion comic</color>\n"
+"<color=#6182f7> •  Character color palettes</color>\n"
+"<color=#fe414e> •  Choose same character in online multiplayer</color>"
+msgstr ""
+
+#. 追加コンテンツを開放して、ダブルドラゴンを復活させよう！以下の内容が含まれます。
+#. <color=#6182f7>・ビリー・リー (プレイアブルキャラ追加)</color>
+#. <color=#fe414e>・ジミー・リー (プレイアブルキャラ追加)</color>
+#. <color=#6182f7>・ダブルドラゴンのテーマ曲</color>
+msgctxt "UI_DLC_Description_3"
+msgid ""
+"Bring the Double Dragons back into action with the premium Double Dragon DLC! They've been uppercutting and spin kicking since their 1987 arcade debut and ain't gonna stop now! The Double Dragon DLC includes:\n"
+"<color=#6182f7> •  Playable Billy Lee</color>\n"
+"<color=#fe414e> •  Playable Jimmy Lee</color>\n"
+"<color=#6182f7> •  Double Dragon voiceovers & story integration</color>\n"
+"<color=#fe414e> •  New vocal song</color>\n"
+"<color=#6182f7> •  New dojo master Boro</color>"
 msgstr ""
 
 #. Fail
@@ -7144,6 +7568,21 @@ msgctxt "UI_Navigation_Hideout"
 msgid "Hideout"
 msgstr ""
 
+#. Now Playing
+msgctxt "UI_NowPlaying"
+msgid "Now Playing"
+msgstr ""
+
+#. Default
+msgctxt "UI_NowPlaying_Default"
+msgid "Default"
+msgstr ""
+
+#. Paused
+msgctxt "UI_NowPlaying_None"
+msgid "Paused"
+msgstr ""
+
 #. ゲームをやめる: {0}
 msgctxt "UI_PlayerDead_QuitGame"
 msgid "EXIT: {0}"
@@ -7219,6 +7658,11 @@ msgctxt "UI_ShopKeeper_Blaire Apple Tater"
 msgid "Blaire & Apple Tater"
 msgstr ""
 
+#. ボロ
+msgctxt "UI_ShopKeeper_Boro"
+msgid "Boro"
+msgstr ""
+
 #. ブレイバ
 msgctxt "UI_ShopKeeper_Braver"
 msgid "Braver"
@@ -7284,6 +7728,11 @@ msgctxt "UI_ShopKeeper_Kawaii Guys"
 msgid "Kawaii Montagna & Kawaii Tomm"
 msgstr ""
 
+#. カズ&パンドラ
+msgctxt "UI_ShopKeeper_Kazu Pandora"
+msgid "Kazu & Pandora"
+msgstr ""
+
 #. コダニ
 msgctxt "UI_ShopKeeper_Kodani"
 msgid "Kodani"
@@ -7302,6 +7751,11 @@ msgstr ""
 #. マモル
 msgctxt "UI_ShopKeeper_Mamoru"
 msgid "Mamoru"
+msgstr ""
+
+#. ミホ
+msgctxt "UI_ShopKeeper_Miho"
+msgid "Miho"
 msgstr ""
 
 #. マイク
@@ -7386,7 +7840,7 @@ msgstr ""
 
 #. タカシ
 msgctxt "UI_ShopKeeper_Takashi"
-msgid "Takashi"
+msgid "Mike"
 msgstr ""
 
 #. 天狗
@@ -7469,6 +7923,11 @@ msgctxt "UI_Shop_Name_STORE_CROSSTOWN_DOJO"
 msgid "Crosstown Dojo"
 msgstr ""
 
+#. Devil's Candy
+msgctxt "UI_Shop_Name_STORE_DEVILSCANDY"
+msgid "Devil's Candy"
+msgstr ""
+
 #. Fasteez
 msgctxt "UI_Shop_Name_STORE_FASTEEZ"
 msgid "Fasteez"
@@ -7527,6 +7986,11 @@ msgstr ""
 #. Sands Sauna
 msgctxt "UI_Shop_Name_STORE_POPS_SAUNA"
 msgid "Sands Sauna"
+msgstr ""
+
+#. Seasons Beatings
+msgctxt "UI_Shop_Name_STORE_SEASONAL"
+msgid "Seasons Beatings"
 msgstr ""
 
 #. Sous-veniers

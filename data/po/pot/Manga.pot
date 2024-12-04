@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-07-11 13:06\n"
-"PO-Revision-Date: 2023-07-11 13:06\n"
+"POT-Creation-Date: 2024-12-04 20:57\n"
+"PO-Revision-Date: 2024-12-04 20:57\n"
 "Last-Translator: you <you@example.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -950,6 +950,177 @@ msgctxt "Manga_07_01"
 msgid ""
 "QUIET! You will show the great Sabu and his family some RESPECT before you "
 "die."
+msgstr ""
+
+#. おい、兄弟！オレ達が鍛えてやった奴らがまた街を救おうとしてやがるぜ！オレたちもこのまま指をくわえて見てるワケにはいかねえだろうよ、なあ！？
+msgctxt "Manga_08_01"
+msgid ""
+"Yo, Billy! I just saw those hot-blooded teens we sometimes train saving the "
+"city. AGAIN! Maybe we should get in on that action, huh?"
+msgstr ""
+
+#. おい、兄弟！
+msgctxt "Manga_08_01a"
+msgid "Yo, Billy!"
+msgstr ""
+
+#. オレ等の門下生がまた街を救ってるぜ！
+msgctxt "Manga_08_01b"
+msgid ""
+"I just saw those hot-blooded teens we sometimes train saving the city. "
+"AGAIN!"
+msgstr ""
+
+#. このまま指を加えて見てらんねぇよ、なぁ！
+msgctxt "Manga_08_01c"
+msgid " Maybe we should get in on that action, huh?"
+msgstr ""
+
+#. ジミー…そのことはもう忘れようって何度も言っただろう。
+msgctxt "Manga_08_02"
+msgid "Oh, Jimmy... you know full well we put that life behind us."
+msgstr ""
+
+#. ああ、わかってるよ。悪党をぶっ飛ばすのは一旦やめにして、ドタマのカチ割り方を教えてやるために道場を開くって言ったけどよ…
+msgctxt "Manga_08_03"
+msgid ""
+"Yeah, I know we agreed to take a break from beating up badguys, to open up "
+"these dojos and teach a NEW generation of street warriors how to crack "
+"skulls..."
+msgstr ""
+
+#. ああ、わかってるよ！
+msgctxt "Manga_08_03a"
+msgid "Yeah, I know we agreed to take a break from beating up badguys, "
+msgstr ""
+
+#. 悪党退治を辞めて、道場を開いたのいいけどよ…
+msgctxt "Manga_08_03b"
+msgid ""
+"to open up these dojos and teach a NEW generation of street warriors how to "
+"crack skulls..."
+msgstr ""
+
+#. そうそう。顔面を一つぶん殴れば、悩み事を一つ解決できる。それに顔面の殴り方をひとつ教えれば、何人もボコボコにできるんだよ。
+msgctxt "Manga_08_04"
+msgid ""
+"Mmmmm, yes. Punch ONE face and you resolve ONE conflict. But TEACH a man to "
+"punch faces, and he will break noses for LIFE."
+msgstr ""
+
+#. そうさ。顔面を一つぶん殴れば、悩み事を一つ解決できる。
+msgctxt "Manga_08_04a"
+msgid "Mmmmm, yes. Punch ONE face and you resolve ONE conflict."
+msgstr ""
+
+#. 殴り方1つで1人の人生が輝くんだ。
+msgctxt "Manga_08_04b"
+msgid "But TEACH a man to punch faces, and he will break noses for LIFE."
+msgstr ""
+
+#. でもよ、今じゃどこもかしこもケンカばっかりだぜ！
+msgctxt "Manga_08_05"
+msgid ""
+"But now practically EVERYONE in River City is kicking gnards... EXCEPT US!"
+msgstr ""
+
+#. いいことじゃないか。血生臭いってことは、活気があるってことだろう。
+msgctxt "Manga_08_06"
+msgid "Good for them. A bloody city is a prosperous city."
+msgstr ""
+
+#. 先週、アボボたちに車でぶつかっちまった時は…
+msgctxt "Manga_08_07"
+msgid "I ran into Abobo and his brothers last week."
+msgstr ""
+
+#. 誰もケガさせてないかい？
+msgctxt "Manga_08_08"
+msgid "How ARE those big lugs?"
+msgstr ""
+
+#. あいつらは何ともねえけどよ、車がダメんなっちまったんだよ！
+msgctxt "Manga_08_09"
+msgid "They're fine, but my CAR was totalled!"
+msgstr ""
+
+#. おい！どこ見て運転してやがんだ！
+msgctxt "Manga_08_10"
+msgid "Hey! Watch where you're driving!"
+msgstr ""
+
+#. それに、昨日もリンダが鞭でひっぱたくところを見たぜ！
+msgctxt "Manga_08_11"
+msgid "Then I saw Linda WHIPPING people yesterday in Uptown."
+msgstr ""
+
+#. 案外、割のいいバイトらしいよ。
+msgctxt "Manga_08_12"
+msgid "I've heard there's GOOD money in that, so long as it's consensual."
+msgstr ""
+
+#. まさかあのスカルマゲドンが店長をやってるなんてね。未だに信じられないよ。
+msgctxt "Manga_08_13"
+msgid "And what of that skinless fellow? Skullmageddon, I believe?"
+msgstr ""
+
+#. 価格も信じられないくらい高いけどな。
+msgctxt "Manga_08_14"
+msgid ""
+"He's still working at the pawn shop. But his prices are WORSE than ever!"
+msgstr ""
+
+#. にへへへへへ！
+msgctxt "Manga_08_15"
+msgid "NYEHEHEHEHEHE!"
+msgstr ""
+
+#. 喧嘩騒ぎを止めに行こうとしたら、マリアンに止められるしよ…
+msgctxt "Manga_08_16"
+msgid ""
+"And GUESS who I JUST saw on the way here, snapping spines ALL over town? "
+"MARIAN, that's who!"
+msgstr ""
+
+#. なんだって？マリアンが？マリアンが店を休んでまで喧嘩を止めている…
+msgctxt "Manga_08_17"
+msgid ""
+"Wait... Marian Kelly? My old flame? I thought she was selling clothes at "
+"SWAGGAGE in Downtown."
+msgstr ""
+
+#. おい兄弟、なんで店まで知ってんだ？もしかして…よく買い物してるのか？
+msgctxt "Manga_08_18"
+msgid "Bro, how do you know that? Do you SHOP at Swaggage?"
+msgstr ""
+
+#. そこは大した問題じゃないだろう。ともかく、君の言う通りかもしれない、ジミー！ 今こそ道場から出て、ボクらも街を救いにいこう！
+msgctxt "Manga_08_19"
+msgid ""
+"That's not IMPORTANT now, Jimmy! Your instincts were CORRECT, we need to get"
+" back out there and help SAVE the CITY!"
+msgstr ""
+
+#. そこは大した問題じゃないだろう。ともかく、君の言う通りかもしれない、ジミー！ 
+msgctxt "Manga_08_19a"
+msgid "That's not IMPORTANT now, Jimmy! "
+msgstr ""
+
+#. 今こそ道場から出て、ボクらも街を救いにいこう！
+msgctxt "Manga_08_19b"
+msgid ""
+"Your instincts were CORRECT, we need to get back out there and help SAVE the"
+" CITY!"
+msgstr ""
+
+#. 待たせたね、リバーシティ！ダブルドラゴンのリー兄弟が参戦だ！
+msgctxt "Manga_08_20"
+msgid "Look out, River City! The DOUBLE DRAGONS are back on the streets!"
+msgstr ""
+
+#. オラオラオラァ！記念すべき第一号はどこのどいつだ！
+msgctxt "Manga_08_21"
+msgid "HELL YEAH! Whose face should we break first?"
 msgstr ""
 
 #. ふきとべ！！！

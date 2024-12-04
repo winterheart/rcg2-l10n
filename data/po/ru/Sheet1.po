@@ -11,8 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.12.3\n"
 
 #. 左右の移動（スティック）
@@ -137,9 +136,9 @@ msgstr "Сильный удар"
 
 #. アークシステムワークス【リバーシティガールズ２】 
 #. エンドユーザー向けライセンス契約
-#.
+#. 
 #. 最終更新日：2022年10月27日
-#.
+#. 
 #. Content:
 #. 1．契約当事者
 #. 2．プライバシー
@@ -161,18 +160,18 @@ msgstr "Сильный удар"
 #. 18．裁判地
 #. 19．第三受益者
 #. 20．雑則
-#.
+#. 
 #. 本契約をよくお読みください。弊社のゲームまたはサービスにアクセスすることにより、お客様は、本契約に記載の一切の条件に拘束される旨、および参照により本契約に組み込まれることとなる一切の条件に拘束される旨に、同意したことになります。かかる条件のうち一部でも同意できないものがある場合には、弊社のゲームまたはサービスのアクセスまたは利用のいずれもできません。
 #. このエンドユーザー向けライセンス契約（「本契約」）は、お客様とアークシステムワークス株式会社（「ASW」）、ARC SYSTEM WORKS ASIA
 #. BRANCH（「ASWアジア」）のうち該当するもの（いずれの場合も、「アークシステムワークス」または「弊社」）との間の契約であって、お客様による【リバーシティガールズ2】（そのマルチプレイヤー部分、オンライン部分およびダウンロード部分、ならびに紙媒体または電子媒体の関連ドキュメントおよびコンテンツも含まれますが、これらに限定されるものではありません）（「本件ゲーム」）へのアクセスおよびその利用に適用されます。本件ゲームは、ライセンス許諾されるに過ぎず、売り渡されるものではありません。本契約は、本件ゲームまたはそのコピーについての著作権または所有権を付与するものではありません。お客様とアークシステムワークスとの間に他の製品またはサービスに関する別の契約が存する場合においても、本契約は、態様の如何を問わず、かかる契約の条件を変更するものではありません。お客様によるいかなる変更、追加または削除も、アークシステムワークスにより本条において明示的に拒絶されているものとします。
 #. 本件ゲームの一部である特定の機能および特性には、弊社から提示される追加条件（掲示料金、請求手続およびプロモーションに関する規則も含まれますが、これらに限定されるものではありません）が適用されることがあります。別段の記載がない限り、適用されるいかなる追加条件も、参照により本契約に組み込まれたことになります。本契約と何らかの追加条件との間に矛盾が生じた場合には、当該特定の機能および特性については、当該追加条件が優先するものとします。
-#.
+#. 
 #. 1. 契約当事者
 #. お客様との間に契約関係が生じることとなるアークシステムワークスの当事者は、お客様の居住地に応じて定まります。お客様が日本の居住者である場合、本契約の当事者は、お客様およびASWとなります。お客様がアジア（日本を除きます）の居住者である場合、本契約の当事者は、お客様およびASWアジアとなります。お客様が上記以外の居住者である場合、本契約の当事者は、お客様およびASWとなります。
-#.
+#. 
 #. 2. プライバシー
 #. 本件ゲームを通じて収集されるデータは、ASWにより日本において保持されます。詳しくは、ASWのプライバシーポリシー（https://www.arcsystemworks.jp/portal/privacy/jp/）をご確認ください。プライバシーポリシーでは、かかるデータの弊社による収集、利用および開示の方法等について説明がなされています。
-#.
+#. 
 #. 3. ライセンスの前提条件
 #. 本契約において許諾されるライセンスは、とりわけ以下に掲げる事項、および本契約に定められた他の一切の条件についてのお客様による完全な遵守が、前提条件となります。
 #. a) お客様がご自身の居住地における成人年齢に達していること
@@ -185,7 +184,7 @@ msgstr "Сильный удар"
 #. お客様による本件ゲームのアクセスおよび利用の場所が、本件ゲームの動作環境として予定され有効にライセンス認証を経たオペレーティングシステムが動作しているローカルコンピューター（「対象ハードウェア」）に限定されること。
 #. f)
 #. アイテムの購入及び使用は対象ハードウェアが動作するオペレーティングシステム及びプラットフォームの運営者が定めるネットワーク規約に同意する必要があります。購入したアイテムの使用権はアイテム毎に異なりますのでご確認下さい。別途明記されていない場合、ゲーム内ストアコンテンツの年齢制限はゲームの年齢制限に準じます。
-#.
+#. 
 #. 4. 限定的利用ライセンス
 #. a)
 #. 本契約の規定内容およびお客様によるその遵守を条件として、弊社は、適用のあるプラットフォーム利用規則または利用規約（該当のものがある場合）で許可された態様に限り、お客様の所有下または排他的管理下にある対象ハードウェア上でお客様の居住国において本契約の期間にわたり本件ゲームを利用するための非独占的、譲渡不可かつ限定的なライセンスをお客様に許諾します。本件ゲームのオリジナル版についてのいかなる更新版、追加版および置換版も、本契約に準拠するものとします。ただし、かかる更新版に別段のライセンス条件が付されている場合には、この限りではありません。
@@ -201,10 +200,10 @@ msgstr "Сильный удар"
 #. (vii) お客様の所有下になくその排他的管理下にもない対象ハードウェア上での本件ゲームの利用、
 #. (viii) 本件ゲームにおけるセキュリティ措置の回避またはその試み、または
 #. (ix) 本件ゲームのオンライン機能へのアクセス時におけるお客様の地域の不明瞭化または隠ぺいの試み。
-#.
+#. 
 #. 5. 権利帰属
 #. 本件ゲームならびに本件ゲーム内に存するかまたは本件ゲームを通じて利用できる一切のコンテンツ（後に定義されるユーザーコンテンツを除きます）および他の素材（アークシステムワークスのロゴ、一切のデザイン、テキスト、グラフィックス、写真、情報、データ、ソフトウェア、サウンドファイル、本件ゲーム通貨および本件仮想アイテムその他のデータファイル、ならびにこれらを選別または整理したものも含まれますが、これに限定されるものではありません）は、アークシステムワークスまたはそのライセンサーに帰属する財産であって、著作権その他の知的財産に関する法律および条約で保護されています。本契約におけるいかなる別段の規定にもかかわらず、お客様は、本件ゲーム内に存するいかなるコンテンツ（本件ゲーム通貨および本件仮想アイテムも含まれますが、これらに限定されるものではありません）についてのいかなる所有権または著作権等もお客様に帰属しない旨に、同意しているものとします。
-#.
+#. 
 #. 6. 期間
 #. a)
 #. 第3条に掲げられた前提条件のお客様による充足により、本契約は、お客様が本件ゲームを利用する期間にわたり、完全に有効に存続するものとします。いずれの当事者も、理由の有無にかかわらず、合理的な事前通知により、いつでも本契約を解除できるものとします。お客様は、ご自身の保有下、保管下または管理下にある本件ゲームの一切のコピーを削除または破棄することにより、本契約を解除できるものとします。アークシステムワークスは、お客様による本件ゲームの利用の中止について、お客様および第三者のいずれに対しても、責任を負いません。
@@ -215,10 +214,10 @@ msgstr "Сильный удар"
 #. (ii) お客様は、いかなる料金の返金も受ける権利を有しません。
 #. これには、未消化の料金（該当のものがある場合）も含まれます。ただし、用法上の義務付けにより本件購入済みゲーム通貨が返金対象となる場合は、この限りではありません。
 #. d) 第4条(b)、第5条、第6条(d)、第8条、第10条、および第13条から第20条は、本契約の終了後も存続するものとします。
-#.
+#. 
 #. 7. 修正
 #. アークシステムワークスは、時期および理由の如何を問わず、その専ら自己の裁量により、本契約に変更または修正を加える権利を留保します。アークシステムワークスは、本契約に何らかの変更を加える場合には、当該変更について、1か月前までに通知するものとします。その方法は、本件ゲームを通じた告知などによるものとします。お客様は、かかる変更の効力発生日後も本件ゲームの利用を継続することにより、改訂後の本契約に同意したものとみなされます。
-#.
+#. 
 #. 8. 本件ゲームの修正
 #. アークシステムワークスは、合理的な事前通知により、本件ゲームまたはそのいかなる機能もしくは部分についても、一時的または永久的に修正しまたは中止する権利を留保します。なお、緊急事態または絶対的に必要な場合においては、かかる事前通知を要しないものとします。お客様は、本件ゲームまたはそのいかなる部分のいかなる修正、停止または中止についてもアークシステムワークスが責任を負わない旨に、同意しているものとします。
 #. i)
@@ -231,7 +230,7 @@ msgstr "Сильный удар"
 #. お客様は、本件ゲームに関係するいかなる提案、フィードバック、非公開データまたは非公開情報（画像、ゲームプレイまたはバグに関する情報も含まれますが、これらに限定されません）につき、アークシステムワークスの書面による事前同意なしにいかなる第三者に対しても漏えいまたは開示しないことに、同意するものとします。
 #. v)
 #. アークシステムワークスは、いかなる時点においても、その単独の裁量により、かつ、お客様に対する何らの通知および責任なしに、お客様のプレイデータ（レベル、アイテム等）をリセットできるものとします。
-#.
+#. 
 #. 9. ゲーム内通貨および仮想アイテム
 #. a) アークシステムワークスは、次の機能をお客様に提供することがあります。
 #. (i) ゲーム内通貨を使用するための限定的ライセンスを購入する機能（「本件購入済みゲーム通貨」）、
@@ -248,10 +247,10 @@ msgstr "Сильный удар"
 #. お客様による本件ゲーム通貨または本件仮想アイテムの譲渡、売却、贈与、交換、取引、リース、再許諾または貸借等の処分は、いずれも禁止されています。ただし、本件ゲーム内において、かつアークシステムワークスにより明示的に許可されている場合については、この限りではありません。本契約における別段の合意がある場合を除き、本件ゲーム通貨および本件仮想アイテムについていかなる権利、権原および権益も、アークシステムワークスに留保されるとともに、引き続きアークシステムワークスに帰属します。
 #. e)
 #. 本件ゲーム通貨および本件仮想アイテムについて本契約上でのライセンスは、第6条に基づく本契約の終了時に失効するものとします。ただし、本契約に別段の定めがある場合は、この限りではありません。
-#.
+#. 
 #. 10. ユーザーコンテンツ
 #. 何らかの通信、情報、知的財産、素材、メッセージ、写真、グラフィックス、動画、URLその他の事項またはコンテンツを本件ゲームに投稿すること（「ユーザーコンテンツ」）により、現地の適用法上許容される限りにおいて、お客様は、ご自身へのさらなる通知または対価のいずれもなしに、該当の知的財産権の法的保護の全期間にわたり本件ゲーム、関係物品および関係サービスに関連してユーザーコンテンツを利用するための非独占的、無償、完全に譲渡可能かつ再許諾可能でかつ全世界対象のライセンスを、本契約によりアークシステムワークスに対し許諾したことになります。これには、既知であるか今後考案されるかを問わずあらゆる方法および媒体による複製、複写、翻案、修正、実施、派生物作成、表示、公表、放映、伝送その他の方法による利用、配布、活用および公開の権利も含まれます。適用法上許容される限りにおいて、お客様は、適用法上、本件ゲームならびに関係物品およびサービスに関連するアークシステムワークスおよび他のプレイヤーによる当該資産の利用および享受について、氏名表示、公表、同一性の保持および名誉を傷つけない事に関する一切の著作者人格権を本契約により放棄するものとします。アークシステムワークスに許諾されたライセンスは、本契約のいかなる終了または取消しの後においても、存続するものとします。
-#.
+#. 
 #. 11. オンライン上の行為
 #. アークシステムワークスの故意または重過失による場合を除き、アークシステムワークスは、いかなるユーザーの行為についても、それが本件ゲームのアクセスまたは利用に関係する否かにかかわらず、何らの責務または責任も負いません。アークシステムワークスは、お客様が本第12条の規定その他本契約の何らかの条件に違反した場合には、いつでもお客様による本件ゲームへのアクセス権を停止しまたは失効させることができるものとします。アークシステムワークスは、本件ゲームにおいてアップロード、公表、保存または表示（以下「投稿」）のなされたいかなるユーザーコンテンツについても、（たとえば著作権者からの請求に対する対応として）審査することができるものとします。ただし、本件ゲーム内のプライベートメッセージの一部としてシェアされたユーザーコンテンツについては、アークシステムワークスは、少なくとも当該通信の一方からその内容が（たとえば、好ましくないメッセージとしてアークシステムワークスへの通報により）提出された場合を除き、その内容のスクリーニングまたは審査のいずれも実施しません。アークシステムワークスは、いかなるユーザーコンテンツについても、削除する権利およびオンライン化を拒否する権利を有します。アークシステムワークスは、本件ゲームに投稿されたユーザーコンテンツのいずれについても、日常的にスクリーニング、編集または監視を行うわけではありません。ただし、アークシステムワークスは、本件ゲームを通じて投稿されたいかなるユーザーコンテンツについても、それが本契約に違反し、第三者の権利を侵害し、かつ/または適用のある法律、規則もしくは規制に違反するとの判断を自己の合理的裁量により下した場合には、削除、スクリーニングまたは編集を行う権利を留保するとともに、かかる措置について絶対的裁量を有するものとします。お客様は、本件ゲームについて過去に利用停止処分または退会処分を受けたことがある場合には、本件ゲームを利用することができません。お客様は、自らが投稿しまたはユーザーもしくは第三者に送信した一切のユーザーコンテンツについて、単独で責任を負うものとします。とりわけ、お客様は、本件ゲームに関連して以下のいずれの行為についても、自ら行わないこと、試みないこと、かつ他者に行わせないことについて、同意しているものとします。
 #. a)
@@ -271,7 +270,7 @@ msgstr "Сильный удар"
 #. オンラインプレイ中に意図的にネットワークを切断し、または他の一定のプレイヤーに繰り返し負かされるようにすることで当該プレイヤーのランキングの上昇もしくは本件ゲーム内でのカウント獲得を助けること。
 #. j) 本件仮想アイテムまたは本件ゲーム通貨について、本件ゲーム外において取引、売却、オークションその他の譲渡を行うかまたは譲渡を試みること。
 #. k) 上記のほか、本契約の規定その他アークシステムワークスから告知されたポリシーに違反するか、またはアークシステムワークスに責任を負わせること。
-#.
+#. 
 #. 12. 著作権に関するポリシー
 #. 著作権者またはその代理人は、自らの保有下または管理下にある著作権が本件ゲーム内の何らかのものにより侵害されていると判断した場合には、後述するところに従い、弊社指定の著作権代理人に対し、当該侵害に関する通知を提出することができます。アークシステムワークスは、第三者の知的財産権の侵害を繰り返したユーザーについて、状況に応じ適切な場合に、アークシステムワークスの専ら自己の裁量により、アカウントを削除するという方針を採用しています。ただし、アークシステムワークスは、他者の知的財産権を侵害したユーザーについて、侵害が繰り返されたか否かにかかわらず、本件ゲームへのアクセスを制限しまたは停止することもあります。
 #. アークシステムワークス株式会社
@@ -282,17 +281,17 @@ msgstr "Сильный удар"
 #. +81-45-470-1550（電話）
 #. +81-45-470-1551（ファックス）
 #. copyright@arcsy.co.jp
-#.
+#. 
 #. 13. 第三者のコンテンツ
 #. 本件ゲームを通じ、何らかのユーザー、広告主その他の第三者のコンテンツがお客様に提供されることがあります。弊社は、第三者のコンテンツを管理しておりません。そのため、お客様は、アークシステムワークスの故意または重過失による場合を除き、いかなる第三者のコンテンツについても弊社が責任を負わないこと、第三者のコンテンツに含まれる情報の正確性または品質のいずれに関しても弊社が保証しないこと、また第三者のコンテンツのうち意図しないもの、好ましくないもの、不正確なもの、誤解を招くものまたは不法なもののいずれについても弊社が責任を負わないことに、同意しているものとします。商号、商標、メーカー、サプライヤーその他によるいかなる製品、サービス、プロセスその他の情報についての言及も、これらについてアークシステムワークスによる是認、後援もしくは推奨または提携関係を意味するものではなく、これらを黙示するものでもありません。ただし、アークシステムワークスによる明示がある場合は、この限りではありません。
-#.
+#. 
 #. 14. 免責事項
 #. お客様は、お客様による本件ゲームのアクセスもしくは利用に影響を及ぼすウイルスその他の無効化機能、または本件ゲーム、他のサービスおよび対象ハードウェアの間における互換性の欠如のいずれについても、アークシステムワークスならびにそのライセンサーおよびサプライヤーが責務または責任のいずれも負わない旨を、確認し同意しているものとします。本件ゲームその他の一切のサービスは、「現状有姿」で提供されます。本契約に定めのある場合を除き、アークシステムワークスおよびにそのライセンサーならびにサプライヤーは、いかなる種類の保証または条件（明示または黙示を問わず、法律その他のいかなる根拠によるものであるかも問いません）も明確に否認します。これには、非侵害、商品性または特定目的への適合性に関する黙示的保証も含まれますが、これらに限定されるものではありません。
 #. 国によっては、消費者契約における黙示的条件の否認または保証もしくは担保の排除もしくは制限が許されていないことから、本条における免責事項の一部または全部がお客様に適用されないことがあります。
-#.
+#. 
 #. 15. インターネット
 #. お客様は、本件ゲームに関連する何らかの通信または処理の開始、実施または完了の正確性または適時性の観点においてお客様が遭遇するいかなる遅延または不具合についてもアークシステムワークスが責務または責任のいずれも負わない旨を、確認し同意しているものとします。また、アークシステムワークスは、本件ゲームのオンライン部分、マルチプレイヤー部分またはダウンロード部分について、お客様の希望する時点でお客様によるアクセスが可能である旨のいずれも約束または保証できず、かかる約束または保証をすることもありません。本件ゲームの当該部分にアクセスできない状況が長期間にわたって生じることもあります。アークシステムワークスは、本件ゲームのオンライン部分、マルチプレイヤー部分またはダウンロード部分のいずれの動作についても、中断がないこと、エラーが存しないこと、セキュアであることまたはウイルスが存しないことのいずれも保証せず、いずれのサーバーの動作継続または可用性についても保証しません。
-#.
+#. 
 #. 16. 責任の制限
 #. 次に掲げるものを除き、いかなる場合も、アークシステムワークスまたはその子会社、関係会社、役員、従業員、代理人その他のパートナーおよびサプライヤーは、本件ゲームの利用もしくは利用不能、本件ゲームに含まれているかもしくは本件ゲームを通じてアクセスするコンテンツの利用もしくは利用不能またはサポートサービスの不提供に起因するかまたは何らかの点で関係する間接損害、特別損害、派生的損害または懲罰的損害賠償その他利用機会の喪失または逸失利益など（これらに限定されるものではありません）のいかなる損害についても、それが契約、不法行為（過失も含まれます）その他のいかなる根拠による訴えであるかを問わず、責任を負いません。
 #. (1) アークシステムワークスの過失に起因する死亡または人身傷害、
@@ -301,7 +300,7 @@ msgstr "Сильный удар"
 #. (4) 本件ゲームの利用に起因する有形動産の滅失または損傷、および 
 #. (5) 他の何らかの責任のうちその制限または排除が適用法上許されないもの。
 #. アークシステムワークスによる軽過失、通常の過失または本契約に基づく本質的義務の違反の場合、アークシステムワークスの責任は、お客様に生じた予見可能な直接損害に限定されるものとします。いかなる場合も、本件ゲームの利用もしくは利用不能または本契約に起因または関連するアークシステムワークスの責任の総額は、契約、保証、過失、製造物責任、厳格責任、知的財産侵害その他のいかなる理論に基づくものであるかを問わず、100ドル、またはこれを上回る場合においてはお客様による本件ゲームの利用のためにお客様からアークシステムワークスに支払われた金額を上限とします。本第17条は、お客様の居住地における法律上で契約による制限が許されていないいかなる強制的または法定の保証も、制限するものではありません。
-#.
+#. 
 #. 17. 準拠法
 #. 適用法上の義務付けがある限りにおいて、本契約の一切の条件および条項は、本第20条に定める準拠法と矛盾する場合といえども、適用のあるすべての強行法規に準拠し、かかる法規に従って解釈されるものとします。いかなる場合も、本第20条において企図された準拠法に基づく本契約の条件の適用、解釈または執行により、適用のある消費者保護法に基づき消費者たるお客様に付与された何らかの権利について、排除、制限その他の限定がなされることはありません。お客様の行為は、現地法、国内法および国際法の適用を受けることもありますので、その旨ご留意ください。各当事者は、本契約に起因するいかなる紛争または取引にも国際物品売買契約に関する国際連合条約が適用されない旨に、合意しているものとします。
 #. a) 日本の居住者たるお客様には、以下が適用されます。
@@ -310,7 +309,7 @@ msgstr "Сильный удар"
 #. 本契約に起因または関連する両当事者間のいかなる紛争も、本契約および韓国法に準拠するものとします。ただし、抵触法原則のうち他国の法律の適用を生じさせることとなるものは、効力を有しないものとします。
 #. c) 上記以外の地域の居住者たるお客様には、以下が適用されます。
 #. 本契約に起因または関連する両当事者間のいかなる紛争も、本契約および日本法に準拠するものとします。ただし、抵触法原則のうち他国の法律の適用を生じさせることとなるものは、効力を有しないものとします。
-#.
+#. 
 #. 18. 裁判地
 #. a) 日本の居住者たるお客様には、以下が適用されます。
 #. 本契約に起因または関連する当事者間のいかなる紛争も、東京地方裁判所において解決されるものとし、お客様およびASWは、同裁判所の専属的裁判管轄権に服することについて、合意しているものとします。
@@ -318,13 +317,13 @@ msgstr "Сильный удар"
 #. 本契約に起因または関連する当事者間のいかなる紛争も、ソウル中央地方法院において解決されるものとし、お客様およびASWアジアは、同裁判所の専属的裁判管轄権に服することについて、合意しているものとします。
 #. c) 上記以外の地域の居住者たるお客様には、以下が適用されます。
 #. 本契約に起因または関連する当事者間のいかなる紛争も、東京地方裁判所において解決されるものとし、お客様およびASWAは、上記裁判所の専属的裁判管轄に服することについて、合意しているものとします。
-#.
+#. 
 #. 19. 第三受益者
 #. 本契約の当事者以外のいかなる人その他の法主体も、いかなる法律においてであれ、本契約のいかなる規定も行使する権利を有しません。これは、かかる人その他の法主体の名指しがある場合においても、同様とします。本条のいずれの規定も、本契約について許可された譲受人または被移転者のいずれの権利にも影響を及ぼすものではありません。
-#.
+#. 
 #. 20. 雑則
 #. 本契約は、本件ゲームの利用に関してお客様とアークシステムワークスとの間の合意内容のすべてを余すところなく記載したものです。本契約の何らかの条項が無効または執行不能と判断された場合においても、当該条項により本契約における本質的義務が本契約から失われることとなる場合を除き、本契約の残余部分は、その残余期間その他第6条(d)に記載の期間にわたり、引き続き完全な効力を有するものとします。お客様は、アークシステムワークスの書面による事前同意を得ない限り、本契約または本契約に基づく自己の権利のいずれも、譲渡することはできません。かかる同意を得ることなく試みられたいかなる譲渡も、無効とします。上述の制約内容を条件として、本契約は、弊社およびその各々の承継人および譲受人に対し完全な拘束力を有し、これらの者の利益のために効力を生じ、かつこれらの者により行使できるものとします。本契約における何らかの権利または条項についてアークシステムワークスによる行使または履行強制がなされなかった場合においても、当該権利または条項が放棄されたことにはなりません。本契約の条文見だしは、便宜のみを目的とするものであって、何らの法律上または契約上の効果も有しないものとします。
-#.
+#. 
 #. ASWへのお問い合わせの場合には、弊社の製品サポート
 #. （https://www.arcsystemworks.jp/support/）に記載された手順に従ってください。
 #. ASWAへのお問い合わせの場合には、ASWAのContact窓口
@@ -335,7 +334,7 @@ msgstr "Сильный удар"
 #. を通じてご連絡ください。
 #. アークシステムワークス株式会社 プライバシーポリシー（個人情報保護方針）
 #. https://www.arcsystemworks.jp/portal/privacy/jp/
-#.
+#. 
 msgctxt "ArcEula_Body"
 msgid ""
 "WAYFORWARD TECHNOLOGIES [River City Girls 2] \n"
@@ -365,312 +364,90 @@ msgid ""
 "19．THIRD-PARTY BENEFICIARIES\n"
 "20．MISCELLANEOUS\n"
 "\n"
-"PLEASE READ THIS AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR GAMES OR "
-"SERVICES, YOU AGREE TO BE BOUND BY ALL TERMS DESCRIBED HEREIN AND ALL TERMS "
-"INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT "
-"ACCESS OR USE OUR GAMES OR SERVICES.\n"
-"This End User License Agreement (this \"\"Agreement\"\") is a contract "
-"between you and WAYFORWARD TECHNOLOGIES (“WF”) as applicable "
-"(\"\"WAYFORWARD\"\", \"\"us\"\", \"\"we\"\" or \"\"our\"\") and applies to "
-"your access to, and use of, [River City Girls 2], including, without "
-"limitation, any multi-player, online, or downloadable portions thereof and "
-"any related written or electronic documentation or content (the “Game”). The "
-"Game is licensed, and not sold, and this Agreement confers no title or "
-"ownership to the Game or any copy thereof. This Agreement does not alter in "
-"any way the terms or conditions of any other agreement you may have with "
-"WAYFORWARD TECHNOLOGIES for other products or services. Any changes, "
-"additions, or deletions by you are not acceptable, and are hereby expressly "
-"rejected by WAYFORWARD TECHNOLOGIES.\n"
-"Additional terms provided by us (including, but not limited to, posted fees, "
-"billing procedures, and promotion rules) may apply to particular "
-"functionalities and features that are part of the Game. Unless otherwise "
-"indicated, any additional applicable terms are incorporated by reference "
-"into this Agreement. In the event of a conflict between this Agreement and "
-"any additional terms, the additional terms shall govern with respect to such "
-"particular functionalities and features.  \n"
+"PLEASE READ THIS AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR GAMES OR SERVICES, YOU AGREE TO BE BOUND BY ALL TERMS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE OUR GAMES OR SERVICES.\n"
+"This End User License Agreement (this \"\"Agreement\"\") is a contract between you and WAYFORWARD TECHNOLOGIES (“WF”) as applicable (\"\"WAYFORWARD\"\", \"\"us\"\", \"\"we\"\" or \"\"our\"\") and applies to your access to, and use of, [River City Girls 2], including, without limitation, any multi-player, online, or downloadable portions thereof and any related written or electronic documentation or content (the “Game”). The Game is licensed, and not sold, and this Agreement confers no title or ownership to the Game or any copy thereof. This Agreement does not alter in any way the terms or conditions of any other agreement you may have with WAYFORWARD TECHNOLOGIES for other products or services. Any changes, additions, or deletions by you are not acceptable, and are hereby expressly rejected by WAYFORWARD TECHNOLOGIES.\n"
+"Additional terms provided by us (including, but not limited to, posted fees, billing procedures, and promotion rules) may apply to particular functionalities and features that are part of the Game. Unless otherwise indicated, any additional applicable terms are incorporated by reference into this Agreement. In the event of a conflict between this Agreement and any additional terms, the additional terms shall govern with respect to such particular functionalities and features.  \n"
 "\n"
 "1. CONTRACTING PARTY. \n"
 "This Agreement is between you and WAYFORWARD TECHNOLOGIES.\n"
 "\n"
 "2. PRIVACY\n"
-"Data collected through this Game is held by WF in the United States of "
-"America. For more information, please refer to WF’s Privacy Policy (https://"
-"www.arcsystemworks.jp/portal/privacy/en/) for information about how we "
-"collect, use, and disclose such data.\n"
+"Data collected through this Game is held by WF in the United States of America. For more information, please refer to WF’s Privacy Policy (https://www.arcsystemworks.jp/portal/privacy/en/) for information about how we collect, use, and disclose such data.\n"
 "\n"
 "3. PRECONDITIONS OF THE LICENSES.\n"
-"The licenses granted in this Agreement are specifically conditioned upon the "
-"following and your full compliance with all other terms and conditions set "
-"forth in this Agreement:\n"
-"a) You have reached the age of majority in your jurisdiction. If you are "
-"under the age of majority in your jurisdiction, your parent or legal "
-"guardian must agree to be bound by this Agreement and any applicable "
-"additional terms; \n"
-"b) You agree to and comply with all of the terms in this Agreement, and any "
-"additional terms as may be applicable to the Game;\n"
-"c) Your access and use of the Game is subject to certain security measures, "
-"including, without limitation, registering the Game with a serial code, "
-"having continuous access to the Internet, and accepting certain security/"
-"digital rights management features. Failure to accept and fully-comply with "
-"such security measures may partially or completely impair your use of the "
-"Game.\n"
-"d) Your access and use of the Game is in accordance with all applicable "
-"local, state, national, and foreign laws and regulations.\n"
-"e) You access and use the Game only on local machines, running validly "
-"licensed copies of operating systems on which the Game was designed to "
-"operate (the “Hardware”);\n"
-"f) Purchase and use of items are subject to the Network Terms of Service and "
-"User Agreement set by each platform operator of Hardware. This online "
-"service has been sublicensed to you by each platform operator.  Please check "
-"usage rights for each purchase as these may differ from item to item. Unless "
-"otherwise shown, content available in any in-game store has the same age "
-"rating as the game.\n"
+"The licenses granted in this Agreement are specifically conditioned upon the following and your full compliance with all other terms and conditions set forth in this Agreement:\n"
+"a) You have reached the age of majority in your jurisdiction. If you are under the age of majority in your jurisdiction, your parent or legal guardian must agree to be bound by this Agreement and any applicable additional terms; \n"
+"b) You agree to and comply with all of the terms in this Agreement, and any additional terms as may be applicable to the Game;\n"
+"c) Your access and use of the Game is subject to certain security measures, including, without limitation, registering the Game with a serial code, having continuous access to the Internet, and accepting certain security/digital rights management features. Failure to accept and fully-comply with such security measures may partially or completely impair your use of the Game.\n"
+"d) Your access and use of the Game is in accordance with all applicable local, state, national, and foreign laws and regulations.\n"
+"e) You access and use the Game only on local machines, running validly licensed copies of operating systems on which the Game was designed to operate (the “Hardware”);\n"
+"f) Purchase and use of items are subject to the Network Terms of Service and User Agreement set by each platform operator of Hardware. This online service has been sublicensed to you by each platform operator.  Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.\n"
 "\n"
 "4. LIMITED USE LICENSE\n"
-"a) Subject to the terms of this Agreement and your compliance with these "
-"terms, we grant you a non-exclusive, non-transferable, limited license to "
-"use the Game for the term of the Agreement in your country of residence, on "
-"Hardware that you own or exclusively control and solely as permitted by the "
-"applicable platform usage rules or terms of use (if any). Any updates, "
-"supplements or replacements to the original Game are governed by this "
-"Agreement unless separate license terms accompany such update.\n"
-"b) The preceding states the entirety of your rights with respect to the "
-"Game, and we reserve all rights in and to the Game not expressly granted to "
-"you in this Agreement. Without limiting the foregoing, you will not do, or "
-"authorize or permit any third party to do, any of the following:\n"
-"(i) distribute, copy, license, rent, or sell the Game (except as expressly "
-"permitted by this license or the applicable platform usage rules); \n"
-"(ii) use the Game for any purpose other than your own personal, "
-"noncommercial use; \n"
-"(iii) reverse engineer, decompile, disassemble, or attempt to discover the "
-"source code for the Game; \n"
+"a) Subject to the terms of this Agreement and your compliance with these terms, we grant you a non-exclusive, non-transferable, limited license to use the Game for the term of the Agreement in your country of residence, on Hardware that you own or exclusively control and solely as permitted by the applicable platform usage rules or terms of use (if any). Any updates, supplements or replacements to the original Game are governed by this Agreement unless separate license terms accompany such update.\n"
+"b) The preceding states the entirety of your rights with respect to the Game, and we reserve all rights in and to the Game not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following:\n"
+"(i) distribute, copy, license, rent, or sell the Game (except as expressly permitted by this license or the applicable platform usage rules); \n"
+"(ii) use the Game for any purpose other than your own personal, noncommercial use; \n"
+"(iii) reverse engineer, decompile, disassemble, or attempt to discover the source code for the Game; \n"
 "(iv) modify, alter, or create any derivative works of the Game; \n"
-"(v) remove, alter, or obscure any copyright, trademark, or other proprietary "
-"rights notice on or in the Game; \n"
+"(v) remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on or in the Game; \n"
 "(vi) use the Game for purposes for which it is not designed; \n"
-"(vii) use the Game on any Hardware that you do not own or exclusively "
-"control; \n"
-"(viii) circumvent, or attempt to circumvent, any security measures in the "
-"Game; or \n"
-"(ix) attempt to obscure or mask your region when accessing any online "
-"features of the Game.\n"
+"(vii) use the Game on any Hardware that you do not own or exclusively control; \n"
+"(viii) circumvent, or attempt to circumvent, any security measures in the Game; or \n"
+"(ix) attempt to obscure or mask your region when accessing any online features of the Game.\n"
 "\n"
 "5. OWNERSHIP\n"
-"The Game and all content (other than User Content, as defined below) and "
-"other materials in the Game or available through the Game, including, "
-"without limitation, the WAYFORWARD TECHNOLOGIES logo, and all designs, text, "
-"graphics, pictures, information, data, software, sound files, Game Currency, "
-"Virtual Items, other files and the selection and arrangement thereof are the "
-"property of WAYFORWARD TECHNOLOGIES or its licensors and are protected by "
-"copyright and other intellectual property laws and treaties. Notwithstanding "
-"any provision to the contrary herein, you agree that you have no right or "
-"title in or to any content that appears in the Game, including without "
-"limitation any Game Currency and Virtual Items.\n"
+"The Game and all content (other than User Content, as defined below) and other materials in the Game or available through the Game, including, without limitation, the WAYFORWARD TECHNOLOGIES logo, and all designs, text, graphics, pictures, information, data, software, sound files, Game Currency, Virtual Items, other files and the selection and arrangement thereof are the property of WAYFORWARD TECHNOLOGIES or its licensors and are protected by copyright and other intellectual property laws and treaties. Notwithstanding any provision to the contrary herein, you agree that you have no right or title in or to any content that appears in the Game, including without limitation any Game Currency and Virtual Items.\n"
 "\n"
 "6. TERM \n"
-"a) Subject to your satisfaction of the preconditions set forth in Section 3, "
-"this Agreement will remain in full force and effect while you use the Game. "
-"Either party may terminate this Agreement with or without cause at any time "
-"with reasonable prior notice. You may terminate this Agreement by deleting "
-"or destroying all copies of the Game in your possession, custody, or "
-"control. WAYFORWARD TECHNOLOGIES shall not be liable to you or any third "
-"party for termination of your use of the Game.\n"
-"b) Without limiting any other rights of WAYFORWARD TECHNOLOGIES, if you fail "
-"to comply with the terms and conditions of this Agreement, WAYFORWARD "
-"TECHNOLOGIES retains the right to immediately limit, suspend, or terminate "
-"your license to the Game.\n"
+"a) Subject to your satisfaction of the preconditions set forth in Section 3, this Agreement will remain in full force and effect while you use the Game. Either party may terminate this Agreement with or without cause at any time with reasonable prior notice. You may terminate this Agreement by deleting or destroying all copies of the Game in your possession, custody, or control. WAYFORWARD TECHNOLOGIES shall not be liable to you or any third party for termination of your use of the Game.\n"
+"b) Without limiting any other rights of WAYFORWARD TECHNOLOGIES, if you fail to comply with the terms and conditions of this Agreement, WAYFORWARD TECHNOLOGIES retains the right to immediately limit, suspend, or terminate your license to the Game.\n"
 "c) Upon termination of this Agreement:\n"
 "(i) your license to the Game shall cease immediately; and \n"
-"(ii) you will not be entitled to a refund of any fees, including any unused "
-"fees, if any, except for Purchased Game Currency refunded as required by "
-"applicable law.\n"
-"d) Section 4(b), 5, 6(d), 8, 10, 13-20 shall survive termination of this "
-"Agreement.\n"
+"(ii) you will not be entitled to a refund of any fees, including any unused fees, if any, except for Purchased Game Currency refunded as required by applicable law.\n"
+"d) Section 4(b), 5, 6(d), 8, 10, 13-20 shall survive termination of this Agreement.\n"
 "\n"
 "7. AMENDMENTS\n"
-"WAYFORWARD TECHNOLOGIES reserves the right to change or modify this "
-"Agreement at any time and for any reason at WAYFORWARD TECHNOLOGIES’s sole "
-"discretion. If WAYFORWARD TECHNOLOGIES makes changes to this Agreement, we "
-"will provide one month prior notice of such changes, such as by providing "
-"notice through the Game. Your continued use of the Game after the effective "
-"date of such changes will confirm your acceptance of the revised Agreement.\n"
+"WAYFORWARD TECHNOLOGIES reserves the right to change or modify this Agreement at any time and for any reason at WAYFORWARD TECHNOLOGIES’s sole discretion. If WAYFORWARD TECHNOLOGIES makes changes to this Agreement, we will provide one month prior notice of such changes, such as by providing notice through the Game. Your continued use of the Game after the effective date of such changes will confirm your acceptance of the revised Agreement.\n"
 "\n"
 "8. MODIFICATION OF THE GAME\n"
-"WAYFORWARD TECHNOLOGIES reserves the right to modify or discontinue, "
-"temporarily or permanently, the Game or any features or portions thereof "
-"with prior reasonable notice and, in case of emergency or if absolutely "
-"necessary, without prior notice. You agree that WAYFORWARD TECHNOLOGIES will "
-"not be liable for any modification, suspension, or discontinuance of the "
-"Game or any part thereof. \n"
-"i) From time to time, WAYFORWARD TECHNOLOGIES, in its sole discretion, may "
-"modify, impose limits on, restrict, suspend, terminate, or discontinue the "
-"Game or any aspect of the Game and your access to and use thereof, including "
-"resetting your play data, without any notice or liability to you. "
-"Modifications may include automatic software updates, upgrades, or removal "
-"of content or services that may cause a loss of data, content, "
-"functionality, or utility.\n"
-"ii) The Game may contain defects, and a primary purpose of licensing the "
-"Game under this Agreement is for WAYFORWARD TECHNOLOGIES to obtain feedback "
-"on Game performance and identify defects. WAYFORWARD TECHNOLOGIES is under "
-"no obligation to provide technical support to you under the terms of this "
-"Agreement and provides no assurance that any specific errors or "
-"discrepancies in the Game will be corrected. You agree that, to the extent "
-"permitted by applicable law, WAYFORWARD TECHNOLOGIES is not liable for any "
-"loss of data, content, function, or utility or damage to your computer, "
-"data, and/or software. Your access to and use of the Game are entirely at "
-"your own risk.\n"
-"iii) You agree to cooperate with WAYFORWARD TECHNOLOGIES's requests related "
-"to your access to and use of the Game, including WAYFORWARD TECHNOLOGIES’s "
-"requests to report any bugs and other issues that you discover in or related "
-"to the Game.\n"
-"iv) You agree that you will not reveal or disclose any suggestions, "
-"feedback, or non-public data or information related to the Game (including, "
-"but not limited to, information about images, gameplay, or bugs in the Game) "
-"to any third parties without WAYFORWARD TECHNOLOGIES’s prior written "
-"consent.\n"
-"v) At any time, WAYFORWARD TECHNOLOGIES, in its sole discretion, may reset "
-"your play data (level, item) without any notice or liability to you.\n"
+"WAYFORWARD TECHNOLOGIES reserves the right to modify or discontinue, temporarily or permanently, the Game or any features or portions thereof with prior reasonable notice and, in case of emergency or if absolutely necessary, without prior notice. You agree that WAYFORWARD TECHNOLOGIES will not be liable for any modification, suspension, or discontinuance of the Game or any part thereof. \n"
+"i) From time to time, WAYFORWARD TECHNOLOGIES, in its sole discretion, may modify, impose limits on, restrict, suspend, terminate, or discontinue the Game or any aspect of the Game and your access to and use thereof, including resetting your play data, without any notice or liability to you. Modifications may include automatic software updates, upgrades, or removal of content or services that may cause a loss of data, content, functionality, or utility.\n"
+"ii) The Game may contain defects, and a primary purpose of licensing the Game under this Agreement is for WAYFORWARD TECHNOLOGIES to obtain feedback on Game performance and identify defects. WAYFORWARD TECHNOLOGIES is under no obligation to provide technical support to you under the terms of this Agreement and provides no assurance that any specific errors or discrepancies in the Game will be corrected. You agree that, to the extent permitted by applicable law, WAYFORWARD TECHNOLOGIES is not liable for any loss of data, content, function, or utility or damage to your computer, data, and/or software. Your access to and use of the Game are entirely at your own risk.\n"
+"iii) You agree to cooperate with WAYFORWARD TECHNOLOGIES's requests related to your access to and use of the Game, including WAYFORWARD TECHNOLOGIES’s requests to report any bugs and other issues that you discover in or related to the Game.\n"
+"iv) You agree that you will not reveal or disclose any suggestions, feedback, or non-public data or information related to the Game (including, but not limited to, information about images, gameplay, or bugs in the Game) to any third parties without WAYFORWARD TECHNOLOGIES’s prior written consent.\n"
+"v) At any time, WAYFORWARD TECHNOLOGIES, in its sole discretion, may reset your play data (level, item) without any notice or liability to you.\n"
 "\n"
 "9. IN-GAME CURRENCY AND VIRTUAL ITEMS\n"
 "a) WAYFORWARD TECHNOLOGIES may offer you the ability to:\n"
-"(i) purchase a limited license to use in-game currency (“Purchased Game "
-"Currency”);\n"
-"(ii) earn a limited license to use in-game currency by performing specified "
-"tasks in the Game (together with the Purchased Game Currency, “Game "
-"Currency”); and/or \n"
-"(iii) earn a limited license, and/or purchase a limited license with Game "
-"Currency, to virtual goods and services made available by WAYFORWARD "
-"TECHNOLOGIES in the Game (“Virtual Items”). \n"
-"If WAYFORWARD TECHNOLOGIES offers the ability to purchase or earn such "
-"licenses, WAYFORWARD TECHNOLOGIES shall grant you a non-exclusive, non-"
-"transferable, revocable, limited right and license to use such Game Currency "
-"or Virtual Items, as applicable, for your personal, non-commercial use "
-"exclusively in the Game, subject to the terms of this Agreement and your "
-"compliance therewith.\n"
-"b) Game Currency may only be redeemed for Virtual Items for use in the Game "
-"and neither Game Currency nor Virtual Items are redeemable for money, any "
-"thing of monetary value, or for any monetary equivalent from WAYFORWARD "
-"TECHNOLOGIES or any other person or entity, except as otherwise required by "
-"applicable law. Game Currency and Virtual Items do not have an equivalent "
-"value in real currency and do not act as a substitute for real currency. "
-"Neither WAYFORWARD TECHNOLOGIES nor any other person or entity has any "
-"obligation to exchange Game Currency or Virtual Items for anything of value, "
-"including, but not limited to, real currency. You acknowledge and agree that "
-"WAYFORWARD TECHNOLOGIES may engage in actions that may impact the in-game "
-"attributes or perceived value of Game Currency and/or Virtual Items at any "
-"time, except as prohibited by applicable law. WAYFORWARD TECHNOLOGIES, in "
-"its sole discretion, may impose limits on the amount of Game Currency that "
-"may be purchased, earned, or redeemed.  \n"
-"c) All purchases of Purchased Game Currency are final and are not "
-"refundable, transferable, or exchangeable under any circumstances, except as "
-"otherwise required by applicable law.  Except for the purchase price of "
-"Purchased Game Currency and certain Virtual Items, WAYFORWARD TECHNOLOGIES "
-"does not charge any fees for the access, use, or non-use of Game Currency or "
-"Virtual Items.\n"
-"d) You may not transfer, sell, gift, exchange, trade, lease, sublicense, or "
-"rent Game Currency or Virtual Items except in the Game and as expressly "
-"permitted by WAYFORWARD TECHNOLOGIES. Except as otherwise agreed herein, "
-"WAYFORWARD TECHNOLOGIES reserves and retains all rights, title, and interest "
-"in and to the Game Currency and Virtual Items.\n"
-"e) The licenses granted hereunder to Game Currency and Virtual Items will "
-"terminate upon termination of this Agreement in accordance with Section 6, "
-"except as otherwise provided herein.\n"
+"(i) purchase a limited license to use in-game currency (“Purchased Game Currency”);\n"
+"(ii) earn a limited license to use in-game currency by performing specified tasks in the Game (together with the Purchased Game Currency, “Game Currency”); and/or \n"
+"(iii) earn a limited license, and/or purchase a limited license with Game Currency, to virtual goods and services made available by WAYFORWARD TECHNOLOGIES in the Game (“Virtual Items”). \n"
+"If WAYFORWARD TECHNOLOGIES offers the ability to purchase or earn such licenses, WAYFORWARD TECHNOLOGIES shall grant you a non-exclusive, non-transferable, revocable, limited right and license to use such Game Currency or Virtual Items, as applicable, for your personal, non-commercial use exclusively in the Game, subject to the terms of this Agreement and your compliance therewith.\n"
+"b) Game Currency may only be redeemed for Virtual Items for use in the Game and neither Game Currency nor Virtual Items are redeemable for money, any thing of monetary value, or for any monetary equivalent from WAYFORWARD TECHNOLOGIES or any other person or entity, except as otherwise required by applicable law. Game Currency and Virtual Items do not have an equivalent value in real currency and do not act as a substitute for real currency. Neither WAYFORWARD TECHNOLOGIES nor any other person or entity has any obligation to exchange Game Currency or Virtual Items for anything of value, including, but not limited to, real currency. You acknowledge and agree that WAYFORWARD TECHNOLOGIES may engage in actions that may impact the in-game attributes or perceived value of Game Currency and/or Virtual Items at any time, except as prohibited by applicable law. WAYFORWARD TECHNOLOGIES, in its sole discretion, may impose limits on the amount of Game Currency that may be purchased, earned, or redeemed.  \n"
+"c) All purchases of Purchased Game Currency are final and are not refundable, transferable, or exchangeable under any circumstances, except as otherwise required by applicable law.  Except for the purchase price of Purchased Game Currency and certain Virtual Items, WAYFORWARD TECHNOLOGIES does not charge any fees for the access, use, or non-use of Game Currency or Virtual Items.\n"
+"d) You may not transfer, sell, gift, exchange, trade, lease, sublicense, or rent Game Currency or Virtual Items except in the Game and as expressly permitted by WAYFORWARD TECHNOLOGIES. Except as otherwise agreed herein, WAYFORWARD TECHNOLOGIES reserves and retains all rights, title, and interest in and to the Game Currency and Virtual Items.\n"
+"e) The licenses granted hereunder to Game Currency and Virtual Items will terminate upon termination of this Agreement in accordance with Section 6, except as otherwise provided herein.\n"
 "\n"
 "10. USER CONTENT\n"
-"By posting any communication, information, intellectual property, material, "
-"messages, photos, graphics, videos, URLs, and other items or content to the "
-"Game (“User Content”), to the extent permitted by applicable local law, you "
-"hereby grant WAYFORWARD TECHNOLOGIES a non-exclusive, royalty-free, fully "
-"transferable and sub-licensable worldwide license for the whole duration of "
-"the applicable legal protection of intellectual rights to use the User "
-"Content in connection with the Game and related goods and services including "
-"the rights to reproduce, copy, adapt, modify, perform, create derivative "
-"works from, display, publish, broadcast, transmit, or otherwise use, "
-"distribute, exploit and communicate to the public by any and all means and "
-"media whether now known or hereafter devised without any further notice or "
-"compensation of any kind to you. To the extent permitted by applicable law, "
-"you hereby waive any moral rights of paternity, publication, reputation, or "
-"attribution with respect to WAYFORWARD TECHNOLOGIES’s and other players’ use "
-"and enjoyment of such assets in connection with the Game and related goods "
-"and services under applicable law. The license grant to WAYFORWARD "
-"TECHNOLOGIES survives any termination or revocation of this Agreement.\n"
+"By posting any communication, information, intellectual property, material, messages, photos, graphics, videos, URLs, and other items or content to the Game (“User Content”), to the extent permitted by applicable local law, you hereby grant WAYFORWARD TECHNOLOGIES a non-exclusive, royalty-free, fully transferable and sub-licensable worldwide license for the whole duration of the applicable legal protection of intellectual rights to use the User Content in connection with the Game and related goods and services including the rights to reproduce, copy, adapt, modify, perform, create derivative works from, display, publish, broadcast, transmit, or otherwise use, distribute, exploit and communicate to the public by any and all means and media whether now known or hereafter devised without any further notice or compensation of any kind to you. To the extent permitted by applicable law, you hereby waive any moral rights of paternity, publication, reputation, or attribution with respect to WAYFORWARD TECHNOLOGIES’s and other players’ use and enjoyment of such assets in connection with the Game and related goods and services under applicable law. The license grant to WAYFORWARD TECHNOLOGIES survives any termination or revocation of this Agreement.\n"
 "\n"
 "11. ONLINE CONDUCT\n"
-"Unless through the intentional fault or gross negligence of WAYFORWARD "
-"TECHNOLOGIES, WAYFORWARD TECHNOLOGIES is not responsible or liable for the "
-"conduct of any users, whether or not such conduct relates to the access or "
-"use of the Game. WAYFORWARD TECHNOLOGIES may suspend or terminate your "
-"access to the Game at any time if you violate the terms of this Section 12 "
-"or any other terms and conditions of this Agreement. WAYFORWARD TECHNOLOGIES "
-"may (for example in response to a claim from a copyright owner) review any "
-"User Content that is uploaded, published, stored, or displayed on the Game "
-"(hereinafter, \"\"posted\"\") provided that in the case of User Content "
-"shared as a part of any private message within the Game, WAYFORWARD "
-"TECHNOLOGIES will not screen or review such content unless at least one "
-"party to the communication grants its consent (e.g. by reporting the message "
-"to WAYFORWARD TECHNOLOGIES as objectionable). WAYFORWARD TECHNOLOGIES "
-"reserves the right to delete or refuse to take online any User Content. "
-"Although WAYFORWARD TECHNOLOGIES does not regularly screen, edit, or monitor "
-"any of the User Content posted on the Game, WAYFORWARD TECHNOLOGIES reserves "
-"the right, and has absolute discretion, to remove, screen, or edit any User "
-"Content posted through the Game if WAYFORWARD TECHNOLOGIES determines in its "
-"reasonable discretion that such User Content violates this Agreement and/or "
-"any third party right, applicable law, rule, or regulation. You may not use "
-"the Game if you have previously been suspended or removed from the Game. You "
-"are solely responsible for any User Content that you post or transmit to any "
-"users or third parties. Specifically, you agree not to do, attempt to do, or "
-"cause another to do any of the following in connection with the Game:\n"
-"a) post any User Content that is unlawful, libelous, defamatory, offensive, "
-"obscene, pornographic, indecent, vulgar, lewd, sexually explicit, harassing, "
-"threatening, invasive of privacy or publicity rights, abusive, inflammatory, "
-"or fraudulent; promotes or encourages any illegal or other antisocial "
-"activity, including hacking; promotes racism, bigotry, hatred, or physical "
-"or other harm of any kind against any group or individual or is otherwise "
-"objectionable;\n"
-"b) post any User Content that may infringe any patent, trademark, trade "
-"secret, copyright, or other intellectual or proprietary right of any person "
-"or entity;\n"
-"c) engage in commercial activities or commercial sales, including "
-"transmission of any commercial advertisements or solicitations;\n"
-"d) enter, disclose or disseminate any personal information about anyone "
-"(including you);\n"
-"e) impersonate any person or entity, including any WAYFORWARD TECHNOLOGIES "
-"officials, forum leaders, guides, hosts, employees, or agents, or falsely "
-"state or otherwise misrepresent your affiliation with a person or entity;\n"
-"f) impede or disrupt the Game or the normal flow of Game play or dialogue or "
-"use vulgar language, abusiveness, excessive shouting (e.g., ALL CAPS), "
-"“spamming,” or any other disruptive or detrimental methods that disturb "
-"other users of the Game;\n"
-"g) use or exploit any bugs, errors, or design flaws to obtain unauthorized "
-"access to the Game, to gain an unfair advantage over other players, or to "
-"cheat or utilize unauthorized exploits in connection with the Game, "
-"including but not limited to accessing portions of the Game that you are not "
-"authorized to access and using any bots, emulators, or other unauthorized "
-"third party tools;\n"
-"h) do anything that interferes with the ability of other users to enjoy "
-"playing the Game in accordance with its rules or that materially increases "
-"the expense or difficulty of WAYFORWARD TECHNOLOGIES or the platform "
-"provider in maintaining the Game for the enjoyment of all its users.\n"
-"i) intentionally disconnect from the network during online play or allow "
-"yourself to be defeated by a given player repeatedly to help boost their "
-"rankings or win counts in the Game.\n"
-"j) trade, sell, auction, or otherwise transfer or attempt to transfer any "
-"Virtual Items or Game Currency outside the Game;\n"
-"k) otherwise violates the terms of this Agreement, other policies "
-"communicated by WAYFORWARD TECHNOLOGIES, or creates liability for WAYFORWARD "
-"TECHNOLOGIES.\n"
+"Unless through the intentional fault or gross negligence of WAYFORWARD TECHNOLOGIES, WAYFORWARD TECHNOLOGIES is not responsible or liable for the conduct of any users, whether or not such conduct relates to the access or use of the Game. WAYFORWARD TECHNOLOGIES may suspend or terminate your access to the Game at any time if you violate the terms of this Section 12 or any other terms and conditions of this Agreement. WAYFORWARD TECHNOLOGIES may (for example in response to a claim from a copyright owner) review any User Content that is uploaded, published, stored, or displayed on the Game (hereinafter, \"\"posted\"\") provided that in the case of User Content shared as a part of any private message within the Game, WAYFORWARD TECHNOLOGIES will not screen or review such content unless at least one party to the communication grants its consent (e.g. by reporting the message to WAYFORWARD TECHNOLOGIES as objectionable). WAYFORWARD TECHNOLOGIES reserves the right to delete or refuse to take online any User Content. Although WAYFORWARD TECHNOLOGIES does not regularly screen, edit, or monitor any of the User Content posted on the Game, WAYFORWARD TECHNOLOGIES reserves the right, and has absolute discretion, to remove, screen, or edit any User Content posted through the Game if WAYFORWARD TECHNOLOGIES determines in its reasonable discretion that such User Content violates this Agreement and/or any third party right, applicable law, rule, or regulation. You may not use the Game if you have previously been suspended or removed from the Game. You are solely responsible for any User Content that you post or transmit to any users or third parties. Specifically, you agree not to do, attempt to do, or cause another to do any of the following in connection with the Game:\n"
+"a) post any User Content that is unlawful, libelous, defamatory, offensive, obscene, pornographic, indecent, vulgar, lewd, sexually explicit, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, or fraudulent; promotes or encourages any illegal or other antisocial activity, including hacking; promotes racism, bigotry, hatred, or physical or other harm of any kind against any group or individual or is otherwise objectionable;\n"
+"b) post any User Content that may infringe any patent, trademark, trade secret, copyright, or other intellectual or proprietary right of any person or entity;\n"
+"c) engage in commercial activities or commercial sales, including transmission of any commercial advertisements or solicitations;\n"
+"d) enter, disclose or disseminate any personal information about anyone (including you);\n"
+"e) impersonate any person or entity, including any WAYFORWARD TECHNOLOGIES officials, forum leaders, guides, hosts, employees, or agents, or falsely state or otherwise misrepresent your affiliation with a person or entity;\n"
+"f) impede or disrupt the Game or the normal flow of Game play or dialogue or use vulgar language, abusiveness, excessive shouting (e.g., ALL CAPS), “spamming,” or any other disruptive or detrimental methods that disturb other users of the Game;\n"
+"g) use or exploit any bugs, errors, or design flaws to obtain unauthorized access to the Game, to gain an unfair advantage over other players, or to cheat or utilize unauthorized exploits in connection with the Game, including but not limited to accessing portions of the Game that you are not authorized to access and using any bots, emulators, or other unauthorized third party tools;\n"
+"h) do anything that interferes with the ability of other users to enjoy playing the Game in accordance with its rules or that materially increases the expense or difficulty of WAYFORWARD TECHNOLOGIES or the platform provider in maintaining the Game for the enjoyment of all its users.\n"
+"i) intentionally disconnect from the network during online play or allow yourself to be defeated by a given player repeatedly to help boost their rankings or win counts in the Game.\n"
+"j) trade, sell, auction, or otherwise transfer or attempt to transfer any Virtual Items or Game Currency outside the Game;\n"
+"k) otherwise violates the terms of this Agreement, other policies communicated by WAYFORWARD TECHNOLOGIES, or creates liability for WAYFORWARD TECHNOLOGIES.\n"
 "\n"
 "12. COPYRIGHT POLICY\n"
-"Copyright owners or agents of copyright owners who believe that anything in "
-"the Game infringes upon any copyright owned or controlled by them, may "
-"submit a notification of such infringement with our designated Copyright "
-"Agent as set forth below. WAYFORWARD TECHNOLOGIES has adopted a policy of "
-"terminating, in appropriate circumstances and at WAYFORWARD TECHNOLOGIES’s "
-"sole discretion, users who are repeat infringers of the intellectual "
-"property rights of third parties. Provided however that, WAYFORWARD "
-"TECHNOLOGIES also may limit or terminate access to the Game of any users who "
-"infringe any intellectual property rights of others, whether or not there is "
-"any repeat infringement.\n"
+"Copyright owners or agents of copyright owners who believe that anything in the Game infringes upon any copyright owned or controlled by them, may submit a notification of such infringement with our designated Copyright Agent as set forth below. WAYFORWARD TECHNOLOGIES has adopted a policy of terminating, in appropriate circumstances and at WAYFORWARD TECHNOLOGIES’s sole discretion, users who are repeat infringers of the intellectual property rights of third parties. Provided however that, WAYFORWARD TECHNOLOGIES also may limit or terminate access to the Game of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.\n"
 "\n"
 "WAYFORWARD TECHNOLOGIES\n"
 "28738 The Old Road\n"
@@ -680,126 +457,40 @@ msgid ""
 "(661)420-4757\n"
 "\n"
 "13. THIRD PARTY CONTENT\n"
-"Content from any users, advertisers, and other third parties may be made "
-"available to you through the Game. Because we do not control third party "
-"content, you agree that unless due to intentional fault or gross negligence "
-"of WAYFORWARD TECHNOLOGIES, we are not responsible for any third party "
-"content, make no guarantees about the accuracy or quality of the information "
-"in third party content; and assume no responsibility for unintended, "
-"objectionable, inaccurate, misleading, or unlawful third party content. "
-"Reference to any products, services, processes or other information, by "
-"trade name, trademark, manufacturer, supplier or otherwise does not "
-"constitute or imply endorsement, sponsorship or recommendation thereof, or "
-"any affiliation therewith, by WAYFORWARD TECHNOLOGIES, except where "
-"expressly stated by WAYFORWARD TECHNOLOGIES.\n"
+"Content from any users, advertisers, and other third parties may be made available to you through the Game. Because we do not control third party content, you agree that unless due to intentional fault or gross negligence of WAYFORWARD TECHNOLOGIES, we are not responsible for any third party content, make no guarantees about the accuracy or quality of the information in third party content; and assume no responsibility for unintended, objectionable, inaccurate, misleading, or unlawful third party content. Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, by WAYFORWARD TECHNOLOGIES, except where expressly stated by WAYFORWARD TECHNOLOGIES.\n"
 "\n"
 "14. DISCLAIMER\n"
-"You acknowledge and agree that WAYFORWARD TECHNOLOGIES and its licensors and "
-"suppliers are not responsible or liable for any viruses or other disabling "
-"features that affect your access to or use of the game or any "
-"incompatibility among the game, other services, and hardware. The game and "
-"all other services are provided “as is.” Except as might be described "
-"herein, WAYFORWARD TECHNOLOGIES and its licensors and suppliers expressly "
-"disclaim all warranties or conditions of any kind (express or implied and "
-"arising by law or otherwise) including, without limitation, any implied "
-"warranties of non-infringement, merchantability, or fitness for a particular "
-"purpose. \n"
-"Some jurisdictions do not allow the disclaimer of implied terms nor the "
-"exclusion or limitation of warranties or guarantees in contracts with "
-"consumers, so some or all of the disclaimers in this section may not apply "
-"to you.\n"
+"You acknowledge and agree that WAYFORWARD TECHNOLOGIES and its licensors and suppliers are not responsible or liable for any viruses or other disabling features that affect your access to or use of the game or any incompatibility among the game, other services, and hardware. The game and all other services are provided “as is.” Except as might be described herein, WAYFORWARD TECHNOLOGIES and its licensors and suppliers expressly disclaim all warranties or conditions of any kind (express or implied and arising by law or otherwise) including, without limitation, any implied warranties of non-infringement, merchantability, or fitness for a particular purpose. \n"
+"Some jurisdictions do not allow the disclaimer of implied terms nor the exclusion or limitation of warranties or guarantees in contracts with consumers, so some or all of the disclaimers in this section may not apply to you.\n"
 "\n"
 "15. INTERNET\n"
-"You acknowledge and agree that WAYFORWARD TECHNOLOGIES is not responsible or "
-"liable for any delays or failures you may experience in initiating, "
-"conducting, or completing any transmissions or transactions in connection "
-"with the game in an accurate or timely manner.\n"
-"Further, WAYFORWARD TECHNOLOGIES cannot and does not promise or ensure that "
-"you will be able to access the online, multi-player, or downloadable "
-"portions of the Game whenever you want, and there may be extended periods of "
-"time when you cannot access such portions of the Game. WAYFORWARD "
-"TECHNOLOGIES does not ensure continuous, error-free, secure, or virus-free "
-"operation of any online, multi-player, or downloadable portions of the Game "
-"or continued operation or availability of any given server.\n"
+"You acknowledge and agree that WAYFORWARD TECHNOLOGIES is not responsible or liable for any delays or failures you may experience in initiating, conducting, or completing any transmissions or transactions in connection with the game in an accurate or timely manner.\n"
+"Further, WAYFORWARD TECHNOLOGIES cannot and does not promise or ensure that you will be able to access the online, multi-player, or downloadable portions of the Game whenever you want, and there may be extended periods of time when you cannot access such portions of the Game. WAYFORWARD TECHNOLOGIES does not ensure continuous, error-free, secure, or virus-free operation of any online, multi-player, or downloadable portions of the Game or continued operation or availability of any given server.\n"
 "\n"
 "16. LIMITATION ON LIABILITY\n"
 "Except for\n"
 "(1) Death or personal injury caused by WAYFORWARD TECHNOLOGIES’ negligence,\n"
 "(2) Fraud or fraudulent misrepresentation by WAYFORWARD TECHNOLOGIES, \n"
 "(3) Intentional acts or gross negligence of WAYFORWARD TECHNOLOGIES, \n"
-"(4) Loss or destruction of tangible personal property caused by the use of "
-"the game, and \n"
-"(5) Any other liability which cannot be limited or excluded by applicable "
-"law,\n"
-"In no event shall WAYFORWARD TECHNOLOGIES or its subsidiaries, affiliates, "
-"officers, employees, agents, and other partners and suppliers be liable for "
-"any indirect, special, consequential or punitive damages, or any other "
-"damages including but not limited to loss of use, loss of profits, whether "
-"in an action in contract, tort (including negligence) or otherwise, arising "
-"out of or in any way connected with the use of or inability to use the game "
-"or the content contained in or accessed through the game or the failure to "
-"provide support services.\n"
-"In the event of slight or ordinary negligence, or breach of WAYFORWARD "
-"TECHNOLOGIES’s essential obligations under this agreement, WAYFORWARD "
-"TECHNOLOGIES’ liability shall be limited to direct and foreseeable damages "
-"suffered by you. In no event shall the aggregate liability of WAYFORWARD "
-"TECHNOLOGIES, whether in contract, warranty, tort, product liability, strict "
-"liability, intellectual property infringement or other theory, arising out "
-"of or relating to the use of or inability to use the game or to these terms "
-"exceed one hundred dollars ($100) or, if higher, the amount paid by you to "
-"WAYFORWARD TECHNOLOGIES for your use of the game. This section 17 does not "
-"limit any mandatory or statutory guarantees that cannot be limited by "
-"contract under the laws of your local jurisdiction.\n"
+"(4) Loss or destruction of tangible personal property caused by the use of the game, and \n"
+"(5) Any other liability which cannot be limited or excluded by applicable law,\n"
+"In no event shall WAYFORWARD TECHNOLOGIES or its subsidiaries, affiliates, officers, employees, agents, and other partners and suppliers be liable for any indirect, special, consequential or punitive damages, or any other damages including but not limited to loss of use, loss of profits, whether in an action in contract, tort (including negligence) or otherwise, arising out of or in any way connected with the use of or inability to use the game or the content contained in or accessed through the game or the failure to provide support services.\n"
+"In the event of slight or ordinary negligence, or breach of WAYFORWARD TECHNOLOGIES’s essential obligations under this agreement, WAYFORWARD TECHNOLOGIES’ liability shall be limited to direct and foreseeable damages suffered by you. In no event shall the aggregate liability of WAYFORWARD TECHNOLOGIES, whether in contract, warranty, tort, product liability, strict liability, intellectual property infringement or other theory, arising out of or relating to the use of or inability to use the game or to these terms exceed one hundred dollars ($100) or, if higher, the amount paid by you to WAYFORWARD TECHNOLOGIES for your use of the game. This section 17 does not limit any mandatory or statutory guarantees that cannot be limited by contract under the laws of your local jurisdiction.\n"
 "\n"
 "17. GOVERNING LAW\n"
-"To the extent required by applicable law, all terms and provisions of this "
-"Agreement shall be governed and construed in accordance with all applicable "
-"mandatory laws, even if inconsistent with the governing law set forth in "
-"this Section 20 and in no event shall the application, interpretation, or "
-"enforcement of the terms of this Agreement, under any jurisdictional law "
-"contemplated by this Section 20 exclude, limit, or otherwise restrict any "
-"rights vested with you, as a consumer, under any applicable consumer "
-"protection laws. Please note that your conduct may also be subject to other "
-"local, state, national, and international laws. The parties agree that the "
-"UN Convention on Contracts for the International Sale of Goods shall not "
-"apply to any dispute or transaction arising out of this Agreement.\n"
-"Any dispute between the parties arising from or relating to this Agreement, "
-"will be governed by this Agreement and the laws of the United States, "
-"without giving effect to any conflict of laws principles that may provide "
-"for the application of the law of another jurisdiction.\n"
+"To the extent required by applicable law, all terms and provisions of this Agreement shall be governed and construed in accordance with all applicable mandatory laws, even if inconsistent with the governing law set forth in this Section 20 and in no event shall the application, interpretation, or enforcement of the terms of this Agreement, under any jurisdictional law contemplated by this Section 20 exclude, limit, or otherwise restrict any rights vested with you, as a consumer, under any applicable consumer protection laws. Please note that your conduct may also be subject to other local, state, national, and international laws. The parties agree that the UN Convention on Contracts for the International Sale of Goods shall not apply to any dispute or transaction arising out of this Agreement.\n"
+"Any dispute between the parties arising from or relating to this Agreement, will be governed by this Agreement and the laws of the United States, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.\n"
 "\n"
 "18. VENUE\n"
-"Any dispute between the parties arising from or relating to this Agreement "
-"shall be decided by the United States District Court for the Central "
-"District of California, and you and WF agree to submit to the personal "
-"jurisdiction of that court.\n"
+"Any dispute between the parties arising from or relating to this Agreement shall be decided by the United States District Court for the Central District of California, and you and WF agree to submit to the personal jurisdiction of that court.\n"
 "\n"
 "19. THIRD-PARTY BENEFICIARIES\n"
-"Any person or entity who is not a party to this Agreement shall have no "
-"rights under any law to enforce any terms of this Agreement, regardless of "
-"whether such person or entity has been identified by name. Nothing in this "
-"section shall affect the rights of any permitted assignee or transferee of "
-"this Agreement.\n"
+"Any person or entity who is not a party to this Agreement shall have no rights under any law to enforce any terms of this Agreement, regardless of whether such person or entity has been identified by name. Nothing in this section shall affect the rights of any permitted assignee or transferee of this Agreement.\n"
 "\n"
 "20. MISCELLANEOUS\n"
-"This Agreement contains the entire agreement between you and WAYFORWARD "
-"TECHNOLOGIES regarding the use of the Game. If any provision of this "
-"Agreement is held invalid or unenforceable, the remainder of this Agreement "
-"shall continue in full force and effect for the remainder of the term, or as "
-"otherwise set forth in Section 6(d), except if such provision deprives the "
-"Agreement from its essential obligations. You may not assign this Agreement "
-"or any of its rights under this Agreement without the prior written consent "
-"of WAYFORWARD TECHNOLOGIES, and any attempted assignment without such "
-"consent shall be void. Subject to the foregoing restriction, this Agreement "
-"will be fully binding upon, inure to the benefit of, and be enforceable by "
-"us and our respective successors and assigns. The failure of WAYFORWARD "
-"TECHNOLOGIES to exercise or enforce any right or provision of this Agreement "
-"shall not operate as a waiver of such right or provision. The section titles "
-"in this Agreement are for convenience only and have no legal or contractual "
-"effect.\n"
+"This Agreement contains the entire agreement between you and WAYFORWARD TECHNOLOGIES regarding the use of the Game. If any provision of this Agreement is held invalid or unenforceable, the remainder of this Agreement shall continue in full force and effect for the remainder of the term, or as otherwise set forth in Section 6(d), except if such provision deprives the Agreement from its essential obligations. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of WAYFORWARD TECHNOLOGIES, and any attempted assignment without such consent shall be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by us and our respective successors and assigns. The failure of WAYFORWARD TECHNOLOGIES to exercise or enforce any right or provision of this Agreement shall not operate as a waiver of such right or provision. The section titles in this Agreement are for convenience only and have no legal or contractual effect.\n"
 "\n"
-"To contact WF, please follow the process described on our support page "
-"located at \n"
+"To contact WF, please follow the process described on our support page located at \n"
 "https://wayforward.com/support/\n"
 "\n"
 "WAYFORWARD TECHNOLOGIES PRIVACY POLICY\n"
@@ -834,312 +525,90 @@ msgstr ""
 "19．THIRD-PARTY BENEFICIARIES\n"
 "20．MISCELLANEOUS\n"
 "\n"
-"PLEASE READ THIS AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR GAMES OR "
-"SERVICES, YOU AGREE TO BE BOUND BY ALL TERMS DESCRIBED HEREIN AND ALL TERMS "
-"INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT "
-"ACCESS OR USE OUR GAMES OR SERVICES.\n"
-"This End User License Agreement (this \"\"Agreement\"\") is a contract "
-"between you and WAYFORWARD TECHNOLOGIES (“WF”) as applicable "
-"(\"\"WAYFORWARD\"\", \"\"us\"\", \"\"we\"\" or \"\"our\"\") and applies to "
-"your access to, and use of, [River City Girls 2], including, without "
-"limitation, any multi-player, online, or downloadable portions thereof and "
-"any related written or electronic documentation or content (the “Game”). The "
-"Game is licensed, and not sold, and this Agreement confers no title or "
-"ownership to the Game or any copy thereof. This Agreement does not alter in "
-"any way the terms or conditions of any other agreement you may have with "
-"WAYFORWARD TECHNOLOGIES for other products or services. Any changes, "
-"additions, or deletions by you are not acceptable, and are hereby expressly "
-"rejected by WAYFORWARD TECHNOLOGIES.\n"
-"Additional terms provided by us (including, but not limited to, posted fees, "
-"billing procedures, and promotion rules) may apply to particular "
-"functionalities and features that are part of the Game. Unless otherwise "
-"indicated, any additional applicable terms are incorporated by reference "
-"into this Agreement. In the event of a conflict between this Agreement and "
-"any additional terms, the additional terms shall govern with respect to such "
-"particular functionalities and features.  \n"
+"PLEASE READ THIS AGREEMENT CAREFULLY. BY ACCESSING OR USING OUR GAMES OR SERVICES, YOU AGREE TO BE BOUND BY ALL TERMS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT ACCESS OR USE OUR GAMES OR SERVICES.\n"
+"This End User License Agreement (this \"\"Agreement\"\") is a contract between you and WAYFORWARD TECHNOLOGIES (“WF”) as applicable (\"\"WAYFORWARD\"\", \"\"us\"\", \"\"we\"\" or \"\"our\"\") and applies to your access to, and use of, [River City Girls 2], including, without limitation, any multi-player, online, or downloadable portions thereof and any related written or electronic documentation or content (the “Game”). The Game is licensed, and not sold, and this Agreement confers no title or ownership to the Game or any copy thereof. This Agreement does not alter in any way the terms or conditions of any other agreement you may have with WAYFORWARD TECHNOLOGIES for other products or services. Any changes, additions, or deletions by you are not acceptable, and are hereby expressly rejected by WAYFORWARD TECHNOLOGIES.\n"
+"Additional terms provided by us (including, but not limited to, posted fees, billing procedures, and promotion rules) may apply to particular functionalities and features that are part of the Game. Unless otherwise indicated, any additional applicable terms are incorporated by reference into this Agreement. In the event of a conflict between this Agreement and any additional terms, the additional terms shall govern with respect to such particular functionalities and features.  \n"
 "\n"
 "1. CONTRACTING PARTY. \n"
 "This Agreement is between you and WAYFORWARD TECHNOLOGIES.\n"
 "\n"
 "2. PRIVACY\n"
-"Data collected through this Game is held by WF in the United States of "
-"America. For more information, please refer to WF’s Privacy Policy (https://"
-"www.arcsystemworks.jp/portal/privacy/en/) for information about how we "
-"collect, use, and disclose such data.\n"
+"Data collected through this Game is held by WF in the United States of America. For more information, please refer to WF’s Privacy Policy (https://www.arcsystemworks.jp/portal/privacy/en/) for information about how we collect, use, and disclose such data.\n"
 "\n"
 "3. PRECONDITIONS OF THE LICENSES.\n"
-"The licenses granted in this Agreement are specifically conditioned upon the "
-"following and your full compliance with all other terms and conditions set "
-"forth in this Agreement:\n"
-"a) You have reached the age of majority in your jurisdiction. If you are "
-"under the age of majority in your jurisdiction, your parent or legal "
-"guardian must agree to be bound by this Agreement and any applicable "
-"additional terms; \n"
-"b) You agree to and comply with all of the terms in this Agreement, and any "
-"additional terms as may be applicable to the Game;\n"
-"c) Your access and use of the Game is subject to certain security measures, "
-"including, without limitation, registering the Game with a serial code, "
-"having continuous access to the Internet, and accepting certain security/"
-"digital rights management features. Failure to accept and fully-comply with "
-"such security measures may partially or completely impair your use of the "
-"Game.\n"
-"d) Your access and use of the Game is in accordance with all applicable "
-"local, state, national, and foreign laws and regulations.\n"
-"e) You access and use the Game only on local machines, running validly "
-"licensed copies of operating systems on which the Game was designed to "
-"operate (the “Hardware”);\n"
-"f) Purchase and use of items are subject to the Network Terms of Service and "
-"User Agreement set by each platform operator of Hardware. This online "
-"service has been sublicensed to you by each platform operator.  Please check "
-"usage rights for each purchase as these may differ from item to item. Unless "
-"otherwise shown, content available in any in-game store has the same age "
-"rating as the game.\n"
+"The licenses granted in this Agreement are specifically conditioned upon the following and your full compliance with all other terms and conditions set forth in this Agreement:\n"
+"a) You have reached the age of majority in your jurisdiction. If you are under the age of majority in your jurisdiction, your parent or legal guardian must agree to be bound by this Agreement and any applicable additional terms; \n"
+"b) You agree to and comply with all of the terms in this Agreement, and any additional terms as may be applicable to the Game;\n"
+"c) Your access and use of the Game is subject to certain security measures, including, without limitation, registering the Game with a serial code, having continuous access to the Internet, and accepting certain security/digital rights management features. Failure to accept and fully-comply with such security measures may partially or completely impair your use of the Game.\n"
+"d) Your access and use of the Game is in accordance with all applicable local, state, national, and foreign laws and regulations.\n"
+"e) You access and use the Game only on local machines, running validly licensed copies of operating systems on which the Game was designed to operate (the “Hardware”);\n"
+"f) Purchase and use of items are subject to the Network Terms of Service and User Agreement set by each platform operator of Hardware. This online service has been sublicensed to you by each platform operator.  Please check usage rights for each purchase as these may differ from item to item. Unless otherwise shown, content available in any in-game store has the same age rating as the game.\n"
 "\n"
 "4. LIMITED USE LICENSE\n"
-"a) Subject to the terms of this Agreement and your compliance with these "
-"terms, we grant you a non-exclusive, non-transferable, limited license to "
-"use the Game for the term of the Agreement in your country of residence, on "
-"Hardware that you own or exclusively control and solely as permitted by the "
-"applicable platform usage rules or terms of use (if any). Any updates, "
-"supplements or replacements to the original Game are governed by this "
-"Agreement unless separate license terms accompany such update.\n"
-"b) The preceding states the entirety of your rights with respect to the "
-"Game, and we reserve all rights in and to the Game not expressly granted to "
-"you in this Agreement. Without limiting the foregoing, you will not do, or "
-"authorize or permit any third party to do, any of the following:\n"
-"(i) distribute, copy, license, rent, or sell the Game (except as expressly "
-"permitted by this license or the applicable platform usage rules); \n"
-"(ii) use the Game for any purpose other than your own personal, "
-"noncommercial use; \n"
-"(iii) reverse engineer, decompile, disassemble, or attempt to discover the "
-"source code for the Game; \n"
+"a) Subject to the terms of this Agreement and your compliance with these terms, we grant you a non-exclusive, non-transferable, limited license to use the Game for the term of the Agreement in your country of residence, on Hardware that you own or exclusively control and solely as permitted by the applicable platform usage rules or terms of use (if any). Any updates, supplements or replacements to the original Game are governed by this Agreement unless separate license terms accompany such update.\n"
+"b) The preceding states the entirety of your rights with respect to the Game, and we reserve all rights in and to the Game not expressly granted to you in this Agreement. Without limiting the foregoing, you will not do, or authorize or permit any third party to do, any of the following:\n"
+"(i) distribute, copy, license, rent, or sell the Game (except as expressly permitted by this license or the applicable platform usage rules); \n"
+"(ii) use the Game for any purpose other than your own personal, noncommercial use; \n"
+"(iii) reverse engineer, decompile, disassemble, or attempt to discover the source code for the Game; \n"
 "(iv) modify, alter, or create any derivative works of the Game; \n"
-"(v) remove, alter, or obscure any copyright, trademark, or other proprietary "
-"rights notice on or in the Game; \n"
+"(v) remove, alter, or obscure any copyright, trademark, or other proprietary rights notice on or in the Game; \n"
 "(vi) use the Game for purposes for which it is not designed; \n"
-"(vii) use the Game on any Hardware that you do not own or exclusively "
-"control; \n"
-"(viii) circumvent, or attempt to circumvent, any security measures in the "
-"Game; or \n"
-"(ix) attempt to obscure or mask your region when accessing any online "
-"features of the Game.\n"
+"(vii) use the Game on any Hardware that you do not own or exclusively control; \n"
+"(viii) circumvent, or attempt to circumvent, any security measures in the Game; or \n"
+"(ix) attempt to obscure or mask your region when accessing any online features of the Game.\n"
 "\n"
 "5. OWNERSHIP\n"
-"The Game and all content (other than User Content, as defined below) and "
-"other materials in the Game or available through the Game, including, "
-"without limitation, the WAYFORWARD TECHNOLOGIES logo, and all designs, text, "
-"graphics, pictures, information, data, software, sound files, Game Currency, "
-"Virtual Items, other files and the selection and arrangement thereof are the "
-"property of WAYFORWARD TECHNOLOGIES or its licensors and are protected by "
-"copyright and other intellectual property laws and treaties. Notwithstanding "
-"any provision to the contrary herein, you agree that you have no right or "
-"title in or to any content that appears in the Game, including without "
-"limitation any Game Currency and Virtual Items.\n"
+"The Game and all content (other than User Content, as defined below) and other materials in the Game or available through the Game, including, without limitation, the WAYFORWARD TECHNOLOGIES logo, and all designs, text, graphics, pictures, information, data, software, sound files, Game Currency, Virtual Items, other files and the selection and arrangement thereof are the property of WAYFORWARD TECHNOLOGIES or its licensors and are protected by copyright and other intellectual property laws and treaties. Notwithstanding any provision to the contrary herein, you agree that you have no right or title in or to any content that appears in the Game, including without limitation any Game Currency and Virtual Items.\n"
 "\n"
 "6. TERM \n"
-"a) Subject to your satisfaction of the preconditions set forth in Section 3, "
-"this Agreement will remain in full force and effect while you use the Game. "
-"Either party may terminate this Agreement with or without cause at any time "
-"with reasonable prior notice. You may terminate this Agreement by deleting "
-"or destroying all copies of the Game in your possession, custody, or "
-"control. WAYFORWARD TECHNOLOGIES shall not be liable to you or any third "
-"party for termination of your use of the Game.\n"
-"b) Without limiting any other rights of WAYFORWARD TECHNOLOGIES, if you fail "
-"to comply with the terms and conditions of this Agreement, WAYFORWARD "
-"TECHNOLOGIES retains the right to immediately limit, suspend, or terminate "
-"your license to the Game.\n"
+"a) Subject to your satisfaction of the preconditions set forth in Section 3, this Agreement will remain in full force and effect while you use the Game. Either party may terminate this Agreement with or without cause at any time with reasonable prior notice. You may terminate this Agreement by deleting or destroying all copies of the Game in your possession, custody, or control. WAYFORWARD TECHNOLOGIES shall not be liable to you or any third party for termination of your use of the Game.\n"
+"b) Without limiting any other rights of WAYFORWARD TECHNOLOGIES, if you fail to comply with the terms and conditions of this Agreement, WAYFORWARD TECHNOLOGIES retains the right to immediately limit, suspend, or terminate your license to the Game.\n"
 "c) Upon termination of this Agreement:\n"
 "(i) your license to the Game shall cease immediately; and \n"
-"(ii) you will not be entitled to a refund of any fees, including any unused "
-"fees, if any, except for Purchased Game Currency refunded as required by "
-"applicable law.\n"
-"d) Section 4(b), 5, 6(d), 8, 10, 13-20 shall survive termination of this "
-"Agreement.\n"
+"(ii) you will not be entitled to a refund of any fees, including any unused fees, if any, except for Purchased Game Currency refunded as required by applicable law.\n"
+"d) Section 4(b), 5, 6(d), 8, 10, 13-20 shall survive termination of this Agreement.\n"
 "\n"
 "7. AMENDMENTS\n"
-"WAYFORWARD TECHNOLOGIES reserves the right to change or modify this "
-"Agreement at any time and for any reason at WAYFORWARD TECHNOLOGIES’s sole "
-"discretion. If WAYFORWARD TECHNOLOGIES makes changes to this Agreement, we "
-"will provide one month prior notice of such changes, such as by providing "
-"notice through the Game. Your continued use of the Game after the effective "
-"date of such changes will confirm your acceptance of the revised Agreement.\n"
+"WAYFORWARD TECHNOLOGIES reserves the right to change or modify this Agreement at any time and for any reason at WAYFORWARD TECHNOLOGIES’s sole discretion. If WAYFORWARD TECHNOLOGIES makes changes to this Agreement, we will provide one month prior notice of such changes, such as by providing notice through the Game. Your continued use of the Game after the effective date of such changes will confirm your acceptance of the revised Agreement.\n"
 "\n"
 "8. MODIFICATION OF THE GAME\n"
-"WAYFORWARD TECHNOLOGIES reserves the right to modify or discontinue, "
-"temporarily or permanently, the Game or any features or portions thereof "
-"with prior reasonable notice and, in case of emergency or if absolutely "
-"necessary, without prior notice. You agree that WAYFORWARD TECHNOLOGIES will "
-"not be liable for any modification, suspension, or discontinuance of the "
-"Game or any part thereof. \n"
-"i) From time to time, WAYFORWARD TECHNOLOGIES, in its sole discretion, may "
-"modify, impose limits on, restrict, suspend, terminate, or discontinue the "
-"Game or any aspect of the Game and your access to and use thereof, including "
-"resetting your play data, without any notice or liability to you. "
-"Modifications may include automatic software updates, upgrades, or removal "
-"of content or services that may cause a loss of data, content, "
-"functionality, or utility.\n"
-"ii) The Game may contain defects, and a primary purpose of licensing the "
-"Game under this Agreement is for WAYFORWARD TECHNOLOGIES to obtain feedback "
-"on Game performance and identify defects. WAYFORWARD TECHNOLOGIES is under "
-"no obligation to provide technical support to you under the terms of this "
-"Agreement and provides no assurance that any specific errors or "
-"discrepancies in the Game will be corrected. You agree that, to the extent "
-"permitted by applicable law, WAYFORWARD TECHNOLOGIES is not liable for any "
-"loss of data, content, function, or utility or damage to your computer, "
-"data, and/or software. Your access to and use of the Game are entirely at "
-"your own risk.\n"
-"iii) You agree to cooperate with WAYFORWARD TECHNOLOGIES's requests related "
-"to your access to and use of the Game, including WAYFORWARD TECHNOLOGIES’s "
-"requests to report any bugs and other issues that you discover in or related "
-"to the Game.\n"
-"iv) You agree that you will not reveal or disclose any suggestions, "
-"feedback, or non-public data or information related to the Game (including, "
-"but not limited to, information about images, gameplay, or bugs in the Game) "
-"to any third parties without WAYFORWARD TECHNOLOGIES’s prior written "
-"consent.\n"
-"v) At any time, WAYFORWARD TECHNOLOGIES, in its sole discretion, may reset "
-"your play data (level, item) without any notice or liability to you.\n"
+"WAYFORWARD TECHNOLOGIES reserves the right to modify or discontinue, temporarily or permanently, the Game or any features or portions thereof with prior reasonable notice and, in case of emergency or if absolutely necessary, without prior notice. You agree that WAYFORWARD TECHNOLOGIES will not be liable for any modification, suspension, or discontinuance of the Game or any part thereof. \n"
+"i) From time to time, WAYFORWARD TECHNOLOGIES, in its sole discretion, may modify, impose limits on, restrict, suspend, terminate, or discontinue the Game or any aspect of the Game and your access to and use thereof, including resetting your play data, without any notice or liability to you. Modifications may include automatic software updates, upgrades, or removal of content or services that may cause a loss of data, content, functionality, or utility.\n"
+"ii) The Game may contain defects, and a primary purpose of licensing the Game under this Agreement is for WAYFORWARD TECHNOLOGIES to obtain feedback on Game performance and identify defects. WAYFORWARD TECHNOLOGIES is under no obligation to provide technical support to you under the terms of this Agreement and provides no assurance that any specific errors or discrepancies in the Game will be corrected. You agree that, to the extent permitted by applicable law, WAYFORWARD TECHNOLOGIES is not liable for any loss of data, content, function, or utility or damage to your computer, data, and/or software. Your access to and use of the Game are entirely at your own risk.\n"
+"iii) You agree to cooperate with WAYFORWARD TECHNOLOGIES's requests related to your access to and use of the Game, including WAYFORWARD TECHNOLOGIES’s requests to report any bugs and other issues that you discover in or related to the Game.\n"
+"iv) You agree that you will not reveal or disclose any suggestions, feedback, or non-public data or information related to the Game (including, but not limited to, information about images, gameplay, or bugs in the Game) to any third parties without WAYFORWARD TECHNOLOGIES’s prior written consent.\n"
+"v) At any time, WAYFORWARD TECHNOLOGIES, in its sole discretion, may reset your play data (level, item) without any notice or liability to you.\n"
 "\n"
 "9. IN-GAME CURRENCY AND VIRTUAL ITEMS\n"
 "a) WAYFORWARD TECHNOLOGIES may offer you the ability to:\n"
-"(i) purchase a limited license to use in-game currency (“Purchased Game "
-"Currency”);\n"
-"(ii) earn a limited license to use in-game currency by performing specified "
-"tasks in the Game (together with the Purchased Game Currency, “Game "
-"Currency”); and/or \n"
-"(iii) earn a limited license, and/or purchase a limited license with Game "
-"Currency, to virtual goods and services made available by WAYFORWARD "
-"TECHNOLOGIES in the Game (“Virtual Items”). \n"
-"If WAYFORWARD TECHNOLOGIES offers the ability to purchase or earn such "
-"licenses, WAYFORWARD TECHNOLOGIES shall grant you a non-exclusive, non-"
-"transferable, revocable, limited right and license to use such Game Currency "
-"or Virtual Items, as applicable, for your personal, non-commercial use "
-"exclusively in the Game, subject to the terms of this Agreement and your "
-"compliance therewith.\n"
-"b) Game Currency may only be redeemed for Virtual Items for use in the Game "
-"and neither Game Currency nor Virtual Items are redeemable for money, any "
-"thing of monetary value, or for any monetary equivalent from WAYFORWARD "
-"TECHNOLOGIES or any other person or entity, except as otherwise required by "
-"applicable law. Game Currency and Virtual Items do not have an equivalent "
-"value in real currency and do not act as a substitute for real currency. "
-"Neither WAYFORWARD TECHNOLOGIES nor any other person or entity has any "
-"obligation to exchange Game Currency or Virtual Items for anything of value, "
-"including, but not limited to, real currency. You acknowledge and agree that "
-"WAYFORWARD TECHNOLOGIES may engage in actions that may impact the in-game "
-"attributes or perceived value of Game Currency and/or Virtual Items at any "
-"time, except as prohibited by applicable law. WAYFORWARD TECHNOLOGIES, in "
-"its sole discretion, may impose limits on the amount of Game Currency that "
-"may be purchased, earned, or redeemed.  \n"
-"c) All purchases of Purchased Game Currency are final and are not "
-"refundable, transferable, or exchangeable under any circumstances, except as "
-"otherwise required by applicable law.  Except for the purchase price of "
-"Purchased Game Currency and certain Virtual Items, WAYFORWARD TECHNOLOGIES "
-"does not charge any fees for the access, use, or non-use of Game Currency or "
-"Virtual Items.\n"
-"d) You may not transfer, sell, gift, exchange, trade, lease, sublicense, or "
-"rent Game Currency or Virtual Items except in the Game and as expressly "
-"permitted by WAYFORWARD TECHNOLOGIES. Except as otherwise agreed herein, "
-"WAYFORWARD TECHNOLOGIES reserves and retains all rights, title, and interest "
-"in and to the Game Currency and Virtual Items.\n"
-"e) The licenses granted hereunder to Game Currency and Virtual Items will "
-"terminate upon termination of this Agreement in accordance with Section 6, "
-"except as otherwise provided herein.\n"
+"(i) purchase a limited license to use in-game currency (“Purchased Game Currency”);\n"
+"(ii) earn a limited license to use in-game currency by performing specified tasks in the Game (together with the Purchased Game Currency, “Game Currency”); and/or \n"
+"(iii) earn a limited license, and/or purchase a limited license with Game Currency, to virtual goods and services made available by WAYFORWARD TECHNOLOGIES in the Game (“Virtual Items”). \n"
+"If WAYFORWARD TECHNOLOGIES offers the ability to purchase or earn such licenses, WAYFORWARD TECHNOLOGIES shall grant you a non-exclusive, non-transferable, revocable, limited right and license to use such Game Currency or Virtual Items, as applicable, for your personal, non-commercial use exclusively in the Game, subject to the terms of this Agreement and your compliance therewith.\n"
+"b) Game Currency may only be redeemed for Virtual Items for use in the Game and neither Game Currency nor Virtual Items are redeemable for money, any thing of monetary value, or for any monetary equivalent from WAYFORWARD TECHNOLOGIES or any other person or entity, except as otherwise required by applicable law. Game Currency and Virtual Items do not have an equivalent value in real currency and do not act as a substitute for real currency. Neither WAYFORWARD TECHNOLOGIES nor any other person or entity has any obligation to exchange Game Currency or Virtual Items for anything of value, including, but not limited to, real currency. You acknowledge and agree that WAYFORWARD TECHNOLOGIES may engage in actions that may impact the in-game attributes or perceived value of Game Currency and/or Virtual Items at any time, except as prohibited by applicable law. WAYFORWARD TECHNOLOGIES, in its sole discretion, may impose limits on the amount of Game Currency that may be purchased, earned, or redeemed.  \n"
+"c) All purchases of Purchased Game Currency are final and are not refundable, transferable, or exchangeable under any circumstances, except as otherwise required by applicable law.  Except for the purchase price of Purchased Game Currency and certain Virtual Items, WAYFORWARD TECHNOLOGIES does not charge any fees for the access, use, or non-use of Game Currency or Virtual Items.\n"
+"d) You may not transfer, sell, gift, exchange, trade, lease, sublicense, or rent Game Currency or Virtual Items except in the Game and as expressly permitted by WAYFORWARD TECHNOLOGIES. Except as otherwise agreed herein, WAYFORWARD TECHNOLOGIES reserves and retains all rights, title, and interest in and to the Game Currency and Virtual Items.\n"
+"e) The licenses granted hereunder to Game Currency and Virtual Items will terminate upon termination of this Agreement in accordance with Section 6, except as otherwise provided herein.\n"
 "\n"
 "10. USER CONTENT\n"
-"By posting any communication, information, intellectual property, material, "
-"messages, photos, graphics, videos, URLs, and other items or content to the "
-"Game (“User Content”), to the extent permitted by applicable local law, you "
-"hereby grant WAYFORWARD TECHNOLOGIES a non-exclusive, royalty-free, fully "
-"transferable and sub-licensable worldwide license for the whole duration of "
-"the applicable legal protection of intellectual rights to use the User "
-"Content in connection with the Game and related goods and services including "
-"the rights to reproduce, copy, adapt, modify, perform, create derivative "
-"works from, display, publish, broadcast, transmit, or otherwise use, "
-"distribute, exploit and communicate to the public by any and all means and "
-"media whether now known or hereafter devised without any further notice or "
-"compensation of any kind to you. To the extent permitted by applicable law, "
-"you hereby waive any moral rights of paternity, publication, reputation, or "
-"attribution with respect to WAYFORWARD TECHNOLOGIES’s and other players’ use "
-"and enjoyment of such assets in connection with the Game and related goods "
-"and services under applicable law. The license grant to WAYFORWARD "
-"TECHNOLOGIES survives any termination or revocation of this Agreement.\n"
+"By posting any communication, information, intellectual property, material, messages, photos, graphics, videos, URLs, and other items or content to the Game (“User Content”), to the extent permitted by applicable local law, you hereby grant WAYFORWARD TECHNOLOGIES a non-exclusive, royalty-free, fully transferable and sub-licensable worldwide license for the whole duration of the applicable legal protection of intellectual rights to use the User Content in connection with the Game and related goods and services including the rights to reproduce, copy, adapt, modify, perform, create derivative works from, display, publish, broadcast, transmit, or otherwise use, distribute, exploit and communicate to the public by any and all means and media whether now known or hereafter devised without any further notice or compensation of any kind to you. To the extent permitted by applicable law, you hereby waive any moral rights of paternity, publication, reputation, or attribution with respect to WAYFORWARD TECHNOLOGIES’s and other players’ use and enjoyment of such assets in connection with the Game and related goods and services under applicable law. The license grant to WAYFORWARD TECHNOLOGIES survives any termination or revocation of this Agreement.\n"
 "\n"
 "11. ONLINE CONDUCT\n"
-"Unless through the intentional fault or gross negligence of WAYFORWARD "
-"TECHNOLOGIES, WAYFORWARD TECHNOLOGIES is not responsible or liable for the "
-"conduct of any users, whether or not such conduct relates to the access or "
-"use of the Game. WAYFORWARD TECHNOLOGIES may suspend or terminate your "
-"access to the Game at any time if you violate the terms of this Section 12 "
-"or any other terms and conditions of this Agreement. WAYFORWARD TECHNOLOGIES "
-"may (for example in response to a claim from a copyright owner) review any "
-"User Content that is uploaded, published, stored, or displayed on the Game "
-"(hereinafter, \"\"posted\"\") provided that in the case of User Content "
-"shared as a part of any private message within the Game, WAYFORWARD "
-"TECHNOLOGIES will not screen or review such content unless at least one "
-"party to the communication grants its consent (e.g. by reporting the message "
-"to WAYFORWARD TECHNOLOGIES as objectionable). WAYFORWARD TECHNOLOGIES "
-"reserves the right to delete or refuse to take online any User Content. "
-"Although WAYFORWARD TECHNOLOGIES does not regularly screen, edit, or monitor "
-"any of the User Content posted on the Game, WAYFORWARD TECHNOLOGIES reserves "
-"the right, and has absolute discretion, to remove, screen, or edit any User "
-"Content posted through the Game if WAYFORWARD TECHNOLOGIES determines in its "
-"reasonable discretion that such User Content violates this Agreement and/or "
-"any third party right, applicable law, rule, or regulation. You may not use "
-"the Game if you have previously been suspended or removed from the Game. You "
-"are solely responsible for any User Content that you post or transmit to any "
-"users or third parties. Specifically, you agree not to do, attempt to do, or "
-"cause another to do any of the following in connection with the Game:\n"
-"a) post any User Content that is unlawful, libelous, defamatory, offensive, "
-"obscene, pornographic, indecent, vulgar, lewd, sexually explicit, harassing, "
-"threatening, invasive of privacy or publicity rights, abusive, inflammatory, "
-"or fraudulent; promotes or encourages any illegal or other antisocial "
-"activity, including hacking; promotes racism, bigotry, hatred, or physical "
-"or other harm of any kind against any group or individual or is otherwise "
-"objectionable;\n"
-"b) post any User Content that may infringe any patent, trademark, trade "
-"secret, copyright, or other intellectual or proprietary right of any person "
-"or entity;\n"
-"c) engage in commercial activities or commercial sales, including "
-"transmission of any commercial advertisements or solicitations;\n"
-"d) enter, disclose or disseminate any personal information about anyone "
-"(including you);\n"
-"e) impersonate any person or entity, including any WAYFORWARD TECHNOLOGIES "
-"officials, forum leaders, guides, hosts, employees, or agents, or falsely "
-"state or otherwise misrepresent your affiliation with a person or entity;\n"
-"f) impede or disrupt the Game or the normal flow of Game play or dialogue or "
-"use vulgar language, abusiveness, excessive shouting (e.g., ALL CAPS), "
-"“spamming,” or any other disruptive or detrimental methods that disturb "
-"other users of the Game;\n"
-"g) use or exploit any bugs, errors, or design flaws to obtain unauthorized "
-"access to the Game, to gain an unfair advantage over other players, or to "
-"cheat or utilize unauthorized exploits in connection with the Game, "
-"including but not limited to accessing portions of the Game that you are not "
-"authorized to access and using any bots, emulators, or other unauthorized "
-"third party tools;\n"
-"h) do anything that interferes with the ability of other users to enjoy "
-"playing the Game in accordance with its rules or that materially increases "
-"the expense or difficulty of WAYFORWARD TECHNOLOGIES or the platform "
-"provider in maintaining the Game for the enjoyment of all its users.\n"
-"i) intentionally disconnect from the network during online play or allow "
-"yourself to be defeated by a given player repeatedly to help boost their "
-"rankings or win counts in the Game.\n"
-"j) trade, sell, auction, or otherwise transfer or attempt to transfer any "
-"Virtual Items or Game Currency outside the Game;\n"
-"k) otherwise violates the terms of this Agreement, other policies "
-"communicated by WAYFORWARD TECHNOLOGIES, or creates liability for WAYFORWARD "
-"TECHNOLOGIES.\n"
+"Unless through the intentional fault or gross negligence of WAYFORWARD TECHNOLOGIES, WAYFORWARD TECHNOLOGIES is not responsible or liable for the conduct of any users, whether or not such conduct relates to the access or use of the Game. WAYFORWARD TECHNOLOGIES may suspend or terminate your access to the Game at any time if you violate the terms of this Section 12 or any other terms and conditions of this Agreement. WAYFORWARD TECHNOLOGIES may (for example in response to a claim from a copyright owner) review any User Content that is uploaded, published, stored, or displayed on the Game (hereinafter, \"\"posted\"\") provided that in the case of User Content shared as a part of any private message within the Game, WAYFORWARD TECHNOLOGIES will not screen or review such content unless at least one party to the communication grants its consent (e.g. by reporting the message to WAYFORWARD TECHNOLOGIES as objectionable). WAYFORWARD TECHNOLOGIES reserves the right to delete or refuse to take online any User Content. Although WAYFORWARD TECHNOLOGIES does not regularly screen, edit, or monitor any of the User Content posted on the Game, WAYFORWARD TECHNOLOGIES reserves the right, and has absolute discretion, to remove, screen, or edit any User Content posted through the Game if WAYFORWARD TECHNOLOGIES determines in its reasonable discretion that such User Content violates this Agreement and/or any third party right, applicable law, rule, or regulation. You may not use the Game if you have previously been suspended or removed from the Game. You are solely responsible for any User Content that you post or transmit to any users or third parties. Specifically, you agree not to do, attempt to do, or cause another to do any of the following in connection with the Game:\n"
+"a) post any User Content that is unlawful, libelous, defamatory, offensive, obscene, pornographic, indecent, vulgar, lewd, sexually explicit, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory, or fraudulent; promotes or encourages any illegal or other antisocial activity, including hacking; promotes racism, bigotry, hatred, or physical or other harm of any kind against any group or individual or is otherwise objectionable;\n"
+"b) post any User Content that may infringe any patent, trademark, trade secret, copyright, or other intellectual or proprietary right of any person or entity;\n"
+"c) engage in commercial activities or commercial sales, including transmission of any commercial advertisements or solicitations;\n"
+"d) enter, disclose or disseminate any personal information about anyone (including you);\n"
+"e) impersonate any person or entity, including any WAYFORWARD TECHNOLOGIES officials, forum leaders, guides, hosts, employees, or agents, or falsely state or otherwise misrepresent your affiliation with a person or entity;\n"
+"f) impede or disrupt the Game or the normal flow of Game play or dialogue or use vulgar language, abusiveness, excessive shouting (e.g., ALL CAPS), “spamming,” or any other disruptive or detrimental methods that disturb other users of the Game;\n"
+"g) use or exploit any bugs, errors, or design flaws to obtain unauthorized access to the Game, to gain an unfair advantage over other players, or to cheat or utilize unauthorized exploits in connection with the Game, including but not limited to accessing portions of the Game that you are not authorized to access and using any bots, emulators, or other unauthorized third party tools;\n"
+"h) do anything that interferes with the ability of other users to enjoy playing the Game in accordance with its rules or that materially increases the expense or difficulty of WAYFORWARD TECHNOLOGIES or the platform provider in maintaining the Game for the enjoyment of all its users.\n"
+"i) intentionally disconnect from the network during online play or allow yourself to be defeated by a given player repeatedly to help boost their rankings or win counts in the Game.\n"
+"j) trade, sell, auction, or otherwise transfer or attempt to transfer any Virtual Items or Game Currency outside the Game;\n"
+"k) otherwise violates the terms of this Agreement, other policies communicated by WAYFORWARD TECHNOLOGIES, or creates liability for WAYFORWARD TECHNOLOGIES.\n"
 "\n"
 "12. COPYRIGHT POLICY\n"
-"Copyright owners or agents of copyright owners who believe that anything in "
-"the Game infringes upon any copyright owned or controlled by them, may "
-"submit a notification of such infringement with our designated Copyright "
-"Agent as set forth below. WAYFORWARD TECHNOLOGIES has adopted a policy of "
-"terminating, in appropriate circumstances and at WAYFORWARD TECHNOLOGIES’s "
-"sole discretion, users who are repeat infringers of the intellectual "
-"property rights of third parties. Provided however that, WAYFORWARD "
-"TECHNOLOGIES also may limit or terminate access to the Game of any users who "
-"infringe any intellectual property rights of others, whether or not there is "
-"any repeat infringement.\n"
+"Copyright owners or agents of copyright owners who believe that anything in the Game infringes upon any copyright owned or controlled by them, may submit a notification of such infringement with our designated Copyright Agent as set forth below. WAYFORWARD TECHNOLOGIES has adopted a policy of terminating, in appropriate circumstances and at WAYFORWARD TECHNOLOGIES’s sole discretion, users who are repeat infringers of the intellectual property rights of third parties. Provided however that, WAYFORWARD TECHNOLOGIES also may limit or terminate access to the Game of any users who infringe any intellectual property rights of others, whether or not there is any repeat infringement.\n"
 "\n"
 "WAYFORWARD TECHNOLOGIES\n"
 "28738 The Old Road\n"
@@ -1149,126 +618,40 @@ msgstr ""
 "(661)420-4757\n"
 "\n"
 "13. THIRD PARTY CONTENT\n"
-"Content from any users, advertisers, and other third parties may be made "
-"available to you through the Game. Because we do not control third party "
-"content, you agree that unless due to intentional fault or gross negligence "
-"of WAYFORWARD TECHNOLOGIES, we are not responsible for any third party "
-"content, make no guarantees about the accuracy or quality of the information "
-"in third party content; and assume no responsibility for unintended, "
-"objectionable, inaccurate, misleading, or unlawful third party content. "
-"Reference to any products, services, processes or other information, by "
-"trade name, trademark, manufacturer, supplier or otherwise does not "
-"constitute or imply endorsement, sponsorship or recommendation thereof, or "
-"any affiliation therewith, by WAYFORWARD TECHNOLOGIES, except where "
-"expressly stated by WAYFORWARD TECHNOLOGIES.\n"
+"Content from any users, advertisers, and other third parties may be made available to you through the Game. Because we do not control third party content, you agree that unless due to intentional fault or gross negligence of WAYFORWARD TECHNOLOGIES, we are not responsible for any third party content, make no guarantees about the accuracy or quality of the information in third party content; and assume no responsibility for unintended, objectionable, inaccurate, misleading, or unlawful third party content. Reference to any products, services, processes or other information, by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation thereof, or any affiliation therewith, by WAYFORWARD TECHNOLOGIES, except where expressly stated by WAYFORWARD TECHNOLOGIES.\n"
 "\n"
 "14. DISCLAIMER\n"
-"You acknowledge and agree that WAYFORWARD TECHNOLOGIES and its licensors and "
-"suppliers are not responsible or liable for any viruses or other disabling "
-"features that affect your access to or use of the game or any "
-"incompatibility among the game, other services, and hardware. The game and "
-"all other services are provided “as is.” Except as might be described "
-"herein, WAYFORWARD TECHNOLOGIES and its licensors and suppliers expressly "
-"disclaim all warranties or conditions of any kind (express or implied and "
-"arising by law or otherwise) including, without limitation, any implied "
-"warranties of non-infringement, merchantability, or fitness for a particular "
-"purpose. \n"
-"Some jurisdictions do not allow the disclaimer of implied terms nor the "
-"exclusion or limitation of warranties or guarantees in contracts with "
-"consumers, so some or all of the disclaimers in this section may not apply "
-"to you.\n"
+"You acknowledge and agree that WAYFORWARD TECHNOLOGIES and its licensors and suppliers are not responsible or liable for any viruses or other disabling features that affect your access to or use of the game or any incompatibility among the game, other services, and hardware. The game and all other services are provided “as is.” Except as might be described herein, WAYFORWARD TECHNOLOGIES and its licensors and suppliers expressly disclaim all warranties or conditions of any kind (express or implied and arising by law or otherwise) including, without limitation, any implied warranties of non-infringement, merchantability, or fitness for a particular purpose. \n"
+"Some jurisdictions do not allow the disclaimer of implied terms nor the exclusion or limitation of warranties or guarantees in contracts with consumers, so some or all of the disclaimers in this section may not apply to you.\n"
 "\n"
 "15. INTERNET\n"
-"You acknowledge and agree that WAYFORWARD TECHNOLOGIES is not responsible or "
-"liable for any delays or failures you may experience in initiating, "
-"conducting, or completing any transmissions or transactions in connection "
-"with the game in an accurate or timely manner.\n"
-"Further, WAYFORWARD TECHNOLOGIES cannot and does not promise or ensure that "
-"you will be able to access the online, multi-player, or downloadable "
-"portions of the Game whenever you want, and there may be extended periods of "
-"time when you cannot access such portions of the Game. WAYFORWARD "
-"TECHNOLOGIES does not ensure continuous, error-free, secure, or virus-free "
-"operation of any online, multi-player, or downloadable portions of the Game "
-"or continued operation or availability of any given server.\n"
+"You acknowledge and agree that WAYFORWARD TECHNOLOGIES is not responsible or liable for any delays or failures you may experience in initiating, conducting, or completing any transmissions or transactions in connection with the game in an accurate or timely manner.\n"
+"Further, WAYFORWARD TECHNOLOGIES cannot and does not promise or ensure that you will be able to access the online, multi-player, or downloadable portions of the Game whenever you want, and there may be extended periods of time when you cannot access such portions of the Game. WAYFORWARD TECHNOLOGIES does not ensure continuous, error-free, secure, or virus-free operation of any online, multi-player, or downloadable portions of the Game or continued operation or availability of any given server.\n"
 "\n"
 "16. LIMITATION ON LIABILITY\n"
 "Except for\n"
 "(1) Death or personal injury caused by WAYFORWARD TECHNOLOGIES’ negligence,\n"
 "(2) Fraud or fraudulent misrepresentation by WAYFORWARD TECHNOLOGIES, \n"
 "(3) Intentional acts or gross negligence of WAYFORWARD TECHNOLOGIES, \n"
-"(4) Loss or destruction of tangible personal property caused by the use of "
-"the game, and \n"
-"(5) Any other liability which cannot be limited or excluded by applicable "
-"law,\n"
-"In no event shall WAYFORWARD TECHNOLOGIES or its subsidiaries, affiliates, "
-"officers, employees, agents, and other partners and suppliers be liable for "
-"any indirect, special, consequential or punitive damages, or any other "
-"damages including but not limited to loss of use, loss of profits, whether "
-"in an action in contract, tort (including negligence) or otherwise, arising "
-"out of or in any way connected with the use of or inability to use the game "
-"or the content contained in or accessed through the game or the failure to "
-"provide support services.\n"
-"In the event of slight or ordinary negligence, or breach of WAYFORWARD "
-"TECHNOLOGIES’s essential obligations under this agreement, WAYFORWARD "
-"TECHNOLOGIES’ liability shall be limited to direct and foreseeable damages "
-"suffered by you. In no event shall the aggregate liability of WAYFORWARD "
-"TECHNOLOGIES, whether in contract, warranty, tort, product liability, strict "
-"liability, intellectual property infringement or other theory, arising out "
-"of or relating to the use of or inability to use the game or to these terms "
-"exceed one hundred dollars ($100) or, if higher, the amount paid by you to "
-"WAYFORWARD TECHNOLOGIES for your use of the game. This section 17 does not "
-"limit any mandatory or statutory guarantees that cannot be limited by "
-"contract under the laws of your local jurisdiction.\n"
+"(4) Loss or destruction of tangible personal property caused by the use of the game, and \n"
+"(5) Any other liability which cannot be limited or excluded by applicable law,\n"
+"In no event shall WAYFORWARD TECHNOLOGIES or its subsidiaries, affiliates, officers, employees, agents, and other partners and suppliers be liable for any indirect, special, consequential or punitive damages, or any other damages including but not limited to loss of use, loss of profits, whether in an action in contract, tort (including negligence) or otherwise, arising out of or in any way connected with the use of or inability to use the game or the content contained in or accessed through the game or the failure to provide support services.\n"
+"In the event of slight or ordinary negligence, or breach of WAYFORWARD TECHNOLOGIES’s essential obligations under this agreement, WAYFORWARD TECHNOLOGIES’ liability shall be limited to direct and foreseeable damages suffered by you. In no event shall the aggregate liability of WAYFORWARD TECHNOLOGIES, whether in contract, warranty, tort, product liability, strict liability, intellectual property infringement or other theory, arising out of or relating to the use of or inability to use the game or to these terms exceed one hundred dollars ($100) or, if higher, the amount paid by you to WAYFORWARD TECHNOLOGIES for your use of the game. This section 17 does not limit any mandatory or statutory guarantees that cannot be limited by contract under the laws of your local jurisdiction.\n"
 "\n"
 "17. GOVERNING LAW\n"
-"To the extent required by applicable law, all terms and provisions of this "
-"Agreement shall be governed and construed in accordance with all applicable "
-"mandatory laws, even if inconsistent with the governing law set forth in "
-"this Section 20 and in no event shall the application, interpretation, or "
-"enforcement of the terms of this Agreement, under any jurisdictional law "
-"contemplated by this Section 20 exclude, limit, or otherwise restrict any "
-"rights vested with you, as a consumer, under any applicable consumer "
-"protection laws. Please note that your conduct may also be subject to other "
-"local, state, national, and international laws. The parties agree that the "
-"UN Convention on Contracts for the International Sale of Goods shall not "
-"apply to any dispute or transaction arising out of this Agreement.\n"
-"Any dispute between the parties arising from or relating to this Agreement, "
-"will be governed by this Agreement and the laws of the United States, "
-"without giving effect to any conflict of laws principles that may provide "
-"for the application of the law of another jurisdiction.\n"
+"To the extent required by applicable law, all terms and provisions of this Agreement shall be governed and construed in accordance with all applicable mandatory laws, even if inconsistent with the governing law set forth in this Section 20 and in no event shall the application, interpretation, or enforcement of the terms of this Agreement, under any jurisdictional law contemplated by this Section 20 exclude, limit, or otherwise restrict any rights vested with you, as a consumer, under any applicable consumer protection laws. Please note that your conduct may also be subject to other local, state, national, and international laws. The parties agree that the UN Convention on Contracts for the International Sale of Goods shall not apply to any dispute or transaction arising out of this Agreement.\n"
+"Any dispute between the parties arising from or relating to this Agreement, will be governed by this Agreement and the laws of the United States, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.\n"
 "\n"
 "18. VENUE\n"
-"Any dispute between the parties arising from or relating to this Agreement "
-"shall be decided by the United States District Court for the Central "
-"District of California, and you and WF agree to submit to the personal "
-"jurisdiction of that court.\n"
+"Any dispute between the parties arising from or relating to this Agreement shall be decided by the United States District Court for the Central District of California, and you and WF agree to submit to the personal jurisdiction of that court.\n"
 "\n"
 "19. THIRD-PARTY BENEFICIARIES\n"
-"Any person or entity who is not a party to this Agreement shall have no "
-"rights under any law to enforce any terms of this Agreement, regardless of "
-"whether such person or entity has been identified by name. Nothing in this "
-"section shall affect the rights of any permitted assignee or transferee of "
-"this Agreement.\n"
+"Any person or entity who is not a party to this Agreement shall have no rights under any law to enforce any terms of this Agreement, regardless of whether such person or entity has been identified by name. Nothing in this section shall affect the rights of any permitted assignee or transferee of this Agreement.\n"
 "\n"
 "20. MISCELLANEOUS\n"
-"This Agreement contains the entire agreement between you and WAYFORWARD "
-"TECHNOLOGIES regarding the use of the Game. If any provision of this "
-"Agreement is held invalid or unenforceable, the remainder of this Agreement "
-"shall continue in full force and effect for the remainder of the term, or as "
-"otherwise set forth in Section 6(d), except if such provision deprives the "
-"Agreement from its essential obligations. You may not assign this Agreement "
-"or any of its rights under this Agreement without the prior written consent "
-"of WAYFORWARD TECHNOLOGIES, and any attempted assignment without such "
-"consent shall be void. Subject to the foregoing restriction, this Agreement "
-"will be fully binding upon, inure to the benefit of, and be enforceable by "
-"us and our respective successors and assigns. The failure of WAYFORWARD "
-"TECHNOLOGIES to exercise or enforce any right or provision of this Agreement "
-"shall not operate as a waiver of such right or provision. The section titles "
-"in this Agreement are for convenience only and have no legal or contractual "
-"effect.\n"
+"This Agreement contains the entire agreement between you and WAYFORWARD TECHNOLOGIES regarding the use of the Game. If any provision of this Agreement is held invalid or unenforceable, the remainder of this Agreement shall continue in full force and effect for the remainder of the term, or as otherwise set forth in Section 6(d), except if such provision deprives the Agreement from its essential obligations. You may not assign this Agreement or any of its rights under this Agreement without the prior written consent of WAYFORWARD TECHNOLOGIES, and any attempted assignment without such consent shall be void. Subject to the foregoing restriction, this Agreement will be fully binding upon, inure to the benefit of, and be enforceable by us and our respective successors and assigns. The failure of WAYFORWARD TECHNOLOGIES to exercise or enforce any right or provision of this Agreement shall not operate as a waiver of such right or provision. The section titles in this Agreement are for convenience only and have no legal or contractual effect.\n"
 "\n"
-"To contact WF, please follow the process described on our support page "
-"located at \n"
+"To contact WF, please follow the process described on our support page located at \n"
 "https://wayforward.com/support/\n"
 "\n"
 "WAYFORWARD TECHNOLOGIES PRIVACY POLICY\n"
@@ -2292,7 +1675,8 @@ msgstr "Каждый спасённый кот делает вас сильне�
 #. 徐々に体力が減少してしまうが、敵を倒すと回復する。
 msgctxt "EQUIP_DESC_VAMPIRE_TEETH"
 msgid "Gradually lose ST, but gain ST by defeating enemies."
-msgstr "Постепенно теряется СТ, но восполняется после победы над противниками."
+msgstr ""
+"Постепенно теряется СТ, но восполняется после победы над противниками."
 
 #. 稀にヘヴィアタックが敵を炎上させる。
 msgctxt "EQUIP_DESC_WITCH_BOTTLE"
@@ -4418,7 +3802,8 @@ msgstr "Применить?"
 
 #. © ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights reserved.
 msgctxt "LBL_LEGAL_DISCLAIMER"
-msgid "© ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights reserved."
+msgid ""
+"© ARC SYSTEM WORKS / WayForward Technologies, Inc. All rights reserved."
 msgstr ""
 "© ARC SYSTEM WORKS / WayForward Technologies, Inc. Все права защищены.\n"
 "Русский перевод: rcg2-l10n (https://github.com/winterheart/rcg2-l10n)"
@@ -4487,11 +3872,6 @@ msgstr "Японский"
 msgctxt "Language_Korean"
 msgid "Korean"
 msgstr "Корейский"
-
-#. Russian
-msgctxt "Language_Russian"
-msgid "Russian"
-msgstr "Русский"
 
 #. スペイン語
 msgctxt "Language_Spanish"
@@ -5769,20 +5149,10 @@ msgctxt "PrimoDelights_GuestSubtitle_Kyoko"
 msgid "Local Idiot"
 msgstr "Местная старшеклассница"
 
-#. 地元？のショップ店員
-msgctxt "PrimoDelights_GuestSubtitle_Marian"
-msgid "Local Idiot"
-msgstr "Местная (?) продавщица"
-
 #. 地元の高校生
 msgctxt "PrimoDelights_GuestSubtitle_Misako"
 msgid "Local Idiot"
 msgstr "Местная старшеклассница"
-
-#. 地元？の高校生
-msgctxt "PrimoDelights_GuestSubtitle_Provie"
-msgid "Local Idiot"
-msgstr "Местная (?) старшеклассница"
 
 #. 地元の高校生
 msgctxt "PrimoDelights_GuestSubtitle_Riki"
@@ -5800,8 +5170,8 @@ msgid ""
 "Dethroned as the leader of his gang, Abobo finds a new path that still "
 "includes punching away his problems."
 msgstr ""
-"Исключённый из своей банды, Абобо ищет новый способ решения мировых проблем, "
-"связанный с кулаками."
+"Исключённый из своей банды, Абобо ищет новый способ решения мировых проблем,"
+" связанный с кулаками."
 
 #. アボボ
 msgctxt "Recruit_Abobo_NAME"
@@ -5954,8 +5324,8 @@ msgctxt "Recruit_CATS_K47H2YN_DESC"
 msgid ""
 "This C.A.T.Soldier is a special beta model running experimental software. "
 msgstr ""
-"Прототип К.А.Т.С. для универсальных задач. Корпус сильно потрепан, но боевой "
-"дух всё ещё высок."
+"Прототип К.А.Т.С. для универсальных задач. Корпус сильно потрепан, но боевой"
+" дух всё ещё высок."
 
 #. K47H2YN
 msgctxt "Recruit_CATS_K47H2YN_NAME"
@@ -6041,8 +5411,8 @@ msgstr "Коллин"
 msgctxt "Recruit_Cheerleader_Linnea_DESC"
 msgid "These cheerful girls are agile and love to dodge your advances."
 msgstr ""
-"Стремительная болельщица. Бои очень важны для получения титула «Мисс Старшая "
-"школа Ривер-сити»."
+"Стремительная болельщица. Бои очень важны для получения титула «Мисс Старшая"
+" школа Ривер-сити»."
 
 #. リネア
 msgctxt "Recruit_Cheerleader_Linnea_NAME"
@@ -6185,8 +5555,8 @@ msgstr "ДЖ3-Р3МИ"
 msgctxt "Recruit_Cyborg_J4-M35_DESC"
 msgid "Giant robots from the future disguised as giant robot-looking humans."
 msgstr ""
-"Робот из будущего. В Океанских холмах было так весело, что он в конце концов "
-"загорел и сделал себе бодиарт."
+"Робот из будущего. В Океанских холмах было так весело, что он в конце концов"
+" загорел и сделал себе бодиарт."
 
 #. J4-M35
 msgctxt "Recruit_Cyborg_J4-M35_NAME"
@@ -6208,7 +5578,8 @@ msgctxt "Recruit_Hibari_DESC"
 msgid ""
 "Hibari would love to web this city up with her threading. The fashionless "
 "will suffer."
-msgstr "Визионер из мира моды, готовый наводнить весь город своими творениями."
+msgstr ""
+"Визионер из мира моды, готовый наводнить весь город своими творениями."
 
 #. ヒバリ
 msgctxt "Recruit_Hibari_NAME"
@@ -6287,8 +5658,8 @@ msgctxt "Recruit_LARPer_Caleb_DESC"
 msgid ""
 "\"Any rock can be used for banishing if you throw it hard enough.\" - Caleb"
 msgstr ""
-"«Каким бы тяжёлым ни был камень, если бросить его в пруд - то он исчезнет» - "
-"Калеб"
+"«Каким бы тяжёлым ни был камень, если бросить его в пруд - то он исчезнет» -"
+" Калеб"
 
 #. ケイレブ
 msgctxt "Recruit_LARPer_Caleb_NAME"
@@ -6330,8 +5701,8 @@ msgstr "Люциус"
 msgctxt "Recruit_LARPer_Wilmot_DESC"
 msgid "They have no aptitude for the arcane, so they like to play pretend."
 msgstr ""
-"Ученик волшебника. Слишком ленивый, чтобы чтобы познавать арканы, так что он "
-"просто притворяется."
+"Ученик волшебника. Слишком ленивый, чтобы чтобы познавать арканы, так что он"
+" просто притворяется."
 
 #. ウィルモット
 msgctxt "Recruit_LARPer_Wilmot_NAME"
@@ -6366,7 +5737,8 @@ msgctxt "Recruit_Linda_Neo Linda_DESC"
 msgid ""
 "Linda's twin sister. She was technically born first, so she's in charge."
 msgstr ""
-"Сестра-близнец Линды. Формально она родилась первой, так что она тут главная."
+"Сестра-близнец Линды. Формально она родилась первой, так что она тут "
+"главная."
 
 #. ネオリンダ
 msgctxt "Recruit_Linda_Neo Linda_NAME"
@@ -6447,7 +5819,8 @@ msgstr "Валерия"
 
 #. ゾンビになったゴロツキ。遊泳禁止だったサブの違法薬品の溜め池で泳いでしまった。
 msgctxt "Recruit_MaleThug_Chaim_DESC"
-msgid "Sabu's illegal chemical reservoir wasn't the best choice for swimming. "
+msgid ""
+"Sabu's illegal chemical reservoir wasn't the best choice for swimming. "
 msgstr ""
 "Незаконный резервуар с химикатами Сабу - не самое лучшее место для купания."
 
@@ -6585,7 +5958,8 @@ msgctxt "Recruit_RCRRiki_DESC"
 msgid ""
 "This guy looks weirdly familiar. Riki gets deja vu when he looks at him."
 msgstr ""
-"Этот парень выглядит подозрительно знакомым. Кажется, Рики его недолюбливает."
+"Этот парень выглядит подозрительно знакомым. Кажется, Рики его "
+"недолюбливает."
 
 #. ライアン
 msgctxt "Recruit_RCRRiki_NAME"
@@ -6597,7 +5971,8 @@ msgctxt "Recruit_Ryan_DESC"
 msgid ""
 "This guy looks weirdly familiar. Riki gets deja vu when he looks at him."
 msgstr ""
-"Этот парень выглядит подозрительно знакомым. Кажется, Рики его недолюбливает."
+"Этот парень выглядит подозрительно знакомым. Кажется, Рики его "
+"недолюбливает."
 
 #. ライアン
 msgctxt "Recruit_Ryan_NAME"
@@ -6642,8 +6017,8 @@ msgstr "Кайден"
 msgctxt "Recruit_SchoolBoy_Malhar_DESC"
 msgid "These entitled jerks love to fight dirty."
 msgstr ""
-"Ученик Старшей школы Ривер-сити. В карманах пошитых на заказ брюк помещается "
-"много песка."
+"Ученик Старшей школы Ривер-сити. В карманах пошитых на заказ брюк помещается"
+" много песка."
 
 #. マルハール
 msgctxt "Recruit_SchoolBoy_Malhar_NAME"
@@ -6705,7 +6080,8 @@ msgstr "Ичика"
 
 #. 女子高生グループのリーダー。見た目通りの苦労人。
 msgctxt "Recruit_SchoolGirl_Nen_DESC"
-msgid "The dominant female of the pack. She didn't get the part for her looks."
+msgid ""
+"The dominant female of the pack. She didn't get the part for her looks."
 msgstr "Староста класса. Очень прилежная."
 
 #. ネン
@@ -6786,8 +6162,8 @@ msgstr "Хеллвиг"
 msgctxt "Recruit_Tigerman_Leon_DESC"
 msgid "These pro wrestlers are as agile as they are musclebound."
 msgstr ""
-"Профессиональный рестлер из Ривер-сити. У него хорошие дружеские отношения с "
-"коллегой Дуэйном."
+"Профессиональный рестлер из Ривер-сити. У него хорошие дружеские отношения с"
+" коллегой Дуэйном."
 
 #. レオン
 msgctxt "Recruit_Tigerman_Leon_NAME"
@@ -6903,8 +6279,8 @@ msgstr "Вес"
 msgctxt "Recruit_YakuzaF_Akari_DESC"
 msgid "Sabu’s henchwomen are deadly with their knife-throwing skills."
 msgstr ""
-"Женщина-якудза из Санвакай. Часто ходит в больницу, чтобы попрактиковаться в "
-"метании ножей."
+"Женщина-якудза из Санвакай. Часто ходит в больницу, чтобы попрактиковаться в"
+" метании ножей."
 
 #. アカリ
 msgctxt "Recruit_YakuzaF_Akari_NAME"
@@ -6950,7 +6326,8 @@ msgctxt "Recruit_YakuzaF_Momoe_DESC"
 msgid ""
 "Sabu’s right-hand lady. Her knives can slice teenage girls like cafeteria "
 "butter."
-msgstr "Правая рука самого Сабу. Её ножи могут нашинковать школьниц в капусту."
+msgstr ""
+"Правая рука самого Сабу. Её ножи могут нашинковать школьниц в капусту."
 
 #. モモエ
 msgctxt "Recruit_YakuzaF_Momoe_NAME"
@@ -6979,7 +6356,8 @@ msgstr "Синобу"
 
 #. 三和会の男ヤクザ。サブの武闘集団は拳のみを極限まで鍛え上げている。
 msgctxt "Recruit_YakuzaMale_Fudo_DESC"
-msgid "Sabu’s army of martial artists are incredibly skilled with their fists."
+msgid ""
+"Sabu’s army of martial artists are incredibly skilled with their fists."
 msgstr ""
 "Мужчина-якудза из Санвакай. Тренируется над своими кулаками до изнеможения."
 
@@ -7000,8 +6378,10 @@ msgstr "Фудзи"
 
 #. 三和会の男ヤクザ。身体中にある傷については何も話さない。
 msgctxt "Recruit_YakuzaMale_Hiromi_DESC"
-msgid "Sabu’s army of martial artists are incredibly skilled with their fists."
-msgstr "Мужчина-якудза из Санвакай. Ни слова не говорит о своих ранах на теле."
+msgid ""
+"Sabu’s army of martial artists are incredibly skilled with their fists."
+msgstr ""
+"Мужчина-якудза из Санвакай. Ни слова не говорит о своих ранах на теле."
 
 #. ヒロミ
 msgctxt "Recruit_YakuzaMale_Hiromi_NAME"
@@ -7010,7 +6390,8 @@ msgstr "Хироми"
 
 #. 三和会の男ヤクザ。鍛え上げられた上腕二頭筋で三和会にスカウトされた。
 msgctxt "Recruit_YakuzaMale_Hisoka_DESC"
-msgid "Sabu’s army of martial artists are incredibly skilled with their fists."
+msgid ""
+"Sabu’s army of martial artists are incredibly skilled with their fists."
 msgstr "Мужчина-якудза из Санвакай. У него хорошо натренированные бицепсы."
 
 #. ヒソカ
@@ -7020,7 +6401,8 @@ msgstr "Хисока"
 
 #. 三和会の男ヤクザ。プロテイン味の飴を舐めている。
 msgctxt "Recruit_YakuzaMale_Katashi_DESC"
-msgid "Sabu’s army of martial artists are incredibly skilled with their fists."
+msgid ""
+"Sabu’s army of martial artists are incredibly skilled with their fists."
 msgstr "Мужчина-якудза из Санвакай. Любит конфеты со вкусом протеина."
 
 #. カタシ
@@ -7658,8 +7040,8 @@ msgid ""
 "Hold {16} to block attack in front of you. Tap {16} at the moment of impact "
 "to parry the attack or catch weapons. Double tap up or down to dodge."
 msgstr ""
-"Удерживайте {16}, чтобы блокировать перед собой удары. Нажмите {16} в момент "
-"получения удара, чтобы парировать удар или поймать летящее оружие. Двойное "
+"Удерживайте {16}, чтобы блокировать перед собой удары. Нажмите {16} в момент"
+" получения удара, чтобы парировать удар или поймать летящее оружие. Двойное "
 "нажатие на движение вверх или вниз делает уворот."
 
 #. ガードを固めろ！
@@ -7670,8 +7052,8 @@ msgstr "ЗАЩИЩАЙСЯ!"
 #. ここは安全な隠れ家だ！敵に倒されたときにこの場所で復活することができるぜ。キャラクターを交代したり、アイテムを入れ替えたりもできるぞ。
 msgctxt "Tutorial_08_Body"
 msgid ""
-"This is a hideout where you'll be safe. You'll respawn here. You can regroup "
-"here to swap characters and change settings. You'll refill some stamina "
+"This is a hideout where you'll be safe. You'll respawn here. You can regroup"
+" here to swap characters and change settings. You'll refill some stamina "
 "whenever you return."
 msgstr ""
 "Это безопасное укрытие, в котором вы будете появляться. Здесь также можно "
@@ -7700,8 +7082,8 @@ msgstr "ОРУЖИЕ В ИЗОБИЛИИ!"
 #. 敵を弱らせると稀に命乞いをしてくる。掴んだ状態で  {4}  か  {5}  を押すと助っ人に勧誘するぞ。2人まで呼ぶことができるぜ。
 msgctxt "Tutorial_11_Body"
 msgid ""
-"Weaken the last enemy left in a scene and they will beg for mercy. Walk "
-"into  them to grab the enemy, then press {4} or {5} to recruit them. You can "
+"Weaken the last enemy left in a scene and they will beg for mercy. Walk into"
+"  them to grab the enemy, then press {4} or {5} to recruit them. You can "
 "have two recruits."
 msgstr ""
 "Избейте последнего противника на площадке, и он начнёт просить о пощаде. "
@@ -7749,8 +7131,8 @@ msgid ""
 "Sometimes an enemy will become dizzy after being attacked repeatedly. Walk "
 "into them to grab the enemy, then throw or attack them with {2} and {3}."
 msgstr ""
-"Иногда от постоянных ударов у противника может закружиться голова. Подойдите "
-"к противнику, чтобы сделать захват, а затем бросьте его или ударьте с "
+"Иногда от постоянных ударов у противника может закружиться голова. Подойдите"
+" к противнику, чтобы сделать захват, а затем бросьте его или ударьте с "
 "помощью {2} или {3}."
 
 #. つかめ！
@@ -7793,8 +7175,8 @@ msgstr "БЛОКИРОВКА ЭКРАНА"
 msgctxt "Tutorial_24_Body"
 msgid ""
 "Recruited enemies can be called into action by pressing the {4} or {5} "
-"button. Their health is displayed in your HUD at the top of the screen. Once "
-"defeated, they will return to a hideout."
+"button. Their health is displayed in your HUD at the top of the screen. Once"
+" defeated, they will return to a hideout."
 msgstr ""
 "Рекрутов можно призвать, нажав {4} или {5}. Их здоровье отображается вверху "
 "экрана. После поражения они вернутся в укрытие."
@@ -7821,8 +7203,8 @@ msgstr "НАЙМ ПРИСПЕШНИКОВ!"
 #. お菓子やアイテムを使うと体力が回復する。あとで食べたいアイテムはバッグや倉庫に保存しておくことも可能！またアイテムには最初の一度だけステータスがアップする効果も付いてるぞ！
 msgctxt "Tutorial_26_Body"
 msgid ""
-"Eating a consumable item will earn you a permanent stat boost the first time "
-"it's eaten. You can eat them in the shop or save them for later."
+"Eating a consumable item will earn you a permanent stat boost the first time"
+" it's eaten. You can eat them in the shop or save them for later."
 msgstr ""
 "Употребление в пищу даст вам постоянную прибавку к характеристикам при "
 "первом поедании. Еду можно съесть сразу или оставить на потом."
@@ -7835,8 +7217,8 @@ msgstr "ХОЧУ ЕЩЁ!"
 #. 役に立つ効果をもったアクセサリを身につけることで戦いを有利にすすめる事ができるぞ。
 msgctxt "Tutorial_27_Body"
 msgid ""
-"You can wear two kinds of accessories that will aid you in battle with buffs "
-"and upgrades."
+"You can wear two kinds of accessories that will aid you in battle with buffs"
+" and upgrades."
 msgstr ""
 "Вы можете носить два вида аксессуаров, которые помогают в бою своими "
 "улучшениями."
@@ -7849,8 +7231,8 @@ msgstr "ПОХОД ПО МАГАЗИНАМ!"
 #. 道場では新しい攻撃技を身につけることができるぞ！（多少のお金も必要だが）通常攻撃、ヘヴィ攻撃の他にSPゲージを消費して攻撃するSP攻撃も覚えられるぞ！
 msgctxt "Tutorial_28_Body"
 msgid ""
-"Find new moves here to expand your arsenal of attacks. Special attacks drain "
-"SP (the green meter)."
+"Find new moves here to expand your arsenal of attacks. Special attacks drain"
+" SP (the green meter)."
 msgstr ""
 "Находите новые приёмы для пополнения своего арсенала атак. Особые атаки "
 "расходуют ОС (зелёная шкала)."
@@ -7863,8 +7245,8 @@ msgstr "ВОЙДИ В ДОДЗЁ!"
 #. サウナに入ると体力とSPゲージを回復できるぞ。
 msgctxt "Tutorial_29_Body"
 msgid ""
-"Saunas are a quick and cheap way of replenishing all your ST and SP. You can "
-"do it alone or with your group."
+"Saunas are a quick and cheap way of replenishing all your ST and SP. You can"
+" do it alone or with your group."
 msgstr ""
 "Сауна является быстрым и дешёвым способом восстановить СТ и ОС. Её можно "
 "посетить как в одиночку, так и группой."
@@ -8349,11 +7731,6 @@ msgstr "Дружок"
 msgctxt "UI_ShopKeeper_Suzy"
 msgid "Suzy"
 msgstr "Сюзи"
-
-#. タカシ
-msgctxt "UI_ShopKeeper_Takashi"
-msgid "Takashi"
-msgstr "Такаси"
 
 #. 天狗
 msgctxt "UI_ShopKeeper_Tengu"
@@ -9764,6 +9141,503 @@ msgstr "Комната для допросов"
 msgctxt "World_8_YakuzaTraining_NAME"
 msgid "Yakuza Training Room"
 msgstr "Тренировочный зал якудза"
+
+#. 未開放
+msgctxt "Character_Unlock_DefeatPrompt"
+msgid "Defeat to Earn"
+msgstr ""
+
+#. DLCを購入する
+msgctxt "Character_Unlock_PurchasePrompt"
+msgid "Purchase DLC"
+msgstr ""
+
+#. ジャンプ力とアイテムドロップ確率が上昇する。
+msgctxt "EQUIP_DESC_BUNNY_DAY"
+msgid "Bunny hops and more chance for snacks."
+msgstr ""
+
+#. 武器がすぐに破壊される代わりに、大ダメージを与えるようになる。
+msgctxt "EQUIP_DESC_EVERY_DAY"
+msgid "Weapons shatter and do massive damage."
+msgstr ""
+
+#. 助っ人が倒されると体力が回復する。
+msgctxt "EQUIP_DESC_LOVE_DAY"
+msgid "Fallen recruits will refill your stamina."
+msgstr ""
+
+#. 敵が花火のように吹っ飛ぶようになる。
+msgctxt "EQUIP_DESC_PATRIOT_DAY"
+msgid "Launch enemies for fireworks."
+msgstr ""
+
+#. 最後の敵はすぐに命乞いをするようになる。
+msgctxt "EQUIP_DESC_SPOOKY_DAY"
+msgid "Last enemy will start begging for mercy."
+msgstr ""
+
+#. ジャンプの落下速度が遅くなり、落下ダメージがなくなる。
+msgctxt "EQUIP_DESC_SUMMER_DAY"
+msgid "Floaty jumps and no pitfall damage."
+msgstr ""
+
+#. 炎の攻撃に強くなり、体力が満タン時のみヘヴィアタックに凍結効果が突く。
+msgctxt "EQUIP_DESC_WINTER_DAY"
+msgid "Icy heavy attack at full ST. Immune to fire."
+msgstr ""
+
+#. ウサギのカチューシャ
+msgctxt "EQUIP_NAME_BUNNY_DAY"
+msgid "Bunny Ears"
+msgstr ""
+
+#. 野球グローブ
+msgctxt "EQUIP_NAME_EVERY_DAY"
+msgid "Baseball Gloves"
+msgstr ""
+
+#. キューピッドの弓矢
+msgctxt "EQUIP_NAME_LOVE_DAY"
+msgid "Cupid’s Bow"
+msgstr ""
+
+#. パイロットなサングラス
+msgctxt "EQUIP_NAME_PATRIOT_DAY"
+msgid "Aviator Glasses"
+msgstr ""
+
+#. 魔女のとんがり帽子
+msgctxt "EQUIP_NAME_SPOOKY_DAY"
+msgid "Witch’s Hat"
+msgstr ""
+
+#. 携帯パラソル
+msgctxt "EQUIP_NAME_SUMMER_DAY"
+msgid "Sunbrella"
+msgstr ""
+
+#. 氷結手袋
+msgctxt "EQUIP_NAME_WINTER_DAY"
+msgid "Snow Mittens"
+msgstr ""
+
+#. Billy @TheRealBimmy90
+msgctxt "HonkrCharacterName_Billy"
+msgid "Billy @TheRealBimmy90"
+msgstr ""
+
+#. Jimmy @AngryBro87
+msgctxt "HonkrCharacterName_Jimmy"
+msgid "Jimmy @AngryBro87"
+msgstr ""
+
+#. 隠れ家にカッコいい音楽を追加
+msgctxt "ITEM_DESC_DLCLEEBROS_SONGTITLE"
+msgid "Cool new music for your hideout."
+msgstr ""
+
+#. 30秒間、助っ人が与えるダメージが2倍になる。
+msgctxt "ITEM_DESC_RECRUIT_GOOP"
+msgid "Double recruit damage for 30 seconds"
+msgstr ""
+
+#. 5秒間、シールドを発生させる。
+msgctxt "ITEM_DESC_STRAWBERRY_SYRINGE"
+msgid "Shield for 5 seconds"
+msgstr ""
+
+#. 10秒間、与えるダメージが2倍になる。
+msgctxt "ITEM_DESC_SUGAR_PILLS"
+msgid "Double damage for 10 seconds"
+msgstr ""
+
+#. 仲間のゾンビを呼び出す。
+msgctxt "ITEM_DESC_ZOMBIE_SALVE"
+msgid "Conjures a friendly zombie."
+msgstr ""
+
+#. We're The Double Dragons
+msgctxt "ITEM_NAME_DLCLEEBROS_SONGTITLE"
+msgid "We're The Double Dragons"
+msgstr ""
+
+#. 助っ人狂人剤
+msgctxt "ITEM_NAME_RECRUIT_GOOP"
+msgid "Recruit Goop"
+msgstr ""
+
+#. イチゴ注射器
+msgctxt "ITEM_NAME_STRAWBERRY_SYRINGE"
+msgid "Strawberry Syringe"
+msgstr ""
+
+#. シュガー薬
+msgctxt "ITEM_NAME_SUGAR_PILLS"
+msgid "Sugar Pills"
+msgstr ""
+
+#. 緊急ゾンビ液
+msgctxt "ITEM_NAME_ZOMBIE_SALVE"
+msgid "Zombie Salve"
+msgstr ""
+
+#. 天雷龍爪拳
+msgctxt "MOVE_NAME_AIR_BRODUKEN"
+msgid "Air Broduken"
+msgstr ""
+
+#. 嵐風脚
+msgctxt "MOVE_NAME_AIR_HURRICANE_KICK"
+msgid "Air Hurricane Kick"
+msgstr ""
+
+#. 半月裏拳
+msgctxt "MOVE_NAME_BACK_ELBOW_SMASH"
+msgid "Back Elbow Smash"
+msgstr ""
+
+#. 後ろ蹴り上げ
+msgctxt "MOVE_NAME_BACK_KICK"
+msgid "Back Kick"
+msgstr ""
+
+#. 一本背負い飛ばし
+msgctxt "MOVE_NAME_BOUNCER_THROW_LEEBROS"
+msgid "Bouncer Throw"
+msgstr ""
+
+#. 龍爪拳
+msgctxt "MOVE_NAME_BRODUKEN"
+msgid "Broduken"
+msgstr ""
+
+#. 天雷龍爪拳
+msgctxt "MOVE_NAME_BRODUKEN_IMPACT"
+msgid "Broduken Impact"
+msgstr ""
+
+#. 天殺龍神拳
+msgctxt "MOVE_NAME_BRO_COMBO"
+msgid "Bro Combo"
+msgstr ""
+
+#. 天殺龍神拳
+msgctxt "MOVE_NAME_BRO_RUSH"
+msgid "Bro Rush"
+msgstr ""
+
+#. 双龍狩り
+msgctxt "MOVE_NAME_BRO_TACKLE"
+msgid "Bro Tackle"
+msgstr ""
+
+#. 上段振り落とし
+msgctxt "MOVE_NAME_DRAGON_CHOP"
+msgid "Dragon Chop"
+msgstr ""
+
+#. 龍神脚・断切
+msgctxt "MOVE_NAME_DRAGON_FLIP"
+msgid "Dragon Flip"
+msgstr ""
+
+#. 不動嵐風脚
+msgctxt "MOVE_NAME_DRAGON_HURRICANE"
+msgid "Dragon Hurricane"
+msgstr ""
+
+#. 爆魔龍神脚
+msgctxt "MOVE_NAME_DRAGON_KICK"
+msgid "Dragon Kick"
+msgstr ""
+
+#. 雷拳
+msgctxt "MOVE_NAME_DRAGON_STINGER"
+msgid "Dragon Stinger"
+msgstr ""
+
+#. 順鈎突き
+msgctxt "MOVE_NAME_EXTRA_HEAVY_JAB"
+msgid "Extra Heavy Jab"
+msgstr ""
+
+#. 逆蹴り
+msgctxt "MOVE_NAME_FRONT_SHOVE_KICK"
+msgid "Front Shove Kick"
+msgstr ""
+
+#. 逆鈎突き
+msgctxt "MOVE_NAME_HEAVY_CROSS"
+msgid "Heavy Cross"
+msgstr ""
+
+#. 順突き
+msgctxt "MOVE_NAME_HEAVY_JAB"
+msgid "Heavy Jab"
+msgstr ""
+
+#. 半月斬り
+msgctxt "MOVE_NAME_HIGH_KICK_LEEBROS"
+msgid "High Kick"
+msgstr ""
+
+#. 上段振り蹴り
+msgctxt "MOVE_NAME_HIGH_ROUNDHOUSE"
+msgid "High Roundhouse"
+msgstr ""
+
+#. 飯綱落とし
+msgctxt "MOVE_NAME_IZUNA_DROP"
+msgid "Izuna Drop"
+msgstr ""
+
+#. 空中前蹴り
+msgctxt "MOVE_NAME_JUMP_KICK_"
+msgid "Jump Kick"
+msgstr ""
+
+#. 空中地獄突き
+msgctxt "MOVE_NAME_JUMP_PUNCH"
+msgid "Jump Punch"
+msgstr ""
+
+#. 中断蹴り上げ
+msgctxt "MOVE_NAME_JUMP_SPIN_KICK"
+msgid "Jump Spin Kick"
+msgstr ""
+
+#. 反転背負い上げ
+msgctxt "MOVE_NAME_MISSION_THROW"
+msgid "Mission Throw"
+msgstr ""
+
+#. 天雷波
+msgctxt "MOVE_NAME_MOONSAULT"
+msgid "Moonsault"
+msgstr ""
+
+#. 天雷脚
+msgctxt "MOVE_NAME_REBOUND_KICK"
+msgid "Rebound Kick"
+msgstr ""
+
+#. 髄打ち
+msgctxt "MOVE_NAME_RIB_KICK"
+msgid "Rib Kick"
+msgstr ""
+
+#. 嵐風脚
+msgctxt "MOVE_NAME_RISING_HURRICANE"
+msgid "Rising Hurricane"
+msgstr ""
+
+#. 不動嵐風脚
+msgctxt "MOVE_NAME_RISING_HURRICANE_KICK"
+msgid "Rising Hurricane Kick"
+msgstr ""
+
+#. 龍爪脚
+msgctxt "MOVE_NAME_RISING_KNEE"
+msgid "Rising Knee"
+msgstr ""
+
+#. 叩きつけラリアット
+msgctxt "MOVE_NAME_RUNNING_CLOTHESELINE"
+msgid "Running Clothesline"
+msgstr ""
+
+#. 十字足後ろ蹴り
+msgctxt "MOVE_NAME_RUNNING_KICK"
+msgid "Running Kick"
+msgstr ""
+
+#. 一点頭突き
+msgctxt "MOVE_NAME_SIDE_HEADBUTT_LEEBROS"
+msgid "Side Headbutt"
+msgstr ""
+
+#. 半月裏拳
+msgctxt "MOVE_NAME_SPIN_BACK_FIST"
+msgid "Spin Back Fist"
+msgstr ""
+
+#. 空中回し蹴り
+msgctxt "MOVE_NAME_SPIN_KICK_"
+msgid "Spin Kick"
+msgstr ""
+
+#. 上段前蹴り
+msgctxt "MOVE_NAME_STEP_KICK"
+msgid "Step Kick"
+msgstr ""
+
+#. 手刀鎖骨砕き
+msgctxt "MOVE_NAME_TOP_DOWN_ELBOW"
+msgid "Top Down Elbow"
+msgstr ""
+
+#. 切虎蹴り
+msgctxt "MOVE_NAME_TRIPLE_DRAGON"
+msgid "Triple Dragon"
+msgstr ""
+
+#. 天殺龍神翔
+msgctxt "MOVE_NAME_UPPERCUT_LEEBROS"
+msgid "Uppercut"
+msgstr ""
+
+#. DLC
+msgctxt "MainMenuScreen_DLC"
+msgid "DLC"
+msgstr ""
+
+#. 兄弟の青い方
+msgctxt "PrimoDelights_GuestSubtitle_Billy"
+msgid "The Blue One"
+msgstr ""
+
+#. 兄弟の赤い方
+msgctxt "PrimoDelights_GuestSubtitle_Jimmy"
+msgid "The Red One"
+msgstr ""
+
+#. 地元？のショップ店員
+msgctxt "PrimoDelights_GuestSubtitle_Marian"
+msgid "Local(?) Shopkeep"
+msgstr ""
+
+#. 地元？の高校生
+msgctxt "PrimoDelights_GuestSubtitle_Provie"
+msgid "Local(?) High Schooler"
+msgstr ""
+
+#. ビリー
+msgctxt "Ticker_Billy_NAME"
+msgid "Billy"
+msgstr ""
+
+#. ジミー
+msgctxt "Ticker_Jimmy_NAME"
+msgid "Jimmy"
+msgstr ""
+
+#. 期間限定ショップでは年に数回、一部の商品が入れ替わります。新しい限定アイテムを定期的にチェックしてみてください！
+msgctxt "Tutorial_Seasonal_Body"
+msgid ""
+"This special seasonal shop cycles its available items several times a year. "
+"Check back regularly for new and exclusive items!"
+msgstr ""
+
+#. 新ショップ開店記念！
+msgctxt "Tutorial_Seasonal_Title"
+msgid "Seasons Greetings!"
+msgstr ""
+
+#. 購入
+msgctxt "UI_DLC_BuyNow"
+msgid "Available Now!"
+msgstr ""
+
+#. 伝説のダブルドラゴンが
+#. 道場を飛び出してリバーシティに繰り出す！
+msgctxt "UI_DLC_Description_1"
+msgid ""
+"The legendary Double Dragons, Billy and Jimmy Lee, are busting out of their "
+"dojos to hit the mean streets of River City! Let's go, bros!"
+msgstr ""
+
+#. 下記の無料コンテンツもお見逃しなく！
+#. <color=#6182f7>・季節限定ショップの「Season's Beatings」が開店</color>
+#. <color=#fe414e>・特殊なアイテムが勢揃いの「Devil's Candy」が開店</color>
+#. <color=#6182f7>・マルチカラーの追加 (同じキャラクターを選択可能に！)</color>
+msgctxt "UI_DLC_Description_2"
+msgid ""
+"Don't miss the NEW FREE content:\n"
+"<color=#6182f7> •  \"Season's Beatings\" seasonal shop</color>\n"
+"<color=#fe414e> •  \"Devil's Candy\" shop</color>\n"
+"<color=#6182f7> •  Downtown training dojo</color>\n"
+"<color=#fe414e> •  Double Dragon motion comic</color>\n"
+"<color=#6182f7> •  Character color palettes</color>\n"
+"<color=#fe414e> •  Choose same character in online multiplayer</color>"
+msgstr ""
+
+#. 追加コンテンツを開放して、ダブルドラゴンを復活させよう！以下の内容が含まれます。
+#. <color=#6182f7>・ビリー・リー (プレイアブルキャラ追加)</color>
+#. <color=#fe414e>・ジミー・リー (プレイアブルキャラ追加)</color>
+#. <color=#6182f7>・ダブルドラゴンのテーマ曲</color>
+msgctxt "UI_DLC_Description_3"
+msgid ""
+"Bring the Double Dragons back into action with the premium Double Dragon DLC! They've been uppercutting and spin kicking since their 1987 arcade debut and ain't gonna stop now! The Double Dragon DLC includes:\n"
+"<color=#6182f7> •  Playable Billy Lee</color>\n"
+"<color=#fe414e> •  Playable Jimmy Lee</color>\n"
+"<color=#6182f7> •  Double Dragon voiceovers & story integration</color>\n"
+"<color=#fe414e> •  New vocal song</color>\n"
+"<color=#6182f7> •  New dojo master Boro</color>"
+msgstr ""
+
+#. Now Playing
+msgctxt "UI_NowPlaying"
+msgid "Now Playing"
+msgstr ""
+
+#. Default
+msgctxt "UI_NowPlaying_Default"
+msgid "Default"
+msgstr ""
+
+#. Paused
+msgctxt "UI_NowPlaying_None"
+msgid "Paused"
+msgstr ""
+
+#. ボロ
+msgctxt "UI_ShopKeeper_Boro"
+msgid "Boro"
+msgstr ""
+
+#. カズ&パンドラ
+msgctxt "UI_ShopKeeper_Kazu Pandora"
+msgid "Kazu & Pandora"
+msgstr ""
+
+#. ミホ
+msgctxt "UI_ShopKeeper_Miho"
+msgid "Miho"
+msgstr ""
+
+#. タカシ
+msgctxt "UI_ShopKeeper_Takashi"
+msgid "Mike"
+msgstr ""
+
+#. Devil's Candy
+msgctxt "UI_Shop_Name_STORE_DEVILSCANDY"
+msgid "Devil's Candy"
+msgstr ""
+
+#. Seasons Beatings
+msgctxt "UI_Shop_Name_STORE_SEASONAL"
+msgid "Seasons Beatings"
+msgstr ""
+
+#. Russian
+#, fuzzy
+msgctxt "Language_Russian"
+msgid "Russian"
+msgstr "Русский"
+
+#~ msgctxt "PrimoDelights_GuestSubtitle_Marian"
+#~ msgid "Local Idiot"
+#~ msgstr "Местная (?) продавщица"
+
+#~ msgctxt "PrimoDelights_GuestSubtitle_Provie"
+#~ msgid "Local Idiot"
+#~ msgstr "Местная (?) старшеклассница"
+
+#~ msgctxt "UI_ShopKeeper_Takashi"
+#~ msgid "Takashi"
+#~ msgstr "Такаси"
 
 #~ msgctxt "PleaseDisableCrossplay"
 #~ msgid "Please disable crossplay to join this server."

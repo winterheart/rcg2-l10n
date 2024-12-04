@@ -11,8 +11,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 22.08.3\n"
 
 #. ラーーーーブ！！！
@@ -68,8 +67,8 @@ msgstr "Теперь пора навестить папу."
 #. <size=40>三和会っつう帝国を築き上げた親父が刑務所でバカンスしてる間、よりによって自分の娘にその帝国を預けやがった。</size>
 msgctxt "Manga_01_11"
 msgid ""
-"<size=40>I mean, our beloved father the man who single-handedly built up the "
-"Sanwakai Empire from nothing, decides to put his daughter in charge of "
+"<size=40>I mean, our beloved father the man who single-handedly built up the"
+" Sanwakai Empire from nothing, decides to put his daughter in charge of "
 "things while he does a short stretch in the local pen.</size>"
 msgstr ""
 "<size=40>То есть я хотел сказать, к нашего любимого отца. Того, кто "
@@ -253,7 +252,8 @@ msgstr "О-ХО-ХО-ХО, чувак, это было так эпично!"
 #. お前をコケにするだろうとは思ってたが、ありゃひでえ！ あーはっは！
 msgctxt "Manga_01_42"
 msgid ""
-"I mean, I knew he was gona embarrass the CRAP outta you, but that was BAAAAD."
+"I mean, I knew he was gona embarrass the CRAP outta you, but that was "
+"BAAAAD."
 msgstr ""
 "То есть я знал, что он выбьет из тебя всю ДУРЬ, но это было ТА-А-АК плохо."
 
@@ -300,8 +300,8 @@ msgstr "Глаз, наверное?"
 #. 耳だよ、耳間！ 今「耳」の話してただろうが！
 msgctxt "Manga_02_08"
 msgid ""
-"Ears! Between your ears! You just said ears, so that's where I'm gonna shoot "
-"you now."
+"Ears! Between your ears! You just said ears, so that's where I'm gonna shoot"
+" you now."
 msgstr ""
 "Ушей! Промеж ваших ушей! Вы же только что говорили про уши, и туда я вас "
 "собираюсь застрелить."
@@ -543,8 +543,8 @@ msgid ""
 "My last mission took me to a creepy section of Flatirons, chasing some "
 "supernatural crimes."
 msgstr ""
-"Моя последняя миссия завела меня в жуткое место в Нагорье, где я выслеживала "
-"сверхъестественных преступников."
+"Моя последняя миссия завела меня в жуткое место в Нагорье, где я выслеживала"
+" сверхъестественных преступников."
 
 #. 最後に覚えてるのは、
 msgctxt "Manga_03_21a"
@@ -678,8 +678,8 @@ msgctxt "Manga_04_07"
 msgid ""
 "Wait, like Dark Arts stuff? You don't hang out with that Yamada guy, do you?"
 msgstr ""
-"Постой, это как Тёмные искусства? Ты ведь никак не связана с парнем по имени "
-"Ямада?"
+"Постой, это как Тёмные искусства? Ты ведь никак не связана с парнем по имени"
+" Ямада?"
 
 #. いや、あんなのは魔法でも何でもない。
 msgctxt "Manga_04_08"
@@ -702,8 +702,8 @@ msgid ""
 "But one day, Dad took one of his tricks too far, and it vanished them both "
 "from this realm."
 msgstr ""
-"Но однажды отец зашёл слишком далеко с одним из своих фокусов, и оба пропали "
-"из этого измерения."
+"Но однажды отец зашёл слишком далеко с одним из своих фокусов, и оба пропали"
+" из этого измерения."
 
 #. ...
 msgctxt "Manga_04_10b"
@@ -750,7 +750,8 @@ msgstr "Не перебивай её, история и так хороша!"
 
 #. 数年前、ガリガリのヤクザのガキがにやつきながら店に来たんだ。
 msgctxt "Manga_04_15"
-msgid "A few years ago, this scrawny little yakuza weasel shows up at my shop."
+msgid ""
+"A few years ago, this scrawny little yakuza weasel shows up at my shop."
 msgstr ""
 "Несколько лет назад, на пороге моего магазинчика появился тощий хорёк от "
 "якудза."
@@ -777,8 +778,8 @@ msgid ""
 "myself available for any spells, readings, or incantations they ever needed."
 msgstr ""
 "Они включили меня в свою платёжную ведомость и покрывали все мои расходы в "
-"обмен на то, чтобы я могла творить любые заклинания и чары, которые могут им "
-"понадобиться."
+"обмен на то, чтобы я могла творить любые заклинания и чары, которые могут им"
+" понадобиться."
 
 #. 全面的に資金提供するって言われたよ。それからは魔法を使うのにも調べ物をするのにも、
 msgctxt "Manga_04_19a"
@@ -793,7 +794,8 @@ msgstr ""
 msgctxt "Manga_04_19b"
 msgid "available for any spells, readings, or incantations they ever needed."
 msgstr ""
-"чтобы я могла творить любые заклинания и чары, которые могут им понадобиться."
+"чтобы я могла творить любые заклинания и чары, которые могут им "
+"понадобиться."
 
 #. カネのためなら何でもお構いなしって感じ。
 msgctxt "Manga_04_20"
@@ -808,8 +810,8 @@ msgstr "Эй, ведьме нужно было на что-то жить."
 #. マリアンをぎゃふんと言わせてやれって言われたのは、1週間前のことだ。あの女はフラットアイアンズを嗅ぎまわって仕事の邪魔だったから、引き受けた。
 msgctxt "Manga_04_22"
 msgid ""
-"A week ago, they asked me to vex your friend Marian. She was snooping around "
-"Flatirons, getting in my business, so I said sure."
+"A week ago, they asked me to vex your friend Marian. She was snooping around"
+" Flatirons, getting in my business, so I said sure."
 msgstr ""
 "Неделю назад они попросили меня навести морок на вашу подругу Мариан. Она и "
 "так рыскала вокруг Нагорья, влезая в мои дела, так что я согласилась."
@@ -865,7 +867,8 @@ msgctxt "Manga_05_08"
 msgid ""
 "Sorry to break up this cute family reunion, but no one's going anywhere!"
 msgstr ""
-"Прости, что врываюсь в ваше семейное воссоединение, но никто никуда не уйдёт!"
+"Прости, что врываюсь в ваше семейное воссоединение, но никто никуда не "
+"уйдёт!"
 
 #. どっちも倒したことあるし、いけるよね！
 msgctxt "Manga_05_09"
@@ -1026,3 +1029,174 @@ msgstr ""
 msgctxt "PortraitDialog103"
 msgid "GET WRECKED!"
 msgstr "НАЧНЁМ РАЗРУШЕНИЯ!"
+
+#. おい、兄弟！オレ達が鍛えてやった奴らがまた街を救おうとしてやがるぜ！オレたちもこのまま指をくわえて見てるワケにはいかねえだろうよ、なあ！？
+msgctxt "Manga_08_01"
+msgid ""
+"Yo, Billy! I just saw those hot-blooded teens we sometimes train saving the "
+"city. AGAIN! Maybe we should get in on that action, huh?"
+msgstr ""
+
+#. おい、兄弟！
+msgctxt "Manga_08_01a"
+msgid "Yo, Billy!"
+msgstr ""
+
+#. オレ等の門下生がまた街を救ってるぜ！
+msgctxt "Manga_08_01b"
+msgid ""
+"I just saw those hot-blooded teens we sometimes train saving the city. "
+"AGAIN!"
+msgstr ""
+
+#. このまま指を加えて見てらんねぇよ、なぁ！
+msgctxt "Manga_08_01c"
+msgid " Maybe we should get in on that action, huh?"
+msgstr ""
+
+#. ジミー…そのことはもう忘れようって何度も言っただろう。
+msgctxt "Manga_08_02"
+msgid "Oh, Jimmy... you know full well we put that life behind us."
+msgstr ""
+
+#. ああ、わかってるよ。悪党をぶっ飛ばすのは一旦やめにして、ドタマのカチ割り方を教えてやるために道場を開くって言ったけどよ…
+msgctxt "Manga_08_03"
+msgid ""
+"Yeah, I know we agreed to take a break from beating up badguys, to open up "
+"these dojos and teach a NEW generation of street warriors how to crack "
+"skulls..."
+msgstr ""
+
+#. ああ、わかってるよ！
+msgctxt "Manga_08_03a"
+msgid "Yeah, I know we agreed to take a break from beating up badguys, "
+msgstr ""
+
+#. 悪党退治を辞めて、道場を開いたのいいけどよ…
+msgctxt "Manga_08_03b"
+msgid ""
+"to open up these dojos and teach a NEW generation of street warriors how to "
+"crack skulls..."
+msgstr ""
+
+#. そうそう。顔面を一つぶん殴れば、悩み事を一つ解決できる。それに顔面の殴り方をひとつ教えれば、何人もボコボコにできるんだよ。
+msgctxt "Manga_08_04"
+msgid ""
+"Mmmmm, yes. Punch ONE face and you resolve ONE conflict. But TEACH a man to "
+"punch faces, and he will break noses for LIFE."
+msgstr ""
+
+#. そうさ。顔面を一つぶん殴れば、悩み事を一つ解決できる。
+msgctxt "Manga_08_04a"
+msgid "Mmmmm, yes. Punch ONE face and you resolve ONE conflict."
+msgstr ""
+
+#. 殴り方1つで1人の人生が輝くんだ。
+msgctxt "Manga_08_04b"
+msgid "But TEACH a man to punch faces, and he will break noses for LIFE."
+msgstr ""
+
+#. でもよ、今じゃどこもかしこもケンカばっかりだぜ！
+msgctxt "Manga_08_05"
+msgid ""
+"But now practically EVERYONE in River City is kicking gnards... EXCEPT US!"
+msgstr ""
+
+#. いいことじゃないか。血生臭いってことは、活気があるってことだろう。
+msgctxt "Manga_08_06"
+msgid "Good for them. A bloody city is a prosperous city."
+msgstr ""
+
+#. 先週、アボボたちに車でぶつかっちまった時は…
+msgctxt "Manga_08_07"
+msgid "I ran into Abobo and his brothers last week."
+msgstr ""
+
+#. 誰もケガさせてないかい？
+msgctxt "Manga_08_08"
+msgid "How ARE those big lugs?"
+msgstr ""
+
+#. あいつらは何ともねえけどよ、車がダメんなっちまったんだよ！
+msgctxt "Manga_08_09"
+msgid "They're fine, but my CAR was totalled!"
+msgstr ""
+
+#. おい！どこ見て運転してやがんだ！
+msgctxt "Manga_08_10"
+msgid "Hey! Watch where you're driving!"
+msgstr ""
+
+#. それに、昨日もリンダが鞭でひっぱたくところを見たぜ！
+msgctxt "Manga_08_11"
+msgid "Then I saw Linda WHIPPING people yesterday in Uptown."
+msgstr ""
+
+#. 案外、割のいいバイトらしいよ。
+msgctxt "Manga_08_12"
+msgid "I've heard there's GOOD money in that, so long as it's consensual."
+msgstr ""
+
+#. まさかあのスカルマゲドンが店長をやってるなんてね。未だに信じられないよ。
+msgctxt "Manga_08_13"
+msgid "And what of that skinless fellow? Skullmageddon, I believe?"
+msgstr ""
+
+#. 価格も信じられないくらい高いけどな。
+msgctxt "Manga_08_14"
+msgid ""
+"He's still working at the pawn shop. But his prices are WORSE than ever!"
+msgstr ""
+
+#. にへへへへへ！
+msgctxt "Manga_08_15"
+msgid "NYEHEHEHEHEHE!"
+msgstr ""
+
+#. 喧嘩騒ぎを止めに行こうとしたら、マリアンに止められるしよ…
+msgctxt "Manga_08_16"
+msgid ""
+"And GUESS who I JUST saw on the way here, snapping spines ALL over town? "
+"MARIAN, that's who!"
+msgstr ""
+
+#. なんだって？マリアンが？マリアンが店を休んでまで喧嘩を止めている…
+msgctxt "Manga_08_17"
+msgid ""
+"Wait... Marian Kelly? My old flame? I thought she was selling clothes at "
+"SWAGGAGE in Downtown."
+msgstr ""
+
+#. おい兄弟、なんで店まで知ってんだ？もしかして…よく買い物してるのか？
+msgctxt "Manga_08_18"
+msgid "Bro, how do you know that? Do you SHOP at Swaggage?"
+msgstr ""
+
+#. そこは大した問題じゃないだろう。ともかく、君の言う通りかもしれない、ジミー！ 今こそ道場から出て、ボクらも街を救いにいこう！
+msgctxt "Manga_08_19"
+msgid ""
+"That's not IMPORTANT now, Jimmy! Your instincts were CORRECT, we need to get"
+" back out there and help SAVE the CITY!"
+msgstr ""
+
+#. そこは大した問題じゃないだろう。ともかく、君の言う通りかもしれない、ジミー！ 
+msgctxt "Manga_08_19a"
+msgid "That's not IMPORTANT now, Jimmy! "
+msgstr ""
+
+#. 今こそ道場から出て、ボクらも街を救いにいこう！
+msgctxt "Manga_08_19b"
+msgid ""
+"Your instincts were CORRECT, we need to get back out there and help SAVE the"
+" CITY!"
+msgstr ""
+
+#. 待たせたね、リバーシティ！ダブルドラゴンのリー兄弟が参戦だ！
+msgctxt "Manga_08_20"
+msgid "Look out, River City! The DOUBLE DRAGONS are back on the streets!"
+msgstr ""
+
+#. オラオラオラァ！記念すべき第一号はどこのどいつだ！
+msgctxt "Manga_08_21"
+msgid "HELL YEAH! Whose face should we break first?"
+msgstr ""
