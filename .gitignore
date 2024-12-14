@@ -4,3 +4,4 @@ __pycache__
 bin/
 obj/
 external
+.doit.db
