@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2024-12-14 12:17\n"
-"PO-Revision-Date: 2024-12-14 04:04+0300\n"
+"PO-Revision-Date: 2024-12-14 23:54+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -135,7 +135,7 @@ msgctxt "ActionName_Y"
 msgid "Heavy Attack"
 msgstr "Сильный удар"
 
-#. アークシステムワークス【リバーシティガールズ２】 
+#. アークシステムワークス【リバーシティガールズ２】
 #. エンドユーザー向けライセンス契約
 #.
 #. 最終更新日：2022年10月27日
@@ -298,7 +298,7 @@ msgstr "Сильный удар"
 #. (1) アークシステムワークスの過失に起因する死亡または人身傷害、
 #. (2) アークシステムワークスによる詐欺または欺まん的不実表示、
 #. (3) アークシステムワークスによる故意行為または重過失、
-#. (4) 本件ゲームの利用に起因する有形動産の滅失または損傷、および 
+#. (4) 本件ゲームの利用に起因する有形動産の滅失または損傷、および
 #. (5) 他の何らかの責任のうちその制限または排除が適用法上許されないもの。
 #. アークシステムワークスによる軽過失、通常の過失または本契約に基づく本質的義務の違反の場合、アークシステムワークスの責任は、お客様に生じた予見可能な直接損害に限定されるものとします。いかなる場合も、本件ゲームの利用もしくは利用不能または本契約に起因または関連するアークシステムワークスの責任の総額は、契約、保証、過失、製造物責任、厳格責任、知的財産侵害その他のいかなる理論に基づくものであるかを問わず、100ドル、またはこれを上回る場合においてはお客様による本件ゲームの利用のためにお客様からアークシステムワークスに支払われた金額を上限とします。本第17条は、お客様の居住地における法律上で契約による制限が許されていないいかなる強制的または法定の保証も、制限するものではありません。
 #.
@@ -6022,7 +6022,7 @@ msgstr "Россия"
 #. 東ロシア
 msgctxt "PhotonRegion_RUE"
 msgid "Russia East"
-msgstr "Россия - восток"
+msgstr "Россия — восток"
 
 #. 南アメリカ
 msgctxt "PhotonRegion_SA"
@@ -6032,12 +6032,12 @@ msgstr "Южная Америка"
 #. アメリカ 東海岸
 msgctxt "PhotonRegion_US"
 msgid "US East"
-msgstr "США - восток"
+msgstr "США — восток"
 
 #. アメリカ 西海岸
 msgctxt "PhotonRegion_USW"
 msgid "US West"
-msgstr "США - запад"
+msgstr "США — запад"
 
 #. 南アフリカ
 msgctxt "PhotonRegion_ZA"
@@ -6389,7 +6389,7 @@ msgstr "Чара"
 msgctxt "Recruit_Cheerleader_Colleen_DESC"
 msgid "These cheerful girls are agile and love to dodge your advances."
 msgstr ""
-"Стремительная болельщица. Удар из прыжка с кульбитом - это уровень "
+"Стремительная болельщица. Удар из прыжка с кульбитом — это уровень "
 "высочайшего мастерства."
 
 #. カリーン
@@ -6424,7 +6424,7 @@ msgctxt "Recruit_Cheerleader_Rachel_DESC"
 msgid "She cares not for leading cheers. She's more like a fearleader. "
 msgstr ""
 "Болельщица из того света. Старается ещё сильнее, чем при жизни, но "
-"безуспешно - все боятся её лица."
+"безуспешно — все боятся её лица."
 
 #. レイチェル
 msgctxt "Recruit_Cheerleader_Rachel_NAME"
@@ -6647,7 +6647,7 @@ msgctxt "Recruit_LARPer_Caleb_DESC"
 msgid ""
 "\"Any rock can be used for banishing if you throw it hard enough.\" - Caleb"
 msgstr ""
-"«Каким бы тяжёлым ни был камень, если бросить его в пруд - то он исчезнет» - "
+"«Каким бы тяжёлым ни был камень, если бросить его в пруд — то он исчезнет» — "
 "Калеб"
 
 #. ケイレブ
@@ -6669,7 +6669,7 @@ msgstr "Фабиан"
 msgctxt "Recruit_LARPer_Jareth_DESC"
 msgid ""
 "He discovered an invisible force that can kill... No, not magic. Radiation."
-msgstr "Ученик волшебника, открывший смертоносное заклинание - радиацию."
+msgstr "Ученик волшебника, открывший смертоносное заклинание — радиацию."
 
 #. ジェイレス
 msgctxt "Recruit_LARPer_Jareth_NAME"
@@ -6773,7 +6773,7 @@ msgstr "Мариана"
 msgctxt "Recruit_Luchadora_Rosa_DESC"
 msgid "These girls can, and will, crush you. Be careful what you wish for."
 msgstr ""
-"Рестлерша, которую часто можно повстречать в Ривер-сити. «Голубые глаза - "
+"Рестлерша, которую часто можно повстречать в Ривер-сити. «Голубые глаза — "
 "признак справедливости», этим всё сказано."
 
 #. ローザ
@@ -6809,7 +6809,7 @@ msgstr "Валерия"
 msgctxt "Recruit_MaleThug_Chaim_DESC"
 msgid "Sabu's illegal chemical reservoir wasn't the best choice for swimming. "
 msgstr ""
-"Незаконный резервуар с химикатами Сабу - не самое лучшее место для купания."
+"Незаконный резервуар с химикатами Сабу — не самое лучшее место для купания."
 
 #. シェイム
 msgctxt "Recruit_MaleThug_Chaim_NAME"
@@ -6864,7 +6864,7 @@ msgstr "Пит"
 msgctxt "Recruit_MaleThug_Rogers_DESC"
 msgid "Low-life miscreants who learned to fight on the streets."
 msgstr ""
-"Бандит, устраивающий драки на улицах. Считает, что боль в мышцах - лучшая "
+"Бандит, устраивающий драки на улицах. Считает, что боль в мышцах — лучшая "
 "награда."
 
 #. ロジャース
@@ -7024,7 +7024,7 @@ msgstr "Мел"
 #. リバーシティにいる高校生。座右の銘は「下剋上」。
 msgctxt "Recruit_SchoolBoy_Seirai_DESC"
 msgid "These entitled jerks love to fight dirty."
-msgstr "Ученик Старшей школы Ривер-сити. Его девиз - «долой авторитеты»."
+msgstr "Ученик Старшей школы Ривер-сити. Его девиз — «долой авторитеты»."
 
 #. セイライ
 msgctxt "Recruit_SchoolBoy_Seirai_NAME"
@@ -7170,7 +7170,7 @@ msgstr "Оскар"
 msgctxt "Recruit_Tigerman_Szatkowski_DESC"
 msgid "These pro wrestlers are as agile as they are musclebound."
 msgstr ""
-"Профессиональный зомби-рестлер из Ривер-сити. Не бойтесь заразиться - из-за "
+"Профессиональный зомби-рестлер из Ривер-сити. Не бойтесь заразиться — из-за "
 "маски он не может кусать."
 
 #. ザトコフスキ
@@ -7251,7 +7251,7 @@ msgid ""
 "Wes is high class but doesn't mind lowering himself down to your level for "
 "some extra cash."
 msgstr ""
-"Вес - из высшего класса, но не прочь опуститься до твоего, чтобы "
+"Вес — из высшего класса, но не прочь опуститься до твоего, чтобы "
 "подзаработать лишних денег."
 
 #. ウェス
@@ -7889,7 +7889,7 @@ msgctxt "Ticker_Ryuichi_NAME"
 msgid "Ryuichi"
 msgstr "Рюити"
 
-#. リュウイチ&リュウジ 
+#. リュウイチ&リュウジ
 msgctxt "Ticker_Ryuji Ryuichi_NAME"
 msgid "Ryuji & Ryuichi"
 msgstr "Рюдзи и Рюити"
@@ -8180,7 +8180,7 @@ msgid ""
 "Hired henchmen are stronger recruits that cost money. If your henchmen is "
 "defeated, you will have to hire them again."
 msgstr ""
-"Приспешники - это более сильные рекруты, которых нанимают за деньги. Если "
+"Приспешники — это более сильные рекруты, которых нанимают за деньги. Если "
 "приспешник будет побеждён в бою, его придётся нанять ещё раз."
 
 #. 用心棒！
@@ -8263,7 +8263,7 @@ msgid ""
 "to cycle through items and press {12} to eat."
 msgstr ""
 "Выбор быстрого предмета вверху позволяет вам есть на ходу. Используйте {19} "
-"для переключения между предметами, а для еды - нажмите {12}."
+"для переключения между предметами, а для еды — нажмите {12}."
 
 #. 速攻元気！
 msgctxt "Tutorial_31_Title"
@@ -9573,7 +9573,7 @@ msgctxt "World_2_SportsStore_NAME"
 msgid "Sports Store"
 msgstr "Спортивный магазин"
 
-#. ネオンモール 1Fフロア 
+#. ネオンモール 1Fフロア
 msgctxt "World_2_StoreEntrances_NAME"
 msgid "Store Entrances"
 msgstr "Вход в магазин"
