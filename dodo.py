@@ -4,6 +4,8 @@
 
 from pathlib import Path
 
+version = "1.0.2.3"
+
 langs = ["ru"]
 po_file_dir = Path("data/po")
 unity_exec = Path.joinpath(Path.home(), "Unity/Hub/Editor/2019.4.39f1/Editor/Unity")
@@ -16,6 +18,8 @@ msgmerge_exec = "msgmerge"
 msbuild_exec = "msbuild"
 msbuild_args = "-p:Configuration=Release -noConsoleLogger"
 
+zip_exec = "zip"
+
 DOIT_CONFIG = {"default_tasks": ["pack"]}
 SOURCES = {
     "po": list(po_file_dir.glob("**/*.po")),
@@ -23,7 +27,8 @@ SOURCES = {
     "source_csv": ["data/source/translation.csv"],
     "target_csv": ["unity/rcg2-l10n-assets/Assets/Resources/translation.csv"],
     "assetbundle": ["rcg2-l10n.assetbundle"],
-    "dll": ["bin/Release/rcg2-l10n.dll"]
+    "dll": ["bin/Release/rcg2-l10n.dll"],
+    "readme": ["README.md"],
 }
 
 
@@ -58,7 +63,9 @@ def task_update_po():
 
 def task_pack():
     return {
-        "actions": None,
+        "actions": [
+            f"{zip_exec} -9 -j rcg2-l10n-{version}.zip \"{SOURCES['readme'][0]}\" \"{SOURCES['dll'][0]}\""
+        ],
         "task_dep": ["compile_dll"]
     }
 
