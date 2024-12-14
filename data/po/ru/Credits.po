@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
-"POT-Creation-Date: 2023-06-05 20:53\n"
+"POT-Creation-Date: 2024-12-14 12:17\n"
 "PO-Revision-Date: 2024-12-04 19:50+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
@@ -11,7 +11,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 24.08.1\n"
 
 #. Additional Production
@@ -167,6 +168,11 @@ msgstr "Разработано"
 msgctxt "LBL_DIRECTOR_TITLE"
 msgid "Director"
 msgstr "Директор"
+
+#. Double Dragon DLC Team
+msgctxt "LBL_DLC_TEAM_TITLE"
+msgid "Double Dragon DLC Team"
+msgstr "Команда дополнения Double Dragon"
 
 #. Environment Artists
 msgctxt "LBL_ENV_ARTIST_TITLE"
@@ -422,8 +428,3 @@ msgstr "Студия звукозаписи"
 msgctxt "LBL_WRITER_TITLE"
 msgid "Written by"
 msgstr "Сюжет"
-
-#. Double Dragon DLC Team
-msgctxt "LBL_DLC_TEAM_TITLE"
-msgid "Double Dragon DLC Team"
-msgstr "Команда дополнения Double Dragon"
