@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE martif PUBLIC 'ISO 12200:1999A//DTD MARTIF core (DXFcdV04)//EN' 'TBXcdv04.dtd'>
 <martif type="TBX" xml:lang="en_US">
-    <text>
-        <body>
-        <termEntry id="azamat_h._hackimov-0">
+  <text>
+    <body>
+      <termEntry id="azamat_h._hackimov-0">
         <langSet xml:lang="en-US">
           <tig>
             <term>quick attack</term>
@@ -27,7 +27,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-2">
+      <termEntry id="azamat_h._hackimov-2">
         <langSet xml:lang="en-US">
           <tig>
             <term>river city</term>
@@ -63,7 +63,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-5">
+      <termEntry id="azamat_h._hackimov-5">
         <langSet xml:lang="en-US">
           <tig>
             <term>kyoko</term>
@@ -111,7 +111,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-10">
+      <termEntry id="azamat_h._hackimov-10">
         <langSet xml:lang="en-US">
           <tig>
             <term>mihoko</term>
@@ -303,7 +303,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-6">
+      <termEntry id="azamat_h._hackimov-6">
         <langSet xml:lang="en-US">
           <tig>
             <term>ocean heights</term>
@@ -315,7 +315,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-26">
+      <termEntry id="azamat_h._hackimov-26">
         <langSet xml:lang="en-US">
           <tig>
             <term>technos</term>
@@ -339,7 +339,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-28">
+      <termEntry id="azamat_h._hackimov-28">
         <langSet xml:lang="en-US">
           <tig>
             <term>ryuji</term>
@@ -495,7 +495,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-41">
+      <termEntry id="azamat_h._hackimov-41">
         <langSet xml:lang="en-US">
           <tig>
             <term>tengu</term>
@@ -531,7 +531,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-44">
+      <termEntry id="azamat_h._hackimov-44">
         <langSet xml:lang="en-US">
           <tig>
             <term>primo</term>
@@ -615,7 +615,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-51">
+      <termEntry id="azamat_h._hackimov-51">
         <langSet xml:lang="en-US">
           <tig>
             <term>roxy</term>
@@ -639,7 +639,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-53">
+      <termEntry id="azamat_h._hackimov-53">
         <langSet xml:lang="en-US">
           <tig>
             <term>chris</term>
@@ -723,7 +723,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-60">
+      <termEntry id="azamat_h._hackimov-60">
         <langSet xml:lang="en-US">
           <tig>
             <term>kebako</term>
@@ -819,7 +819,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-68">
+      <termEntry id="azamat_h._hackimov-68">
         <langSet xml:lang="en-US">
           <tig>
             <term>waver</term>
@@ -831,7 +831,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-69">
+      <termEntry id="azamat_h._hackimov-69">
         <langSet xml:lang="en-US">
           <tig>
             <term>r.c.h.s.</term>
@@ -867,7 +867,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-72">
+      <termEntry id="azamat_h._hackimov-72">
         <langSet xml:lang="en-US">
           <tig>
             <term>yokocho</term>
@@ -915,7 +915,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-76">
+      <termEntry id="azamat_h._hackimov-76">
         <langSet xml:lang="en-US">
           <tig>
             <term>kuniko</term>
@@ -927,7 +927,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-77">
+      <termEntry id="azamat_h._hackimov-77">
         <langSet xml:lang="en-US">
           <tig>
             <term>williams</term>
@@ -939,7 +939,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-78">
+      <termEntry id="azamat_h._hackimov-78">
         <langSet xml:lang="en-US">
           <tig>
             <term>rch</term>
@@ -951,7 +951,7 @@
           </tig>
         </langSet>
       </termEntry>
-    <termEntry id="azamat_h._hackimov-79">
+      <termEntry id="azamat_h._hackimov-79">
         <langSet xml:lang="en-US">
           <tig>
             <term>skullmageddon</term>
@@ -963,6 +963,18 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry id="azamat_h._hackimov-80">
+        <langSet xml:lang="en-US">
+          <tig>
+            <term>boro</term>
+          </tig>
+        </langSet>
+        <langSet xml:lang="ru">
+          <tig>
+            <term>боро</term>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
-    </text>
+  </text>
 </martif>

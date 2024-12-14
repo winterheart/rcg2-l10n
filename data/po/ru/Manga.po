@@ -1,10 +1,10 @@
-# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2023.
+# SPDX-FileCopyrightText: 2023, 2024 Azamat H. Hackimov <azamat.hackimov@gmail.com>
 msgid ""
 msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2023-06-05 20:53\n"
-"PO-Revision-Date: 2023-01-30 04:09+0300\n"
+"PO-Revision-Date: 2024-12-04 20:44+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Lokalize 22.08.3\n"
+"X-Generator: Lokalize 24.08.1\n"
 
 #. ラーーーーブ！！！
 msgctxt "Manga_01_01"
@@ -1036,11 +1036,13 @@ msgid ""
 "Yo, Billy! I just saw those hot-blooded teens we sometimes train saving the "
 "city. AGAIN! Maybe we should get in on that action, huh?"
 msgstr ""
+"Эй, Билии! Я только что увидал, как эти горячие подростки, которым мы когда-"
+"то тренировали, спасли город. СНОВА! Может, стоит и нам вступить в игру, а?"
 
 #. おい、兄弟！
 msgctxt "Manga_08_01a"
 msgid "Yo, Billy!"
-msgstr ""
+msgstr "Эй, Билли!"
 
 #. オレ等の門下生がまた街を救ってるぜ！
 msgctxt "Manga_08_01b"
@@ -1048,16 +1050,18 @@ msgid ""
 "I just saw those hot-blooded teens we sometimes train saving the city. "
 "AGAIN!"
 msgstr ""
+"Я только что увидал, как эти горячие подростки, которым мы когда-то "
+"тренировали, спасли город. СНОВА!"
 
 #. このまま指を加えて見てらんねぇよ、なぁ！
 msgctxt "Manga_08_01c"
 msgid " Maybe we should get in on that action, huh?"
-msgstr ""
+msgstr " Может, стоит и нам вступить в игру, а?"
 
 #. ジミー…そのことはもう忘れようって何度も言っただろう。
 msgctxt "Manga_08_02"
 msgid "Oh, Jimmy... you know full well we put that life behind us."
-msgstr ""
+msgstr "Ох, Джимми... ты же прекрасно знаешь, мы давно оставили это позади."
 
 #. ああ、わかってるよ。悪党をぶっ飛ばすのは一旦やめにして、ドタマのカチ割り方を教えてやるために道場を開くって言ったけどよ…
 msgctxt "Manga_08_03"
@@ -1066,11 +1070,14 @@ msgid ""
 "these dojos and teach a NEW generation of street warriors how to crack "
 "skulls..."
 msgstr ""
+"Ага, знаю, что мы решили взять перерыв от избиваний всяких плохишей, чтобы "
+"открыть додзё для обучения НОВОГО поколения уличных воинов ломать чужие "
+"черепа..."
 
 #. ああ、わかってるよ！
 msgctxt "Manga_08_03a"
 msgid "Yeah, I know we agreed to take a break from beating up badguys, "
-msgstr ""
+msgstr "Ага, знаю, что мы решили взять перерыв от избиваний всяких плохишей,"
 
 #. 悪党退治を辞めて、道場を開いたのいいけどよ…
 msgctxt "Manga_08_03b"
@@ -1078,6 +1085,8 @@ msgid ""
 "to open up these dojos and teach a NEW generation of street warriors how to "
 "crack skulls..."
 msgstr ""
+"чтобы открыть додзё для обучения НОВОГО поколения уличных воинов ломать "
+"чужие черепа..."
 
 #. そうそう。顔面を一つぶん殴れば、悩み事を一つ解決できる。それに顔面の殴り方をひとつ教えれば、何人もボコボコにできるんだよ。
 msgctxt "Manga_08_04"
@@ -1085,73 +1094,78 @@ msgid ""
 "Mmmmm, yes. Punch ONE face and you resolve ONE conflict. But TEACH a man to "
 "punch faces, and he will break noses for LIFE."
 msgstr ""
+"Ага. Набей ОДНОМУ морду, и ты решишь ОДИН конфликт. Но ОБУЧИ человека "
+"набивать морды, и он будет расквашивать носы всю ЖИЗНЬ."
 
 #. そうさ。顔面を一つぶん殴れば、悩み事を一つ解決できる。
 msgctxt "Manga_08_04a"
 msgid "Mmmmm, yes. Punch ONE face and you resolve ONE conflict."
-msgstr ""
+msgstr "Ага. Набей ОДНОМУ морду, и ты решишь ОДИН конфликт."
 
 #. 殴り方1つで1人の人生が輝くんだ。
 msgctxt "Manga_08_04b"
 msgid "But TEACH a man to punch faces, and he will break noses for LIFE."
 msgstr ""
+"Но ОБУЧИ человека набивать морды, и он будет расквашивать носы всю ЖИЗНЬ."
 
 #. でもよ、今じゃどこもかしこもケンカばっかりだぜ！
 msgctxt "Manga_08_05"
 msgid ""
 "But now practically EVERYONE in River City is kicking gnards... EXCEPT US!"
 msgstr ""
+"Только теперь буквально КАЖДЫЙ шкет в Ривер-сити раздаёт на орехи... КРОМЕ "
+"НАС!"
 
 #. いいことじゃないか。血生臭いってことは、活気があるってことだろう。
 msgctxt "Manga_08_06"
 msgid "Good for them. A bloody city is a prosperous city."
-msgstr ""
+msgstr "Рад за них. Кровавый город — процветающий город."
 
 #. 先週、アボボたちに車でぶつかっちまった時は…
 msgctxt "Manga_08_07"
 msgid "I ran into Abobo and his brothers last week."
-msgstr ""
+msgstr "На прошлой неделе повстречал Абобо и с братьями."
 
 #. 誰もケガさせてないかい？
 msgctxt "Manga_08_08"
 msgid "How ARE those big lugs?"
-msgstr ""
+msgstr "И как у них дела?"
 
 #. あいつらは何ともねえけどよ、車がダメんなっちまったんだよ！
 msgctxt "Manga_08_09"
 msgid "They're fine, but my CAR was totalled!"
-msgstr ""
+msgstr "В порядке, только моей ТАЧКЕ каюк!"
 
 #. おい！どこ見て運転してやがんだ！
 msgctxt "Manga_08_10"
 msgid "Hey! Watch where you're driving!"
-msgstr ""
+msgstr "Эй! Смотри, куда едешь!"
 
 #. それに、昨日もリンダが鞭でひっぱたくところを見たぜ！
 msgctxt "Manga_08_11"
 msgid "Then I saw Linda WHIPPING people yesterday in Uptown."
-msgstr ""
+msgstr "А потом я встретил Линду, ХЛЕСТАЮЩУЮ людей в Пригороде."
 
 #. 案外、割のいいバイトらしいよ。
 msgctxt "Manga_08_12"
 msgid "I've heard there's GOOD money in that, so long as it's consensual."
-msgstr ""
+msgstr "Я слышал, за это ХОРОШО платят, если всё по обоюдному согласию."
 
 #. まさかあのスカルマゲドンが店長をやってるなんてね。未だに信じられないよ。
 msgctxt "Manga_08_13"
 msgid "And what of that skinless fellow? Skullmageddon, I believe?"
-msgstr ""
+msgstr "А что у того безкожного чувака? Кажется, его зовут Черепогеддон?"
 
 #. 価格も信じられないくらい高いけどな。
 msgctxt "Manga_08_14"
 msgid ""
 "He's still working at the pawn shop. But his prices are WORSE than ever!"
-msgstr ""
+msgstr "Всё ещё работает в ломбарде. Вот только цены у него ВСЁ хуже и хуже!"
 
 #. にへへへへへ！
 msgctxt "Manga_08_15"
 msgid "NYEHEHEHEHEHE!"
-msgstr ""
+msgstr "МУА-ХА-ХА-ХА-ХА!"
 
 #. 喧嘩騒ぎを止めに行こうとしたら、マリアンに止められるしよ…
 msgctxt "Manga_08_16"
@@ -1159,6 +1173,8 @@ msgid ""
 "And GUESS who I JUST saw on the way here, snapping spines ALL over town? "
 "MARIAN, that's who!"
 msgstr ""
+"И УГАДАЙ, кого я ТОЛЬКО что повстречал, пока шёл сюда, ломая ВСЕМ спины? "
+"МАРИАН, представляешь!"
 
 #. なんだって？マリアンが？マリアンが店を休んでまで喧嘩を止めている…
 msgctxt "Manga_08_17"
@@ -1166,11 +1182,13 @@ msgid ""
 "Wait... Marian Kelly? My old flame? I thought she was selling clothes at "
 "SWAGGAGE in Downtown."
 msgstr ""
+"Что... Мариан Келли? Мою старую любовь? Я думал, что она работает "
+"продавщицей в «ШИКАРНОЙ ПЛУТОВКЕ» в Центре города."
 
 #. おい兄弟、なんで店まで知ってんだ？もしかして…よく買い物してるのか？
 msgctxt "Manga_08_18"
 msgid "Bro, how do you know that? Do you SHOP at Swaggage?"
-msgstr ""
+msgstr "Бро, откуда ты это знаешь? Ты, что ЗАКУПАЕШЬСЯ там?"
 
 #. そこは大した問題じゃないだろう。ともかく、君の言う通りかもしれない、ジミー！ 今こそ道場から出て、ボクらも街を救いにいこう！
 msgctxt "Manga_08_19"
@@ -1178,25 +1196,27 @@ msgid ""
 "That's not IMPORTANT now, Jimmy! Your instincts were CORRECT, we need to get"
 " back out there and help SAVE the CITY!"
 msgstr ""
+"Теперь это НЕВАЖНО, Джимми! Твои инстинкты тебе НЕ ПОДВОДЯТ, нам пора "
+"вернуться и СПАСТИ ГОРОД!"
 
 #. そこは大した問題じゃないだろう。ともかく、君の言う通りかもしれない、ジミー！ 
 msgctxt "Manga_08_19a"
 msgid "That's not IMPORTANT now, Jimmy! "
-msgstr ""
+msgstr "Теперь это НЕВАЖНО, Джимми!"
 
 #. 今こそ道場から出て、ボクらも街を救いにいこう！
 msgctxt "Manga_08_19b"
 msgid ""
 "Your instincts were CORRECT, we need to get back out there and help SAVE the"
 " CITY!"
-msgstr ""
+msgstr "Твои инстинкты тебе НЕ ПОДВОДЯТ, нам пора вернуться и СПАСТИ ГОРОД!"
 
 #. 待たせたね、リバーシティ！ダブルドラゴンのリー兄弟が参戦だ！
 msgctxt "Manga_08_20"
 msgid "Look out, River City! The DOUBLE DRAGONS are back on the streets!"
-msgstr ""
+msgstr "Берегись, Ривер-сити! ДВОЙНЫЕ ДРАКОНЫ снова на улицах!"
 
 #. オラオラオラァ！記念すべき第一号はどこのどいつだ！
 msgctxt "Manga_08_21"
 msgid "HELL YEAH! Whose face should we break first?"
-msgstr ""
+msgstr "ТОЧНЯК! Кому набить рожу первому?"
