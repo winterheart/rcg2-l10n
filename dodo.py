@@ -13,7 +13,8 @@ unity_args = "-projectPath unity/rcg2-l10n-assets" \
 i2loc_exec = "scripts/rcg2_translate.py"
 msginit_exec = "msginit"
 msgmerge_exec = "msgmerge"
-
+msbuild_exec = "msbuild"
+msbuild_args = "-p:Configuration=Release -noConsoleLogger"
 
 DOIT_CONFIG = {"default_tasks": ["pack"]}
 SOURCES = {
@@ -21,7 +22,8 @@ SOURCES = {
     "pot": list(po_file_dir.glob("**/*.pot")),
     "source_csv": ["data/source/translation.csv"],
     "target_csv": ["unity/rcg2-l10n-assets/Assets/Resources/translation.csv"],
-    "assetbundle": ["rcg2-l10n.assetbundle"]
+    "assetbundle": ["rcg2-l10n.assetbundle"],
+    "dll": ["bin/Release/rcg2-l10n.dll"]
 }
 
 
@@ -57,7 +59,7 @@ def task_update_po():
 def task_pack():
     return {
         "actions": None,
-        "task_dep": ["pack_assetbundle"]
+        "task_dep": ["compile_dll"]
     }
 
 
@@ -79,6 +81,15 @@ def task_pack_assetbundle():
         ],
         "file_dep": SOURCES["target_csv"],
         "targets": SOURCES["assetbundle"],
+    }
+
+def task_compile_dll():
+    return {
+        "actions": [
+            f"{msbuild_exec} {msbuild_args}"
+        ],
+        "file_dep": SOURCES["assetbundle"],
+        "targets": SOURCES["dll"]
     }
 
 
