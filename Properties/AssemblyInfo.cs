@@ -18,10 +18,10 @@ using RCG2_L10n;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("rcg2-l10n")]
-[assembly: AssemblyCopyright("Copyright © 2023")]
+[assembly: AssemblyCopyright("Copyright © 2023-2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: MelonInfo(typeof(L10nMod), "River City Girls 2 Localization Mod", "1.0.2+p2", "Azamat H. Hackimov", "https://github.com/winterheart/rcg2-l10n")]
+[assembly: MelonInfo(typeof(L10nMod), "River City Girls 2 Localization Mod", "1.0.2+p3", "Azamat H. Hackimov", "https://github.com/winterheart/rcg2-l10n")]
 [assembly: MelonGame("WayForward Technologies", "River City Girls 2")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -42,5 +42,5 @@ using RCG2_L10n;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.2.2")]
-[assembly: AssemblyFileVersion("1.0.2.2")]
+[assembly: AssemblyVersion("1.0.2.3")]
+[assembly: AssemblyFileVersion("1.0.2.3")]
