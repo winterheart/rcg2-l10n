@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 945618583
+CRC: 540480665
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ff1ab071aefb19501644f1ebc05811c6
+    Hash: 5b23ecd8476747ea252ca0cfa21709a4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0e35348f6650bcb4c4b0bd24d9bda9d9
@@ -28,6 +28,7 @@ Assets:
 - Assets/Resources/NotoSans-Black SDF Black Outline.asset
 - Assets/Resources/LiberationSansRU SDF.asset
 - Assets/Resources/NotoSans-Black SDF.asset
+- Assets/Resources/Sriracha Cyrillic SDF.asset
 - Assets/Resources/BalsamiqSansRU-BoldItalic SDF.asset
 - Assets/Resources/NotoSans-Medium SDF Black Outline.asset
 - Assets/Resources/NotoSans-Medium SDF Drop Shadow.asset
