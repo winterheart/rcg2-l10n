@@ -4,15 +4,15 @@ msgstr ""
 "Project-Id-Version: 1.0\n"
 "Report-Msgid-Bugs-To: you@example.com\n"
 "POT-Creation-Date: 2024-12-14 12:17\n"
-"PO-Revision-Date: 2024-12-14 04:06+0300\n"
+"PO-Revision-Date: 2024-12-14 12:59+0300\n"
 "Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Lokalize 25.03.70\n"
 
 #. くたばれ、ガキども！
@@ -2004,7 +2004,7 @@ msgctxt "Passive033-03_Kunio"
 msgid "You think too much."
 msgstr "Ты слишком много думаешь."
 
-#. 気にしなくてもいいんじゃない？ 
+#. 気にしなくてもいいんじゃない？
 msgctxt "Passive033-03_Marian"
 msgid "You think too much."
 msgstr "Ты слишком много думаешь."
@@ -9883,7 +9883,7 @@ msgctxt "Passive181-01_Misako"
 msgid "There's the fan, time to fire it up!"
 msgstr "Вот и вентилятор, пора его раскрутить!"
 
-#. あれがファンだ！ 
+#. あれがファンだ！
 msgctxt "Passive181-01_Provie"
 msgid "There's the fan, time to fire it up!"
 msgstr "Вот и вентилятор, пора его раскрутить!"
@@ -10083,28 +10083,28 @@ msgctxt "Passive183-01_Jimmy"
 msgid "The hell? Are we in the Old West or something?"
 msgstr "Какого чёрта? Как мы оказались на Диком западе?"
 
-#. 何だこれ？ 
+#. 何だこれ？
 msgctxt "Passive183-01_Kunio"
 msgid "What's going on? This room looks like a glitchy Old West or something."
 msgstr "Что такое? Эта комната похожа на глючный Дикий запад."
 
-#. わっ！ なになに？ 
+#. わっ！ なになに？
 msgctxt "Passive183-01_Kyoko"
 msgid ""
 "WAH! What's going on? This room looks like a glitchy Old West or something!"
 msgstr "АЙ! Что такое? Эта комната похожа на глючный Дикий запад!"
 
-#. どうなってんだ？ 
+#. どうなってんだ？
 msgctxt "Passive183-01_Marian"
 msgid "What's going on? This room looks like a glitchy Old West or something."
 msgstr "Что такое? Эта комната похожа на глючный Дикий запад."
 
-#. なにこれ？ 
+#. なにこれ？
 msgctxt "Passive183-01_Provie"
 msgid "What's going on? This room looks like a glitchy Old West or something."
 msgstr "Что такое? Эта комната похожа на глючный Дикий запад."
 
-#. 何だこれ？ 
+#. 何だこれ？
 msgctxt "Passive183-01_Riki"
 msgid "What's going on? This room looks like a glitchy Old West or something."
 msgstr "Что такое? Эта комната похожа на глючный Дикий запад."
@@ -17205,7 +17205,8 @@ msgstr "РАССКАЖИТЕ НАМ!!!"
 msgctxt "Passive403-05_ProfessorCroc"
 msgid ""
 "Little too "
-"hot…                                                                                                                        "
+"hot…                                                                          "
+"                                              "
 msgstr "Чуточку потише..."
 
 #. 走って逃げる事ができない場合は、外骨格を柔らかくするための武器を持つ事がオススメだ。名前を呼び上げてもらえるかな。
@@ -17510,7 +17511,7 @@ msgid ""
 "Don't forget, though, you were the one who insisted that we stop for double-"
 "chocolate donuts on the way here."
 msgstr ""
-"Напомнить, кто настойчиво просил остановиться ради пончик с двойным "
+"Напомнить, кто настойчиво просил остановиться ради пончика с двойным "
 "шоколадом?"
 
 #. ドーナツくらいすぐ食べれただろ！
@@ -17629,7 +17630,7 @@ msgstr ""
 #. チャイムの後に来たので、そりゃもう遅刻でしたよ！
 msgctxt "Portrait004-03_Jimmy"
 msgid "Children? Lady, I'm in my twenties."
-msgstr "Ребята? Дамочка, мне уже за двадцать."
+msgstr "Ребята? Чувиха, мне уже за двадцать."
 
 #. いいや、鳴った後に着いたからな。今日すげぇ遅刻しちまったんだ。
 msgctxt "Portrait004-03_Kunio"
@@ -18540,7 +18541,7 @@ msgstr "Ну, вряд ли я уже ребёнок, но игра идёт х�
 #. 邪魔してるぜ、キョウコの母ちゃん！
 msgctxt "Portrait010-02_Jimmy"
 msgid "Kids? Lady, I'm in my twenties. Is everyone in this city blind?"
-msgstr "Ребятки? Дамочка, мне уже за двадцать. В этом городе все слепые?"
+msgstr "Ребятки? Чувиха, мне уже за двадцать. В этом городе все слепые?"
 
 #. もっちろん！
 msgctxt "Portrait010-02_Kunio"
@@ -19578,7 +19579,7 @@ msgstr "Нет-нет, ты не так поняла. Нам нужна ВИДЕ
 #. 仏様に用はないんだが。
 msgctxt "Portrait016-10_Jimmy"
 msgid "Uh, Jimmy don't need no furniture, lady."
-msgstr "Э, дамочка, Джимми не нужна мебель."
+msgstr "Э, чувиха, Джимми не нужна мебель."
 
 #. 寺は探してねぇな。
 msgctxt "Portrait016-10_Kunio"
@@ -20384,7 +20385,7 @@ msgctxt "Portrait021-23_Riki"
 msgid "Exactly."
 msgstr "Именно."
 
-#. と、とにかく、お前らを抹殺する親父の壮大な計画は、すでに動き出してるのさ… 
+#. と、とにかく、お前らを抹殺する親父の壮大な計画は、すでに動き出してるのさ…
 msgctxt "Portrait021-24_Ken"
 msgid ""
 "Anyway... NOW it's time to kill you both. Per my, uh, father's plan. Which "
@@ -21511,7 +21512,7 @@ msgstr ""
 "И спасибо за то, что остановила своего брата. Даже несмотря на то, что он "
 "похож на меня."
 
-#. あ、あのとき弟くんの邪魔してくれてありがとね！ 
+#. あ、あのとき弟くんの邪魔してくれてありがとね！
 msgctxt "Portrait028-16_Kyoko"
 msgid "Also, thanks for stopping your brother."
 msgstr "И спасибо за то, что остановила своего брата."
@@ -38740,7 +38741,7 @@ msgid ""
 "Alright, lady. You hacked our phones and made us look like idiots to all our "
 "fans!"
 msgstr ""
-"Ну ладно, дамочка. Ты взломала наши телефоны и выставила нас перед нашими "
+"Ну ладно, чувиха. Ты взломала наши телефоны и выставила нас перед нашими "
 "поклонниками настоящими идиотами!"
 
 #. てめぇ、よくもオレらのスマホをハッキングしたな！
